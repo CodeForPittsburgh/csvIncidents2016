@@ -1,0 +1,134 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16000736,3304,Criminal Mischief.,01/02/2016,02:40,500 block Chester Ave,Perry South,1,,
+OFFENSE 2.0,16000769,3304,Criminal Mischief.,01/02/2016,05:00,1200 block Island Ave,California-Kirkbride,1,,
+OFFENSE 2.0,16000795,3934,Theft from Vehicle,01/02/2016,08:00,3000 block Stayton St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16000961,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/02/2016,15:35,3500 block Elmhurst Ave,Brighton Heights,1,,
+OFFENSE 2.0,16000975,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/02/2016,16:06,3400 block Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,16000988,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/02/2016,16:20,200 block Federal St S,North Shore,1,,
+OFFENSE 2.0,16000988,3304,Criminal Mischief.,01/02/2016,16:20,200 block Federal St S,North Shore,1,,
+OFFENSE 2.0,16000988,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/02/2016,16:20,200 block Federal St S,North Shore,1,,
+OFFENSE 2.0,16000988,2701,Simple Assault.,01/02/2016,16:20,200 block Federal St S,North Shore,1,,
+ARREST,16001012,5902(a)(2),Prostitution - Loitering for purpose of,01/02/2016,17:05,Middle St & Suismon St,East Allegheny,1,29,F
+OFFENSE 2.0,16001012,13(a)(16),Possession of Controlled Substance,01/02/2016,17:05,Middle St & Suismon St,East Allegheny,1,,
+ARREST,16001012,13(a)(16),Possession of Controlled Substance,01/02/2016,17:05,Middle St & Suismon St,East Allegheny,1,29,F
+OFFENSE 2.0,16001012,9501,Bench Warrant,01/02/2016,17:05,Middle St & Suismon St,East Allegheny,1,,
+OFFENSE 2.0,16001012,5902(a)(2),Prostitution - Loitering for purpose of,01/02/2016,17:05,Middle St & Suismon St,East Allegheny,1,,
+OFFENSE 2.0,16001012,5902(a)(1),Prostitution ,01/02/2016,17:05,Middle St & Suismon St,East Allegheny,1,,
+ARREST,16001012,5902(a)(1),Prostitution ,01/02/2016,17:05,Middle St & Suismon St,East Allegheny,1,29,F
+ARREST,16001012,9501,Bench Warrant,01/02/2016,17:05,Middle St & Suismon St,East Allegheny,1,29,F
+OFFENSE 2.0,16001097,2702,Aggravated Assault.,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,3323,Stop Signs and Yield Signs.,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,3714,Careless Driving,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,3733,Fleeing or Attempting to Elude Police Officer,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,5126,Flight to Avoid Apprehension  Trial or Punishment.,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,1543,Driving While Operating Privilege is Suspended or Revoked.,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,5104,Resisting Arrest or Other Law Enforcement.,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,3925,Receiving Stolen Property.,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,3921,Theft by Unlawful Taking or Disposition.,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,13(a)(32),Paraphernalia - Use or Possession,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001097,5121,Escape.,01/02/2016,21:00,1100 block Buente St,Spring Hill-City View,1,,
+ARREST,15205135,3921,Theft by Unlawful Taking or Disposition.,01/02/2016,21:07,1100 block High St,Spring Garden,1,35,M
+ARREST,16001097,5126,Flight to Avoid Apprehension  Trial or Punishment.,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,5121,Escape.,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,5104,Resisting Arrest or Other Law Enforcement.,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,3925,Receiving Stolen Property.,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,3921,Theft by Unlawful Taking or Disposition.,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,3733,Fleeing or Attempting to Elude Police Officer,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,3714,Careless Driving,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,15205135,3925,Receiving Stolen Property.,01/02/2016,21:07,1100 block High St,Spring Garden,1,35,M
+ARREST,16001097,2702,Aggravated Assault.,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,1543,Driving While Operating Privilege is Suspended or Revoked.,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,13(a)(32),Paraphernalia - Use or Possession,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+ARREST,16001097,3323,Stop Signs and Yield Signs.,01/02/2016,21:07,1100 block Buente St,Spring Hill-City View,1,35,M
+OFFENSE 2.0,16000762,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/02/2016,04:00,1700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,16000825,4106,Access Device Fraud,01/02/2016,10:30,200 block 57th St,Upper Lawrenceville,2,,
+ARREST,15242264,2709(b),Stalking,01/02/2016,17:30,600 block 1st Ave,Bloomfield,2,33,M
+ARREST,15242264,2709(a),Harassment.,01/02/2016,17:30,600 block 1st Ave,Bloomfield,2,33,M
+ARREST,15237007,2702,Aggravated Assault.,01/02/2016,20:45,600 block 1st Ave,Golden Triangle/Civic Arena,2,25,M
+ARREST,15237007,5101,Obstructing Admin. of Law ,01/02/2016,20:45,600 block 1st Ave,Golden Triangle/Civic Arena,2,25,M
+OFFENSE 2.0,16001134,2702,Aggravated Assault.,01/02/2016,21:55,300 block Harmar St,Polish Hill,2,,
+OFFENSE 2.0,16001134,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/02/2016,21:55,300 block Harmar St,Polish Hill,2,,
+OFFENSE 2.0,16000264,9122,Miscellaneous Fire Vehicle Investigation to Continue,01/02/2016,01:00,300 block Edith St,Duquesne Heights,3,,
+OFFENSE 2.0,16000715,9999,9999 - (Misc. Incident): shots fired,01/02/2016,01:56,300 block Arabella St,Knoxville,3,,
+OFFENSE 2.0,16000719,2709,Harassment (Non-Specific),01/02/2016,02:00,Monastery St,South Side Slopes,3,,
+OFFENSE 2.0,16000798,3934,Theft from Vehicle,01/02/2016,08:38,Piermont St & Oneida St,Duquesne Heights,3,,
+OFFENSE 2.0,16000799,9488,False  Burglar Alarm,01/02/2016,08:48,400 block Reifert St,Knoxville,3,,
+OFFENSE 2.0,16000817,3502,Burglary.,01/02/2016,09:58,2400 block Spring St,Arlington,3,,
+OFFENSE 2.0,16000996,9999,9999 - (Misc. Incident): ,01/02/2016,14:20,Soffel St,Mount Washington,3,,
+OFFENSE 2.0,16000960,3934,Theft from Vehicle,01/02/2016,15:34,1500 block Eleanor St,South Side Slopes,3,,
+OFFENSE 2.0,16000967,9093,Indirect Criminal Contempt,01/02/2016,15:50,2200 block S 18th St,South Side Slopes,3,,
+OFFENSE 2.0,16000969,3934,Theft from Vehicle,01/02/2016,15:55,1500 block Eleanor St,South Side Slopes,3,,
+OFFENSE 2.0,16001124,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/02/2016,16:00,100 block Gaskel St,Mount Washington,3,,
+ARREST,16000967,9093,Indirect Criminal Contempt,01/02/2016,16:11,2200 block S 18th St,South Side Slopes,3,57,M
+ARREST,16000984,5503,Disorderly Conduct.,01/02/2016,16:49,200 block Tarragonna St,Bon Air,3,33,F
+ARREST,16000984,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/02/2016,16:49,200 block Tarragonna St,Bon Air,3,33,F
+ARREST,16000984,2709(a)(3),Harassment No Legitimate Purpose,01/02/2016,16:49,200 block Tarragonna St,Bon Air,3,33,F
+ARREST,16000984,2706,Terroristic Threats.,01/02/2016,16:49,200 block Tarragonna St,Bon Air,3,33,F
+ARREST,16000984,5104,Resisting Arrest or Other Law Enforcement.,01/02/2016,16:49,200 block Tarragonna St,Bon Air,3,33,F
+OFFENSE 2.0,16000984,2709(a)(3),Harassment No Legitimate Purpose,01/02/2016,16:50,200 block Tarragonna St,Bon Air,3,,
+OFFENSE 2.0,16000984,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/02/2016,16:50,200 block Tarragonna St,Bon Air,3,,
+OFFENSE 2.0,16000984,5104,Resisting Arrest or Other Law Enforcement.,01/02/2016,16:50,200 block Tarragonna St,Bon Air,3,,
+OFFENSE 2.0,16000984,5503,Disorderly Conduct.,01/02/2016,16:50,200 block Tarragonna St,Bon Air,3,,
+OFFENSE 2.0,16000984,2706,Terroristic Threats.,01/02/2016,16:50,200 block Tarragonna St,Bon Air,3,,
+OFFENSE 2.0,16001014,2706,Terroristic Threats.,01/02/2016,16:53,E Warrington Ave & Allen St,Allentown,3,,
+OFFENSE 2.0,16001014,5123,Contraband.,01/02/2016,16:53,E Warrington Ave & Allen St,Allentown,3,,
+OFFENSE 2.0,16001014,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,01/02/2016,16:53,E Warrington Ave & Allen St,Allentown,3,,
+OFFENSE 2.0,16001014,5505,Public Drunkenness,01/02/2016,16:53,E Warrington Ave & Allen St,Allentown,3,,
+ARREST,16001014,5123,Contraband.,01/02/2016,17:01,E Warrington Ave & Allen St,Allentown,3,33,F
+ARREST,16001014,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,01/02/2016,17:01,E Warrington Ave & Allen St,Allentown,3,33,F
+ARREST,16001014,5505,Public Drunkenness,01/02/2016,17:01,E Warrington Ave & Allen St,Allentown,3,33,F
+ARREST,16001014,2706,Terroristic Threats.,01/02/2016,17:01,E Warrington Ave & Allen St,Allentown,3,33,F
+OFFENSE 2.0,16001023,9999,9999 - (Misc. Incident): ,01/02/2016,17:28,Virginia Ave & Bertha St,Mount Washington,3,,
+OFFENSE 2.0,16001037,9496,Dead on Arrival (DOA),01/02/2016,18:05,700 block Kuhn St,Mount Washington,3,,
+ARREST,16001058,9501,Bench Warrant,01/02/2016,18:40,Hot metal St,South Side Flats,3,32,
+OFFENSE 2.0,16001058,9501,Bench Warrant,01/02/2016,18:40,Hot metal St,South Side Flats,3,,
+OFFENSE 2.0,16001084,3701,Robbery.,01/02/2016,20:00,S 21st St & Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16001101,9489,Found Property,01/02/2016,21:00,S 10th St,South Side Flats,3,,
+OFFENSE 2.0,16000701,3701,Robbery.,01/02/2016,01:10,4000 block Beechwood Blvd,Greenfield,4,,
+OFFENSE 2.0,16000779,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/02/2016,07:07,2000 block 5th Ave,West Oakland,4,,
+OFFENSE 2.0,16000787,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),01/02/2016,07:30,3300 block Dawson St,South Oakland,4,,
+OFFENSE 2.0,16000814,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/02/2016,08:30,700 block Bellefonte St,Shadyside,4,,
+OFFENSE 2.0,16000853,9498,302 (Mental),01/02/2016,11:04,300 block Lawn St,South Oakland,4,,
+OFFENSE 2.0,16000952,9999,9999 - (Misc. Incident): ,01/02/2016,15:00,100 block Penfield Ct,Point Breeze North,4,,
+OFFENSE 2.0,16000949,13(a)(16),Possession of Controlled Substance,01/02/2016,15:02,5200 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16000949,907,Possessing Instruments of Crime.,01/02/2016,15:02,5200 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16000949,5902(a)(1),Prostitution ,01/02/2016,15:02,5200 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16000949,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/02/2016,15:02,5200 block 2nd Ave,Hazelwood,4,,
+ARREST,16000949,907,Possessing Instruments of Crime.,01/02/2016,15:07,5200 block 2nd Ave,Hazelwood,4,28,F
+ARREST,16000949,5902(a)(1),Prostitution ,01/02/2016,15:07,5200 block 2nd Ave,Hazelwood,4,28,F
+ARREST,16000949,13(a)(16),Possession of Controlled Substance,01/02/2016,15:07,5200 block 2nd Ave,Hazelwood,4,28,F
+ARREST,16000949,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/02/2016,15:07,5200 block 2nd Ave,Hazelwood,4,28,F
+OFFENSE 2.0,16000759,029,Missing Juvenile,01/02/2016,04:08,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,16000767,029,Missing Juvenile,01/02/2016,04:08,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,16000829,3304,Criminal Mischief.,01/02/2016,10:21,6900 block Frankstown Ave,Homewood West,5,,
+OFFENSE 2.0,16000861,3929,Retail Theft.,01/02/2016,10:47,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16000942,3929,Retail Theft.,01/02/2016,14:40,400 block N Highland Ave,East Liberty,5,,
+ARREST,16000942,3929,Retail Theft.,01/02/2016,15:00,400 block N Highland Ave,East Liberty,5,27,M
+OFFENSE 2.0,16000958,2702,Aggravated Assault.,01/02/2016,15:00,Liberty Ave & Ella St,Bloomfield,5,,
+OFFENSE 2.0,16000958,2706,Terroristic Threats.,01/02/2016,15:00,Liberty Ave & Ella St,Bloomfield,5,,
+OFFENSE 2.0,16000958,2701,Simple Assault.,01/02/2016,15:00,Liberty Ave & Ella St,Bloomfield,5,,
+ARREST,16000950,2701,Simple Assault.,01/02/2016,15:20,5600 block Baum Blvd,Friendship,5,60,M
+OFFENSE 2.0,16000950,5505,Public Drunkenness,01/02/2016,15:20,5600 block Baum Blvd,Friendship,5,,
+OFFENSE 2.0,16000950,5503,Disorderly Conduct.,01/02/2016,15:20,5600 block Baum Blvd,Friendship,5,,
+OFFENSE 2.0,16000950,2701,Simple Assault.,01/02/2016,15:20,5600 block Baum Blvd,Friendship,5,,
+ARREST,16000950,5505,Public Drunkenness,01/02/2016,15:20,5600 block Baum Blvd,Friendship,5,60,M
+ARREST,16000950,5503,Disorderly Conduct.,01/02/2016,15:20,5600 block Baum Blvd,Friendship,5,60,M
+OFFENSE 2.0,16000721,2701,Simple Assault.,01/02/2016,02:14,700 block lorenz Ave,Elliott,6,,
+OFFENSE 2.0,16000721,3736,Reckless Driving,01/02/2016,02:14,700 block lorenz Ave,Elliott,6,,
+OFFENSE 2.0,16000721,2705,Recklessly Endangering Another Person.,01/02/2016,02:14,700 block lorenz Ave,Elliott,6,,
+OFFENSE 2.0,16000805,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/02/2016,09:20,800 block Bayonne Ave,Beechview,6,,
+OFFENSE 2.0,16000805,2706,Terroristic Threats.,01/02/2016,09:20,800 block Bayonne Ave,Beechview,6,,
+ARREST,16000805,2706,Terroristic Threats.,01/02/2016,10:30,800 block Bayonne Ave,Beechview,6,30,M
+ARREST,16000805,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/02/2016,10:30,800 block Bayonne Ave,Beechview,6,30,M
+OFFENSE 2.0,16000868,4120,Identity Theft,01/02/2016,11:00,2400 block Glenarm Ave,Brookline,6,,
+OFFENSE 2.0,16000885,3934,Theft from Vehicle,01/02/2016,12:00,1600 block Dagmar Ave,Beechview,6,,
+OFFENSE 2.0,16000899,9495,Suicide,01/02/2016,13:13,Banksville Rd Ramp & Saw Mill Run Blvd,West End,6,,
+OFFENSE 2.0,16000963,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/02/2016,15:40,1800 block Realty Ave,Beechview,6,,
+ARREST,15242980,2702,Aggravated Assault.,01/02/2016,18:40,1500 block Crucible St,Crafton Heights,6,32,M
+ARREST,15242980,907,Possessing Instruments of Crime.,01/02/2016,18:40,1500 block Crucible St,Crafton Heights,6,32,M
+ARREST,15242980,3502,Burglary.,01/02/2016,18:40,1500 block Crucible St,Crafton Heights,6,32,M
+ARREST,15242980,2706,Terroristic Threats.,01/02/2016,18:40,1500 block Crucible St,Crafton Heights,6,32,M
+ARREST,15242980,2705,Recklessly Endangering Another Person.,01/02/2016,18:40,1500 block Crucible St,Crafton Heights,6,32,M
+ARREST,16001059,13(a)(32),Paraphernalia - Use or Possession,01/02/2016,18:55,1300 block Jeffers St,Sheraden,6,32,F
+OFFENSE 2.0,16001059,13(a)(32),Paraphernalia - Use or Possession,01/02/2016,18:55,1300 block Jeffers St,Sheraden,6,,
+OFFENSE 2.0,16001144,3304,Criminal Mischief.,01/02/2016,22:46,3000 block Zephyr Ave,Sheraden,6,,
