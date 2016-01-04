@@ -1,0 +1,105 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+ARREST,16001212,5104,Resisting Arrest or Other Law Enforcement.,01/03/2016,01:40,300 block Lafayette Ave,Fineview,1,57,F
+OFFENSE 2.0,16001212,5104,Resisting Arrest or Other Law Enforcement.,01/03/2016,01:40,300 block Lafayette Ave,Fineview,1,,
+OFFENSE 2.0,16001212,2702,Aggravated Assault.,01/03/2016,01:40,300 block Lafayette Ave,Fineview,1,,
+OFFENSE 2.0,16001212,2701,Simple Assault.,01/03/2016,01:40,300 block Lafayette Ave,Fineview,1,,
+ARREST,16001212,2701,Simple Assault.,01/03/2016,01:40,300 block Lafayette Ave,Fineview,1,57,F
+ARREST,16001212,2702,Aggravated Assault.,01/03/2016,01:40,300 block Lafayette Ave,Fineview,1,57,F
+OFFENSE 2.0,16001287,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/03/2016,03:30,1500 block Rhine St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001312,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/03/2016,04:15,1500 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,16001312,901,Criminal Attempt,01/03/2016,04:15,1500 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,16001353,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/03/2016,08:40,1500 block Rhine St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001492,3304,Criminal Mischief.,01/03/2016,16:00,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,16001486,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/03/2016,16:00,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,16001497,9999,9999 - (Misc. Incident): Drug Investigation,01/03/2016,16:15,2100 block Rhine St,Spring Hill-City View,1,,
+OFFENSE 2.0,16001520,13(a)(16),Possession of Controlled Substance,01/03/2016,16:55,100 block Marshall Ave,Perry North,1,,
+OFFENSE 2.0,16001520,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/03/2016,16:55,100 block Marshall Ave,Perry North,1,,
+OFFENSE 2.0,16001520,5104,Resisting Arrest or Other Law Enforcement.,01/03/2016,16:55,100 block Marshall Ave,Perry North,1,,
+OFFENSE 2.0,16001520,3323,Stop Signs and Yield Signs.,01/03/2016,16:55,100 block Marshall Ave,Perry North,1,,
+ARREST,16001520,5104,Resisting Arrest or Other Law Enforcement.,01/03/2016,17:07,100 block Marshall Ave,Perry North,1,25,M
+ARREST,16001520,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/03/2016,17:07,100 block Marshall Ave,Perry North,1,25,M
+ARREST,16001520,13(a)(16),Possession of Controlled Substance,01/03/2016,17:07,100 block Marshall Ave,Perry North,1,25,M
+ARREST,16001520,3323,Stop Signs and Yield Signs.,01/03/2016,17:07,100 block Marshall Ave,Perry North,1,25,M
+OFFENSE 2.0,16001499,3928,Unauthorized Use of Automobile and Other Vehicles.,01/03/2016,17:16,3200 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16001571,3502,Burglary.,01/03/2016,18:40,400 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16001590,9999,9999 - (Misc. Incident): ,01/03/2016,19:20,100 block Rhine Pl,Bluff,1,,
+OFFENSE 2.0,16001294,9497,Aided Case,01/03/2016,00:14,900 block Watson St,Bluff,2,,
+OFFENSE 2.0,16001180,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/03/2016,00:27,2100 block Rose St & Elmore St,Middle Hill,2,,
+OFFENSE 2.0,16001217,2705,Recklessly Endangering Another Person.,01/03/2016,02:25,26th St & Penn Ave,Strip District,2,,
+OFFENSE 2.0,16001217,2706,Terroristic Threats.,01/03/2016,02:25,26th St & Penn Ave,Strip District,2,,
+OFFENSE 2.0,16001217,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/03/2016,02:25,26th St & Penn Ave,Strip District,2,,
+OFFENSE 2.0,16001346,9498,302 (Mental),01/03/2016,07:50,300 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16001578,3934,Theft from Vehicle,01/03/2016,12:00,Liberty Ave & 10th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16001523,907,Possessing Instruments of Crime.,01/03/2016,17:01,Smithfield St & 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16001523,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/03/2016,17:01,Smithfield St & 5th Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16001523,907,Possessing Instruments of Crime.,01/03/2016,17:20,Smithfield St & 5th Ave,Golden Triangle/Civic Arena,2,23,M
+ARREST,16001523,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/03/2016,17:20,Smithfield St & 5th Ave,Golden Triangle/Civic Arena,2,23,M
+OFFENSE 2.0,16001562,9123,Miscellaneous Fire Other Investigation to Continue,01/03/2016,18:05,Bigelow Sq,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16001635,3921,Theft by Unlawful Taking or Disposition.,01/03/2016,21:17,2000 block Reed St,Middle Hill,2,,
+OFFENSE 2.0,16001580,2702,Aggravated Assault.,01/03/2016,01:00,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16001203,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/03/2016,01:15,2500 block Leticoe St,South Side Slopes,3,,
+OFFENSE 2.0,16001220,5121,Escape.,01/03/2016,01:42,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16001220,2706,Terroristic Threats.,01/03/2016,01:42,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16001220,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,01/03/2016,01:42,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16001220,5505,Public Drunkenness,01/03/2016,01:42,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16001174,601.16,Public Urination And Defecation,01/03/2016,01:44,S 15th St & E Carson St,South Side Flats,3,,
+ARREST,16001220,5505,Public Drunkenness,01/03/2016,01:46,1500 block E Carson St,South Side Flats,3,23,M
+ARREST,16001220,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,01/03/2016,01:46,1500 block E Carson St,South Side Flats,3,23,M
+ARREST,16001220,2706,Terroristic Threats.,01/03/2016,01:46,1500 block E Carson St,South Side Flats,3,23,M
+ARREST,16001220,3733,Fleeing or Attempting to Elude Police Officer,01/03/2016,01:46,1500 block E Carson St,South Side Flats,3,23,M
+OFFENSE 2.0,16001226,9093,Indirect Criminal Contempt,01/03/2016,01:54,Sarah St & S 13th St,South Side Flats,3,,
+OFFENSE 2.0,16001226,3304,Criminal Mischief.,01/03/2016,01:54,Sarah St & S 13th St,South Side Flats,3,,
+OFFENSE 2.0,16001230,2701,Simple Assault.,01/03/2016,01:57,1500 block E Carson St,South Side Flats,3,,
+ARREST,16001226,3304,Criminal Mischief.,01/03/2016,02:05,Sarah St & S 13th St,South Side Flats,3,27,M
+ARREST,16001226,9093,Indirect Criminal Contempt,01/03/2016,02:05,Sarah St & S 13th St,South Side Flats,3,27,M
+OFFENSE 2.0,16000127,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/03/2016,02:50,1900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16001283,2702,Aggravated Assault.,01/03/2016,03:11,2000 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16001347,3503(a),Criminal Trespass,01/03/2016,08:05,800 block Saw Mill Run Blvd,Bon Air,3,,
+OFFENSE 2.0,16001347,3921,Theft by Unlawful Taking or Disposition.,01/03/2016,08:05,800 block Saw Mill Run Blvd,Bon Air,3,,
+OFFENSE 2.0,16001347,3304,Criminal Mischief.,01/03/2016,08:05,800 block Saw Mill Run Blvd,Bon Air,3,,
+ARREST,16001347,3921,Theft by Unlawful Taking or Disposition.,01/03/2016,08:25,800 block Saw Mill Run Blvd,Bon Air,3,41,M
+ARREST,16001347,3304,Criminal Mischief.,01/03/2016,08:25,800 block Saw Mill Run Blvd,Bon Air,3,41,M
+ARREST,16001347,3503(a),Criminal Trespass,01/03/2016,08:25,800 block Saw Mill Run Blvd,Bon Air,3,41,M
+OFFENSE 2.0,16001478,9999,9999 - (Misc. Incident): ,01/03/2016,15:35,Library Rd & Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,16001516,3304,Criminal Mischief.,01/03/2016,16:40,S 15th St,South Side Flats,3,,
+OFFENSE 2.0,16001626,9999,9999 - (Misc. Incident): ,01/03/2016,21:05,Sylvania Ave & Taft Ave,Beltzhoover,3,,
+OFFENSE 2.0,16001660,3502,Burglary.,01/03/2016,22:30,200 block Albert St,Mount Washington,3,,
+OFFENSE 2.0,16001662,3921,Theft by Unlawful Taking or Disposition.,01/03/2016,22:58,1100 block Amanda St,Carrick,3,,
+OFFENSE 2.0,16001416,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/03/2016,10:00,200 block East End Ave,Point Breeze,4,,
+OFFENSE 2.0,16001581,3304,Criminal Mischief.,01/03/2016,18:00,200 block Le Roi Rd,Point Breeze,4,,
+OFFENSE 2.0,16001560,2701,Simple Assault.,01/03/2016,18:10,200 block Trowbridge St,Hazelwood,4,,
+OFFENSE 2.0,16001572,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/03/2016,18:52,200 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16001572,3304,Criminal Mischief.,01/03/2016,18:52,200 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16001572,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,01/03/2016,18:52,200 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16001601,3502,Burglary.,01/03/2016,19:30,300 block Mc Kee Pl,Central Oakland,4,,
+OFFENSE 2.0,16001215,2701,Simple Assault.,01/03/2016,02:10,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,16001215,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),01/03/2016,02:10,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,16001215,6106,Firearms not to be Carried without a License.,01/03/2016,02:10,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,16001215,9501,Bench Warrant,01/03/2016,02:10,2100 block Park Hill Dr,East Hills,5,,
+ARREST,16001215,2701,Simple Assault.,01/03/2016,03:28,2100 block Park Hill Dr,East Hills,5,19,M
+ARREST,16001215,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),01/03/2016,03:28,2100 block Park Hill Dr,East Hills,5,19,M
+ARREST,16001215,6106,Firearms not to be Carried without a License.,01/03/2016,03:28,2100 block Park Hill Dr,East Hills,5,19,M
+ARREST,16001215,9501,Bench Warrant,01/03/2016,03:28,2100 block Park Hill Dr,East Hills,5,19,M
+OFFENSE 2.0,16001340,9093,Indirect Criminal Contempt,01/03/2016,07:10,500 block Paulson Ave,Larimer,5,,
+ARREST,16001340,9093,Indirect Criminal Contempt,01/03/2016,07:10,500 block Paulson Ave,Larimer,5,18,M
+OFFENSE 2.0,16001433,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/03/2016,13:20,7900 block Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,16001463,2701,Simple Assault.,01/03/2016,14:30,2200 block Wilner Dr,East Hills,5,,
+ARREST,15212966,4106,Access Device Fraud,01/03/2016,16:00,800 block Farragut St,Highland Park,5,27,F
+OFFENSE 2.0,16001621,029,Missing Juvenile,01/03/2016,20:39,2300 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,16001275,029,Missing Juvenile,01/03/2016,02:00,600 block Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,16001127,9488,False  Burglar Alarm,01/03/2016,02:35,1800 block West Liberty Ave,Brookline,6,,
+OFFENSE 2.0,16001262,9488,False  Burglar Alarm,01/03/2016,02:40,1000 block Chartiers Ave,Elliott,6,,
+OFFENSE 2.0,16001309,3502,Burglary.,01/03/2016,03:50,900 block Berkshire Ave,Brookline,6,,
+OFFENSE 2.0,16001301,1515,Notice of Change of Name or Address.,01/03/2016,03:53,West Liberty Ave & Wenzell Ave,Beechview,6,,
+OFFENSE 2.0,16001301,4107(b)(2),Vehicle Equipment Standards,01/03/2016,03:53,West Liberty Ave & Wenzell Ave,Beechview,6,,
+OFFENSE 2.0,16001301,3802(a)(1),DUI - General Impairment,01/03/2016,03:53,West Liberty Ave & Wenzell Ave,Beechview,6,,
+ARREST,16001301,3802(a)(1),DUI - General Impairment,01/03/2016,04:10,West Liberty Ave & Wenzell Ave,Beechview,6,28,F
+ARREST,16001301,1515,Notice of Change of Name or Address.,01/03/2016,04:10,West Liberty Ave & Wenzell Ave,Beechview,6,28,F
+ARREST,16001301,4107(b)(2),Vehicle Equipment Standards,01/03/2016,04:10,West Liberty Ave & Wenzell Ave,Beechview,6,28,F
+OFFENSE 2.0,16001538,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/03/2016,08:00,1200 block Merrick Ave,Brookline,6,,
+OFFENSE 2.0,16001408,1333,Lost  Stolen  Damaged or Illegible Registration Plate.,01/03/2016,12:00,100 block Uvilla St,Elliott,6,,
+OFFENSE 2.0,16001408,3921,Theft by Unlawful Taking or Disposition.,01/03/2016,12:00,100 block Uvilla St,Elliott,6,,
+OFFENSE 2.0,16001511,9488,False  Burglar Alarm,01/03/2016,16:50,2500 block Baldwick Rd,Oakwood,6,,
+OFFENSE 2.0,16001563,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/03/2016,18:05,1300 block Alton St,Beechview,6,,
+OFFENSE 2.0,15248776,029,Missing Juvenile,01/03/2016,20:18,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,16001402,9094,Recovered Stolen Vehicle (OUTSIDE CITY),01/03/2016,11:40,500 block Berner St,Outside City,OSC,,
