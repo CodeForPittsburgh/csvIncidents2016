@@ -1,0 +1,159 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16004193,9488,False  Burglar Alarm,01/08/2016,01:03,1200 block Liverpool St,Manchester,1,,
+OFFENSE 2.0,16004202,9497,Aided Case,01/08/2016,01:26,1500 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,16004691,9999,9999 - (Misc. Incident): UNLOCKED SECOND FLOOR WINDOW,01/08/2016,02:00,600 block AVERY St,East Allegheny,1,,
+OFFENSE 2.0,16004335,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/08/2016,08:40,800 block Pennsylvania Ave,California-Kirkbride,1,,
+OFFENSE 2.0,16004335,3929,Retail Theft.,01/08/2016,08:40,800 block Pennsylvania Ave,California-Kirkbride,1,,
+OFFENSE 2.0,16004398,9489,Found Property,01/08/2016,11:17,1200 block Reddour St,Central Northside,1,,
+ARREST,15190402,4915,Failure to Comply with Megans Law,01/08/2016,11:31,2100 block Lidertafel Way,Golden Triangle/Civic Arena,1,49,M
+OFFENSE 2.0,16004497,9999,9999 - (Misc. Incident): ,01/08/2016,14:30,1200 block Western Ave,Chateau,1,,
+OFFENSE 2.0,16004505,9496,Dead on Arrival (DOA),01/08/2016,14:44,Allegheny Sq E,Allegheny Center,1,,
+OFFENSE 2.0,16004535,9497,Aided Case,01/08/2016,15:57,1500 block Garfield Ave,Central Northside,1,,
+OFFENSE 2.0,16004546,3304,Criminal Mischief.,01/08/2016,16:00,Howard St & E North Ave,Fineview,1,,
+OFFENSE 2.0,16004546,3934,Theft from Vehicle,01/08/2016,16:00,Howard St & E North Ave,Fineview,1,,
+OFFENSE 2.0,16004584,9501,Bench Warrant,01/08/2016,16:10,1500 block Brighton Rd,California-Kirkbride,1,,
+ARREST,16004584,9501,Bench Warrant,01/08/2016,16:10,1500 block Brighton Rd,California-Kirkbride,1,36,M
+OFFENSE 2.0,16004612,029,Missing Juvenile,01/08/2016,17:58,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16004644,029,Missing Juvenile,01/08/2016,18:00,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16004687,3304,Criminal Mischief.,01/08/2016,19:20,700 block Casino Dr,Chateau,1,,
+OFFENSE 2.0,16004706,029,Missing Juvenile,01/08/2016,20:23,800 block Lovitt Way,East Allegheny,1,,
+ARREST,15236325,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/08/2016,00:10,2000 block Penn Ave,Strip District,2,30,M
+ARREST,15236325,3925,Receiving Stolen Property.,01/08/2016,00:10,2000 block Penn Ave,Strip District,2,30,M
+OFFENSE 2.0,16004287,3502,Burglary.,01/08/2016,00:57,2800 block Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16004245,2702,Aggravated Assault.,01/08/2016,02:41,Fifth Ave & Wynadotte St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16004552,3921,Theft by Unlawful Taking or Disposition.,01/08/2016,06:12,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15245553,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/08/2016,07:00,600 block 1St Ave,Golden Triangle/Civic Arena,2,52,M
+ARREST,15245553,4304(a)(1),Endangering Welfare of Children.,01/08/2016,07:00,600 block 1St Ave,Golden Triangle/Civic Arena,2,52,M
+OFFENSE 2.0,16004318,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/08/2016,08:15,2000 block Webster Ave,Middle Hill,2,,
+OFFENSE 2.0,16004393,9501,Bench Warrant,01/08/2016,10:15,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16004393,9501,Bench Warrant,01/08/2016,10:30,900 block Penn Ave,Golden Triangle/Civic Arena,2,67,M
+OFFENSE 2.0,16004526,2709(a)(3),Harassment No Legitimate Purpose,01/08/2016,15:00,1400 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16004572,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/08/2016,16:25,Dinwiddie St & Reed St,Crawford-Roberts,2,,
+ARREST,15225449,2702,Aggravated Assault.,01/08/2016,17:30,1400 block 5th Ave,Golden Triangle/Civic Arena,2,31,F
+ARREST,15225449,5503,Disorderly Conduct.,01/08/2016,17:30,1400 block 5th Ave,Golden Triangle/Civic Arena,2,31,F
+OFFENSE 2.0,16004583,3743,Accidents Involving Damage to Attended Veh. or Property,01/08/2016,17:30,Liberty Ave & 25th St,Strip District,2,,
+OFFENSE 2.0,16004681,9490,Missing Persons (18 and Over),01/08/2016,19:40,Fort Duquesne Blvd & Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16004702,4914,False Identification to Law Enforcement Authorities,01/08/2016,20:20,4th Ave & Delray St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16004702,5901,Open Lewdness.,01/08/2016,20:20,4th Ave & Delray St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16004702,601.16,Public Urination And Defecation,01/08/2016,20:20,4th Ave & Delray St,Golden Triangle/Civic Arena,2,,
+ARREST,16004702,4914,False Identification to Law Enforcement Authorities,01/08/2016,20:20,4th Ave & Delray St,Golden Triangle/Civic Arena,2,,M
+ARREST,16004702,5901,Open Lewdness.,01/08/2016,20:20,4th Ave & Delray St,Golden Triangle/Civic Arena,2,,M
+ARREST,16004702,601.16,Public Urination And Defecation,01/08/2016,20:20,4th Ave & Delray St,Golden Triangle/Civic Arena,2,,M
+OFFENSE 2.0,16004253,2701,Simple Assault.,01/08/2016,03:00,Knox Ave,Knoxville,3,,
+OFFENSE 2.0,16004316,3304,Criminal Mischief.,01/08/2016,06:00,300 block Sweetbriar St,Duquesne Heights,3,,
+OFFENSE 2.0,16004304,3503,Criminal Trespass,01/08/2016,06:30,2300 block Arlington Ave,South Side Slopes,3,,
+OFFENSE 2.0,16004304,3304,Criminal Mischief.,01/08/2016,06:30,2300 block Arlington Ave,South Side Slopes,3,,
+OFFENSE 2.0,16004392,9124,Drug Investigation,01/08/2016,07:00,800 block E warrington Ave,Allentown,3,,
+OFFENSE 2.0,16004353,3934,Theft from Vehicle,01/08/2016,08:00,2300 block S 18th St,South Side Slopes,3,,
+OFFENSE 2.0,16004435,3934,Theft from Vehicle,01/08/2016,08:00,S 22nd St & Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16004373,9999,9999 - (Misc. Incident): ,01/08/2016,08:25,P J Mc Ardle Rdwy & Liberty Brg,South Side Slopes,3,,
+OFFENSE 2.0,16004358,3934,Theft from Vehicle,01/08/2016,09:25,300 block Suncrest St,Knoxville,3,,
+OFFENSE 2.0,16004397,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/08/2016,10:00,1100 block Grandview Ave,Mount Washington,3,,
+ARREST,15241811,2701,Simple Assault.,01/08/2016,13:45,2800 block Mary St,Bluff,3,22,M
+OFFENSE 2.0,16004508,3743,Accidents Involving Damage to Attended Veh. or Property,01/08/2016,15:20,2300 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16004511,2701,Simple Assault.,01/08/2016,15:22,Windfall Way,Carrick,3,,
+OFFENSE 2.0,16004498,9999,9999 - (Misc. Incident): Well Being Check,01/08/2016,15:30,300 block Conniston Ave,Bon Air,3,,
+ARREST,16004511,2701,Simple Assault.,01/08/2016,16:44,Windfall Way,Carrick,3,19,M
+OFFENSE 2.0,14076689,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,01/08/2016,17:00,Station Square Dr E,South Shore,3,,
+ARREST,14076689,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/08/2016,17:00,Station Square Dr E,South Shore,3,35,F
+ARREST,14076689,3802(a)(1),DUI - General Impairment,01/08/2016,17:00,Station Square Dr E,South Shore,3,35,F
+ARREST,14076689,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,01/08/2016,17:00,Station Square Dr E,South Shore,3,35,F
+OFFENSE 2.0,14076689,3802(a)(1),DUI - General Impairment,01/08/2016,17:00,Station Square Dr E,South Shore,3,,
+OFFENSE 2.0,14076689,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/08/2016,17:00,Station Square Dr E,South Shore,3,,
+OFFENSE 2.0,16004663,9498,302 (Mental),01/08/2016,17:52,300 block S 9th St,South Side Flats,3,,
+OFFENSE 2.0,16004622,4303,General Lighting Requirements.,01/08/2016,18:13,Brownsville Rd & Alice St,Knoxville,3,,
+OFFENSE 2.0,16004622,1543,Driving While Operating Privilege is Suspended or Revoked.,01/08/2016,18:13,Brownsville Rd & Alice St,Knoxville,3,,
+OFFENSE 2.0,16004622,13(a)(31),Marijuana: Possession Small Amount,01/08/2016,18:13,Brownsville Rd & Alice St,Knoxville,3,,
+OFFENSE 2.0,16004622,13(a)(32),Paraphernalia - Use or Possession,01/08/2016,18:13,Brownsville Rd & Alice St,Knoxville,3,,
+ARREST,16004622,4303,General Lighting Requirements.,01/08/2016,18:15,Brownsville Rd & Alice St,Knoxville,3,41,M
+ARREST,16004622,1543,Driving While Operating Privilege is Suspended or Revoked.,01/08/2016,18:15,Brownsville Rd & Alice St,Knoxville,3,41,M
+ARREST,16004622,13(a)(32),Paraphernalia - Use or Possession,01/08/2016,18:15,Brownsville Rd & Alice St,Knoxville,3,41,M
+ARREST,16004622,13(a)(31),Marijuana: Possession Small Amount,01/08/2016,18:15,Brownsville Rd & Alice St,Knoxville,3,41,M
+OFFENSE 2.0,16004690,3502,Burglary.,01/08/2016,19:20,900 block Manton Way,Allentown,3,,
+ARREST,16004674,13(a)(32),Paraphernalia - Use or Possession,01/08/2016,19:30,100 block Pius St,South Side Slopes,3,40,M
+OFFENSE 2.0,16004674,13(a)(16),Possession of Controlled Substance,01/08/2016,19:30,100 block Pius St,South Side Slopes,3,,
+OFFENSE 2.0,16004674,13(a)(32),Paraphernalia - Use or Possession,01/08/2016,19:30,100 block Pius St,South Side Slopes,3,,
+ARREST,16004674,13(a)(16),Possession of Controlled Substance,01/08/2016,19:30,100 block Pius St,South Side Slopes,3,40,M
+OFFENSE 2.0,16004697,13(a)(31),Marijuana: Possession Small Amount,01/08/2016,20:04,E Carson St & S 19th St,South Side Flats,3,,
+OFFENSE 2.0,16004697,1543,Driving While Operating Privilege is Suspended or Revoked.,01/08/2016,20:04,E Carson St & S 19th St,South Side Flats,3,,
+OFFENSE 2.0,16004697,5503,Disorderly Conduct.,01/08/2016,20:04,E Carson St & S 19th St,South Side Flats,3,,
+OFFENSE 2.0,16004697,3334,Turning Movements and Required Signals.,01/08/2016,20:04,E Carson St & S 19th St,South Side Flats,3,,
+ARREST,16004697,13(a)(31),Marijuana: Possession Small Amount,01/08/2016,20:06,E Carson St & S 19th St,South Side Flats,3,27,M
+ARREST,16004697,3334,Turning Movements and Required Signals.,01/08/2016,20:06,E Carson St & S 19th St,South Side Flats,3,27,M
+ARREST,16004697,1543,Driving While Operating Privilege is Suspended or Revoked.,01/08/2016,20:06,E Carson St & S 19th St,South Side Flats,3,27,M
+ARREST,16004697,5503,Disorderly Conduct.,01/08/2016,20:06,E Carson St & S 19th St,South Side Flats,3,27,M
+OFFENSE 2.0,16004531,9999,9999 - (Misc. Incident): ,01/08/2016,00:01,200 block N Dithridge St,North Oakland,4,,
+OFFENSE 2.0,16004354,3934,Theft from Vehicle,01/08/2016,00:01,500 block Courtland St,Hazelwood,4,,
+OFFENSE 2.0,16004354,3304,Criminal Mischief.,01/08/2016,00:01,500 block Courtland St,Hazelwood,4,,
+OFFENSE 2.0,16004216,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/08/2016,01:34,200 block Trowbridge St,Hazelwood,4,,
+OFFENSE 2.0,16004216,5505,Public Drunkenness,01/08/2016,01:34,200 block Trowbridge St,Hazelwood,4,,
+ARREST,16004216,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/08/2016,02:09,200 block Trowbridge St,Hazelwood,4,21,F
+ARREST,16004216,5505,Public Drunkenness,01/08/2016,02:09,200 block Trowbridge St,Hazelwood,4,21,F
+OFFENSE 2.0,16004259,619.18(a),Refuse Collection Times In Residential Zones Between 10PM and 6AM,01/08/2016,03:35,1000 block Murray Hill Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16004290,9496,Dead on Arrival (DOA),01/08/2016,06:07,7200 block Thomas St,Point Breeze North,4,,
+OFFENSE 2.0,16004355,3743,Accidents Involving Damage to Attended Veh. or Property,01/08/2016,09:15,5th Ave & Lothrop St,West Oakland,4,,
+OFFENSE 2.0,16004440,2709,Harassment (Non-Specific),01/08/2016,14:00,3700 block Frazier St,South Oakland,4,,
+OFFENSE 2.0,16004538,9497,Aided Case,01/08/2016,15:10,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16004554,9489,Found Property,01/08/2016,15:54,5800 block Northumberland St,Squirrel Hill North,4,,
+ARREST,16004596,3929,Retail Theft.,01/08/2016,17:30,5500 block Centre Ave,Shadyside,4,60,M
+OFFENSE 2.0,16004596,3929,Retail Theft.,01/08/2016,17:30,5500 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,16004671,3934,Theft from Vehicle,01/08/2016,19:10,700 block Frank Curto Dr,Squirrel Hill South,4,,
+OFFENSE 2.0,16004683,13(a)(32),Paraphernalia - Use or Possession,01/08/2016,19:42,Centre Ave & N Craig St,North Oakland,4,,
+OFFENSE 2.0,16004683,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/08/2016,19:42,Centre Ave & N Craig St,North Oakland,4,,
+OFFENSE 2.0,16004683,13(a)(16),Possession of Controlled Substance,01/08/2016,19:42,Centre Ave & N Craig St,North Oakland,4,,
+OFFENSE 2.0,16004683,5104,Resisting Arrest or Other Law Enforcement.,01/08/2016,19:42,Centre Ave & N Craig St,North Oakland,4,,
+OFFENSE 2.0,16004683,4910,Tampering with or Fabricating Physical Evidence.,01/08/2016,19:42,Centre Ave & N Craig St,North Oakland,4,,
+ARREST,16004683,5104,Resisting Arrest or Other Law Enforcement.,01/08/2016,19:45,Centre Ave & N Craig St,North Oakland,4,26,M
+ARREST,16004683,13(a)(32),Paraphernalia - Use or Possession,01/08/2016,19:45,Centre Ave & N Craig St,North Oakland,4,26,M
+ARREST,16004683,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/08/2016,19:45,Centre Ave & N Craig St,North Oakland,4,26,M
+ARREST,16004683,13(a)(16),Possession of Controlled Substance,01/08/2016,19:45,Centre Ave & N Craig St,North Oakland,4,26,M
+ARREST,16004683,4910,Tampering with or Fabricating Physical Evidence.,01/08/2016,19:45,Centre Ave & N Craig St,North Oakland,4,26,M
+ARREST,16003440,2709(a),Harassment.,01/08/2016,21:00,500 block East End Ave,Point Breeze,4,28,M
+ARREST,16003440,2709(b),Stalking,01/08/2016,21:00,500 block East End Ave,Point Breeze,4,28,M
+ARREST,16004738,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/08/2016,21:18,200 block Flowers Ave,Hazelwood,4,34,M
+OFFENSE 2.0,16004738,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/08/2016,21:20,200 block Flowers Ave,Hazelwood,4,,
+OFFENSE 2.0,16004173,9999,9999 - (Misc. Incident): ,01/08/2016,00:15,800 block N Murtland St,Homewood South,5,,
+OFFENSE 2.0,16004218,029,Missing Juvenile,01/08/2016,01:34,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,16004228,029,Missing Juvenile,01/08/2016,01:35,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,16004249,1543,Driving While Operating Privilege is Suspended or Revoked.,01/08/2016,02:45,Tioga St & N Homewood Ave,Homewood South,5,,
+OFFENSE 2.0,16004249,3802(a)(1),DUI - General Impairment,01/08/2016,02:45,Tioga St & N Homewood Ave,Homewood South,5,,
+OFFENSE 2.0,16004249,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/08/2016,02:45,Tioga St & N Homewood Ave,Homewood South,5,,
+OFFENSE 2.0,16004249,3308,One-Way Roadways and Rotary Traffic Islands.,01/08/2016,02:45,Tioga St & N Homewood Ave,Homewood South,5,,
+ARREST,16004249,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/08/2016,02:58,Tioga St & N Homewood Ave,Homewood South,5,27,M
+ARREST,16004249,3308,One-Way Roadways and Rotary Traffic Islands.,01/08/2016,02:58,Tioga St & N Homewood Ave,Homewood South,5,27,M
+ARREST,16004249,3802(a)(1),DUI - General Impairment,01/08/2016,02:58,Tioga St & N Homewood Ave,Homewood South,5,27,M
+ARREST,16004249,1543,Driving While Operating Privilege is Suspended or Revoked.,01/08/2016,02:58,Tioga St & N Homewood Ave,Homewood South,5,27,M
+OFFENSE 2.0,16004251,9123,Miscellaneous Fire Other Investigation to Continue,01/08/2016,03:15,4500 block Liberty Ave,Bloomfield,5,,
+OFFENSE 2.0,16004378,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/08/2016,10:25,7200 block Verona Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16004407,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),01/08/2016,11:40,Frankstown Ave & Brushton Ave,Homewood North,5,,
+OFFENSE 2.0,16004407,6106,Firearms not to be Carried without a License.,01/08/2016,11:40,Frankstown Ave & Brushton Ave,Homewood North,5,,
+ARREST,16004407,6106,Firearms not to be Carried without a License.,01/08/2016,11:50,Frankstown Ave & Brushton Ave,Homewood North,5,25,M
+ARREST,16004407,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),01/08/2016,11:50,Frankstown Ave & Brushton Ave,Homewood North,5,25,M
+OFFENSE 2.0,16004631,3922,Theft by Deception.,01/08/2016,13:00,4500 block Penn Ave,Bloomfield,5,,
+OFFENSE 2.0,16004503,4910,Tampering with or Fabricating Physical Evidence.,01/08/2016,13:05,5800 block East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16004503,13(a)(32),Paraphernalia - Use or Possession,01/08/2016,13:05,5800 block East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16004503,13(a)(30)*,Delivery of Controlled Substance,01/08/2016,13:05,5800 block East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16004503,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/08/2016,13:05,5800 block East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16004503,13(a)(16),Possession of Controlled Substance,01/08/2016,13:05,5800 block East Liberty Blvd,East Liberty,5,,
+ARREST,16004503,13(a)(32),Paraphernalia - Use or Possession,01/08/2016,13:06,5800 block East Liberty Blvd,East Liberty,5,68,F
+ARREST,16004503,13(a)(30)*,Delivery of Controlled Substance,01/08/2016,13:06,5800 block East Liberty Blvd,East Liberty,5,68,F
+ARREST,16004503,13(a)(16),Possession of Controlled Substance,01/08/2016,13:06,5800 block East Liberty Blvd,East Liberty,5,68,F
+ARREST,16004503,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/08/2016,13:06,5800 block East Liberty Blvd,East Liberty,5,68,F
+ARREST,16004503,4910,Tampering with or Fabricating Physical Evidence.,01/08/2016,13:06,5800 block East Liberty Blvd,East Liberty,5,68,F
+OFFENSE 2.0,16004525,3921,Theft by Unlawful Taking or Disposition.,01/08/2016,15:20,4300 block Stanton Ter,Stanton Heights,5,,
+OFFENSE 2.0,16004525,3503(b.1),Criminal Trespass - Simple Trespasser,01/08/2016,15:20,4300 block Stanton Ter,Stanton Heights,5,,
+OFFENSE 2.0,16004695,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,01/08/2016,20:04,5500 block Hays St,East Liberty,5,,
+OFFENSE 2.0,16004712,9496,Dead on Arrival (DOA),01/08/2016,20:35,7600 block Baxter St,Homewood North,5,,
+OFFENSE 2.0,16004153,9497,Aided Case,01/08/2016,00:10,600 block Noblestown Rd,Elliott,6,,
+OFFENSE 2.0,16004194,9488,False  Burglar Alarm,01/08/2016,01:05,1400 block Banksville Rd,Beechview,6,,
+OFFENSE 2.0,16004232,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/08/2016,02:06,2500 block West Liberty Ave,Brookline,6,,
+OFFENSE 2.0,16004282,9496,Dead on Arrival (DOA),01/08/2016,05:19,1000 block Bay Ridge Ave,Brookline,6,,
+OFFENSE 2.0,16004315,9489,Found Property,01/08/2016,07:55,1400 block Fallowfield Ave,Beechview,6,,
+OFFENSE 2.0,16004386,3304,Criminal Mischief.,01/08/2016,10:30,2000 block Broadway Ave,Beechview,6,,
+OFFENSE 2.0,16004492,2701,Simple Assault.,01/08/2016,14:35,900 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,16004492,9501,Bench Warrant,01/08/2016,14:35,900 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,16004492,2702,Aggravated Assault.,01/08/2016,14:35,900 block Brookline Blvd,Brookline,6,,
+ARREST,16004492,9501,Bench Warrant,01/08/2016,15:16,900 block Brookline Blvd,Brookline,6,19,F
+ARREST,16004492,2702,Aggravated Assault.,01/08/2016,15:16,900 block Brookline Blvd,Brookline,6,19,F
+ARREST,16004492,2701,Simple Assault.,01/08/2016,15:16,900 block Brookline Blvd,Brookline,6,23,M
+OFFENSE 2.0,16004783,3928,Unauthorized Use of Automobile and Other Vehicles.,01/08/2016,17:00,3500 block Middletown Rd,Chartiers City,6,,
