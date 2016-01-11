@@ -1,0 +1,184 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16005505,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,00:01,1300 block Goettmann St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16005507,3934,Theft from Vehicle,01/10/2016,00:11,1300 block Halsey Pl,Marshall-Shadeland,1,,
+OFFENSE 2.0,16005616,2701,Simple Assault.,01/10/2016,01:30,700 block East St,East Allegheny,1,,
+OFFENSE 2.0,16005590,3802(a)(1),DUI - General Impairment,01/10/2016,02:09,Ohio River Blvd & Marshall Ave Ramp,Chateau,1,,
+ARREST,16005590,3802(a)(1),DUI - General Impairment,01/10/2016,02:09,Ohio River Blvd & Marshall Ave Ramp,Chateau,1,43,M
+OFFENSE 2.0,16005606,3502,Burglary.,01/10/2016,02:25,1100 block Voskamp St,Spring Garden,1,,
+OFFENSE 2.0,16005656,9488,False  Burglar Alarm,01/10/2016,04:56,200 block Watson Blvd,Perry North,1,,
+OFFENSE 2.0,16005671,3802(a)(1),DUI - General Impairment,01/10/2016,05:43,E North Ave & Boyle St,Allegheny Center,1,,
+OFFENSE 2.0,16005671,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/10/2016,05:43,E North Ave & Boyle St,Allegheny Center,1,,
+ARREST,16005671,3111,Obedience to Traffic-Control Devices.,01/10/2016,05:43,E North Ave & Boyle St,Allegheny Center,1,29,M
+ARREST,16005671,3802(a)(1),DUI - General Impairment,01/10/2016,05:43,E North Ave & Boyle St,Allegheny Center,1,29,M
+ARREST,16005671,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/10/2016,05:43,E North Ave & Boyle St,Allegheny Center,1,29,M
+OFFENSE 2.0,16005671,3111,Obedience to Traffic-Control Devices.,01/10/2016,05:43,E North Ave & Boyle St,Allegheny Center,1,,
+OFFENSE 2.0,16005683,9123,Miscellaneous Fire Other Investigation to Continue,01/10/2016,07:15,700 block Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,16005805,3304,Criminal Mischief.,01/10/2016,07:30,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16006126,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/10/2016,10:00,1400 block Benton Ave,Brighton Heights,1,,
+ARREST,15246851,3927,Theft by Failure to Make Required Disp. of Funds,01/10/2016,10:40,3600 block California Ave,Brighton Heights,1,56,M
+OFFENSE 2.0,16005844,029,Missing Juvenile,01/10/2016,13:30,1200 block Sherman Ave,Central Northside,1,,
+OFFENSE 2.0,16005842,029,Missing Juvenile,01/10/2016,13:45,1200 block Sherman Ave,Central Northside,1,,
+OFFENSE 2.0,16005883,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,01/10/2016,15:10,1100 block Highwood St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16005883,2701,Simple Assault.,01/10/2016,15:10,1100 block Highwood St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16005923,3928,Unauthorized Use of Automobile and Other Vehicles.,01/10/2016,16:20,1400 block Evandale Rd,Marshall-Shadeland,1,,
+ARREST,15235445,3929,Retail Theft.,01/10/2016,16:30,1200 block Brighton Rd,East Allegheny,1,49,M
+OFFENSE 2.0,16005928,3934,Theft from Vehicle,01/10/2016,16:31,1900 block Termon Ave,Brighton Heights,1,,
+ARREST,16005913,9501,Bench Warrant,01/10/2016,16:40,1400 block Brighton Rd,Central Northside,1,49,M
+OFFENSE 2.0,15235445,3929,Retail Theft.,01/10/2016,16:40,1200 block Brighton Rd,East Allegheny,1,,
+OFFENSE 2.0,16005913,13(a)(32),Paraphernalia - Use or Possession,01/10/2016,16:40,1400 block Brighton Rd,Central Northside,1,,
+ARREST,16005913,13(a)(32),Paraphernalia - Use or Possession,01/10/2016,16:40,1400 block Brighton Rd,Central Northside,1,49,M
+OFFENSE 2.0,16006003,9488,False  Burglar Alarm,01/10/2016,18:38,800 block Vinial St,East Allegheny,1,,
+OFFENSE 2.0,16005842,029,Missing Juvenile,01/10/2016,20:04,1200 block Sherman Ave,Central Northside,1,,
+OFFENSE 2.0,16006068,3304,Criminal Mischief.,01/10/2016,20:29,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,16006100,3701,Robbery.,01/10/2016,22:03,3200 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,16006112,9488,False  Burglar Alarm,01/10/2016,22:55,1400 block Beckham St,Brighton Heights,1,,
+OFFENSE 2.0,16006119,3502,Burglary.,01/10/2016,23:18,200 block Kennedy Ave,Perry South,1,,
+OFFENSE 2.0,16005536,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/10/2016,00:05,4700 block Plum Way,Central Lawrenceville,2,,
+OFFENSE 2.0,16005569,9999,9999 - (Misc. Incident): ,01/10/2016,01:37,1700 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,16005565,3802(a)(1),DUI - General Impairment,01/10/2016,01:54,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,
+ARREST,16005565,3802(a)(1),DUI - General Impairment,01/10/2016,01:54,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,23,M
+OFFENSE 2.0,16005711,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,09:30,52nd St & Lotus Way,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005713,3304,Criminal Mischief.,01/10/2016,10:00,5200 block Lotus Way,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005715,3304,Criminal Mischief.,01/10/2016,10:00,5200 block Carnegie St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005728,3304,Criminal Mischief.,01/10/2016,10:00,100 block 53rd St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005814,3304,Criminal Mischief.,01/10/2016,10:00,5300 block Keystone St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005731,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,10:10,5200 block Lotus Way,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005737,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,10:30,5300 block Kent Way,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005739,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,10:40,5300 block Kent Way,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005777,3304,Criminal Mischief.,01/10/2016,11:30,5200 block Keystone St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005882,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,01/10/2016,14:30,300 block 3rd Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16005889,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/10/2016,14:30,1600 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,16005904,3304,Criminal Mischief.,01/10/2016,15:30,5200 block Lotus Way,Upper Lawrenceville,2,,
+OFFENSE 2.0,16005920,3304,Criminal Mischief.,01/10/2016,16:23,2500 block Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16005973,029,Missing Juvenile,01/10/2016,17:30,200 block 44th St,Central Lawrenceville,2,,
+OFFENSE 2.0,16006050,9999,9999 - (Misc. Incident): ,01/10/2016,20:09,1800 block Locust St,Bluff,2,,
+OFFENSE 2.0,16005526,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/10/2016,00:40,900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005526,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,00:40,900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005526,907,Possessing Instruments of Crime.,01/10/2016,00:40,900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005541,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,00:45,2000 block S 18th St,South Side Slopes,3,,
+OFFENSE 2.0,16005553,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/10/2016,01:15,1600 block E Carson St,South Side Flats,3,,
+ARREST,16005553,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/10/2016,01:15,1600 block E Carson St,South Side Flats,3,21,F
+OFFENSE 2.0,16005553,5507,Obstructing Highways and Passages.,01/10/2016,01:15,1600 block E Carson St,South Side Flats,3,,
+ARREST,16005553,5507,Obstructing Highways and Passages.,01/10/2016,01:15,1600 block E Carson St,South Side Flats,3,21,F
+ARREST,16005553,5505,Public Drunkenness,01/10/2016,01:15,1600 block E Carson St,South Side Flats,3,21,F
+OFFENSE 2.0,16005553,5505,Public Drunkenness,01/10/2016,01:15,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005554,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/10/2016,01:20,300 block Arabella St,Knoxville,3,,
+OFFENSE 2.0,16005554,2706,Terroristic Threats.,01/10/2016,01:20,300 block Arabella St,Knoxville,3,,
+OFFENSE 2.0,16005560,5505,Public Drunkenness,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005560,5104,Resisting Arrest or Other Law Enforcement.,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005560,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005560,2702,Aggravated Assault.,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,,
+ARREST,16005560,5505,Public Drunkenness,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16005560,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16005560,5104,Resisting Arrest or Other Law Enforcement.,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16005560,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16005560,2702,Aggravated Assault.,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,22,M
+OFFENSE 2.0,16005560,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/10/2016,01:30,1500 block E Carson St,South Side Flats,3,,
+ARREST,16005554,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/10/2016,01:36,300 block Arabella St,Knoxville,3,31,M
+ARREST,16005554,2706,Terroristic Threats.,01/10/2016,01:36,300 block Arabella St,Knoxville,3,31,M
+ARREST,16005578,5505,Public Drunkenness,01/10/2016,01:46,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16005578,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/10/2016,01:46,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16005578,5121,Escape.,01/10/2016,01:46,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16005578,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,01:46,1500 block E Carson St,South Side Flats,3,22,M
+OFFENSE 2.0,16005578,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,01:50,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005578,5121,Escape.,01/10/2016,01:50,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005578,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/10/2016,01:50,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005578,5505,Public Drunkenness,01/10/2016,01:50,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16006024,3304,Criminal Mischief.,01/10/2016,01:55,Uxor Way,South Side Flats,3,,
+OFFENSE 2.0,16006024,2707.1,Discharge of a Firearm into Occupied Structure,01/10/2016,01:55,Uxor Way,South Side Flats,3,,
+OFFENSE 2.0,16005586,3304,Criminal Mischief.,01/10/2016,01:58,Uxor Way,South Side Flats,3,,
+OFFENSE 2.0,16005586,2707.1,Discharge of a Firearm into Occupied Structure,01/10/2016,01:58,Uxor Way,South Side Flats,3,,
+OFFENSE 2.0,16005591,3743,Accidents Involving Damage to Attended Veh. or Property,01/10/2016,02:10,S 23rd St & E Carson St,South Side Flats,3,,
+ARREST,16005526,907,Possessing Instruments of Crime.,01/10/2016,02:40,900 block E Carson St,South Side Flats,3,24,M
+ARREST,16005526,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,02:40,900 block E Carson St,South Side Flats,3,24,M
+ARREST,16005526,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/10/2016,02:40,900 block E Carson St,South Side Flats,3,24,M
+OFFENSE 2.0,16005644,1301,Registration and Certificate of Title Required.,01/10/2016,03:59,S 27th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005644,3112,Traffic-Control Signals.,01/10/2016,03:59,S 27th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16005644,2702,Aggravated Assault.,01/10/2016,03:59,S 27th St & E Carson St,South Side Flats,3,,
+ARREST,16005644,1301,Registration and Certificate of Title Required.,01/10/2016,04:08,S 27th St & E Carson St,South Side Flats,3,34,M
+ARREST,16005644,2702,Aggravated Assault.,01/10/2016,04:08,S 27th St & E Carson St,South Side Flats,3,34,M
+ARREST,16005644,3112,Traffic-Control Signals.,01/10/2016,04:08,S 27th St & E Carson St,South Side Flats,3,34,M
+OFFENSE 2.0,16005684,9489,Found Property,01/10/2016,07:21,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16005693,3304,Criminal Mischief.,01/10/2016,08:30,2600 block S 18th St,South Side Slopes,3,,
+OFFENSE 2.0,16005790,3304,Criminal Mischief.,01/10/2016,10:30,3000 block Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,16005884,2709(a),Harassment.,01/10/2016,12:00,2300 block Parklyn St,Overbrook,3,,
+OFFENSE 2.0,16005939,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/10/2016,15:18,300 block Station Square Drive (Sheraton Hotel),Brookline,3,,
+OFFENSE 2.0,16005939,5503,Disorderly Conduct.,01/10/2016,15:18,300 block Station Square Drive (Sheraton Hotel),Brookline,3,,
+OFFENSE 2.0,16005939,5505,Public Drunkenness,01/10/2016,15:18,300 block Station Square Drive (Sheraton Hotel),Brookline,3,,
+ARREST,16005939,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/10/2016,16:45,300 block Station Square Drive (Sheraton Hotel),Brookline,3,53,M
+ARREST,16005939,5505,Public Drunkenness,01/10/2016,16:45,300 block Station Square Drive (Sheraton Hotel),Brookline,3,53,M
+ARREST,16005939,5503,Disorderly Conduct.,01/10/2016,16:45,300 block Station Square Drive (Sheraton Hotel),Brookline,3,53,M
+OFFENSE 2.0,16005987,2701,Simple Assault.,01/10/2016,17:58,3100 block Cordell Pl,Arlington Heights,3,,
+ARREST,15242305,2701,Simple Assault.,01/10/2016,20:52,1500 block E Carson St,South Side Flats,3,22,M
+OFFENSE 2.0,16005611,2705,Recklessly Endangering Another Person.,01/10/2016,02:00,5800 block Forward Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16005611,2702,Aggravated Assault.,01/10/2016,02:00,5800 block Forward Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16005943,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/10/2016,02:25,5800 block Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,16005700,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/10/2016,02:30,200 block Meyran Ave,Central Oakland,4,,
+ARREST,16005498,3308,One-Way Roadways and Rotary Traffic Islands.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3301,Driving on Right Side of Roadway.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3362,Maximum Speed Limits.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3701,Robbery.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3733,Fleeing or Attempting to Elude Police Officer,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3736,Reckless Driving,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,5121,Escape.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,903,Criminal Conspiracy.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,907,Possessing Instruments of Crime.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,2705,Recklessly Endangering Another Person.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3323,Stop Signs and Yield Signs.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3334,Turning Movements and Required Signals.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3361, Driving Vehicle at Safe Speed.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3112,Traffic-Control Signals.,01/10/2016,03:52,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,15248071,3925,Receiving Stolen Property.,01/10/2016,03:52,Ward St & Blvd Of The Allies,Central Oakland,4,18,M
+ARREST,16005498,907,Possessing Instruments of Crime.,01/10/2016,03:54,Atwood St & Cable Pl,Central Oakland,4,17,M
+ARREST,16005498,903,Criminal Conspiracy.,01/10/2016,03:54,Atwood St & Cable Pl,Central Oakland,4,17,M
+ARREST,16005498,5121,Escape.,01/10/2016,03:54,Atwood St & Cable Pl,Central Oakland,4,17,M
+ARREST,16005498,3701,Robbery.,01/10/2016,03:54,Atwood St & Cable Pl,Central Oakland,4,17,M
+ARREST,16005498,907,Possessing Instruments of Crime.,01/10/2016,03:54,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,903,Criminal Conspiracy.,01/10/2016,03:54,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,5121,Escape.,01/10/2016,03:54,Atwood St & Cable Pl,Central Oakland,4,18,M
+ARREST,16005498,3701,Robbery.,01/10/2016,03:54,Atwood St & Cable Pl,Central Oakland,4,18,M
+OFFENSE 2.0,16005698,3304,Criminal Mischief.,01/10/2016,07:45,500 block S Lang Ave,Point Breeze,4,,
+OFFENSE 2.0,16005690,3304,Criminal Mischief.,01/10/2016,08:00,500 block S Lang Ave,Point Breeze,4,,
+OFFENSE 2.0,16005938,3304,Criminal Mischief.,01/10/2016,09:00,7400 block Ben Hur St,Point Breeze,4,,
+OFFENSE 2.0,16005866,3921,Theft by Unlawful Taking or Disposition.,01/10/2016,12:00,3900 block Forbes Ave,North Oakland,4,,
+OFFENSE 2.0,16005931,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/10/2016,15:56,200 block S Highland Ave,Shadyside,4,,
+OFFENSE 2.0,16006046,029,Missing Juvenile,01/10/2016,19:15,900 block Agnew Rd,Hays,4,,
+OFFENSE 2.0,16006031,9490,Missing Persons (18 and Over),01/10/2016,19:15,900 block Agnew Rd,Hays,4,,
+OFFENSE 2.0,16005916,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/10/2016,00:04,100 block Hawthorne Ct,Stanton Heights,5,,
+OFFENSE 2.0,16005500,2701,Simple Assault.,01/10/2016,00:24,200 block Meadow St,Larimer,5,,
+OFFENSE 2.0,16005500,4304(a)(1),Endangering Welfare of Children.,01/10/2016,00:24,200 block Meadow St,Larimer,5,,
+OFFENSE 2.0,16005508,3743,Accidents Involving Damage to Attended Veh. or Property,01/10/2016,00:25,Broad St & Penn Cir E,East Liberty,5,,
+OFFENSE 2.0,16005508,9094,Recovered Stolen Vehicle (OUTSIDE CITY),01/10/2016,00:25,Broad St & Penn Cir E,East Liberty,5,,
+ARREST,16005500,2701,Simple Assault.,01/10/2016,00:35,200 block Meadow St,Larimer,5,34,M
+ARREST,16005500,4304(a)(1),Endangering Welfare of Children.,01/10/2016,00:35,200 block Meadow St,Larimer,5,34,M
+OFFENSE 2.0,16005694,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,01/10/2016,08:37,4100 block Howley St,Bloomfield,5,,
+OFFENSE 2.0,16005962,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/10/2016,12:00,Enfield St,Bloomfield,5,,
+OFFENSE 2.0,16005885,3743,Accidents Involving Damage to Attended Veh. or Property,01/10/2016,15:13,East Liberty Blvd & Frankstown Ave,East Liberty,5,,
+OFFENSE 2.0,16005902,2606(a),Aggravated Assault on Unborn Child,01/10/2016,15:55,700 block Brushton Ave,Homewood South,5,,
+OFFENSE 2.0,16005902,2702,Aggravated Assault.,01/10/2016,15:55,700 block Brushton Ave,Homewood South,5,,
+OFFENSE 2.0,16005940,3304,Criminal Mischief.,01/10/2016,16:35,6900 block Hamilton Ave,Homewood West,5,,
+OFFENSE 2.0,16006057,3701,Robbery.,01/10/2016,20:15,4700 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,16006072,9123,Miscellaneous Fire Other Investigation to Continue,01/10/2016,20:37,7100 block Churchland St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16005568,3304,Criminal Mischief.,01/10/2016,01:15,1000 block Norwich Ave,Brookline,6,,
+OFFENSE 2.0,16005714,3304,Criminal Mischief.,01/10/2016,01:30,3000 block Zephyr Ave,Sheraden,6,,
+OFFENSE 2.0,16005561,3743,Accidents Involving Damage to Attended Veh. or Property,01/10/2016,01:30,Haddon Way & Capital Ave,Brookline,6,,
+OFFENSE 2.0,16005858,3921,Theft by Unlawful Taking or Disposition.,01/10/2016,03:00,1800 block Woodcove Pl,Banksville,6,,
+OFFENSE 2.0,16005614,9488,False  Burglar Alarm,01/10/2016,03:05,2500 block West Liberty Ave,Brookline,6,,
+OFFENSE 2.0,16005638,2701,Simple Assault.,01/10/2016,03:30,1800 block Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,16005735,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/10/2016,06:45,2600 block Loisiana Ave,Beechview,6,,
+OFFENSE 2.0,16005722,4106,Access Device Fraud,01/10/2016,09:42,1200 block Straka St,Crafton Heights,6,,
+OFFENSE 2.0,16005741,9488,False  Burglar Alarm,01/10/2016,10:30,100 block Steuben St,West End,6,,
+OFFENSE 2.0,16005742,13(a)(31),Marijuana: Possession Small Amount,01/10/2016,10:35,CHARTIERS Ave & AZALIA St,Elliott,6,,
+ARREST,16005742,1376,Surrender of Reg. Upon Susp. or Revocation.,01/10/2016,10:35,CHARTIERS Ave & AZALIA St,Elliott,6,27,M
+ARREST,16005742,13(a)(31),Marijuana: Possession Small Amount,01/10/2016,10:35,CHARTIERS Ave & AZALIA St,Elliott,6,27,M
+OFFENSE 2.0,16005742,1376,Surrender of Reg. Upon Susp. or Revocation.,01/10/2016,10:35,CHARTIERS Ave & AZALIA St,Elliott,6,,
+OFFENSE 2.0,16005789,3934,Theft from Vehicle,01/10/2016,11:30,1800 block Maydell St,Banksville,6,,
+OFFENSE 2.0,16005899,9497,Aided Case,01/10/2016,15:49,1000 block Woodlow St,Crafton Heights,6,,
+ARREST,16005412,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/10/2016,16:45,1500 block Ridenour Ave,Crafton Heights,6,32,F
+OFFENSE 2.0,16005997,9999,9999 - (Misc. Incident): ,01/10/2016,18:01,3100 block Huxley St,Sheraden,6,,
+OFFENSE 2.0,16005991,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/10/2016,18:03,800 block Herschel St,Elliott,6,,
+OFFENSE 2.0,16005991,3503,Criminal Trespass,01/10/2016,18:03,800 block Herschel St,Elliott,6,,
+OFFENSE 2.0,16006025,3928,Unauthorized Use of Automobile and Other Vehicles.,01/10/2016,19:00,3000 block Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,16006025,2709,Harassment (Non-Specific),01/10/2016,19:00,3000 block Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,16006020,9498,302 (Mental),01/10/2016,19:12,300 block Ainsworth St,Elliott,6,,
