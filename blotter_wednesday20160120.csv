@@ -1,0 +1,126 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16011746,9501,Bench Warrant,01/20/2016,01:40,East Ohio St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16011746,1543,Driving While Operating Privilege is Suspended or Revoked.,01/20/2016,01:40,East Ohio St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16011746,1371,Operation Following Suspension of Registration.,01/20/2016,01:40,East Ohio St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16011746,13(a)(31),Marijuana: Possession Small Amount,01/20/2016,01:40,East Ohio St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16011746,13(a)(32),Paraphernalia - Use or Possession,01/20/2016,01:40,East Ohio St & Middle St,East Allegheny,1,,
+ARREST,16011746,13(a)(31),Marijuana: Possession Small Amount,01/20/2016,01:57,East Ohio St & Middle St,East Allegheny,1,25,M
+ARREST,16011746,13(a)(32),Paraphernalia - Use or Possession,01/20/2016,01:57,East Ohio St & Middle St,East Allegheny,1,25,M
+ARREST,16011746,9501,Bench Warrant,01/20/2016,01:57,East Ohio St & Middle St,East Allegheny,1,25,M
+OFFENSE 2.0,16011767,3304,Criminal Mischief.,01/20/2016,02:10,100 block Federal St S,North Shore,1,,
+OFFENSE 2.0,16011767,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/20/2016,02:10,100 block Federal St S,North Shore,1,,
+OFFENSE 2.0,16011918,3502,Burglary.,01/20/2016,07:00,500 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16011933,3921,Theft by Unlawful Taking or Disposition.,01/20/2016,08:00,900 block Mina St,Spring Hill-City View,1,,
+OFFENSE 2.0,16011963,3934,Theft from Vehicle,01/20/2016,10:00,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16011966,9497,Aided Case,01/20/2016,12:11,4000 block Vinceton St,Perry North,1,,
+OFFENSE 2.0,16011980,3743,Accidents Involving Damage to Attended Veh. or Property,01/20/2016,12:40,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16012022,9999,9999 - (Misc. Incident): ,01/20/2016,14:33,400 block Jacksonia St,Central Northside,1,,
+ARREST,15191777,9015,Failure To Appear/Arrest on Attachment Order,01/20/2016,14:50,1600 block Sandusky Ct,Fineview,1,40,F
+OFFENSE 2.0,16012096,029,Missing Juvenile,01/20/2016,16:00,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16012161,13(a)(32),Paraphernalia - Use or Possession,01/20/2016,19:50,3100 block Brighton Rd,Marshall-Shadeland,1,,
+ARREST,16012161,13(a)(32),Paraphernalia - Use or Possession,01/20/2016,19:50,3100 block Brighton Rd,Marshall-Shadeland,1,40,M
+OFFENSE 2.0,16012244,029,Missing Juvenile,01/20/2016,23:38,500 block Knoll St,East Allegheny,1,,
+OFFENSE 2.0,16011709,9497,Aided Case,01/20/2016,01:00,300 block Roberts St,Crawford-Roberts,2,,
+OFFENSE 2.0,16011755,9489,Found Property,01/20/2016,01:53,8th St & Fort Duquesne Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16011853,3502,Burglary.,01/20/2016,08:00,1800 block Centre Ave,Crawford-Roberts,2,,
+ARREST,16011891,9136,Commitment to Await Requisition,01/20/2016,09:29,900 block Second Ave,Bluff,2,45,F
+OFFENSE 2.0,16011891,9136,Commitment to Await Requisition,01/20/2016,09:29,900 block Second Ave,Bluff,2,,
+OFFENSE 2.0,16011984,3921,Theft by Unlawful Taking or Disposition.,01/20/2016,13:00,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16012056,3921,Theft by Unlawful Taking or Disposition.,01/20/2016,15:30,2400 block Bedford Ave,Middle Hill,2,,
+OFFENSE 2.0,16012076,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,16:15,2000 block Webster Ave,Middle Hill,2,,
+OFFENSE 2.0,16012083,9496,Dead on Arrival (DOA),01/20/2016,16:44,400 block 52nd St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16012142,3929,Retail Theft.,01/20/2016,16:50,300 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16012142,2709,Harassment (Non-Specific),01/20/2016,16:50,300 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16012124,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,17:15,1300 block Forbes Ave,Bluff,2,,
+OFFENSE 2.0,16012105,2701,Simple Assault.,01/20/2016,17:30,2100 block Rose St,Middle Hill,2,,
+ARREST,16012105,2701,Simple Assault.,01/20/2016,17:30,2100 block Rose St,Middle Hill,2,19,M
+OFFENSE 2.0,16012203,9999,9999 - (Misc. Incident):  Crash involving City Property,01/20/2016,21:38,6th Ave & Garland Way,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16011878,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,07:30,100 block S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16011867,9496,Dead on Arrival (DOA),01/20/2016,08:30,2800 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16011945,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,01/20/2016,11:50,1100 block E CARSON St,South Side Flats,3,,
+OFFENSE 2.0,16011945,5505,Public Drunkenness,01/20/2016,11:50,1100 block E CARSON St,South Side Flats,3,,
+ARREST,16012024,13(a)(31),Marijuana: Possession Small Amount,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,24,M
+OFFENSE 2.0,16012024,1311,Registration Card to be Signed and Exhibited on Demand.,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,,
+OFFENSE 2.0,16012024,1543,Driving While Operating Privilege is Suspended or Revoked.,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,,
+OFFENSE 2.0,16012024,1786,Required Financial Responsibility.,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,,
+ARREST,16012024,1311,Registration Card to be Signed and Exhibited on Demand.,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,24,M
+OFFENSE 2.0,16012024,3334,Turning Movements and Required Signals.,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,,
+ARREST,16012024,1543,Driving While Operating Privilege is Suspended or Revoked.,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,24,M
+ARREST,16012024,1786,Required Financial Responsibility.,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,24,M
+ARREST,16012024,3334,Turning Movements and Required Signals.,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,24,M
+OFFENSE 2.0,16012024,13(a)(31),Marijuana: Possession Small Amount,01/20/2016,14:42,Beltzhoover Ave & Edgemont St,Allentown,3,,
+OFFENSE 2.0,16012062,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/20/2016,14:50,800 block Mc Lain St,Allentown,3,,
+OFFENSE 2.0,16012098,4912,Impersonating a Public Servant.,01/20/2016,16:00,200 block Moore Ave,Knoxville,3,,
+OFFENSE 2.0,16012098,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/20/2016,16:00,200 block Moore Ave,Knoxville,3,,
+OFFENSE 2.0,16012098,2709(a),Harassment.,01/20/2016,16:00,200 block Moore Ave,Knoxville,3,,
+OFFENSE 2.0,16012072,3701,Robbery.,01/20/2016,16:09,2600 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16012070,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,01/20/2016,16:10,1000 block E Warrington Ave,South Side Slopes,3,,
+ARREST,16004954,2902,Unlawful Restraint.,01/20/2016,16:33,E Carson St,South Shore,3,33,M
+ARREST,16004954,2701,Simple Assault.,01/20/2016,16:33,E Carson St,South Shore,3,33,M
+OFFENSE 2.0,16012091,9093,Indirect Criminal Contempt,01/20/2016,16:58,300 block Orchard Pl,Knoxville,3,,
+OFFENSE 2.0,16012101,3929,Retail Theft.,01/20/2016,17:15,2000 block Wharton St,South Side Flats,3,,
+ARREST,16012091,9093,Indirect Criminal Contempt,01/20/2016,17:30,300 block Orchard Pl,Knoxville,3,30,F
+OFFENSE 2.0,16012102,3922,Theft by Deception.,01/20/2016,17:30,800 block Eureka St,Allentown,3,,
+OFFENSE 2.0,16012102,4106,Access Device Fraud,01/20/2016,17:30,800 block Eureka St,Allentown,3,,
+OFFENSE 2.0,16012166,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/20/2016,19:24,400 block Moore Ave,Knoxville,3,,
+OFFENSE 2.0,16011778,3929,Retail Theft.,01/20/2016,02:38,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16011822,3502,Burglary.,01/20/2016,05:30,7200 block Meade St,Point Breeze North,4,,
+OFFENSE 2.0,16011822,3304,Criminal Mischief.,01/20/2016,05:30,7200 block Meade St,Point Breeze North,4,,
+OFFENSE 2.0,16012048,3304,Criminal Mischief.,01/20/2016,09:00,4800 block Chatsworth Ave,Hazelwood,4,,
+OFFENSE 2.0,16011894,3701,Robbery.,01/20/2016,09:33,500 block Greenfield Ave,Greenfield,4,,
+ARREST,15224579,3925,Receiving Stolen Property.,01/20/2016,11:00,6900 block Reynolds St,Homewood South,4,18,M
+ARREST,15224579,1543,Driving While Operating Privilege is Suspended or Revoked.,01/20/2016,11:00,6900 block Reynolds St,Homewood South,4,18,M
+OFFENSE 2.0,16011953,3304(a)(1),CRIMINAL MISCHIEF-Prop Damage By Fire  Explosives  or Other Dangerous Means,01/20/2016,11:00,200 block Mansion St,Hazelwood,4,,
+OFFENSE 2.0,16012089,9999,9999 - (Misc. Incident): ,01/20/2016,15:10,6400 block Darlington Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16012119,2709,Harassment (Non-Specific),01/20/2016,16:50,3800 block Pier St,Central Oakland,4,,
+OFFENSE 2.0,16012121,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,18:03,4900 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16012121,3934,Theft from Vehicle,01/20/2016,18:03,4900 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16012121,903,Criminal Conspiracy.,01/20/2016,18:03,4900 block Glenwood Ave,Hazelwood,4,,
+ARREST,16012121,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,15,M
+ARREST,16012121,903,Criminal Conspiracy.,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,15,M
+ARREST,16012121,3934,Theft from Vehicle,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,15,M
+ARREST,16012121,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,15,M
+ARREST,16012121,903,Criminal Conspiracy.,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,14,M
+ARREST,16012121,3934,Theft from Vehicle,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,14,M
+ARREST,16012121,3934,Theft from Vehicle,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,15,M
+ARREST,16012121,903,Criminal Conspiracy.,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,15,M
+ARREST,16012121,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,18:40,4900 block Glenwood Ave,Hazelwood,4,14,M
+OFFENSE 2.0,16012153,3701,Robbery.,01/20/2016,19:30,3300 block Juliet St,South Oakland,4,,
+OFFENSE 2.0,16012153,3502,Burglary.,01/20/2016,19:30,3300 block Juliet St,South Oakland,4,,
+OFFENSE 2.0,16012153,907,Possessing Instruments of Crime.,01/20/2016,19:30,3300 block Juliet St,South Oakland,4,,
+ARREST,16012153,3701,Robbery.,01/20/2016,20:00,3300 block Juliet St,South Oakland,4,18,M
+ARREST,16012153,3502,Burglary.,01/20/2016,20:00,3300 block Juliet St,South Oakland,4,18,M
+ARREST,16012153,907,Possessing Instruments of Crime.,01/20/2016,20:00,3300 block Juliet St,South Oakland,4,18,M
+ARREST,16011768,3925,Receiving Stolen Property.,01/20/2016,02:11,Frankstown Ave & Hale St,Homewood North,5,45,F
+ARREST,16011768,3928,Unauthorized Use of Automobile and Other Vehicles.,01/20/2016,02:11,Frankstown Ave & Hale St,Homewood North,5,45,F
+OFFENSE 2.0,16011768,3925,Receiving Stolen Property.,01/20/2016,02:11,Frankstown Ave & Hale St,Homewood North,5,,
+OFFENSE 2.0,16011768,3928,Unauthorized Use of Automobile and Other Vehicles.,01/20/2016,02:11,Frankstown Ave & Hale St,Homewood North,5,,
+OFFENSE 2.0,16011844,029,Missing Juvenile,01/20/2016,02:19,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,16011790,029,Missing Juvenile,01/20/2016,03:19,5300 block Cornwall St,Garfield,5,,
+OFFENSE 2.0,16011832,9496,Dead on Arrival (DOA),01/20/2016,06:33,4300 block Stanton Ave,Stanton Heights,5,,
+OFFENSE 2.0,16011892,3502,Burglary.,01/20/2016,09:30,7100 block Everton St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16011929,9999,9999 - (Misc. Incident): ,01/20/2016,10:34,300 block Stratford Ave,Friendship,5,,
+OFFENSE 2.0,16012135,3921,Theft by Unlawful Taking or Disposition.,01/20/2016,11:00,500 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,16011941,4106,Access Device Fraud,01/20/2016,11:07,1000 block Mellon St,Highland Park,5,,
+ARREST,16001433,3921,Theft by Unlawful Taking or Disposition.,01/20/2016,13:00,7900 block Inglenook Pl,Homewood South,5,17,M
+ARREST,16001433,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,13:00,7900 block Inglenook Pl,Homewood South,5,17,M
+OFFENSE 2.0,16012045,9999,9999 - (Misc. Incident): ,01/20/2016,15:00,5th Ave & McPherson Blvd,Larimer,5,,
+OFFENSE 2.0,16012053,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/20/2016,15:15,1100 block Mc Cabe St,Stanton Heights,5,,
+OFFENSE 2.0,16012068,903,Criminal Conspiracy.,01/20/2016,16:08,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16012068,3929,Retail Theft.,01/20/2016,16:08,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16012120,3304,Criminal Mischief.,01/20/2016,17:00,Bunkerhill St & N St Clair St,Highland Park,5,,
+ARREST,16012068,3929,Retail Theft.,01/20/2016,19:08,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,55,F
+ARREST,16012068,903,Criminal Conspiracy.,01/20/2016,19:08,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,55,F
+ARREST,16012068,3929,Retail Theft.,01/20/2016,19:13,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,36,F
+ARREST,16012068,903,Criminal Conspiracy.,01/20/2016,19:13,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,36,F
+ARREST,16005229,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/20/2016,19:15,6000 block Stanton Ave,East Liberty,5,28,M
+OFFENSE 2.0,16012169,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,01/20/2016,20:10,6200 block Penn Ave,East Liberty,5,,
+ARREST,16012169,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,01/20/2016,20:30,6200 block Penn Ave,East Liberty,5,38,M
+OFFENSE 2.0,16011748,9497,Aided Case,01/20/2016,00:43,1100 block Milan Ave,Brookline,6,,
+OFFENSE 2.0,16011747,9488,False  Burglar Alarm,01/20/2016,01:45,1000 block Chartiers Ave,Elliott,6,,
+OFFENSE 2.0,16011869,2709,Harassment (Non-Specific),01/20/2016,08:30,500 block Clemesha Ave,Brookline,6,,
+OFFENSE 2.0,16011869,4912,Impersonating a Public Servant.,01/20/2016,08:30,500 block Clemesha Ave,Brookline,6,,
+OFFENSE 2.0,16011921,9999,9999 - (Misc. Incident): Possible Fraud,01/20/2016,10:35,Baldwick Rd,Oakwood,6,,
+ARREST,16011913,9501,Bench Warrant,01/20/2016,10:43,3000 block Stafford St,Sheraden,6,55,M
+OFFENSE 2.0,16011913,9501,Bench Warrant,01/20/2016,10:43,3000 block Stafford St,Sheraden,6,,
+OFFENSE 2.0,16012122,901,Criminal Attempt,01/20/2016,18:03,3100 block Landis St,Sheraden,6,,
