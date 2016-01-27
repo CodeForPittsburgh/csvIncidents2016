@@ -1,0 +1,223 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+ARREST,16015142,9501,Bench Warrant,01/26/2016,01:01,Jacksonia St & Garfield Ave,Central Northside,1,54,M
+OFFENSE 2.0,16015142,9501,Bench Warrant,01/26/2016,01:01,Jacksonia St & Garfield Ave,Central Northside,1,,
+OFFENSE 2.0,16015181,2702,Aggravated Assault.,01/26/2016,02:10,1000 block Sheffield St,Manchester,1,,
+ARREST,16015181,2702,Aggravated Assault.,01/26/2016,02:15,1000 block Sheffield St,Manchester,1,56,F
+OFFENSE 2.0,16015489,029,Missing Juvenile,01/26/2016,07:10,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16015262,9489,Found Property,01/26/2016,08:19,1000 block Allegheny Ave,Manchester,1,,
+ARREST,16001607,2701,Simple Assault.,01/26/2016,10:55,Bijou Way & Baytree St,Perry North,1,19,M
+OFFENSE 2.0,16015346,4905,False Alarms to Agencies of Public Safety.,01/26/2016,11:45,2800 block New Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16015346,8104,CLASS 1 - Suspicious Package or Device,01/26/2016,11:45,2800 block New Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16015353,2702,Aggravated Assault.,01/26/2016,12:07,1300 block Oakhill St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16015403,2702,Aggravated Assault.,01/26/2016,13:45,500 block Marshall Ave,Perry South,1,,
+ARREST,16015403,2705,Recklessly Endangering Another Person.,01/26/2016,13:45,500 block Marshall Ave,Perry South,1,12,M
+ARREST,16015403,2702,Aggravated Assault.,01/26/2016,13:45,500 block Marshall Ave,Perry South,1,12,M
+OFFENSE 2.0,16015403,2705,Recklessly Endangering Another Person.,01/26/2016,13:45,500 block Marshall Ave,Perry South,1,,
+OFFENSE 2.0,16015508,9126,Prostitution Investigation,01/26/2016,15:00,1200 block Western Ave,Chateau,1,,
+ARREST,16015452,13(a)(31),Marijuana: Possession Small Amount,01/26/2016,15:45,1300 block Woods Run Ave,Marshall-Shadeland,1,19,M
+OFFENSE 2.0,16015452,13(a)(31),Marijuana: Possession Small Amount,01/26/2016,15:45,1300 block Woods Run Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16015452,6106,Firearms not to be Carried without a License.,01/26/2016,15:45,1300 block Woods Run Ave,Marshall-Shadeland,1,,
+ARREST,16015452,6106,Firearms not to be Carried without a License.,01/26/2016,15:45,1300 block Woods Run Ave,Marshall-Shadeland,1,19,M
+OFFENSE 2.0,16015586,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/26/2016,18:40,3200 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,16015588,5503,Disorderly Conduct.,01/26/2016,18:43,1900 block St Ives St,California-Kirkbride,1,,
+OFFENSE 2.0,16015588,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/26/2016,18:43,1900 block St Ives St,California-Kirkbride,1,,
+OFFENSE 2.0,16015588,2705,Recklessly Endangering Another Person.,01/26/2016,18:43,1900 block St Ives St,California-Kirkbride,1,,
+OFFENSE 2.0,16015588,2702,Aggravated Assault.,01/26/2016,18:43,1900 block St Ives St,California-Kirkbride,1,,
+OFFENSE 2.0,16015588,2706,Terroristic Threats.,01/26/2016,18:43,1900 block St Ives St,California-Kirkbride,1,,
+ARREST,16015588,5503,Disorderly Conduct.,01/26/2016,18:49,1900 block St Ives St,California-Kirkbride,1,23,F
+ARREST,16015588,2706,Terroristic Threats.,01/26/2016,18:49,1900 block St Ives St,California-Kirkbride,1,23,F
+ARREST,16015588,2705,Recklessly Endangering Another Person.,01/26/2016,18:49,1900 block St Ives St,California-Kirkbride,1,23,F
+ARREST,16015588,2702,Aggravated Assault.,01/26/2016,18:49,1900 block St Ives St,California-Kirkbride,1,23,F
+ARREST,16015588,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/26/2016,18:49,1900 block St Ives St,California-Kirkbride,1,23,F
+OFFENSE 2.0,16015602,2701,Simple Assault.,01/26/2016,19:07,1600 block Orchlee St,Brighton Heights,1,,
+ARREST,16015602,2701,Simple Assault.,01/26/2016,19:15,1600 block Orchlee St,Brighton Heights,1,58,
+ARREST,16015624,5902(a)(2),Prostitution - Loitering for purpose of,01/26/2016,19:35,Middle St & Foreland St,East Allegheny,1,45,F
+ARREST,16015624,5902(a)(1),Prostitution ,01/26/2016,19:35,Middle St & Foreland St,East Allegheny,1,45,F
+OFFENSE 2.0,16015624,5902(a)(2),Prostitution - Loitering for purpose of,01/26/2016,19:35,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16015624,5902(a)(1),Prostitution ,01/26/2016,19:35,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16015628,5902(a)(2),Prostitution - Loitering for purpose of,01/26/2016,19:45,James St & Suismon St,East Allegheny,1,,
+ARREST,16015628,5902(a)(2),Prostitution - Loitering for purpose of,01/26/2016,19:45,James St & Suismon St,East Allegheny,1,38,F
+OFFENSE 2.0,16015620,9490,Missing Persons (18 and Over),01/26/2016,19:53,3400 block Gass Ave,Brighton Heights,1,,
+OFFENSE 2.0,16015669,902,Criminal Solicitation.,01/26/2016,21:00,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16015669,5902(e),Patronizing a Prostitute,01/26/2016,21:00,Middle St & Foreland St,East Allegheny,1,,
+ARREST,16015669,902,Criminal Solicitation.,01/26/2016,21:01,Middle St & Foreland St,East Allegheny,1,54,M
+ARREST,16015669,5902(e),Patronizing a Prostitute,01/26/2016,21:01,Middle St & Foreland St,East Allegheny,1,54,M
+ARREST,16015681,5902(e),Patronizing a Prostitute,01/26/2016,21:26,Middle St & Foreland St,East Allegheny,1,34,M
+ARREST,16015681,902,Criminal Solicitation.,01/26/2016,21:26,Middle St & Foreland St,East Allegheny,1,34,M
+OFFENSE 2.0,16015681,902,Criminal Solicitation.,01/26/2016,21:30,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16015681,5902(e),Patronizing a Prostitute,01/26/2016,21:30,Middle St & Foreland St,East Allegheny,1,,
+ARREST,16015699,5902(e),Patronizing a Prostitute,01/26/2016,21:53,Middle St & Foreland St,East Allegheny,1,26,M
+ARREST,16015699,902,Criminal Solicitation.,01/26/2016,21:53,Middle St & Foreland St,East Allegheny,1,26,M
+OFFENSE 2.0,16015699,902,Criminal Solicitation.,01/26/2016,21:55,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16015699,5902(e),Patronizing a Prostitute,01/26/2016,21:55,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16015734,029,Missing Juvenile,01/26/2016,22:00,200 block Ridge Ave,Allegheny Center,1,,
+ARREST,16011179,541.03 (g),Passenger and Loading Zones: Exceeding 2 Hr Parking 1900-0700 (Commercial Veh  Camper  Trailer  Boat  Other non-auto),01/26/2016,02:00,600 block 1st Ave,Perry North,2,32,M
+ARREST,16011179,7122,Altered  Forged or Counterfeit Documents and Plates,01/26/2016,02:00,600 block 1st Ave,Perry North,2,32,M
+ARREST,16011179,3353,Prohibitions in Specified Places.,01/26/2016,02:00,600 block 1st Ave,Perry North,2,32,M
+ARREST,16000085,2706,Terroristic Threats.,01/26/2016,04:00,900 block 2ND Ave,Bloomfield,2,29,M
+ARREST,16000085,2702,Aggravated Assault.,01/26/2016,04:00,900 block 2ND Ave,Bloomfield,2,29,M
+OFFENSE 2.0,16015259,3743,Accidents Involving Damage to Attended Veh. or Property,01/26/2016,05:30,Crosstown Blvd Ramp & Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16015314,3921,Theft by Unlawful Taking or Disposition.,01/26/2016,07:00,500 block Ross St,Golden Triangle/Civic Arena,2,,
+ARREST,16007541,2706,Terroristic Threats.,01/26/2016,08:54,600 block First Ave,Golden Triangle/Civic Arena,2,24,M
+ARREST,16007541,2709(a),Harassment.,01/26/2016,08:54,600 block First Ave,Golden Triangle/Civic Arena,2,24,M
+OFFENSE 2.0,15131728,903,Criminal Conspiracy.,01/26/2016,09:45,2000 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,15131728,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/26/2016,09:45,2000 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,15131728,13(a)(16),Possession of Controlled Substance,01/26/2016,09:45,2000 block Centre Ave,Crawford-Roberts,2,,
+ARREST,15131728,7512,Criminal Use of Communication,01/26/2016,09:45,2000 block Centre Ave,Crawford-Roberts,2,16,M
+ARREST,15131728,13(a)(30)*,Delivery of Controlled Substance,01/26/2016,09:45,2000 block Centre Ave,Crawford-Roberts,2,16,M
+ARREST,15131728,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/26/2016,09:45,2000 block Centre Ave,Crawford-Roberts,2,16,M
+ARREST,15131728,13(a)(16),Possession of Controlled Substance,01/26/2016,09:45,2000 block Centre Ave,Crawford-Roberts,2,16,M
+OFFENSE 2.0,15131728,13(a)(30)*,Delivery of Controlled Substance,01/26/2016,09:45,2000 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,16015410,3502,Burglary.,01/26/2016,13:30,100 block 57th St,Upper Lawrenceville,2,,
+ARREST,15237927,3502,Burglary.,01/26/2016,13:40,600 block 1st Ave,Crawford-Roberts,2,16,M
+ARREST,15237927,3921,Theft by Unlawful Taking or Disposition.,01/26/2016,13:40,600 block 1st Ave,Crawford-Roberts,2,16,M
+ARREST,15237927,3925,Receiving Stolen Property.,01/26/2016,13:40,600 block 1st Ave,Crawford-Roberts,2,16,M
+OFFENSE 2.0,16015441,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/26/2016,14:58,2000 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,16015503,13(a)(16),Possession of Controlled Substance,01/26/2016,17:00,Diaz Way & Wick St,Crawford-Roberts,2,,
+OFFENSE 2.0,16015503,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/26/2016,17:00,Diaz Way & Wick St,Crawford-Roberts,2,,
+ARREST,16015503,13(a)(32),Paraphernalia - Use or Possession,01/26/2016,17:00,Diaz Way & Wick St,Crawford-Roberts,2,17,M
+OFFENSE 2.0,16015503,13(a)(32),Paraphernalia - Use or Possession,01/26/2016,17:00,Diaz Way & Wick St,Crawford-Roberts,2,,
+ARREST,16015503,13(a)(16),Possession of Controlled Substance,01/26/2016,17:00,Diaz Way & Wick St,Crawford-Roberts,2,17,M
+ARREST,16015503,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/26/2016,17:00,Diaz Way & Wick St,Crawford-Roberts,2,17,M
+OFFENSE 2.0,16015601,3926(a)(1),Theft of Services; Cable  Gas  Taxi  Bill  Tab  etc.,01/26/2016,19:00,53rd St & Butler St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16015627,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/26/2016,19:56,11th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16015164,9999,9999 - (Misc. Incident): ,01/26/2016,01:32,2400 block Jane St,South Side Flats,3,,
+ARREST,15201262,3503(a),Criminal Trespass,01/26/2016,02:50,100 block Fernleaf St,Bluff,3,28,M
+OFFENSE 2.0,16015217,9999,9999 - (Misc. Incident): ,01/26/2016,04:00,300 block Wyoming St,Mount Washington,3,,
+ARREST,15176892,2701,Simple Assault.,01/26/2016,09:22,900 block Manton Way,Golden Triangle/Civic Arena,3,39,M
+OFFENSE 2.0,16015348,9999,9999 - (Misc. Incident): ,01/26/2016,11:00,Grape St,Knoxville,3,,
+OFFENSE 2.0,16015471,3929,Retail Theft.,01/26/2016,14:05,200 block Virginia Ave,Mount Washington,3,,
+OFFENSE 2.0,16015642,9999,9999 - (Misc. Incident): Possible Access Device Fraud,01/26/2016,15:00,700 block Esther St,Overbrook,3,,
+OFFENSE 2.0,16015510,3334,Turning Movements and Required Signals.,01/26/2016,16:57,Southern Ave & Natchez St,Mount Washington,3,,
+OFFENSE 2.0,16015510,13(a)(16),Possession of Controlled Substance,01/26/2016,16:57,Southern Ave & Natchez St,Mount Washington,3,,
+ARREST,16015510,13(a)(16),Possession of Controlled Substance,01/26/2016,16:59,Southern Ave & Natchez St,Mount Washington,3,45,M
+ARREST,16015518,13(a)(31),Marijuana: Possession Small Amount,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,32,F
+OFFENSE 2.0,16015518,3334,Turning Movements and Required Signals.,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16015518,3323,Stop Signs and Yield Signs.,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16015518,1543,Driving While Operating Privilege is Suspended or Revoked.,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16015518,13(a)(32),Paraphernalia - Use or Possession,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16015518,13(a)(31),Marijuana: Possession Small Amount,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16015518,13(a)(16),Possession of Controlled Substance,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,,
+ARREST,16015518,13(a)(32),Paraphernalia - Use or Possession,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,32,F
+ARREST,16015518,13(a)(32),Paraphernalia - Use or Possession,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,31,F
+ARREST,16015518,13(a)(16),Possession of Controlled Substance,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,31,F
+ARREST,16015518,3334,Turning Movements and Required Signals.,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,28,F
+ARREST,16015518,3323,Stop Signs and Yield Signs.,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,28,F
+ARREST,16015518,13(a)(16),Possession of Controlled Substance,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,28,F
+ARREST,16015518,13(a)(32),Paraphernalia - Use or Possession,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,28,F
+ARREST,16015518,1543,Driving While Operating Privilege is Suspended or Revoked.,01/26/2016,17:10,200 block Southern Ave,Mount Washington,3,28,F
+OFFENSE 2.0,16015577,3502,Burglary.,01/26/2016,18:00,200 block Jasper St,Mount Washington,3,,
+ARREST,15234596,9501,Bench Warrant,01/26/2016,18:45,E Carson St & S 17th St,South Side Flats,3,32,F
+OFFENSE 2.0,16015727,2701,Simple Assault.,01/26/2016,23:03,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16015727,5104,Resisting Arrest or Other Law Enforcement.,01/26/2016,23:03,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16015727,5503,Disorderly Conduct.,01/26/2016,23:03,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16015727,5505,Public Drunkenness,01/26/2016,23:03,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16015727,601.12,Interference with Official Duties,01/26/2016,23:03,1500 block E Carson St,South Side Flats,3,,
+ARREST,16015727,5104,Resisting Arrest or Other Law Enforcement.,01/26/2016,23:15,1500 block E Carson St,South Side Flats,3,27,M
+ARREST,16015727,5503,Disorderly Conduct.,01/26/2016,23:15,1500 block E Carson St,South Side Flats,3,27,M
+ARREST,16015727,5505,Public Drunkenness,01/26/2016,23:15,1500 block E Carson St,South Side Flats,3,27,M
+ARREST,16015727,601.12,Interference with Official Duties,01/26/2016,23:15,1500 block E Carson St,South Side Flats,3,27,M
+ARREST,16015727,2701,Simple Assault.,01/26/2016,23:15,1500 block E Carson St,South Side Flats,3,27,M
+OFFENSE 2.0,16015190,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): burglary in progress/accidental discharge,01/26/2016,02:32,3300 block Juliet St,South Oakland,4,,
+OFFENSE 2.0,16015290,3743,Accidents Involving Damage to Attended Veh. or Property,01/26/2016,06:45,Forbes Ave & Craft Ave,South Oakland,4,,
+OFFENSE 2.0,16015257,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,07:00,Beehner Rd & Greenfield Ave,Greenfield,4,,
+ARREST,15225222,3922,Theft by Deception.,01/26/2016,08:31,3300 block 5th Ave,Golden Triangle/Civic Arena,4,26,F
+ARREST,15225222,4101,Forgery.,01/26/2016,08:31,3300 block 5th Ave,Golden Triangle/Civic Arena,4,26,F
+OFFENSE 2.0,16015280,8104,CLASS 1 - Suspicious Package or Device,01/26/2016,10:15,Centre Ave & S Aiken Ave,Shadyside,4,,
+OFFENSE 2.0,16015329,3921,Theft by Unlawful Taking or Disposition.,01/26/2016,10:30,900 block Greenfield Ave,Greenfield,4,,
+OFFENSE 2.0,16015621,3929,Retail Theft.,01/26/2016,13:35,3700 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,16015509,3929,Retail Theft.,01/26/2016,14:22,3700 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,16015440,9123,Miscellaneous Fire Other Investigation to Continue,01/26/2016,14:50,200 block Meyran Ave,Central Oakland,4,,
+OFFENSE 2.0,16015567,3921,Theft by Unlawful Taking or Disposition.,01/26/2016,17:45,300 block Melwood Ave,North Oakland,4,,
+OFFENSE 2.0,16015550,9497,Aided Case,01/26/2016,18:40,Almeda St,Hazelwood,4,,
+OFFENSE 2.0,16015589,2709(a),Harassment.,01/26/2016,18:45,4600 block Centre Ave,North Oakland,4,,
+OFFENSE 2.0,16015593,9999,9999 - (Misc. Incident): ,01/26/2016,18:50,400 block Mansion St,Hazelwood,4,,
+OFFENSE 2.0,16015598,2705,Recklessly Endangering Another Person.,01/26/2016,18:57,5000 block Blair St,Hazelwood,4,,
+OFFENSE 2.0,16015598,3304,Criminal Mischief.,01/26/2016,18:57,5000 block Blair St,Hazelwood,4,,
+OFFENSE 2.0,16015671,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,20:40,Lawn St,South Oakland,4,,
+ARREST,16014906,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,01/26/2016,21:20,5500 block Centre Ave,Shadyside,4,38,M
+ARREST,15245360,3802(a)(1),DUI - General Impairment,01/26/2016,01:20,Liberty Ave & Main St,Bloomfield,5,28,M
+ARREST,15245360,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/26/2016,01:20,Liberty Ave & Main St,Bloomfield,5,28,M
+ARREST,16014878,3925,Receiving Stolen Property.,01/26/2016,02:31,7400 block Frankstown Ave,Homewood North,5,22,M
+OFFENSE 2.0,16014878,3925,Receiving Stolen Property.,01/26/2016,02:31,7400 block Frankstown Ave,Homewood North,5,,
+OFFENSE 2.0,16015195,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,16015195,3802(a)(1),DUI - General Impairment,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,16015195,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,16015195,1786,Required Financial Responsibility.,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,16015195,1543,Driving While Operating Privilege is Suspended or Revoked.,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,16015195,1501,Drivers Required to be Licensed.,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,16015195,1301,Registration and Certificate of Title Required.,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,16015195,4703,Operation of Vehicle without Official Certif. of Inspection,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,16015195,4706,Prohib. on Expend. for Emission Insp Prog..,01/26/2016,02:52,Bellman Way & N Sheridan Ave,Highland Park,5,,
+ARREST,16015195,1301,Registration and Certificate of Title Required.,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+ARREST,16015195,1501,Drivers Required to be Licensed.,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+ARREST,16015195,1543,Driving While Operating Privilege is Suspended or Revoked.,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+ARREST,16015195,1786,Required Financial Responsibility.,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+ARREST,16015195,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+ARREST,16015195,3802(a)(1),DUI - General Impairment,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+ARREST,16015195,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+ARREST,16015195,4703,Operation of Vehicle without Official Certif. of Inspection,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+ARREST,16015195,4706,Prohib. on Expend. for Emission Insp Prog..,01/26/2016,03:22,Bellman Way & N Sheridan Ave,Highland Park,5,27,M
+OFFENSE 2.0,16015565,3921,Theft by Unlawful Taking or Disposition.,01/26/2016,04:00,6300 block Glenview Pl,Highland Park,5,,
+OFFENSE 2.0,16015203,4703,Operation of Vehicle without Official Certif. of Inspection,01/26/2016,04:33,Bennett St & Collier St,Homewood South,5,,
+OFFENSE 2.0,16015203,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,04:33,Bennett St & Collier St,Homewood South,5,,
+OFFENSE 2.0,16015203,1301,Registration and Certificate of Title Required.,01/26/2016,04:33,Bennett St & Collier St,Homewood South,5,,
+OFFENSE 2.0,16015203,3733,Fleeing or Attempting to Elude Police Officer,01/26/2016,04:33,Bennett St & Collier St,Homewood South,5,,
+OFFENSE 2.0,16015446,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,06:40,300 block Stratford Ave,Friendship,5,,
+OFFENSE 2.0,16015359,3934,Theft from Vehicle,01/26/2016,08:20,2200 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,16015294,3921,Theft by Unlawful Taking or Disposition.,01/26/2016,09:00,2500 block ParkHill Dr,East Hills,5,,
+ARREST,15141217,9015,Failure To Appear/Arrest on Attachment Order,01/26/2016,11:00,7300 block Hamilton Ave,Homewood South,5,38,M
+OFFENSE 2.0,16015377,601.11(a),Littering and Dumping; Any waste  dangerous or detrimental substance upon public property,01/26/2016,11:00,7400 block Frankstown Ave,Homewood North,5,,
+OFFENSE 2.0,16015339,2702,Aggravated Assault.,01/26/2016,11:35,Ferndale St & Angora Way,Homewood North,5,,
+OFFENSE 2.0,16015428,3304,Criminal Mischief.,01/26/2016,12:00,Kelly St & N Lang Ave,Homewood South,5,,
+ARREST,16005877,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/26/2016,12:40,7100 block Highland Dr,Perry North,5,18,M
+ARREST,16005877,13(a)(16),Possession of Controlled Substance,01/26/2016,12:40,7100 block Highland Dr,Perry North,5,18,M
+ARREST,16005877,903,Criminal Conspiracy.,01/26/2016,12:40,7100 block Highland Dr,Perry North,5,18,M
+OFFENSE 2.0,16015398,3921,Theft by Unlawful Taking or Disposition.,01/26/2016,13:11,5400 block Black St,Garfield,5,,
+OFFENSE 2.0,16015398,4106,Access Device Fraud,01/26/2016,13:11,5400 block Black St,Garfield,5,,
+OFFENSE 2.0,16015399,029,Missing Juvenile,01/26/2016,13:30,300 block S Negley Ave,Friendship,5,,
+OFFENSE 2.0,16015466,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,15:30,700 block Brushton Ave,Homewood South,5,,
+OFFENSE 2.0,16015552,3921,Theft by Unlawful Taking or Disposition.,01/26/2016,16:00,300 block N Negley Ave,East Liberty,5,,
+OFFENSE 2.0,16015542,3502,Burglary.,01/26/2016,16:10,300 block Lowell St,Larimer,5,,
+OFFENSE 2.0,16015542,903,Criminal Conspiracy.,01/26/2016,16:10,300 block Lowell St,Larimer,5,,
+OFFENSE 2.0,16015460,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): Suspicious communication with juvenile. ,01/26/2016,16:15,5500 block Wellesley Ave,Highland Park,5,,
+OFFENSE 2.0,16015486,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,16:20,300 block Darsie St,Bloomfield,5,,
+OFFENSE 2.0,16015549,3743,Accidents Involving Damage to Attended Veh. or Property,01/26/2016,16:55,100 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,16015610,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/26/2016,19:17,1200 block Nolan Ct,Homewood North,5,,
+OFFENSE 2.0,16015376,3934,Theft from Vehicle,01/26/2016,02:00,700 block Bellaire Ave,Brookline,6,,
+ARREST,16014097,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/26/2016,02:00,1000 block Banksville Rd,Banksville,6,30,M
+ARREST,16014097,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/26/2016,02:00,1000 block Banksville Rd,Banksville,6,30,M
+OFFENSE 2.0,16015186,3802(a)(1),DUI - General Impairment,01/26/2016,02:20,Steuben St,Elliott,6,,
+OFFENSE 2.0,16015186,3736,Reckless Driving,01/26/2016,02:20,Steuben St,Elliott,6,,
+ARREST,16015186,3736,Reckless Driving,01/26/2016,02:38,Steuben St,Elliott,6,29,M
+ARREST,16015186,3802(a)(1),DUI - General Impairment,01/26/2016,02:38,Steuben St,Elliott,6,29,M
+OFFENSE 2.0,16015240,3934,Theft from Vehicle,01/26/2016,05:10,2800 block Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,16015271,3304,Criminal Mischief.,01/26/2016,05:45,500 block Fordham St,Brookline,6,,
+OFFENSE 2.0,16015271,3934,Theft from Vehicle,01/26/2016,05:45,500 block Fordham St,Brookline,6,,
+OFFENSE 2.0,16015468,3934,Theft from Vehicle,01/26/2016,06:30,500 block Fordham St,Brookline,6,,
+OFFENSE 2.0,16015502,3934,Theft from Vehicle,01/26/2016,08:00,2800 block Shawhan Ave,Brookline,6,,
+OFFENSE 2.0,16015296,9488,False  Burglar Alarm,01/26/2016,10:11,900 block Chartiers Ave,Elliott,6,,
+OFFENSE 2.0,16015356,9496,Dead on Arrival (DOA),01/26/2016,12:10,1100 block Wareman Ave,Brookline,6,,
+OFFENSE 2.0,16015393,9093,Indirect Criminal Contempt,01/26/2016,12:50,300 block S Main St,West End,6,,
+OFFENSE 2.0,16015365,9488,False  Burglar Alarm,01/26/2016,12:55,1500 block Milan Ave,Brookline,6,,
+OFFENSE 2.0,16015443,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,14:30,300 block La Marido St,Brookline,6,,
+OFFENSE 2.0,16015448,9496,Dead on Arrival (DOA),01/26/2016,14:46,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,16015524,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/26/2016,16:00,2800 block Shawhan Ave,Brookline,6,,
+OFFENSE 2.0,16015543,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/26/2016,16:00,3000 block Christy St,Crafton Heights,6,,
+OFFENSE 2.0,16015600,2702,Aggravated Assault.,01/26/2016,19:05,300 block Lorenz Ave,Elliott,6,,
+OFFENSE 2.0,16015592,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/26/2016,19:05,2200 block Noblestown Rd,Westwood,6,,
+OFFENSE 2.0,16015605,7512,Criminal Use of Communication,01/26/2016,19:06,Hillsboro St & Bridgely Way,Sheraden,6,,
+OFFENSE 2.0,16015605,13(a)(31),Marijuana: Possession Small Amount,01/26/2016,19:06,Hillsboro St & Bridgely Way,Sheraden,6,,
+OFFENSE 2.0,16015605,13(a)(30)*,Delivery of Controlled Substance,01/26/2016,19:06,Hillsboro St & Bridgely Way,Sheraden,6,,
+OFFENSE 2.0,16015605,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/26/2016,19:06,Hillsboro St & Bridgely Way,Sheraden,6,,
+OFFENSE 2.0,16015605,13(a)(16),Possession of Controlled Substance,01/26/2016,19:06,Hillsboro St & Bridgely Way,Sheraden,6,,
+ARREST,16015605,7512,Criminal Use of Communication,01/26/2016,19:12,Hillsboro St & Bridgely Way,Sheraden,6,16,M
+ARREST,16015605,13(a)(31),Marijuana: Possession Small Amount,01/26/2016,19:12,Hillsboro St & Bridgely Way,Sheraden,6,16,M
+ARREST,16015605,13(a)(30)*,Delivery of Controlled Substance,01/26/2016,19:12,Hillsboro St & Bridgely Way,Sheraden,6,16,M
+ARREST,16015605,13(a)(16),Possession of Controlled Substance,01/26/2016,19:12,Hillsboro St & Bridgely Way,Sheraden,6,16,M
+ARREST,16015605,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/26/2016,19:12,Hillsboro St & Bridgely Way,Sheraden,6,16,M
+OFFENSE 2.0,16015657,2702,Aggravated Assault.,01/26/2016,20:48,1600 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16015657,2705,Recklessly Endangering Another Person.,01/26/2016,20:48,1600 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16015657,3701,Robbery.,01/26/2016,20:48,1600 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16015657,4304(a)(1),Endangering Welfare of Children.,01/26/2016,20:48,1600 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16015657,903,Criminal Conspiracy.,01/26/2016,20:48,1600 block Crucible St,Crafton Heights,6,,

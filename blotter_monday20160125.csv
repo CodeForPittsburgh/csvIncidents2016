@@ -1,0 +1,101 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16014625,9488,False  Burglar Alarm,01/25/2016,06:02,3400 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16014792,3921,Theft by Unlawful Taking or Disposition.,01/25/2016,11:00,600 block Pressley St,East Allegheny,1,,
+OFFENSE 2.0,16014727,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/25/2016,11:04,Mercy St,Fineview,1,,
+ARREST,16014723,13(a)(32),Paraphernalia - Use or Possession,01/25/2016,11:05,600 block East Ohio St,East Allegheny,1,21,F
+OFFENSE 2.0,16014723,13(a)(32),Paraphernalia - Use or Possession,01/25/2016,11:05,600 block East Ohio St,East Allegheny,1,,
+ARREST,15244537,3921,Theft by Unlawful Taking or Disposition.,01/25/2016,11:10,800 block Phineas St,East Allegheny,1,22,M
+ARREST,15244537,3502,Burglary.,01/25/2016,11:10,800 block Phineas St,East Allegheny,1,22,M
+ARREST,15244537,903,Criminal Conspiracy.,01/25/2016,11:10,800 block Phineas St,East Allegheny,1,22,M
+ARREST,15244537,3925,Receiving Stolen Property.,01/25/2016,11:10,800 block Phineas St,East Allegheny,1,22,M
+ARREST,16009806,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/25/2016,16:53,2000 block Straubs Ln,Troy Hill-Herrs Island,1,24,F
+OFFENSE 2.0,16014928,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/25/2016,17:32,100 block Penfort St,Northview Heights,1,,
+OFFENSE 2.0,16014928,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/25/2016,17:32,100 block Penfort St,Northview Heights,1,,
+OFFENSE 2.0,16015026,2707,Propulsion of Missiles ,01/25/2016,19:50,West End Brg & Ohio River Blvd Ramp,Chateau,1,,
+ARREST,15191350,2701,Simple Assault.,01/25/2016,10:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,28,F
+ARREST,15191350,4304(a)(1),Endangering Welfare of Children.,01/25/2016,10:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,28,F
+OFFENSE 2.0,16014729,029,Missing Juvenile,01/25/2016,11:30,5100 block Stanton Ave,Upper Lawrenceville,2,,
+OFFENSE 2.0,16014769,4106,Access Device Fraud,01/25/2016,12:21,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16014769,4120,Identity Theft,01/25/2016,12:21,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+ARREST,16014826,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/25/2016,14:37,400 block Smithfield St,Golden Triangle/Civic Arena,2,27,M
+ARREST,16014826,3929,Retail Theft.,01/25/2016,14:37,400 block Smithfield St,Golden Triangle/Civic Arena,2,27,M
+OFFENSE 2.0,16014826,3929,Retail Theft.,01/25/2016,14:37,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16014826,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,01/25/2016,14:37,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16014881,9501,Bench Warrant,01/25/2016,16:16,1300 block forbes Ave,Upper Hill,2,,
+OFFENSE 2.0,16014881,3503,Criminal Trespass,01/25/2016,16:16,1300 block forbes Ave,Upper Hill,2,,
+ARREST,16014881,3503,Criminal Trespass,01/25/2016,16:20,1300 block forbes Ave,Upper Hill,2,51,M
+ARREST,16014881,4016,Bond Forfeiture,01/25/2016,16:20,1300 block forbes Ave,Upper Hill,2,51,M
+ARREST,16013290,2701,Simple Assault.,01/25/2016,19:22,3700 block Melwood Ave,Polish Hill,2,65,M
+OFFENSE 2.0,16014536,9488,False  Burglar Alarm,01/25/2016,00:25,2400 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16014711,3304,Criminal Mischief.,01/25/2016,05:30,3000 block Arlington Ave,Arlington Heights,3,,
+OFFENSE 2.0,16014649,3921,Theft by Unlawful Taking or Disposition.,01/25/2016,07:40,Minooka St,Carrick,3,,
+OFFENSE 2.0,16014684,3701,Robbery.,01/25/2016,09:15,100 block Minooka St,Carrick,3,,
+ARREST,16014719,13(a)(31),Marijuana: Possession Small Amount,01/25/2016,10:25,1200 block Brownsville Rd,Carrick,3,39,M
+OFFENSE 2.0,16014719,13(a)(31),Marijuana: Possession Small Amount,01/25/2016,10:25,1200 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16014756,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,01/25/2016,12:00,3000 block Arlington Ave,Arlington Heights,3,,
+ARREST,16003803,3921,Theft by Unlawful Taking or Disposition.,01/25/2016,12:29,100 block Monastery Ave,South Side Slopes,3,42,M
+OFFENSE 2.0,16014837,3934,Theft from Vehicle,01/25/2016,14:30,100 block S 16th St,South Side Flats,3,,
+OFFENSE 2.0,16014860,3743,Accidents Involving Damage to Attended Veh. or Property,01/25/2016,14:50,P J Mc Ardle Rdwy & Liberty Brg,South Side Slopes,3,,
+OFFENSE 2.0,16014912,9999,9999 - (Misc. Incident): ,01/25/2016,15:45,2000 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16014873,5505,Public Drunkenness,01/25/2016,16:06,E Carson St & S 21st St,South Side Flats,3,,
+ARREST,15232124,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/25/2016,16:47,200 block Beltzhoover Ave,Beltzhoover,3,18,M
+OFFENSE 2.0,16014983,2709(a),Harassment.,01/25/2016,17:10,Wyoming St & Virginia Ave,Mount Washington,3,,
+OFFENSE 2.0,16014972,3921,Theft by Unlawful Taking or Disposition.,01/25/2016,17:40,S 26th St,South Side Flats,3,,
+OFFENSE 2.0,16014957,9093,Indirect Criminal Contempt,01/25/2016,18:00,200 block Mc Kinley St,Knoxville,3,,
+ARREST,16014957,9093,Indirect Criminal Contempt,01/25/2016,18:10,200 block Mc Kinley St,Knoxville,3,48,M
+OFFENSE 2.0,16015059,9501,Bench Warrant,01/25/2016,20:22,2400 block Saw Mill Run Blvd,Overbrook,3,,
+ARREST,16015059,9501,Bench Warrant,01/25/2016,20:22,2400 block Saw Mill Run Blvd,Overbrook,3,23,M
+OFFENSE 2.0,16014571,5121,Escape.,01/25/2016,02:22,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16014571,3929,Retail Theft.,01/25/2016,02:22,200 block Atwood St,Central Oakland,4,,
+ARREST,16014571,5121,Escape.,01/25/2016,02:32,200 block Atwood St,Central Oakland,4,34,M
+ARREST,16014571,3929,Retail Theft.,01/25/2016,02:32,200 block Atwood St,Central Oakland,4,34,M
+OFFENSE 2.0,16014878,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/25/2016,07:45,7700 block Penn Ave,Point Breeze North,4,,
+OFFENSE 2.0,16014697,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,01/25/2016,09:30,300 block S Bouquet St,Central Oakland,4,,
+OFFENSE 2.0,16014857,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,01/25/2016,15:00,1200 block Scorer St,Lincoln Place,4,,
+ARREST,16012153,13(a)(16),Possession of Controlled Substance,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,20,M
+ARREST,16012153,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,20,M
+ARREST,16012153,13(a)(32),Paraphernalia - Use or Possession,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,,M
+ARREST,16012153,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,,M
+ARREST,16012153,13(a)(16),Possession of Controlled Substance,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,,M
+ARREST,16012153,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,19,M
+ARREST,16012153,13(a)(16),Possession of Controlled Substance,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,19,M
+ARREST,16012153,13(a)(32),Paraphernalia - Use or Possession,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,20,M
+ARREST,16012153,13(a)(16),Possession of Controlled Substance,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,19,M
+ARREST,16012153,13(a)(30),Possession w/ Intent to Del. Controlled Substance,01/25/2016,16:15,3300 block Juliet St,South Oakland,4,19,M
+OFFENSE 2.0,16014885,8106,Shots Fired,01/25/2016,16:35,2000 block De Ruad St,West Oakland,4,,
+OFFENSE 2.0,16014958,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/25/2016,18:08,Glenwood Ave & Mansion St,Hazelwood,4,,
+OFFENSE 2.0,16015001,2709(a),Harassment.,01/25/2016,19:20,200 block Burrows St,West Oakland,4,,
+ARREST,16014535,2701,Simple Assault.,01/25/2016,00:54,7300 block Hamilton Ave,Homewood South,5,60,F
+OFFENSE 2.0,16014535,2701,Simple Assault.,01/25/2016,00:54,7300 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,16014661,3304,Criminal Mischief.,01/25/2016,05:00,100 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,16014640,9999,9999 - (Misc. Incident): ,01/25/2016,07:04,1400 block Washington Blvd,Highland Park,5,,
+ARREST,16004037,607.03,Discharging Firearm or Airgun,01/25/2016,09:25,1400 block Washington Blvd,Highland Park,5,21,F
+ARREST,16004037,4304(a)(1),Endangering Welfare of Children.,01/25/2016,09:25,1400 block Washington Blvd,Highland Park,5,21,F
+ARREST,16004037,2705,Recklessly Endangering Another Person.,01/25/2016,09:25,1400 block Washington Blvd,Highland Park,5,21,F
+ARREST,16004037,6301,Corruption of Minors.,01/25/2016,09:25,1400 block Washington Blvd,Highland Park,5,21,F
+OFFENSE 2.0,16014691,029,Missing Juvenile,01/25/2016,09:30,7700 block Alsace St,Homewood South,5,,
+OFFENSE 2.0,16014715,4120,Identity Theft,01/25/2016,10:40,300 block S Pacific Ave,Bloomfield,5,,
+OFFENSE 2.0,16014815,3921,Theft by Unlawful Taking or Disposition.,01/25/2016,11:00,4800 block Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,16014760,9999,9999 - (Misc. Incident): ,01/25/2016,12:00,Hendon Ct,East Liberty,5,,
+ARREST,16014796,13(a)(31),Marijuana: Possession Small Amount,01/25/2016,13:40,2100 block Parkhill Dr,East Hills,5,21,M
+ARREST,16014796,9501,Bench Warrant,01/25/2016,13:40,2100 block Parkhill Dr,East Hills,5,21,M
+OFFENSE 2.0,16014796,13(a)(31),Marijuana: Possession Small Amount,01/25/2016,14:16,2100 block Parkhill Dr,East Hills,5,,
+OFFENSE 2.0,16014796,9501,Bench Warrant,01/25/2016,14:16,2100 block Parkhill Dr,East Hills,5,,
+OFFENSE 2.0,16014687,3743,Accidents Involving Damage to Attended Veh. or Property,01/25/2016,09:17,Banksville Rd & Mc Monagle Ave,Banksville,6,,
+OFFENSE 2.0,16014759,9093,Indirect Criminal Contempt,01/25/2016,11:58,300 block Longmore Ave,Beechview,6,,
+ARREST,15185539,2903,False Imprisonment.,01/25/2016,12:00,1500 block Saw Mill Run Blvd,Golden Triangle/Civic Arena,6,14,M
+ARREST,15185539,3502,Burglary.,01/25/2016,12:00,1500 block Saw Mill Run Blvd,Golden Triangle/Civic Arena,6,14,M
+ARREST,15185539,3921,Theft by Unlawful Taking or Disposition.,01/25/2016,12:00,1500 block Saw Mill Run Blvd,Golden Triangle/Civic Arena,6,14,M
+ARREST,15185539,3925,Receiving Stolen Property.,01/25/2016,12:00,1500 block Saw Mill Run Blvd,Golden Triangle/Civic Arena,6,14,M
+ARREST,15185539,903,Criminal Conspiracy.,01/25/2016,12:00,1500 block Saw Mill Run Blvd,Golden Triangle/Civic Arena,6,14,M
+OFFENSE 2.0,16014783,9488,False  Burglar Alarm,01/25/2016,12:50,3400 block Clearfield St,Windgap,6,,
+OFFENSE 2.0,16014892,3743,Accidents Involving Damage to Attended Veh. or Property,01/25/2016,16:38,West Liberty Ave & Cape May Ave,Beechview,6,,
+OFFENSE 2.0,16014917,9999,9999 - (Misc. Incident): ,01/25/2016,18:00,400 block Mapleview Dr,Sheraden,6,,
+OFFENSE 2.0,16015085,3304,Criminal Mischief.,01/25/2016,21:50,3200 block Faronia St,Sheraden,6,,
+OFFENSE 2.0,16015085,3502,Burglary.,01/25/2016,21:50,3200 block Faronia St,Sheraden,6,,
+OFFENSE 2.0,16015085,2706,Terroristic Threats.,01/25/2016,21:50,3200 block Faronia St,Sheraden,6,,
+ARREST,16015085,3502,Burglary.,01/25/2016,22:00,3200 block Faronia St,Sheraden,6,27,M
+ARREST,16015085,3304,Criminal Mischief.,01/25/2016,22:00,3200 block Faronia St,Sheraden,6,27,M
+ARREST,16015085,2706,Terroristic Threats.,01/25/2016,22:00,3200 block Faronia St,Sheraden,6,27,M
+ARREST,16000099,2702,Aggravated Assault.,01/25/2016,13:30,600 block Hood School Rd,South Side Flats,OSC,36,M
+OFFENSE 2.0,16014901,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/25/2016,16:50,6000 block Broad St,East Liberty,OSC,,

@@ -1,0 +1,137 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16014010,3502,Burglary.,01/24/2016,00:30,1500 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,16014099,1543,Driving While Operating Privilege is Suspended or Revoked.,01/24/2016,03:29,Isabella St & Sandusky St S,North Shore,1,,
+OFFENSE 2.0,16014099,3334,Turning Movements and Required Signals.,01/24/2016,03:29,Isabella St & Sandusky St S,North Shore,1,,
+OFFENSE 2.0,16014099,1301,Registration and Certificate of Title Required.,01/24/2016,03:29,Isabella St & Sandusky St S,North Shore,1,,
+OFFENSE 2.0,16014099,3733,Fleeing or Attempting to Elude Police Officer,01/24/2016,03:29,Isabella St & Sandusky St S,North Shore,1,,
+OFFENSE 2.0,16014251,3304,Criminal Mischief.,01/24/2016,08:00,200 block North Shore Dr,North Shore,1,,
+OFFENSE 2.0,16014375,3921,Theft by Unlawful Taking or Disposition.,01/24/2016,08:00,1700 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,16014210,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/24/2016,10:37,Liverpool St & Sedgwick St,Manchester,1,,
+OFFENSE 2.0,16014221,3929,Retail Theft.,01/24/2016,11:00,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,16014232,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,11:32,1200 block Voskamp St,Spring Garden,1,,
+OFFENSE 2.0,16014254,3304,Criminal Mischief.,01/24/2016,12:00,2700 block Mc Dowell St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16014254,2709,Harassment (Non-Specific),01/24/2016,12:00,2700 block Mc Dowell St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16014367,2709(a),Harassment.,01/24/2016,16:35,3000 block Cake Way,Marshall-Shadeland,1,,
+OFFENSE 2.0,16014367,2706,Terroristic Threats.,01/24/2016,16:35,3000 block Cake Way,Marshall-Shadeland,1,,
+OFFENSE 2.0,16014397,2706,Terroristic Threats.,01/24/2016,17:05,Frederick St & Dickson St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16014397,3701,Robbery.,01/24/2016,17:05,Frederick St & Dickson St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16014398,3701,Robbery.,01/24/2016,17:39,2100 block Rhine St,Spring Hill-City View,1,,
+OFFENSE 2.0,16014398,2701,Simple Assault.,01/24/2016,17:39,2100 block Rhine St,Spring Hill-City View,1,,
+OFFENSE 2.0,16014398,2705,Recklessly Endangering Another Person.,01/24/2016,17:39,2100 block Rhine St,Spring Hill-City View,1,,
+ARREST,16014397,2706,Terroristic Threats.,01/24/2016,18:00,Frederick St & Dickson St,Marshall-Shadeland,1,12,M
+ARREST,16014397,3701,Robbery.,01/24/2016,18:00,Frederick St & Dickson St,Marshall-Shadeland,1,12,M
+OFFENSE 2.0,16014439,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,01/24/2016,19:09,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16014466,9498,302 (Mental),01/24/2016,19:55,University Ave,Perry South,1,,
+OFFENSE 2.0,16014499,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/24/2016,22:10,1300 block Goettmann St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16014499,5104,Resisting Arrest or Other Law Enforcement.,01/24/2016,22:10,1300 block Goettmann St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16014499,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/24/2016,22:10,1300 block Goettmann St,Troy Hill-Herrs Island,1,,
+ARREST,16014499,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/24/2016,22:24,1300 block Goettmann St,Troy Hill-Herrs Island,1,37,M
+ARREST,16014499,5104,Resisting Arrest or Other Law Enforcement.,01/24/2016,22:24,1300 block Goettmann St,Troy Hill-Herrs Island,1,37,M
+ARREST,16014499,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,01/24/2016,22:24,1300 block Goettmann St,Troy Hill-Herrs Island,1,37,M
+ARREST,15211504,3929,Retail Theft.,01/24/2016,01:45,100 block Forbes Ave,Golden Triangle/Civic Arena,2,36,F
+OFFENSE 2.0,16014157,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,06:50,4600 block Carlton St,Central Lawrenceville,2,,
+OFFENSE 2.0,16014160,3502,Burglary.,01/24/2016,07:15,500 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16014160,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,07:15,500 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16014160,3925,Receiving Stolen Property.,01/24/2016,07:15,500 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+ARREST,16014160,3502,Burglary.,01/24/2016,08:00,500 block William Penn Pl,Golden Triangle/Civic Arena,2,26,
+ARREST,16014160,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,08:00,500 block William Penn Pl,Golden Triangle/Civic Arena,2,26,
+ARREST,16014160,3925,Receiving Stolen Property.,01/24/2016,08:00,500 block William Penn Pl,Golden Triangle/Civic Arena,2,26,
+ARREST,15243329,903,Criminal Conspiracy.,01/24/2016,14:06,900 block Second Ave,Sheraden,2,22,M
+ARREST,15243329,3701,Robbery.,01/24/2016,14:06,900 block Second Ave,Sheraden,2,22,M
+OFFENSE 2.0,16014340,3743,Accidents Involving Damage to Attended Veh. or Property,01/24/2016,15:40,Liberty Ave & 12th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16014360,3743,Accidents Involving Damage to Attended Veh. or Property,01/24/2016,16:27,Grant St & Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16014353,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),01/24/2016,16:30,1800 block Forbes Ave,Bluff,2,,
+OFFENSE 2.0,16014404,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,17:55,Liberty Ave & 11th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16014415,5104,Resisting Arrest or Other Law Enforcement.,01/24/2016,18:31,Webster Ave & Belinda St,Middle Hill,2,,
+OFFENSE 2.0,16014415,5503,Disorderly Conduct.,01/24/2016,18:31,Webster Ave & Belinda St,Middle Hill,2,,
+OFFENSE 2.0,16014415,5505,Public Drunkenness,01/24/2016,18:31,Webster Ave & Belinda St,Middle Hill,2,,
+OFFENSE 2.0,16014415,2702,Aggravated Assault.,01/24/2016,18:31,Webster Ave & Belinda St,Middle Hill,2,,
+ARREST,16014415,5505,Public Drunkenness,01/24/2016,18:31,Webster Ave & Belinda St,Middle Hill,2,38,F
+ARREST,16014415,5104,Resisting Arrest or Other Law Enforcement.,01/24/2016,18:31,Webster Ave & Belinda St,Middle Hill,2,38,F
+ARREST,16014415,2702,Aggravated Assault.,01/24/2016,18:31,Webster Ave & Belinda St,Middle Hill,2,38,F
+ARREST,16014415,5503,Disorderly Conduct.,01/24/2016,18:31,Webster Ave & Belinda St,Middle Hill,2,38,F
+OFFENSE 2.0,16014003,2709(a),Harassment.,01/24/2016,00:15,200 block Augusta St,Duquesne Heights,3,,
+OFFENSE 2.0,16014034,5505,Public Drunkenness,01/24/2016,01:24,Brownsville Rd & The Boulevard,Carrick,3,,
+OFFENSE 2.0,16014034,5507,Obstructing Highways and Passages.,01/24/2016,01:24,Brownsville Rd & The Boulevard,Carrick,3,,
+ARREST,16014034,5507,Obstructing Highways and Passages.,01/24/2016,01:34,Brownsville Rd & The Boulevard,Carrick,3,48,M
+ARREST,16014034,5505,Public Drunkenness,01/24/2016,01:34,Brownsville Rd & The Boulevard,Carrick,3,48,M
+ARREST,16014045,13(a)(31),Marijuana: Possession Small Amount,01/24/2016,01:53,S 13th St & E Carson St,South Side Flats,3,22,M
+OFFENSE 2.0,16014045,13(a)(31),Marijuana: Possession Small Amount,01/24/2016,01:55,S 13th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16014060,601.16,Public Urination And Defecation,01/24/2016,02:10,S 12th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16014056,5505,Public Drunkenness,01/24/2016,02:20,1300 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16014091,5505,Public Drunkenness,01/24/2016,03:30,2500 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16014114,2701,Simple Assault.,01/24/2016,04:06,2000 block Spring St,Arlington,3,,
+ARREST,16014114,2701,Simple Assault.,01/24/2016,04:14,2000 block Spring St,Arlington,3,43,M
+ARREST,15237762,9015,Failure To Appear/Arrest on Attachment Order,01/24/2016,09:20,S 18th St & Wrights Way,Bluff,3,19,M
+OFFENSE 2.0,16010738,9496,Dead on Arrival (DOA),01/24/2016,10:00,Stewart Ave,Carrick,3,,
+OFFENSE 2.0,16014217,3934,Theft from Vehicle,01/24/2016,10:30,S 18th St & Larkins Way,South Side Flats,3,,
+OFFENSE 2.0,16014301,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,11:00,2200 block Jane St,South Side Flats,3,,
+OFFENSE 2.0,16014249,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/24/2016,12:15,Jane St & S 27th St,South Side Flats,3,,
+ARREST,16014267,13(a)(32),Paraphernalia - Use or Possession,01/24/2016,12:20,Brownsville Rd & Mc Kinley St,Knoxville,3,24,M
+ARREST,16014267,1543,Driving While Operating Privilege is Suspended or Revoked.,01/24/2016,12:20,Brownsville Rd & Mc Kinley St,Knoxville,3,24,M
+OFFENSE 2.0,16014267,13(a)(32),Paraphernalia - Use or Possession,01/24/2016,12:30,Brownsville Rd & Mc Kinley St,Knoxville,3,,
+OFFENSE 2.0,16014267,1543,Driving While Operating Privilege is Suspended or Revoked.,01/24/2016,12:30,Brownsville Rd & Mc Kinley St,Knoxville,3,,
+OFFENSE 2.0,16014343,13(a)(16),Possession of Controlled Substance,01/24/2016,16:05,300 block Brownsville Rd,Knoxville,3,,
+ARREST,16014343,3334,Turning Movements and Required Signals.,01/24/2016,16:05,300 block Brownsville Rd,Knoxville,3,28,M
+ARREST,16014343,13(a)(16),Possession of Controlled Substance,01/24/2016,16:05,300 block Brownsville Rd,Knoxville,3,28,M
+OFFENSE 2.0,16014343,3334,Turning Movements and Required Signals.,01/24/2016,16:05,300 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,16014351,2709(a)(3),Harassment No Legitimate Purpose,01/24/2016,16:18,2100 block Salisbury St,South Side Slopes,3,,
+OFFENSE 2.0,16014417,029,Missing Juvenile,01/24/2016,17:45,300 block Sylvania Ave,Beltzhoover,3,,
+OFFENSE 2.0,16014431,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,18:49,1900 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16014431,5123,Contraband.,01/24/2016,18:49,1900 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16014431,701.14,License Revocation or Suspension,01/24/2016,18:49,1900 block Brownsville Rd,Carrick,3,,
+ARREST,16014431,701.14,License Revocation or Suspension,01/24/2016,19:15,1900 block Brownsville Rd,Carrick,3,32,M
+ARREST,16014431,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,19:15,1900 block Brownsville Rd,Carrick,3,32,M
+ARREST,16014431,5123,Contraband.,01/24/2016,19:15,1900 block Brownsville Rd,Carrick,3,32,M
+OFFENSE 2.0,16014311,4106,Access Device Fraud,01/24/2016,01:04,200 block Meyran Ave,Central Oakland,4,,
+OFFENSE 2.0,16014311,3701,Robbery.,01/24/2016,01:04,200 block Meyran Ave,Central Oakland,4,,
+OFFENSE 2.0,16014048,3934,Theft from Vehicle,01/24/2016,01:55,3300 block Juliet St,South Oakland,4,,
+OFFENSE 2.0,16014214,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,10:35,5500 block Forbes Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16014257,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/24/2016,12:15,3100 block Beechwood Blvd,Squirrel Hill South,4,,
+OFFENSE 2.0,16014265,3304,Criminal Mischief.,01/24/2016,12:15,Oakland Sq,Central Oakland,4,,
+OFFENSE 2.0,16014294,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/24/2016,13:00,4500 block 5th Ave,North Oakland,4,,
+OFFENSE 2.0,16014424,9999,9999 - (Misc. Incident): ,01/24/2016,18:32,700 block Saline St,Greenfield,4,,
+OFFENSE 2.0,16014456,3701,Robbery.,01/24/2016,19:59,3300 block Hamlet St,South Oakland,4,,
+OFFENSE 2.0,16014016,029,Missing Juvenile,01/24/2016,00:54,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,16014075,6110.1,Possesion of Firearm by Minor,01/24/2016,02:35,6500 block Hamilton Ave,Larimer,5,,
+OFFENSE 2.0,16014075,6106,Firearms not to be Carried without a License.,01/24/2016,02:35,6500 block Hamilton Ave,Larimer,5,,
+OFFENSE 2.0,16014075,3925,Receiving Stolen Property.,01/24/2016,02:35,6500 block Hamilton Ave,Larimer,5,,
+ARREST,16014075,3925,Receiving Stolen Property.,01/24/2016,02:35,6500 block Hamilton Ave,Larimer,5,17,M
+ARREST,16014075,6106,Firearms not to be Carried without a License.,01/24/2016,02:35,6500 block Hamilton Ave,Larimer,5,17,M
+ARREST,16014075,6110.1,Possesion of Firearm by Minor,01/24/2016,02:35,6500 block Hamilton Ave,Larimer,5,17,M
+OFFENSE 2.0,16014164,4106,Access Device Fraud,01/24/2016,03:30,2300 block East Hills Dr,East Hills,5,,
+ARREST,16014110,9501,Bench Warrant,01/24/2016,03:51,6400 block Hamilton Ave,Larimer,5,23,M
+ARREST,16014110,4914,False Identification to Law Enforcement Authorities,01/24/2016,03:51,6400 block Hamilton Ave,Larimer,5,23,M
+OFFENSE 2.0,16014110,9501,Bench Warrant,01/24/2016,03:51,6400 block Hamilton Ave,Larimer,5,,
+OFFENSE 2.0,16014110,4914,False Identification to Law Enforcement Authorities,01/24/2016,03:51,6400 block Hamilton Ave,Larimer,5,,
+OFFENSE 2.0,16014173,029,Missing Juvenile,01/24/2016,09:06,1000 block Stoneville St,Homewood North,5,,
+OFFENSE 2.0,16014230,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,01/24/2016,11:15,4000 block Mintwood St,Bloomfield,5,,
+OFFENSE 2.0,16014230,3934,Theft from Vehicle,01/24/2016,11:15,4000 block Mintwood St,Bloomfield,5,,
+OFFENSE 2.0,16014236,3934,Theft from Vehicle,01/24/2016,11:30,400 block Pearl St,Bloomfield,5,,
+OFFENSE 2.0,16014359,2709(a),Harassment.,01/24/2016,16:30,7100 block Frankstown Ave,Homewood South,5,,
+OFFENSE 2.0,16014411,3503(a),Criminal Trespass,01/24/2016,18:30,500 block S Winebiddle St,Bloomfield,5,,
+OFFENSE 2.0,16014458,8105,CLASS 2 - Bomb Threat,01/24/2016,19:15,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16013995,9488,False  Burglar Alarm,01/24/2016,00:21,700 block Dunster St,Brookline,6,,
+OFFENSE 2.0,16014005,3802(a)(1),DUI - General Impairment,01/24/2016,00:30,2500 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,16014005,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/24/2016,00:30,2500 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,16014005,3733,Fleeing or Attempting to Elude Police Officer,01/24/2016,00:30,2500 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,16014005,5503,Disorderly Conduct.,01/24/2016,00:30,2500 block West Liberty Ave,Beechview,6,,
+ARREST,16014005,3733,Fleeing or Attempting to Elude Police Officer,01/24/2016,00:37,2500 block West Liberty Ave,Beechview,6,33,M
+ARREST,16014005,3802(a)(1),DUI - General Impairment,01/24/2016,00:37,2500 block West Liberty Ave,Beechview,6,33,M
+ARREST,16014005,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/24/2016,00:37,2500 block West Liberty Ave,Beechview,6,33,M
+ARREST,16014005,5503,Disorderly Conduct.,01/24/2016,00:37,2500 block West Liberty Ave,Beechview,6,33,M
+OFFENSE 2.0,16014068,9490,Missing Persons (18 and Over),01/24/2016,02:22,1500 block Bellaire Pl,Brookline,6,,
+OFFENSE 2.0,16014097,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,01/24/2016,03:05,1000 block Banksville Rd,Banksville,6,,
+OFFENSE 2.0,16014097,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,01/24/2016,03:05,1000 block Banksville Rd,Banksville,6,,
+ARREST,16014227,13(a)(16),Possession of Controlled Substance,01/24/2016,12:00,2900 block Chartiers Ave,Sheraden,6,31,M
+ARREST,16014227,3714,Careless Driving,01/24/2016,12:00,2900 block Chartiers Ave,Sheraden,6,31,M
+ARREST,16014227,3301,Driving on Right Side of Roadway.,01/24/2016,12:00,2900 block Chartiers Ave,Sheraden,6,31,M
+ARREST,16014227,13(a)(32),Paraphernalia - Use or Possession,01/24/2016,12:00,2900 block Chartiers Ave,Sheraden,6,31,M
+OFFENSE 2.0,16014227,3714,Careless Driving,01/24/2016,13:00,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,16014227,3301,Driving on Right Side of Roadway.,01/24/2016,13:00,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,16014227,1501,Drivers Required to be Licensed.,01/24/2016,13:00,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,16014227,13(a)(32),Paraphernalia - Use or Possession,01/24/2016,13:00,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,16014227,13(a)(16),Possession of Controlled Substance,01/24/2016,13:00,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,16014366,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/24/2016,16:11,2300 block Noblestown Rd,Oakwood,6,,
+OFFENSE 2.0,16014486,3802(a)(1),DUI - General Impairment,01/24/2016,21:55,West Liberty Ave & Cape May Ave,Beechview,6,,
+ARREST,16014486,3802(a)(1),DUI - General Impairment,01/24/2016,21:58,West Liberty Ave & Cape May Ave,Beechview,6,67,M
