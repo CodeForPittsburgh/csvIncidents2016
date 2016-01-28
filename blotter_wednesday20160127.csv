@@ -1,0 +1,169 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16016079,3922,Theft by Deception.,01/27/2016,00:01,1400 block Metropolitan St,Chateau,1,,
+OFFENSE 2.0,16016079,4106,Access Device Fraud,01/27/2016,00:01,1400 block Metropolitan St,Chateau,1,,
+OFFENSE 2.0,16015821,9501,Bench Warrant,01/27/2016,03:54,300 block E North Ave,Allegheny Center,1,,
+ARREST,16015821,9501,Bench Warrant,01/27/2016,03:54,300 block E North Ave,Allegheny Center,1,32,M
+OFFENSE 2.0,16015912,3304,Criminal Mischief.,01/27/2016,09:00,400 block foreland St,East Allegheny,1,,
+OFFENSE 2.0,16015928,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,01/27/2016,09:45,1300 block Manhattan St,Manchester,1,,
+OFFENSE 2.0,16015965,4105(a)(1),Bad Checks,01/27/2016,10:30,400 block Armandale St,Central Northside,1,,
+OFFENSE 2.0,16015965,4106,Access Device Fraud,01/27/2016,10:30,400 block Armandale St,Central Northside,1,,
+OFFENSE 2.0,16016010,13(a)(16),Possession of Controlled Substance,01/27/2016,12:09,1900 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16016010,2701,Simple Assault.,01/27/2016,12:09,1900 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16016010,13(a)(31),Marijuana: Possession Small Amount,01/27/2016,12:09,1900 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16016034,9488,False  Burglar Alarm,01/27/2016,12:56,1900 block Bader St,Spring Hill-City View,1,,
+OFFENSE 2.0,16016154,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,01/27/2016,13:00,400 block E Ohio St,East Allegheny,1,,
+ARREST,16016010,2701,Simple Assault.,01/27/2016,13:06,1900 block Lowrie St,Troy Hill-Herrs Island,1,34,M
+ARREST,16016010,13(a)(31),Marijuana: Possession Small Amount,01/27/2016,13:06,1900 block Lowrie St,Troy Hill-Herrs Island,1,34,M
+ARREST,16016010,13(a)(16),Possession of Controlled Substance,01/27/2016,13:06,1900 block Lowrie St,Troy Hill-Herrs Island,1,34,M
+ARREST,16016044,9501,Bench Warrant,01/27/2016,13:15,500 block Avery St,East Allegheny,1,31,M
+OFFENSE 2.0,16016044,9501,Bench Warrant,01/27/2016,13:15,500 block Avery St,East Allegheny,1,,
+ARREST,15226068,2705,Recklessly Endangering Another Person.,01/27/2016,14:15,1800 block Letsche St,Fineview,1,20,M
+ARREST,15226068,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/27/2016,14:15,1800 block Letsche St,Fineview,1,20,M
+ARREST,15226068,3701,Robbery.,01/27/2016,14:15,1800 block Letsche St,Fineview,1,20,M
+OFFENSE 2.0,16016086,3743,Accidents Involving Damage to Attended Veh. or Property,01/27/2016,14:40,Ohio River Blvd & McKees Rocks Brg,Brighton Heights,1,,
+OFFENSE 2.0,16016124,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,01/27/2016,16:17,3100 block Lecky Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16016176,1543,Driving While Operating Privilege is Suspended or Revoked.,01/27/2016,17:21,Federal St N & Eloise St,Central Northside,1,,
+OFFENSE 2.0,16016176,3709,Dep. Waste and Other Material ,01/27/2016,17:21,Federal St N & Eloise St,Central Northside,1,,
+OFFENSE 2.0,16016176,1332,Display of Registration Plate.,01/27/2016,17:21,Federal St N & Eloise St,Central Northside,1,,
+OFFENSE 2.0,16016176,13(a)(32),Paraphernalia - Use or Possession,01/27/2016,17:21,Federal St N & Eloise St,Central Northside,1,,
+ARREST,16016176,3709,Dep. Waste and Other Material ,01/27/2016,17:30,Federal St N & Eloise St,Central Northside,1,32,M
+ARREST,16016176,1543,Driving While Operating Privilege is Suspended or Revoked.,01/27/2016,17:30,Federal St N & Eloise St,Central Northside,1,32,M
+ARREST,16016176,1332,Display of Registration Plate.,01/27/2016,17:30,Federal St N & Eloise St,Central Northside,1,32,M
+ARREST,16016176,13(a)(32),Paraphernalia - Use or Possession,01/27/2016,17:30,Federal St N & Eloise St,Central Northside,1,32,M
+OFFENSE 2.0,16016175,9498,302 (Mental),01/27/2016,17:46,1500 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16016216,3928,Unauthorized Use of Automobile and Other Vehicles.,01/27/2016,18:38,3800 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16016216,2705,Recklessly Endangering Another Person.,01/27/2016,18:38,3800 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16016216,2701(a)(3),Simple Assault - Attempts by Physical Menace ,01/27/2016,18:38,3800 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16016216,2706,Terroristic Threats.,01/27/2016,18:38,3800 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16016217,029,Missing Juvenile,01/27/2016,18:39,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16016244,3934,Theft from Vehicle,01/27/2016,19:20,1200 block Palo Alto St,Central Northside,1,,
+ARREST,16012677,6110.2,Possesion of Firearm with Altered Mfg. Number,01/27/2016,19:30,3900 block Vinceton St,Perry North,1,21,M
+ARREST,16016294,9501,Bench Warrant,01/27/2016,21:02,2100 block Lowrie St,Troy Hill-Herrs Island,1,26,M
+OFFENSE 2.0,16016294,9501,Bench Warrant,01/27/2016,21:02,2100 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16016309,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),01/27/2016,21:35,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16016309,13(a)(32),Paraphernalia - Use or Possession,01/27/2016,21:35,1600 block Sandusky Ct,Fineview,1,,
+ARREST,16012677,6110.2,Possesion of Firearm with Altered Mfg. Number,01/27/2016,21:40,3900 block Vinceton St,Perry North,1,21,M
+ARREST,16012677,3925,Receiving Stolen Property.,01/27/2016,21:40,3900 block Vinceton St,Perry North,1,21,M
+ARREST,16012677,3701,Robbery.,01/27/2016,21:40,3900 block Vinceton St,Perry North,1,21,M
+ARREST,16012677,3502,Burglary.,01/27/2016,21:40,3900 block Vinceton St,Perry North,1,21,M
+ARREST,16012677,2501,Criminal Homicide.,01/27/2016,21:40,3900 block Vinceton St,Perry North,1,21,M
+ARREST,16012677,903,Criminal Conspiracy.,01/27/2016,21:40,3900 block Vinceton St,Perry North,1,21,M
+ARREST,16016309,13(a)(32),Paraphernalia - Use or Possession,01/27/2016,21:52,1600 block Sandusky Ct,Fineview,1,52,M
+ARREST,16016309,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),01/27/2016,21:52,1600 block Sandusky Ct,Fineview,1,52,M
+ARREST,16016344,5902(e),Patronizing a Prostitute,01/27/2016,22:50,Middle St & Foreland St,East Allegheny,1,46,M
+ARREST,16016344,902,Criminal Solicitation.,01/27/2016,22:50,Middle St & Foreland St,East Allegheny,1,46,M
+OFFENSE 2.0,16016344,5902(e),Patronizing a Prostitute,01/27/2016,22:50,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16016344,902,Criminal Solicitation.,01/27/2016,22:50,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16016349,9489,Found Property,01/27/2016,23:15,1500 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,16016398,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/27/2016,00:30,Wickliff St & Mc Candless St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16015759,3701,Robbery.,01/27/2016,00:55,McCrea Way & 6th St,Golden Triangle/Civic Arena,2,,
+ARREST,16015759,3701,Robbery.,01/27/2016,01:20,McCrea Way & 6th St,Golden Triangle/Civic Arena,2,38,M
+ARREST,15238484,9015,Failure To Appear/Arrest on Attachment Order,01/27/2016,05:50,900 block 2ND Ave,Allegheny Center,2,38,F
+OFFENSE 2.0,16016254,3304,Criminal Mischief.,01/27/2016,07:30,Banner Way & Foster St,Central Lawrenceville,2,,
+OFFENSE 2.0,16015922,3304,Criminal Mischief.,01/27/2016,09:00,100 block Banner Way,Central Lawrenceville,2,,
+ARREST,16006969,3921,Theft by Unlawful Taking or Disposition.,01/27/2016,09:20,100 block Fifth Ave,Golden Triangle/Civic Arena,2,44,M
+OFFENSE 2.0,16016082,3304,Criminal Mischief.,01/27/2016,09:30,300 block 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16015949,3922,Theft by Deception.,01/27/2016,10:09,35th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16015990,9496,Dead on Arrival (DOA),01/27/2016,11:13,5200 block Butler St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16016067,3934,Theft from Vehicle,01/27/2016,12:00,300 block 4th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16016120,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/27/2016,15:15,500 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16016131,3743,Accidents Involving Damage to Attended Veh. or Property,01/27/2016,16:15,Dinwiddie St & Colwell St,Crawford-Roberts,2,,
+OFFENSE 2.0,16016196,9124,Drug Investigation,01/27/2016,17:52,4400 block Penn Ave,Central Lawrenceville,2,,
+OFFENSE 2.0,16016196,9999,9999 - (Misc. Incident): ,01/27/2016,17:52,4400 block Penn Ave,Central Lawrenceville,2,,
+OFFENSE 2.0,16016247,3304,Criminal Mischief.,01/27/2016,18:00,Banner Way & Foster St,Central Lawrenceville,2,,
+OFFENSE 2.0,16016247,3934,Theft from Vehicle,01/27/2016,18:00,Banner Way & Foster St,Central Lawrenceville,2,,
+OFFENSE 2.0,16016226,3743,Accidents Involving Damage to Attended Veh. or Property,01/27/2016,18:30,Crosstown Blvd & Liberty Brg,Bluff,2,,
+OFFENSE 2.0,16016366,3921(a),Theft by Unlawful Taking or Disposition - Movable item,01/27/2016,19:00,6th St & Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16016235,3304,Criminal Mischief.,01/27/2016,19:08,Banner Way & Foster St,Central Lawrenceville,2,,
+OFFENSE 2.0,16016300,029,Missing Juvenile,01/27/2016,21:25,2400 block Chauncey Dr,Bedford Dwellings,2,,
+OFFENSE 2.0,16015964,3934,Theft from Vehicle,01/27/2016,02:45,2300 block Valera St,Carrick,3,,
+OFFENSE 2.0,16016230,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,01/27/2016,09:33,2600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16016026,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/27/2016,10:00,200 block Meridan St,Duquesne Heights,3,,
+OFFENSE 2.0,16016011,3921,Theft by Unlawful Taking or Disposition.,01/27/2016,11:50,Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,16016066,3929,Retail Theft.,01/27/2016,14:10,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16016130,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/27/2016,15:30,100 block Ulysses St,Mount Washington,3,,
+OFFENSE 2.0,16016168,9017,Found Drugs,01/27/2016,17:12,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16016191,9999,9999 - (Misc. Incident): ,01/27/2016,17:45,2500 block Library Rd,Overbrook,3,,
+ARREST,16016192,907,Possessing Instruments of Crime.,01/27/2016,17:46,200 block Station Square Dr W,South Shore,3,35,M
+OFFENSE 2.0,16016192,907,Possessing Instruments of Crime.,01/27/2016,17:46,200 block Station Square Dr W,South Shore,3,,
+OFFENSE 2.0,16016192,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,01/27/2016,17:46,200 block Station Square Dr W,South Shore,3,,
+ARREST,16016192,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,01/27/2016,17:46,200 block Station Square Dr W,South Shore,3,35,M
+OFFENSE 2.0,16016183,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,01/27/2016,17:55,1800 block Mt Joseph St,Carrick,3,,
+OFFENSE 2.0,16016207,3743,Accidents Involving Damage to Attended Veh. or Property,01/27/2016,18:05,Saw Mill Run Blvd & Woodruff St,Duquesne Heights,3,,
+OFFENSE 2.0,16016265,5902(e),Patronizing a Prostitute,01/27/2016,20:15,Brownsville Rd & Reifert St,Knoxville,3,,
+ARREST,16016265,5902(e),Patronizing a Prostitute,01/27/2016,20:15,Brownsville Rd & Reifert St,Knoxville,3,56,M
+OFFENSE 2.0,16016265,902,Criminal Solicitation.,01/27/2016,20:15,Brownsville Rd & Reifert St,Knoxville,3,,
+ARREST,16016265,902,Criminal Solicitation.,01/27/2016,20:15,Brownsville Rd & Reifert St,Knoxville,3,56,M
+OFFENSE 2.0,16016276,2706,Terroristic Threats.,01/27/2016,20:22,Harwood St & Kathleen St,Mount Washington,3,,
+OFFENSE 2.0,16016276,3701,Robbery.,01/27/2016,20:22,Harwood St & Kathleen St,Mount Washington,3,,
+ARREST,16016276,3701,Robbery.,01/27/2016,21:22,Harwood St & Kathleen St,Mount Washington,3,29,M
+ARREST,16016276,2706,Terroristic Threats.,01/27/2016,21:22,Harwood St & Kathleen St,Mount Washington,3,29,M
+ARREST,16015728,13(a)(16),Possession of Controlled Substance,01/27/2016,00:20,Beechwood Blvd & Hazelwood Ave,Squirrel Hill South,4,38,F
+ARREST,16015728,13(a)(32),Paraphernalia - Use or Possession,01/27/2016,00:20,Beechwood Blvd & Hazelwood Ave,Squirrel Hill South,4,38,F
+ARREST,16015728,3736,Reckless Driving,01/27/2016,00:20,Beechwood Blvd & Hazelwood Ave,Squirrel Hill South,4,38,F
+ARREST,16015728,3802(d)(2),DUI - Drug - Impaired Ability,01/27/2016,00:20,Beechwood Blvd & Hazelwood Ave,Squirrel Hill South,4,38,F
+OFFENSE 2.0,16015764,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/27/2016,01:24,5400 block Halchess St,Lincoln Place,4,,
+OFFENSE 2.0,16015848,3304,Criminal Mischief.,01/27/2016,05:00,Tecumseh St,Hazelwood,4,,
+OFFENSE 2.0,16015886,3921,Theft by Unlawful Taking or Disposition.,01/27/2016,07:00,3400 block Ward St,Central Oakland,4,,
+OFFENSE 2.0,16015940,3502,Burglary.,01/27/2016,08:00,5000 block 5th Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16015993,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),01/27/2016,08:35,200 block Oakland Ave,Central Oakland,4,,
+OFFENSE 2.0,16015908,3701,Robbery.,01/27/2016,09:05,3500 block beechwood Blvd,Greenfield,4,,
+OFFENSE 2.0,16015908,3502,Burglary.,01/27/2016,09:05,3500 block beechwood Blvd,Greenfield,4,,
+OFFENSE 2.0,16015999,3743,Accidents Involving Damage to Attended Veh. or Property,01/27/2016,11:30,100 block Lytton Ave,North Oakland,4,,
+OFFENSE 2.0,16016081,9999,9999 - (Misc. Incident): ,01/27/2016,14:40,4900 block Bayard St,Shadyside,4,,
+OFFENSE 2.0,16016186,3502,Burglary.,01/27/2016,15:30,5700 block 5th Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16016103,3929,Retail Theft.,01/27/2016,15:30,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16016112,9497,Aided Case,01/27/2016,16:15,Forbes Ave & Craft Ave,South Oakland,4,,
+OFFENSE 2.0,16016145,9497,Aided Case,01/27/2016,16:39,3000 block Naomi St,Glen Hazel,4,,
+OFFENSE 2.0,16016209,3502,Burglary.,01/27/2016,18:14,5500 block Howe St,Shadyside,4,,
+OFFENSE 2.0,16016257,3934,Theft from Vehicle,01/27/2016,19:00,3400 block Ward St,Central Oakland,4,,
+OFFENSE 2.0,16015889,3742,Accidents Involving Death or Personal Injury,01/27/2016,06:10,6600 block Frankstown Ave,Larimer,5,,
+OFFENSE 2.0,16015924,13(a)(16),Possession of Controlled Substance,01/27/2016,07:15,700 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,16015895,3934,Theft from Vehicle,01/27/2016,07:45,900 block Mellon St,Highland Park,5,,
+OFFENSE 2.0,16015935,3921,Theft by Unlawful Taking or Disposition.,01/27/2016,09:15,1000 block Farragut St,Highland Park,5,,
+OFFENSE 2.0,16015944,3743,Accidents Involving Damage to Attended Veh. or Property,01/27/2016,09:38,Centre Ave & Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16015948,9489,Found Property,01/27/2016,09:45,1000 block Farragut St,Highland Park,5,,
+OFFENSE 2.0,16015942,3921,Theft by Unlawful Taking or Disposition.,01/27/2016,09:53,5300 block Baum Blvd,Bloomfield,5,,
+OFFENSE 2.0,16016098,3304,Criminal Mischief.,01/27/2016,13:00,Dearborn St & N Evaline St,Garfield,5,,
+OFFENSE 2.0,16016116,3131(c)(2),Unlawful dissemination of intimate image -- Person depicted is NOT a minor (M2),01/27/2016,16:15,7000 block Apple Ave,Homewood North,5,,
+OFFENSE 2.0,16016169,3929,Retail Theft.,01/27/2016,17:05,6000 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16016184,3922,Theft by Deception.,01/27/2016,17:30,6400 block Shetland St,Larimer,5,,
+OFFENSE 2.0,16016185,9093,Indirect Criminal Contempt,01/27/2016,17:30,400 block N Highland Ave,East Liberty,5,,
+ARREST,16016185,9093,Indirect Criminal Contempt,01/27/2016,18:33,400 block N Highland Ave,East Liberty,5,44,F
+ARREST,15211815,13(a)(16),Possession of Controlled Substance,01/27/2016,18:34,100 block N highland Ave,East Liberty,5,37,M
+ARREST,15211815,13(a)(32),Paraphernalia - Use or Possession,01/27/2016,18:34,100 block N highland Ave,East Liberty,5,37,M
+ARREST,16016313,3802(a)(1),DUI - General Impairment,01/27/2016,22:15,400 block S Aiken Ave,Bloomfield,5,25,F
+ARREST,16016313,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/27/2016,22:15,400 block S Aiken Ave,Bloomfield,5,25,F
+ARREST,16016313,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/27/2016,22:15,400 block S Aiken Ave,Bloomfield,5,25,F
+ARREST,16009391,3736,Reckless Driving,01/27/2016,23:00,700 block N Homewood Ave,Homewood South,5,27,M
+ARREST,16009391,13(a)(31),Marijuana: Possession Small Amount,01/27/2016,23:00,700 block N Homewood Ave,Homewood South,5,27,M
+ARREST,16009391,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/27/2016,23:00,700 block N Homewood Ave,Homewood South,5,27,M
+ARREST,16009391,3742.1,Accident Involv. Death/Inj. While not Licensed,01/27/2016,23:00,700 block N Homewood Ave,Homewood South,5,27,M
+ARREST,16009391,1543,Driving While Operating Privilege is Suspended or Revoked.,01/27/2016,23:00,700 block N Homewood Ave,Homewood South,5,27,M
+ARREST,16009391,3735.1,Aggravated Assault While DUI,01/27/2016,23:00,700 block N Homewood Ave,Homewood South,5,27,M
+ARREST,16016347,1543,Driving While Operating Privilege is Suspended or Revoked.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,23,M
+ARREST,16016347,3323,Stop Signs and Yield Signs.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,23,M
+OFFENSE 2.0,16016347,6106,Firearms not to be Carried without a License.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,,
+OFFENSE 2.0,16016347,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),01/27/2016,23:05,300 block N Fairmount St,Garfield,5,,
+ARREST,16016347,3334,Turning Movements and Required Signals.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,23,M
+ARREST,16016347,6106,Firearms not to be Carried without a License.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,23,M
+ARREST,16016347,6106,Firearms not to be Carried without a License.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,22,M
+ARREST,16016347,6106,Firearms not to be Carried without a License.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,20,M
+ARREST,16016347,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),01/27/2016,23:05,300 block N Fairmount St,Garfield,5,21,M
+ARREST,16016347,6106,Firearms not to be Carried without a License.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,21,M
+OFFENSE 2.0,16016347,3323,Stop Signs and Yield Signs.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,,
+OFFENSE 2.0,16016347,3334,Turning Movements and Required Signals.,01/27/2016,23:05,300 block N Fairmount St,Garfield,5,,
+OFFENSE 2.0,16016313,3802(a)(1),DUI - General Impairment,01/27/2016,23:59,400 block S Aiken Ave,Bloomfield,5,,
+OFFENSE 2.0,16016313,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,01/27/2016,23:59,400 block S Aiken Ave,Bloomfield,5,,
+OFFENSE 2.0,16016313,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/27/2016,23:59,400 block S Aiken Ave,Bloomfield,5,,
+OFFENSE 2.0,16015746,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/27/2016,00:01,1700 block Wabash St,West End,6,,
+OFFENSE 2.0,16015765,5104,Resisting Arrest or Other Law Enforcement.,01/27/2016,01:22,700 block Hampshire Ave,Beechview,6,,
+OFFENSE 2.0,16015765,2701,Simple Assault.,01/27/2016,01:22,700 block Hampshire Ave,Beechview,6,,
+ARREST,16015765,2701,Simple Assault.,01/27/2016,01:42,700 block Hampshire Ave,Beechview,6,47,F
+ARREST,16015765,5104,Resisting Arrest or Other Law Enforcement.,01/27/2016,01:42,700 block Hampshire Ave,Beechview,6,47,F
+OFFENSE 2.0,16016055,9124,Drug Investigation,01/27/2016,08:00,300 block S Main St,West End,6,,
+OFFENSE 2.0,16015967,9999,9999 - (Misc. Incident): POSSIBLE FRAUD,01/27/2016,10:24,2800 block Norabell Ave,Brookline,6,,
+OFFENSE 2.0,16015986,9504,Lost Property,01/27/2016,11:00,600 block Perrilyn St,Brookline,6,,
+OFFENSE 2.0,16016167,9496,Dead on Arrival (DOA),01/27/2016,17:10,2300 block Palm Beach Ave,Beechview,6,,
+OFFENSE 2.0,16016187,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01/27/2016,18:54,1500 block Dagmar Ave,Beechview,6,,
+OFFENSE 2.0,16016246,9497,Aided Case,01/27/2016,19:45,1100 block Shadycrest Dr,Beechview,6,,
