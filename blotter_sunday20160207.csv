@@ -1,0 +1,135 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16022893,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/07/2016,01:38,200 block North Shore Dr,North Shore,1,,
+OFFENSE 2.0,16022985,3934,Theft from Vehicle,02/07/2016,04:30,1300 block Hazlip Way,Central Northside,1,,
+OFFENSE 2.0,16022983,9488,False  Burglar Alarm,02/07/2016,04:33,700 block Arch St,Allegheny Center,1,,
+OFFENSE 2.0,16023006,9488,False  Burglar Alarm,02/07/2016,07:00,400 block North Shore Dr,North Shore,1,,
+ARREST,15218496,9015,Failure To Appear/Arrest on Attachment Order,02/07/2016,10:45,500 block Mt Pleasant Rd,Northview Heights,1,41,F
+OFFENSE 2.0,16023118,3503(a),Criminal Trespass,02/07/2016,13:13,1800 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,16023118,3304,Criminal Mischief.,02/07/2016,13:13,1800 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,16023256,3921,Theft by Unlawful Taking or Disposition.,02/07/2016,16:04,1500 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16023200,9497,Aided Case,02/07/2016,16:04,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16023238,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/07/2016,16:47,3400 block Shadeland Ave,Brighton Heights,1,,
+OFFENSE 2.0,16023370,3502,Burglary.,02/07/2016,21:50,4000 block Brighton Rd,Brighton Heights,1,,
+OFFENSE 2.0,16023418,9504,Lost Property,02/07/2016,23:45,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,16023422,9490,Missing Persons (18 and Over),02/07/2016,23:58,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16022827,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,02/07/2016,00:01,Liberty Ave & 16th St,Strip District,2,,
+OFFENSE 2.0,16022827,3802(a)(1),DUI - General Impairment,02/07/2016,00:01,Liberty Ave & 16th St,Strip District,2,,
+OFFENSE 2.0,16022833,9497,Aided Case,02/07/2016,00:24,43 1/2 St & Eden Way,Central Lawrenceville,2,,
+ARREST,16022827,3802(a)(1),DUI - General Impairment,02/07/2016,00:31,Liberty Ave & 16th St,Strip District,2,40,M
+ARREST,16022827,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,02/07/2016,00:31,Liberty Ave & 16th St,Strip District,2,40,M
+OFFENSE 2.0,16022888,5505,Public Drunkenness,02/07/2016,01:32,400 block Protectory Pl,Crawford-Roberts,2,,
+OFFENSE 2.0,16022888,3503(b.1),Criminal Trespass - Simple Trespasser,02/07/2016,01:32,400 block Protectory Pl,Crawford-Roberts,2,,
+OFFENSE 2.0,16022888,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,02/07/2016,01:32,400 block Protectory Pl,Crawford-Roberts,2,,
+ARREST,16022888,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,02/07/2016,01:39,400 block Protectory Pl,Crawford-Roberts,2,31,M
+ARREST,16022888,3503(b.1),Criminal Trespass - Simple Trespasser,02/07/2016,01:39,400 block Protectory Pl,Crawford-Roberts,2,31,M
+ARREST,16022888,5505,Public Drunkenness,02/07/2016,01:39,400 block Protectory Pl,Crawford-Roberts,2,31,M
+ARREST,16022896,5503,Disorderly Conduct.,02/07/2016,01:45,1900 block Smallman St,Strip District,2,32,M
+ARREST,16022896,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),02/07/2016,01:45,1900 block Smallman St,Strip District,2,32,M
+OFFENSE 2.0,16022896,5503,Disorderly Conduct.,02/07/2016,01:45,1900 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16022896,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),02/07/2016,01:45,1900 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16022896,13(a)(32),Paraphernalia - Use or Possession,02/07/2016,01:45,1900 block Smallman St,Strip District,2,,
+ARREST,16022896,13(a)(32),Paraphernalia - Use or Possession,02/07/2016,01:45,1900 block Smallman St,Strip District,2,32,M
+OFFENSE 2.0,16023013,9122,Miscellaneous Fire Vehicle Investigation to Continue,02/07/2016,08:05,300 block Jumonville St,Bluff,2,,
+ARREST,15236241,3503(b.1),Criminal Trespass - Simple Trespasser,02/07/2016,10:45,900 block 2nd Ave,Northview Heights,2,41,F
+ARREST,15236241,2701,Simple Assault.,02/07/2016,10:45,900 block 2nd Ave,Northview Heights,2,41,F
+OFFENSE 2.0,16023270,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,02/07/2016,12:05,1900 block Bedford Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16023147,6106,Firearms not to be Carried without a License.,02/07/2016,14:18,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16023147,13(a)(31),Marijuana: Possession Small Amount,02/07/2016,14:18,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,
+ARREST,16023147,13(a)(31),Marijuana: Possession Small Amount,02/07/2016,14:18,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,M
+ARREST,16023147,6106,Firearms not to be Carried without a License.,02/07/2016,14:18,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,M
+OFFENSE 2.0,16023317,2701,Simple Assault.,02/07/2016,16:03,500 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16023251,9999,9999 - (Misc. Incident): ,02/07/2016,16:58,10th St Brg,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16022824,9999,9999 - (Misc. Incident): verbal dispute,02/07/2016,00:08,900 block Mc Lain St,Allentown,3,,
+OFFENSE 2.0,16022852,2702,Aggravated Assault.,02/07/2016,00:44,400 block Bausman St,Knoxville,3,,
+ARREST,16022852,2702,Aggravated Assault.,02/07/2016,00:46,400 block Bausman St,Knoxville,3,31,F
+OFFENSE 2.0,16022849,601.16,Public Urination And Defecation,02/07/2016,00:50,S 16th St & Roland St,South Side Flats,3,,
+OFFENSE 2.0,16022858,3304,Criminal Mischief.,02/07/2016,01:00,Welsh Way,South Side Slopes,3,,
+OFFENSE 2.0,16022873,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,02/07/2016,01:05,E Carson St & S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16022908,13(a)(31),Marijuana: Possession Small Amount,02/07/2016,01:59,1800 block Carey Way,South Side Flats,3,,
+OFFENSE 2.0,16023102,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/07/2016,02:00,400 block Kingsboro St,Mount Washington,3,,
+ARREST,16022908,13(a)(31),Marijuana: Possession Small Amount,02/07/2016,02:05,1800 block Carey Way,South Side Flats,3,23,M
+OFFENSE 2.0,16022924,13(a)(31),Marijuana: Possession Small Amount,02/07/2016,02:07,300 block Birmingham Ave,Carrick,3,,
+ARREST,16022924,13(a)(31),Marijuana: Possession Small Amount,02/07/2016,02:10,300 block Birmingham Ave,Carrick,3,19,M
+OFFENSE 2.0,16022922,3743,Accidents Involving Damage to Attended Veh. or Property,02/07/2016,02:15,E Carson St & S 13th St,South Side Flats,3,,
+OFFENSE 2.0,16022950,5505,Public Drunkenness,02/07/2016,02:30,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16022952,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/07/2016,03:00,S 23rd St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16023023,3921,Theft by Unlawful Taking or Disposition.,02/07/2016,08:07,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16023049,3743,Accidents Involving Damage to Attended Veh. or Property,02/07/2016,09:30,Aaron Ave & Glenbury St,Overbrook,3,,
+OFFENSE 2.0,16023085,3934,Theft from Vehicle,02/07/2016,11:00,100 block Linnview Ave,Carrick,3,,
+OFFENSE 2.0,16023116,3929,Retail Theft.,02/07/2016,12:55,2500 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,15241306,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/07/2016,15:24,100 block Duffland St,Carrick,3,,
+OFFENSE 2.0,15241306,2702,Aggravated Assault.,02/07/2016,15:24,100 block Duffland St,Carrick,3,,
+ARREST,15241306,2702,Aggravated Assault.,02/07/2016,15:30,100 block Duffland St,Carrick,3,24,M
+ARREST,15241306,3921,Theft by Unlawful Taking or Disposition.,02/07/2016,15:30,100 block Duffland St,Carrick,3,24,M
+ARREST,15241306,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/07/2016,15:30,100 block Duffland St,Carrick,3,24,M
+OFFENSE 2.0,16023321,3921,Theft by Unlawful Taking or Disposition.,02/07/2016,19:00,1700 block E Carson St,South Side Flats,3,,
+ARREST,15222486,2701,Simple Assault.,02/07/2016,19:30,Mt Oliver St & Amanda Ave,Chateau,3,26,M
+OFFENSE 2.0,15222486,2701,Simple Assault.,02/07/2016,19:50,Mt Oliver St & Amanda Ave,Chateau,3,,
+ARREST,16023386,3802(a)(1),DUI - General Impairment,02/07/2016,23:00,Saw Mill Run Blvd & Crane Ave,Mount Washington,3,35,M
+OFFENSE 2.0,16023386,3802(a)(1),DUI - General Impairment,02/07/2016,23:00,Saw Mill Run Blvd & Crane Ave,Mount Washington,3,,
+OFFENSE 2.0,16022861,5505,Public Drunkenness,02/07/2016,00:40,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16022861,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,02/07/2016,00:40,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16022861,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,02/07/2016,00:40,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16022913,5505,Public Drunkenness,02/07/2016,02:08,200 block Ophelia St,South Oakland,4,,
+OFFENSE 2.0,16022913,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,02/07/2016,02:08,200 block Ophelia St,South Oakland,4,,
+OFFENSE 2.0,16022913,2706,Terroristic Threats.,02/07/2016,02:08,200 block Ophelia St,South Oakland,4,,
+OFFENSE 2.0,16022913,2702,Aggravated Assault.,02/07/2016,02:08,200 block Ophelia St,South Oakland,4,,
+OFFENSE 2.0,16022913,2701,Simple Assault.,02/07/2016,02:08,200 block Ophelia St,South Oakland,4,,
+ARREST,16022913,2702,Aggravated Assault.,02/07/2016,02:27,200 block Ophelia St,South Oakland,4,21,M
+ARREST,16022913,2706,Terroristic Threats.,02/07/2016,02:27,200 block Ophelia St,South Oakland,4,21,M
+ARREST,16022913,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,02/07/2016,02:27,200 block Ophelia St,South Oakland,4,21,M
+ARREST,16022913,5505,Public Drunkenness,02/07/2016,02:27,200 block Ophelia St,South Oakland,4,21,M
+ARREST,16022913,907,Possessing Instruments of Crime.,02/07/2016,02:27,200 block Ophelia St,South Oakland,4,21,M
+ARREST,16022913,2701,Simple Assault.,02/07/2016,02:27,200 block Ophelia St,South Oakland,4,21,M
+ARREST,16022913,2701(a)(3),Simple Assault - Attempts by Physical Menace ,02/07/2016,02:27,200 block Ophelia St,South Oakland,4,21,M
+OFFENSE 2.0,16022974,601.10 (a),Spitting,02/07/2016,03:54,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16022974,5505,Public Drunkenness,02/07/2016,03:54,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16022987,13(a)(32),Paraphernalia - Use or Possession,02/07/2016,04:57,Lytle St & Courtland St,Hazelwood,4,,
+OFFENSE 2.0,16022987,4303,General Lighting Requirements.,02/07/2016,04:57,Lytle St & Courtland St,Hazelwood,4,,
+OFFENSE 2.0,16022987,1543,Driving While Operating Privilege is Suspended or Revoked.,02/07/2016,04:57,Lytle St & Courtland St,Hazelwood,4,,
+ARREST,16022987,1543,Driving While Operating Privilege is Suspended or Revoked.,02/07/2016,05:15,Lytle St & Courtland St,Hazelwood,4,34,M
+ARREST,16022987,4303,General Lighting Requirements.,02/07/2016,05:15,Lytle St & Courtland St,Hazelwood,4,34,M
+ARREST,16022987,13(a)(32),Paraphernalia - Use or Possession,02/07/2016,05:15,Lytle St & Courtland St,Hazelwood,4,34,M
+OFFENSE 2.0,16023189,4120,Identity Theft,02/07/2016,15:30,200 block S Highland Ave,Shadyside,4,,
+OFFENSE 2.0,16023315,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/07/2016,18:45,Meyran Ave & Louisa St,Central Oakland,4,,
+ARREST,16023362,5901,Open Lewdness.,02/07/2016,21:52,Prospect Dr & Hobart Rd,Squirrel Hill South,4,57,M
+OFFENSE 2.0,16023411,9504,Lost Property,02/07/2016,23:42,5500 block Centre Ave,Shadyside,4,,
+ARREST,16022825,2701,Simple Assault.,02/07/2016,00:10,1000 block Brushton Ave,Homewood North,5,22,F
+ARREST,16022825,3304,Criminal Mischief.,02/07/2016,00:10,1000 block Brushton Ave,Homewood North,5,22,F
+ARREST,16022825,3701,Robbery.,02/07/2016,00:10,1000 block Brushton Ave,Homewood North,5,22,F
+OFFENSE 2.0,16022998,3701,Robbery.,02/07/2016,05:20,800 block Brushton Ave,Homewood South,5,,
+OFFENSE 2.0,16022998,3702,Robbery of Motor Vehicle.,02/07/2016,05:20,800 block Brushton Ave,Homewood South,5,,
+OFFENSE 2.0,16022998,903,Criminal Conspiracy.,02/07/2016,05:20,800 block Brushton Ave,Homewood South,5,,
+ARREST,16022998,903,Criminal Conspiracy.,02/07/2016,06:20,800 block Brushton Ave,Homewood South,5,24,M
+ARREST,16022998,3701,Robbery.,02/07/2016,06:20,800 block Brushton Ave,Homewood South,5,23,M
+ARREST,16022998,3702,Robbery of Motor Vehicle.,02/07/2016,06:20,800 block Brushton Ave,Homewood South,5,23,M
+OFFENSE 2.0,16023012,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/07/2016,06:30,1200 block Mohler St,Homewood North,5,,
+OFFENSE 2.0,16023032,029,Missing Juvenile,02/07/2016,08:40,6200 block Auburn St,Larimer,5,,
+OFFENSE 2.0,16023063,2709(a),Harassment.,02/07/2016,10:50,7200 block Verona Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16023063,2710,Ethnic Intimidation.,02/07/2016,10:50,7200 block Verona Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16023101,9999,9999 - (Misc. Incident): ,02/07/2016,12:16,400 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,16023166,3502,Burglary.,02/07/2016,14:30,900 block Morningside Ave,Morningside,5,,
+OFFENSE 2.0,16023218,3502,Burglary.,02/07/2016,15:30,800 block Highview St,Morningside,5,,
+OFFENSE 2.0,16023235,9489,Found Property,02/07/2016,16:47,5800 block Rippey St,East Liberty,5,,
+OFFENSE 2.0,16023358,13(a)(31),Marijuana: Possession Small Amount,02/07/2016,21:27,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,16023358,9501,Bench Warrant,02/07/2016,21:27,2100 block Park Hill Dr,East Hills,5,,
+ARREST,16023358,13(a)(31),Marijuana: Possession Small Amount,02/07/2016,23:50,2100 block Park Hill Dr,East Hills,5,36,F
+ARREST,16023358,9501,Bench Warrant,02/07/2016,23:50,2100 block Park Hill Dr,East Hills,5,36,F
+OFFENSE 2.0,16022856,3802(a)(1),DUI - General Impairment,02/07/2016,00:23,Wabash St,West End,6,,
+OFFENSE 2.0,16022856,3323,Stop Signs and Yield Signs.,02/07/2016,00:23,Wabash St,West End,6,,
+OFFENSE 2.0,16022856,4703,Operation of Vehicle without Official Certif. of Inspection,02/07/2016,00:23,Wabash St,West End,6,,
+OFFENSE 2.0,16022856,4706,Prohib. on Expend. for Emission Insp Prog..,02/07/2016,00:23,Wabash St,West End,6,,
+ARREST,16022856,4706,Prohib. on Expend. for Emission Insp Prog..,02/07/2016,00:36,Wabash St,West End,6,28,M
+ARREST,16022856,4703,Operation of Vehicle without Official Certif. of Inspection,02/07/2016,00:36,Wabash St,West End,6,28,M
+ARREST,16022856,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,02/07/2016,00:36,Wabash St,West End,6,28,M
+ARREST,16022856,3802(a)(1),DUI - General Impairment,02/07/2016,00:36,Wabash St,West End,6,28,M
+ARREST,16022856,3323,Stop Signs and Yield Signs.,02/07/2016,00:36,Wabash St,West End,6,28,M
+OFFENSE 2.0,16023002,9488,False  Burglar Alarm,02/07/2016,06:09,1000 block Chartiers Ave,Elliott,6,,
+OFFENSE 2.0,16023150,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/07/2016,14:00,2400 block Woodward Ave,Brookline,6,,
+OFFENSE 2.0,16023272,9488,False  Burglar Alarm,02/07/2016,17:34,600 block Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,16023309,3502,Burglary.,02/07/2016,18:40,600 block Herschel St,Elliott,6,,
+ARREST,16023309,3502,Burglary.,02/07/2016,19:00,600 block Herschel St,Elliott,6,13,M
+ARREST,16023309,903,Criminal Conspiracy.,02/07/2016,19:00,600 block Herschel St,Elliott,6,13,M
+ARREST,16023309,3502,Burglary.,02/07/2016,19:00,600 block Herschel St,Elliott,6,15,M
+ARREST,16023309,903,Criminal Conspiracy.,02/07/2016,19:00,600 block Herschel St,Elliott,6,15,M
+ARREST,16006317,3926(a)(1),Theft of Services; Cable  Gas  Taxi  Bill  Tab  etc.,02/07/2016,20:30,1800 block Noblestown Rd,Westwood,6,43,F
