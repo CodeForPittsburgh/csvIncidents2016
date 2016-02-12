@@ -1,0 +1,123 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16025381,9488,False  Burglar Alarm,02/11/2016,03:53,200 block East Ohio St,Allegheny Center,1,,
+ARREST,16024222,4953,Retaliation Against Witness Victim or Party.,02/11/2016,08:00,900 block Beech Ave,Allegheny West,1,37,F
+ARREST,16024222,4952,Intimidation of Witnesses or Victims,02/11/2016,08:00,900 block Beech Ave,Allegheny West,1,37,F
+ARREST,16024222,2706,Terroristic Threats.,02/11/2016,08:00,900 block Beech Ave,Allegheny West,1,37,F
+OFFENSE 2.0,16025444,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/11/2016,08:34,1600 block Spring Garden Ave,Spring Garden,1,,
+ARREST,16025444,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/11/2016,09:37,1600 block Spring Garden Ave,Spring Garden,1,40,M
+OFFENSE 2.0,16025497,9488,False  Burglar Alarm,02/11/2016,10:42,1700 block Lowrie St,Troy Hill-Herrs Island,1,,
+ARREST,16013973,2701,Simple Assault.,02/11/2016,12:09,200 block Venture St,Perry North,1,22,M
+OFFENSE 2.0,16025772,9124,Drug Investigation,02/11/2016,18:00,Zone 1 Area,Troy Hill-Herrs Island,1,,
+ARREST,15212159,5126,Flight to Avoid Apprehension  Trial or Punishment.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,9501,Bench Warrant,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,5104,Resisting Arrest or Other Law Enforcement.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,3925,Receiving Stolen Property.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,3733,Fleeing or Attempting to Elude Police Officer,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,3334,Turning Movements and Required Signals.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,3323,Stop Signs and Yield Signs.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,3301,Driving on Right Side of Roadway.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,1543,Driving While Operating Privilege is Suspended or Revoked.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,1501,Drivers Required to be Licensed.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,1372,Unauthorized Transfer or Use of Registration.,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,15212159,13(a)(16),Possession of Controlled Substance,02/11/2016,18:05,800 block East Ohio St,East Allegheny,1,38,M
+ARREST,16025751,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,28,M
+ARREST,16025751,7512,Criminal Use of Communication,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,28,M
+OFFENSE 2.0,16025751,13(a)(16),Possession of Controlled Substance,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16025751,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16025751,7512,Criminal Use of Communication,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16025751,9501,Bench Warrant,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,,
+ARREST,16025751,13(a)(16),Possession of Controlled Substance,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,28,M
+ARREST,15247975,3502,Burglary.,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,27,M
+ARREST,15247975,3304,Criminal Mischief.,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,27,M
+ARREST,15247975,2701,Simple Assault.,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,27,M
+ARREST,16025751,9501,Bench Warrant,02/11/2016,18:10,1100 block Brabec St,Troy Hill-Herrs Island,1,28,M
+ARREST,14237712,3921,Theft by Unlawful Taking or Disposition.,02/11/2016,09:00,900 block 2nd Ave,Crafton Heights,2,20,M
+ARREST,14237712,3502,Burglary.,02/11/2016,09:00,900 block 2nd Ave,Crafton Heights,2,20,M
+ARREST,14237712,903,Criminal Conspiracy.,02/11/2016,09:00,900 block 2nd Ave,Crafton Heights,2,20,M
+OFFENSE 2.0,16025471,3743,Accidents Involving Damage to Attended Veh. or Property,02/11/2016,09:10,10th St Byp,Golden Triangle/Civic Arena,2,,
+ARREST,16018545,4915,Failure to Comply with Megans Law,02/11/2016,11:10,2500 block Center Ave,Central Lawrenceville,2,59,M
+ARREST,15231287,3922,Theft by Deception.,02/11/2016,12:50,1400 block Locust St,Central Northside,2,66,F
+OFFENSE 2.0,16025616,3921,Theft by Unlawful Taking or Disposition.,02/11/2016,13:30,2200 block Centre Ave,Middle Hill,2,,
+OFFENSE 2.0,16025607,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/11/2016,14:30,39th St & Howley St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16025628,9497,Aided Case,02/11/2016,15:10,PPG Pl,Golden Triangle/Civic Arena,2,,
+ARREST,15211504,9015,Failure To Appear/Arrest on Attachment Order,02/11/2016,15:20,100 block Forbes Ave,Golden Triangle/Civic Arena,2,36,F
+OFFENSE 2.0,15211504,3929,Retail Theft.,02/11/2016,15:25,100 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16025722,3802(a)(1),DUI - General Impairment,02/11/2016,17:25,Spring Way & 29th St,Strip District,2,,
+OFFENSE 2.0,16025722,3321,Vehicle Approaching or Entering Intersection.,02/11/2016,17:25,Spring Way & 29th St,Strip District,2,,
+ARREST,16025722,3802(a)(1),DUI - General Impairment,02/11/2016,17:25,Spring Way & 29th St,Strip District,2,39,F
+ARREST,16025722,3321,Vehicle Approaching or Entering Intersection.,02/11/2016,17:25,Spring Way & 29th St,Strip District,2,39,F
+ARREST,16025738,5104,Resisting Arrest or Other Law Enforcement.,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,32,M
+OFFENSE 2.0,16025738,5104,Resisting Arrest or Other Law Enforcement.,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,,
+OFFENSE 2.0,16025738,5101,Obstructing Admin. of Law ,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,,
+OFFENSE 2.0,16025738,3323,Stop Signs and Yield Signs.,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,,
+ARREST,16025738,13(a)(16),Possession of Controlled Substance,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,32,M
+ARREST,16025738,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,32,M
+ARREST,16025738,3323,Stop Signs and Yield Signs.,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,32,M
+ARREST,16025738,13(a)(16),Possession of Controlled Substance,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,42,M
+ARREST,16025738,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,42,M
+ARREST,16025738,5101,Obstructing Admin. of Law ,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,42,M
+ARREST,16025738,5104,Resisting Arrest or Other Law Enforcement.,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,42,M
+OFFENSE 2.0,16025738,13(a)(16),Possession of Controlled Substance,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,,
+OFFENSE 2.0,16025738,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/11/2016,17:52,Bedford Ave & Duff St,Middle Hill,2,,
+ARREST,16021387,13(a)(16),Possession of Controlled Substance,02/11/2016,18:00,600 block 1st Ave,Highland Park,2,22,F
+ARREST,16022599,2701,Simple Assault.,02/11/2016,19:00,600 block 1ST Ave,East Allegheny,2,27,F
+ARREST,16023997,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,02/11/2016,19:55,600 block 1st Ave,Garfield,2,29,F
+OFFENSE 2.0,16025870,9999,9999 - (Misc. Incident): Forced Entry,02/11/2016,23:40,700 block Mercer St,Crawford-Roberts,2,,
+OFFENSE 2.0,16025302,029,Missing Juvenile,02/11/2016,01:45,800 block Roll St,Knoxville,3,,
+OFFENSE 2.0,16025363,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,02/11/2016,02:59,Brownsville Rd & Overbrook Blvd,Carrick,3,,
+ARREST,16018389,2702,Aggravated Assault.,02/11/2016,08:35,1500 block E Carson St,Golden Triangle/Civic Arena,3,25,M
+OFFENSE 2.0,16025530,9496,Dead on Arrival (DOA),02/11/2016,11:56,2400 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,16025589,3743,Accidents Involving Damage to Attended Veh. or Property,02/11/2016,13:30,S 18th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16025627,3701,Robbery.,02/11/2016,15:03,Arlington Ave & E Carson St,South Shore,3,,
+OFFENSE 2.0,16025673,3743,Accidents Involving Damage to Attended Veh. or Property,02/11/2016,16:27,1100 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16025728,9999,9999 - (Misc. Incident): ,02/11/2016,17:30,700 block Excelsior St,Allentown,3,,
+ARREST,16020187,3921,Theft by Unlawful Taking or Disposition.,02/11/2016,21:19,Pius St,Golden Triangle/Civic Arena,3,50,M
+OFFENSE 2.0,16025332,3502,Burglary.,02/11/2016,01:45,3300 block Beechwood Blvd,Squirrel Hill South,4,,
+OFFENSE 2.0,16025431,3921,Theft by Unlawful Taking or Disposition.,02/11/2016,07:15,300 block Robinson St,West Oakland,4,,
+OFFENSE 2.0,16025417,9999,9999 - (Misc. Incident): ,02/11/2016,08:10,1300 block Lincoln Ave,Homewood South,4,,
+OFFENSE 2.0,16025476,9999,9999 - (Misc. Incident): ,02/11/2016,09:30,300 block N Craig St,North Oakland,4,,
+OFFENSE 2.0,16025478,3743,Accidents Involving Damage to Attended Veh. or Property,02/11/2016,09:32,6800 block Forward Ave,Swisshelm Park,4,,
+OFFENSE 2.0,16025548,3921,Theft by Unlawful Taking or Disposition.,02/11/2016,12:00,300 block Mc Kee Pl,Central Oakland,4,,
+OFFENSE 2.0,16025553,9489,Found Property,02/11/2016,12:33,5400 block Walnut St,Shadyside,4,,
+OFFENSE 2.0,16025588,3304,Criminal Mischief.,02/11/2016,13:45,Ivy St & Walnut St,Shadyside,4,,
+OFFENSE 2.0,16025588,3934,Theft from Vehicle,02/11/2016,13:45,Ivy St & Walnut St,Shadyside,4,,
+OFFENSE 2.0,16025645,9999,9999 - (Misc. Incident): Suspicious Phone Call,02/11/2016,13:50,bayard Rd,Shadyside,4,,
+ARREST,16025635,907,Possessing Instruments of Crime.,02/11/2016,15:29,2000 block Murray Ave,Squirrel Hill South,4,16,F
+ARREST,16025635,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),02/11/2016,15:29,2000 block Murray Ave,Squirrel Hill South,4,16,F
+ARREST,16025635,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,02/11/2016,15:29,2000 block Murray Ave,Squirrel Hill South,4,16,F
+OFFENSE 2.0,16025635,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),02/11/2016,15:30,2000 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16025635,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,02/11/2016,15:30,2000 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16025635,907,Possessing Instruments of Crime.,02/11/2016,15:30,2000 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16025648,3304,Criminal Mischief.,02/11/2016,15:44,5500 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,16025691,9504,Lost Property,02/11/2016,16:00,3500 block Terrace St,West Oakland,4,,
+ARREST,15183534,4105(a)(1),Bad Checks,02/11/2016,20:25,4900 block 2nd Ave,Golden Triangle/Civic Arena,4,45,M
+OFFENSE 2.0,16025721,2709,Harassment (Non-Specific),02/11/2016,00:01,2300 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,16025333,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/11/2016,01:52,600 block N Braddock Ave,Homewood South,5,,
+OFFENSE 2.0,16025384,9496,Dead on Arrival (DOA),02/11/2016,04:03,1000 block Stoneville St,Homewood North,5,,
+OFFENSE 2.0,16025404,3921,Theft by Unlawful Taking or Disposition.,02/11/2016,05:51,300 block S Winebiddle (Rear Parking Lot) St,Bloomfield,5,,
+OFFENSE 2.0,16025433,3502,Burglary.,02/11/2016,06:00,5900 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16025712,3304,Criminal Mischief.,02/11/2016,08:00,1100 block Larimer Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16025446,9122,Miscellaneous Fire Vehicle Investigation to Continue,02/11/2016,08:35,600 block Chislett St,East Liberty,5,,
+OFFENSE 2.0,16025643,9490,Missing Persons (18 and Over),02/11/2016,11:30,6600 block Tennis Way,Lincoln-Lemington-Belmar,5,,
+ARREST,15133771,4952,Intimidation of Witnesses or Victims,02/11/2016,11:55,Frankstown Ave & N Homewood Ave,Homewood North,5,37,M
+OFFENSE 2.0,16025630,9489,Found Property,02/11/2016,14:50,5800 block Rippey St,East Liberty,5,,
+ARREST,15230623,9015,Failure To Appear/Arrest on Attachment Order,02/11/2016,15:00,1600 block Westmoreland St,Lincoln-Lemington-Belmar,5,20,M
+OFFENSE 2.0,16025652,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,02/11/2016,15:44,2200 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,16025748,3929,Retail Theft.,02/11/2016,18:13,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+ARREST,16025748,3929,Retail Theft.,02/11/2016,18:23,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,48,M
+ARREST,16016697,3742.1,Accident Involv. Death/Inj. While not Licensed,02/11/2016,20:25,Frankstown Ave & Woods Ave,East Hills,5,29,M
+OFFENSE 2.0,16025733,2709,Harassment (Non-Specific),02/11/2016,00:01,800 block Citadel St,Sheraden,6,,
+OFFENSE 2.0,16025674,4120,Identity Theft,02/11/2016,00:01,1900 block Jacob St,Brookline,6,,
+ARREST,16010118,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,02/11/2016,03:45,1500 block Crucible St,Crafton Heights,6,23,F
+OFFENSE 2.0,16025757,2709.A3,HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE,02/11/2016,14:00,3000 block Universal St,Sheraden,6,,
+OFFENSE 2.0,16025595,9093,Indirect Criminal Contempt,02/11/2016,14:30,700 block Dunster St,Brookline,6,,
+ARREST,16025595,9093,Indirect Criminal Contempt,02/11/2016,15:00,700 block Dunster St,Brookline,6,32,F
+ARREST,16008354,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/11/2016,15:40,900 block Brookline Blvd,Golden Triangle/Civic Arena,6,34,M
+OFFENSE 2.0,16025695,9999,9999 - (Misc. Incident): overdose,02/11/2016,17:00,1200 block Brookline Blvd,Brookline,6,,
+ARREST,16025763,13(a)(16),Possession of Controlled Substance,02/11/2016,18:46,2500 block West Liberty Ave,Beechview,6,28,F
+OFFENSE 2.0,16025763,13(a)(16),Possession of Controlled Substance,02/11/2016,18:46,2500 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,16025763,1543,Driving While Operating Privilege is Suspended or Revoked.,02/11/2016,18:46,2500 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,16025729,9496,Dead on Arrival (DOA),02/11/2016,19:06,1100 block Brookline Blvd,Brookline,6,,
+ARREST,16024544,3701,Robbery.,02/11/2016,22:30,1700 block Banksville Rd,Beechview,6,28,F
+ARREST,16008644,3701,Robbery.,02/11/2016,22:30,3200 block Banksville Rd,Banksville,6,28,F
