@@ -1,0 +1,150 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16034236,9497,Aided Case,02/25/2016,00:21,Cedar Ave & E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,16034320,9488,False  Burglar Alarm,02/25/2016,04:27,800 block Arch St,Allegheny Center,1,,
+OFFENSE 2.0,16034351,3926(a)(1),Theft of Services; Cable  Gas  Taxi  Bill  Tab  etc.,02/25/2016,05:35,Boston St & Holbrook St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16034382,3304,Criminal Mischief.,02/25/2016,08:20,1400 block N Franklin St,Manchester,1,,
+OFFENSE 2.0,16034402,9492,Dog Bite,02/25/2016,08:30,3900 block Oswald St,Brighton Heights,1,,
+OFFENSE 2.0,16034387,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,02/25/2016,08:33,500 block Armandale St,Central Northside,1,,
+OFFENSE 2.0,16034392,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/25/2016,08:35,500 block Armandale St,Central Northside,1,,
+OFFENSE 2.0,16034717,9126,Prostitution Investigation,02/25/2016,09:30,1200 block Western Ave,Chateau,1,,
+OFFENSE 2.0,16034462,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/25/2016,11:43,3400 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16034462,13(a)(32),Paraphernalia - Use or Possession,02/25/2016,11:43,3400 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16034462,13(a)(16),Possession of Controlled Substance,02/25/2016,11:43,3400 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16034462,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),02/25/2016,11:43,3400 block California Ave,Brighton Heights,1,,
+ARREST,16034462,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),02/25/2016,11:43,3400 block California Ave,Brighton Heights,1,23,M
+ARREST,16034462,13(a)(32),Paraphernalia - Use or Possession,02/25/2016,11:43,3400 block California Ave,Brighton Heights,1,23,M
+ARREST,16034462,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/25/2016,11:43,3400 block California Ave,Brighton Heights,1,23,M
+ARREST,16034462,13(a)(16),Possession of Controlled Substance,02/25/2016,11:43,3400 block California Ave,Brighton Heights,1,23,M
+OFFENSE 2.0,16034604,2701,Simple Assault.,02/25/2016,16:23,Brahm St,Spring Hill-City View,1,,
+ARREST,16034604,2701,Simple Assault.,02/25/2016,16:46,Brahm St,Spring Hill-City View,1,42,F
+OFFENSE 2.0,16034697,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,18:39,3800 block Perrysville Ave,Perry North,1,,
+OFFENSE 2.0,16034734,9497,Aided Case,02/25/2016,19:39,1600 block Walz St,Spring Hill-City View,1,,
+ARREST,16029897,2709(a),Harassment.,02/25/2016,19:50,1400 block Chicago St,Northview Heights,1,15,M
+ARREST,16029897,2701,Simple Assault.,02/25/2016,19:50,1400 block Chicago St,Northview Heights,1,15,M
+OFFENSE 2.0,16034778,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/25/2016,21:20,2600 block Maple Ave,Perry South,1,,
+OFFENSE 2.0,16034778,3502,Burglary.,02/25/2016,21:20,2600 block Maple Ave,Perry South,1,,
+OFFENSE 2.0,16034384,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/25/2016,08:00,2300 block Railroad St,Strip District,2,,
+OFFENSE 2.0,16034455,2709(a)(3),Harassment No Legitimate Purpose,02/25/2016,10:06,400 block Grant St,Golden Triangle/Civic Arena,2,,
+ARREST,16034522,13(a)(16),Possession of Controlled Substance,02/25/2016,12:33,2900 block Webster Ave,Allentown,2,22,M
+OFFENSE 2.0,16034522,13(a)(31)(i),Marijuana - Possess Small Amt for Personal Use,02/25/2016,12:33,2900 block Webster Ave,Allentown,2,,
+OFFENSE 2.0,16034522,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/25/2016,12:33,2900 block Webster Ave,Allentown,2,,
+OFFENSE 2.0,16034522,13(a)(16),Possession of Controlled Substance,02/25/2016,12:33,2900 block Webster Ave,Allentown,2,,
+ARREST,16034522,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/25/2016,12:33,2900 block Webster Ave,Allentown,2,22,M
+ARREST,16034522,13(a)(32),Paraphernalia - Use or Possession,02/25/2016,12:33,2900 block Webster Ave,Allentown,2,22,F
+ARREST,16034522,13(a)(32),Paraphernalia - Use or Possession,02/25/2016,12:33,2900 block Webster Ave,Allentown,2,22,M
+OFFENSE 2.0,16034541,2709(a),Harassment.,02/25/2016,14:00,2500 block Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16034620,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/25/2016,16:20,36th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16034736,9999,9999 - (Misc. Incident): ,02/25/2016,17:15,300 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16003379,9015,Failure To Appear/Arrest on Attachment Order,02/25/2016,18:25,5100 block Berlin Way,Upper Lawrenceville,2,31,M
+OFFENSE 2.0,16034704,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/25/2016,18:30,Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16034224,3304,Criminal Mischief.,02/25/2016,00:15,500 block Bingham St,South Side Flats,3,,
+OFFENSE 2.0,16034224,3934,Theft from Vehicle,02/25/2016,00:15,500 block Bingham St,South Side Flats,3,,
+OFFENSE 2.0,16034337,9488,False  Burglar Alarm,02/25/2016,05:45,400 block S 27th St,South Side Flats,3,,
+ARREST,16019101,2903,False Imprisonment.,02/25/2016,11:00,Hornaday Rd,Golden Triangle/Civic Arena,3,29,F
+ARREST,16019101,3701,Robbery.,02/25/2016,11:00,Hornaday Rd,Golden Triangle/Civic Arena,3,29,F
+ARREST,16019101,903,Criminal Conspiracy.,02/25/2016,11:00,Hornaday Rd,Golden Triangle/Civic Arena,3,29,F
+ARREST,16019101,2706,Terroristic Threats.,02/25/2016,11:00,Hornaday Rd,Golden Triangle/Civic Arena,3,29,F
+OFFENSE 2.0,16034524,5505,Public Drunkenness,02/25/2016,13:45,1100 block Brownsville Rd,Carrick,3,,
+ARREST,16034084,6106,Firearms not to be Carried without a License.,02/25/2016,14:10,Nobles Ln,Carrick,3,21,M
+ARREST,16034084,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/25/2016,14:10,Nobles Ln,Carrick,3,21,M
+ARREST,16034084,2705,Recklessly Endangering Another Person.,02/25/2016,14:10,Nobles Ln,Carrick,3,21,M
+ARREST,16034084,2701(a)(3),Simple Assault - Attempts by Physical Menace ,02/25/2016,14:10,Nobles Ln,Carrick,3,21,M
+OFFENSE 2.0,16034084,6106,Firearms not to be Carried without a License.,02/25/2016,14:10,Nobles Ln,Carrick,3,,
+OFFENSE 2.0,16034084,2705,Recklessly Endangering Another Person.,02/25/2016,14:10,Nobles Ln,Carrick,3,,
+OFFENSE 2.0,16034084,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/25/2016,14:10,Nobles Ln,Carrick,3,,
+OFFENSE 2.0,16034084,2701(a)(3),Simple Assault - Attempts by Physical Menace ,02/25/2016,14:10,Nobles Ln,Carrick,3,,
+ARREST,15173155,2701,Simple Assault.,02/25/2016,14:30,400 block Moore Ave,Bluff,3,30,F
+OFFENSE 2.0,16034626,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,16:00,800 block Schuler St,St. Clair,3,,
+OFFENSE 2.0,16034661,13(a)(16),Possession of Controlled Substance,02/25/2016,17:36,Bausman St & Grimes Ave,Knoxville,3,,
+OFFENSE 2.0,16034661,1373,Suspension of Registration.,02/25/2016,17:36,Bausman St & Grimes Ave,Knoxville,3,,
+OFFENSE 2.0,16034661,1543,Driving While Operating Privilege is Suspended or Revoked.,02/25/2016,17:36,Bausman St & Grimes Ave,Knoxville,3,,
+ARREST,16034661,1543,Driving While Operating Privilege is Suspended or Revoked.,02/25/2016,17:47,Bausman St & Grimes Ave,Knoxville,3,44,M
+ARREST,16034661,1373,Suspension of Registration.,02/25/2016,17:47,Bausman St & Grimes Ave,Knoxville,3,44,M
+ARREST,16034661,13(a)(16),Possession of Controlled Substance,02/25/2016,17:47,Bausman St & Grimes Ave,Knoxville,3,44,M
+ARREST,16034729,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,5104,Resisting Arrest or Other Law Enforcement.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,5121,Escape.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,903,Criminal Conspiracy.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,907,Possessing Instruments of Crime.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,908,Prohibited Offensive Weapons.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,5104,Resisting Arrest or Other Law Enforcement.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,5121,Escape.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,907,Possessing Instruments of Crime.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,908,Prohibited Offensive Weapons.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,18,M
+ARREST,16034729,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,15,M
+ARREST,16034729,5104,Resisting Arrest or Other Law Enforcement.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,15,M
+ARREST,16034729,5121,Escape.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,15,M
+ARREST,16034729,907,Possessing Instruments of Crime.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,15,M
+ARREST,16034729,908,Prohibited Offensive Weapons.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,15,M
+ARREST,16034729,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,17,M
+ARREST,16034729,5104,Resisting Arrest or Other Law Enforcement.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,17,M
+ARREST,16034729,5121,Escape.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,17,M
+ARREST,16034729,907,Possessing Instruments of Crime.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,17,M
+ARREST,16034729,908,Prohibited Offensive Weapons.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,17,M
+OFFENSE 2.0,16034729,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,,
+OFFENSE 2.0,16034729,5104,Resisting Arrest or Other Law Enforcement.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,,
+OFFENSE 2.0,16034729,5121,Escape.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,,
+OFFENSE 2.0,16034729,907,Possessing Instruments of Crime.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,,
+OFFENSE 2.0,16034729,908,Prohibited Offensive Weapons.,02/25/2016,19:12,Arlington Ave & P J Mc Ardle Rdwy,South Side Slopes,3,,
+ARREST,15216281,3927,Theft by Failure to Make Required Disp. of Funds,02/25/2016,19:50,1800 block E Carson St,South Side Flats,3,31,M
+ARREST,15216281,4101,Forgery.,02/25/2016,19:50,1800 block E Carson St,South Side Flats,3,31,M
+ARREST,15216281,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,19:50,1800 block E Carson St,South Side Flats,3,31,M
+ARREST,15215956,3922,Theft by Deception.,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,26,F
+ARREST,15215956,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,68,F
+ARREST,15215956,3922,Theft by Deception.,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,68,F
+ARREST,15215956,4101,Forgery.,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,68,F
+ARREST,15215956,903,Criminal Conspiracy.,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,26,F
+ARREST,15215956,4105(a)(1),Bad Checks,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,26,F
+ARREST,15215956,4101,Forgery.,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,26,F
+ARREST,15215956,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,26,F
+ARREST,15215956,903,Criminal Conspiracy.,02/25/2016,20:30,1800 block Saint Paul St,South Side Slopes,3,68,F
+ARREST,16034753,13(a)(31),Marijuana: Possession Small Amount,02/25/2016,20:31,600 block Brownsville Rd,Knoxville,3,21,M
+OFFENSE 2.0,16034753,3334,Turning Movements and Required Signals.,02/25/2016,20:45,600 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,16034753,13(a)(31),Marijuana: Possession Small Amount,02/25/2016,20:45,600 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,16034814,9093,Indirect Criminal Contempt,02/25/2016,22:35,300 block Zara St,Knoxville,3,,
+ARREST,16034814,9093,Indirect Criminal Contempt,02/25/2016,22:51,300 block Zara St,Knoxville,3,31,F
+OFFENSE 2.0,16034480,3502,Burglary.,02/25/2016,11:00,6300 block Douglas St,Squirrel Hill South,4,,
+ARREST,16020864,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,12:30,400 block Denniston St,Shadyside,4,27,F
+OFFENSE 2.0,16034653,4106,Access Device Fraud,02/25/2016,13:00,4700 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,16034653,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,13:00,4700 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,16034552,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/25/2016,13:30,300 block Greenfield Ave,Greenfield,4,,
+OFFENSE 2.0,16034605,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/25/2016,15:30,600 block Mifflin Rd,New Homestead,4,,
+OFFENSE 2.0,16034578,3502,Burglary.,02/25/2016,15:40,200 block N Craig St,North Oakland,4,,
+ARREST,15134698,2709(a)(4),Harassment Communicates Prohibited Acts,02/25/2016,16:00,4100 block Bigelow Blvd,North Oakland,4,64,M
+OFFENSE 2.0,16034660,3929,Retail Theft.,02/25/2016,17:25,5500 block Walnut St,Shadyside,4,,
+OFFENSE 2.0,16034673,13(a)(32),Paraphernalia - Use or Possession,02/25/2016,18:00,Winston St & Trowbridge Way,Hazelwood,4,,
+OFFENSE 2.0,16034673,13(a)(16),Possession of Controlled Substance,02/25/2016,18:00,Winston St & Trowbridge Way,Hazelwood,4,,
+ARREST,16034673,13(a)(32),Paraphernalia - Use or Possession,02/25/2016,18:05,Winston St & Trowbridge Way,Hazelwood,4,22,M
+ARREST,16034673,13(a)(16),Possession of Controlled Substance,02/25/2016,18:05,Winston St & Trowbridge Way,Hazelwood,4,22,M
+OFFENSE 2.0,16034758,3701,Robbery.,02/25/2016,20:30,Beacon St & Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16034634,2709,Harassment (Non-Specific),02/25/2016,00:01,7100 block Mt Vernon St,Homewood North,5,,
+OFFENSE 2.0,16034276,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,01:58,700 block N Lang Ave,Homewood South,5,,
+OFFENSE 2.0,16034331,3701,Robbery.,02/25/2016,05:28,7300 block Butler St,Morningside,5,,
+OFFENSE 2.0,16034398,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/25/2016,08:55,100 block N. Evaline St,Garfield,5,,
+OFFENSE 2.0,16034438,9999,9999 - (Misc. Incident): ,02/25/2016,10:47,200 block S Euclid Ave,East Liberty,5,,
+OFFENSE 2.0,16034454,029,Missing Juvenile,02/25/2016,11:20,7300 block Idlewild St,Homewood North,5,,
+OFFENSE 2.0,16034491,029,Missing Juvenile,02/25/2016,12:30,7000 block Fielding Way,Homewood North,5,,
+OFFENSE 2.0,16034494,4120,Identity Theft,02/25/2016,13:00,1000 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16034672,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,16:10,5700 block Rural St,East Liberty,5,,
+ARREST,16034638,1543,Driving While Operating Privilege is Suspended or Revoked.,02/25/2016,17:22,N Aiken Ave & Cornwall St,Garfield,5,43,M
+ARREST,16034638,1501,Drivers Required to be Licensed.,02/25/2016,17:22,N Aiken Ave & Cornwall St,Garfield,5,43,M
+ARREST,16034638,13(a)(16),Possession of Controlled Substance,02/25/2016,17:22,N Aiken Ave & Cornwall St,Garfield,5,43,M
+ARREST,16034638,4303,General Lighting Requirements.,02/25/2016,17:22,N Aiken Ave & Cornwall St,Garfield,5,43,M
+OFFENSE 2.0,16034638,4303,General Lighting Requirements.,02/25/2016,17:32,N Aiken Ave & Cornwall St,Garfield,5,,
+OFFENSE 2.0,16034638,1543,Driving While Operating Privilege is Suspended or Revoked.,02/25/2016,17:32,N Aiken Ave & Cornwall St,Garfield,5,,
+OFFENSE 2.0,16034638,1501,Drivers Required to be Licensed.,02/25/2016,17:32,N Aiken Ave & Cornwall St,Garfield,5,,
+OFFENSE 2.0,16034638,13(a)(16),Possession of Controlled Substance,02/25/2016,17:32,N Aiken Ave & Cornwall St,Garfield,5,,
+OFFENSE 2.0,16034585,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/25/2016,02:00,1800 block Fallowfield Ave,Beechview,6,,
+OFFENSE 2.0,16034597,3921,Theft by Unlawful Taking or Disposition.,02/25/2016,05:10,2400 block Starkamp St,Brookline,6,,
+OFFENSE 2.0,16034780,2709(a),Harassment.,02/25/2016,17:00,Wenzell Pl,Beechview,6,,
+OFFENSE 2.0,16034810,3323,Stop Signs and Yield Signs.,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,,
+OFFENSE 2.0,16034810,4914,False Identification to Law Enforcement Authorities,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,,
+OFFENSE 2.0,16034810,9501,Bench Warrant,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,,
+ARREST,16034810,13(a)(32),Paraphernalia - Use or Possession,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,21,M
+ARREST,16034810,3323,Stop Signs and Yield Signs.,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,21,M
+ARREST,16034810,4914,False Identification to Law Enforcement Authorities,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,30,M
+ARREST,16034810,9501,Bench Warrant,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,30,M
+OFFENSE 2.0,16034810,13(a)(32),Paraphernalia - Use or Possession,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,,
+OFFENSE 2.0,16034810,13(a)(16),Possession of Controlled Substance,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,,
+ARREST,16034810,13(a)(16),Possession of Controlled Substance,02/25/2016,22:10,Tweed St & Allendorf St,Sheraden,6,21,M
