@@ -1,0 +1,165 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16041234,9488,False  Burglar Alarm,03/07/2016,05:15,2600 block Norwood Ave,Perry South,1,,
+OFFENSE 2.0,16041247,9498,302 (Mental),03/07/2016,06:18,Mckees Rocks Brg & Ohio River Blvd,Brighton Heights,1,,
+ARREST,14225206,13(a)(16),Possession of Controlled Substance,03/07/2016,08:40,1200 block Western Ave,Chateau,1,32,M
+ARREST,14225206,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/07/2016,08:40,1200 block Western Ave,Chateau,1,32,M
+ARREST,14225206,13(a)(30)*,Delivery of Controlled Substance,03/07/2016,08:40,1200 block Western Ave,Chateau,1,32,M
+OFFENSE 2.0,16041369,13(a)(16),Possession of Controlled Substance,03/07/2016,11:52,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16041369,3701,Robbery.,03/07/2016,11:52,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16041369,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/07/2016,11:52,1600 block Sandusky Ct,Fineview,1,,
+ARREST,16041369,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/07/2016,11:55,1600 block Sandusky Ct,Fineview,1,29,M
+ARREST,16041369,3701,Robbery.,03/07/2016,11:55,1600 block Sandusky Ct,Fineview,1,29,M
+ARREST,16041369,13(a)(16),Possession of Controlled Substance,03/07/2016,11:55,1600 block Sandusky Ct,Fineview,1,29,M
+OFFENSE 2.0,16041471,903,Criminal Conspiracy.,03/07/2016,15:15,Davis Ave & Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,16041471,13(a)(16),Possession of Controlled Substance,03/07/2016,15:15,Davis Ave & Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,16041471,3701,Robbery.,03/07/2016,15:15,Davis Ave & Fleming Ave,Brighton Heights,1,,
+ARREST,16041478,13(a)(16),Possession of Controlled Substance,03/07/2016,15:20,Marshall Ave & Hawkins St,Perry South,1,22,F
+ARREST,16041471,13(a)(16),Possession of Controlled Substance,03/07/2016,15:40,Davis Ave & Fleming Ave,Brighton Heights,1,15,F
+ARREST,16041471,903,Criminal Conspiracy.,03/07/2016,15:40,Davis Ave & Fleming Ave,Brighton Heights,1,14,M
+ARREST,16041471,3701,Robbery.,03/07/2016,15:40,Davis Ave & Fleming Ave,Brighton Heights,1,14,M
+ARREST,16041471,903,Criminal Conspiracy.,03/07/2016,15:40,Davis Ave & Fleming Ave,Brighton Heights,1,19,M
+ARREST,16041471,3701,Robbery.,03/07/2016,15:40,Davis Ave & Fleming Ave,Brighton Heights,1,19,M
+OFFENSE 2.0,16041478,13(a)(16),Possession of Controlled Substance,03/07/2016,15:40,Marshall Ave & Hawkins St,Perry South,1,,
+OFFENSE 2.0,16041533,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/07/2016,16:44,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16041533,13(a)(32),Paraphernalia - Use or Possession,03/07/2016,16:44,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16041533,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),03/07/2016,16:44,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16041533,6110.2,Possesion of Firearm with Altered Mfg. Number,03/07/2016,16:44,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16041533,13(a)(16),Possession of Controlled Substance,03/07/2016,16:44,1600 block Sandusky Ct,Fineview,1,,
+ARREST,16041533,6110.2,Possesion of Firearm with Altered Mfg. Number,03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,20,M
+ARREST,16041533,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,20,M
+ARREST,16041533,13(a)(32),Paraphernalia - Use or Possession,03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,20,M
+ARREST,16041533,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,20,M
+ARREST,16041533,6110.2,Possesion of Firearm with Altered Mfg. Number,03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,26,M
+ARREST,16041533,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,26,M
+ARREST,16041533,13(a)(32),Paraphernalia - Use or Possession,03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,26,M
+ARREST,16041533,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,26,M
+ARREST,16041533,13(a)(16),Possession of Controlled Substance,03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,26,M
+ARREST,16041533,13(a)(16),Possession of Controlled Substance,03/07/2016,16:50,1600 block Sandusky Ct,Fineview,1,20,M
+ARREST,15247688,2701,Simple Assault.,03/07/2016,16:50,1100 block Buente St,Spring Hill-City View,1,26,M
+ARREST,16041616,6301,Corruption of Minors.,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,19,M
+OFFENSE 2.0,16041616,6301,Corruption of Minors.,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,,
+ARREST,16041616,13(a)(31),Marijuana: Possession Small Amount,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,19,M
+ARREST,16041616,13(a)(32),Paraphernalia - Use or Possession,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,19,M
+ARREST,16041616,2705,Recklessly Endangering Another Person.,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,19,M
+ARREST,16041616,607.07,Carrying Fascimiles of Firearms Prohibited,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,19,M
+OFFENSE 2.0,16041616,13(a)(31),Marijuana: Possession Small Amount,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16041616,13(a)(32),Paraphernalia - Use or Possession,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16041616,2705,Recklessly Endangering Another Person.,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16041616,607.07,Carrying Fascimiles of Firearms Prohibited,03/07/2016,19:00,1600 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16041663,9999,9999 - (Misc. Incident): ,03/07/2016,19:59,1200 block Brighton Rd,Central Northside,1,,
+OFFENSE 2.0,16041750,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/07/2016,23:45,Bolin Way & Saw Mill Way,North Shore,1,,
+OFFENSE 2.0,16041468,2709,Harassment (Non-Specific),03/07/2016,00:01,5200 block Keystone St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16041515,3743,Accidents Involving Damage to Attended Veh. or Property,03/07/2016,01:00,11th St & Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16041227,9999,9999 - (Misc. Incident): ,03/07/2016,04:35,Rose St & Elmore St,Middle Hill,2,,
+OFFENSE 2.0,16041283,9999,9999 - (Misc. Incident): ,03/07/2016,08:45,40th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16041322,3921,Theft by Unlawful Taking or Disposition.,03/07/2016,09:00,2800 block Smallman St,Strip District,2,,
+ARREST,15227437,3934,Theft from Vehicle,03/07/2016,10:45,3rd Ave & Stanwix St,Golden Triangle/Civic Arena,2,52,M
+OFFENSE 2.0,16041341,9489,Found Property,03/07/2016,10:46,29th St & Smallman St,Strip District,2,,
+ARREST,15066630,2702,Aggravated Assault.,03/07/2016,11:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,19,M
+ARREST,15066630,5503,Disorderly Conduct.,03/07/2016,11:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,19,M
+ARREST,16024084,3502,Burglary.,03/07/2016,11:12,200 block 4th Ave,Golden Triangle/Civic Arena,2,50,M
+OFFENSE 2.0,16041361,4915,Failure to Comply with Megans Law,03/07/2016,11:28,900 block 2ND Ave,Bluff,2,,
+OFFENSE 2.0,16041362,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/07/2016,11:30,200 block 51st St,Upper Lawrenceville,2,,
+ARREST,16019844,4915,Failure to Comply with Megans Law,03/07/2016,12:30,600 block 1st Ave,Golden Triangle/Civic Arena,2,42,M
+OFFENSE 2.0,16041485,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,03/07/2016,13:39,100 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16041466,3304,Criminal Mischief.,03/07/2016,14:45,1600 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,16041466,3934,Theft from Vehicle,03/07/2016,14:45,1600 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,16041568,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/07/2016,15:30,600 block 1st Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16041568,3503(a),Criminal Trespass,03/07/2016,15:30,600 block 1st Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16041492,9501,Bench Warrant,03/07/2016,15:58,Fort Duquesne Blvd & 7th St,Golden Triangle/Civic Arena,2,22,F
+ARREST,16041492,5505,Public Drunkenness,03/07/2016,15:58,Fort Duquesne Blvd & 7th St,Golden Triangle/Civic Arena,2,22,F
+OFFENSE 2.0,16041492,9501,Bench Warrant,03/07/2016,15:58,Fort Duquesne Blvd & 7th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16041492,5505,Public Drunkenness,03/07/2016,15:58,Fort Duquesne Blvd & 7th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16041499,607.03,Discharging Firearm or Airgun,03/07/2016,16:05,Roberts St & Enoch St,Crawford-Roberts,2,,
+OFFENSE 2.0,16041499,8106,Shots Fired,03/07/2016,16:05,Roberts St & Enoch St,Crawford-Roberts,2,,
+OFFENSE 2.0,16041590,3304,Criminal Mischief.,03/07/2016,17:00,1500 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16041559,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/07/2016,17:27,1900 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,16041577,3304,Criminal Mischief.,03/07/2016,18:03,Wylie Ave & Granville St,Crawford-Roberts,2,,
+OFFENSE 2.0,16041577,2707,Propulsion of Missiles ,03/07/2016,18:03,Wylie Ave & Granville St,Crawford-Roberts,2,,
+OFFENSE 2.0,16041594,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/07/2016,18:20,2500 block Wylie Ave,Middle Hill,2,,
+OFFENSE 2.0,16041618,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/07/2016,18:20,2500 block Wylie Ave,Middle Hill,2,,
+OFFENSE 2.0,16041589,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,03/07/2016,18:25,Centre Ave & Francis St,Middle Hill,2,,
+ARREST,16041589,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,03/07/2016,18:25,Centre Ave & Francis St,Middle Hill,2,57,M
+OFFENSE 2.0,16041589,3802(a)(1),DUI - General Impairment,03/07/2016,18:25,Centre Ave & Francis St,Middle Hill,2,,
+ARREST,16041589,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,03/07/2016,18:25,Centre Ave & Francis St,Middle Hill,2,57,M
+OFFENSE 2.0,16041621,9497,Aided Case,03/07/2016,19:10,300 block Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16041680,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/07/2016,20:40,Addison St & Elmore Sq,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16029347,2701,Simple Assault.,03/07/2016,01:15,400 block Norton St,Mount Washington,3,,
+ARREST,16029347,2701,Simple Assault.,03/07/2016,01:15,400 block Norton St,Mount Washington,3,54,M
+ARREST,15235067,3304(a)(2),CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property),03/07/2016,02:30,2100 block Yale Dr,Overbrook,3,32,F
+OFFENSE 2.0,15235067,3304(a)(2),CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property),03/07/2016,03:00,2100 block Yale Dr,Overbrook,3,,
+OFFENSE 2.0,16041256,9123,Miscellaneous Fire Other Investigation to Continue,03/07/2016,07:46,2500 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16041344,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/07/2016,08:15,Cowan St & Dilworth St,Mount Washington,3,,
+OFFENSE 2.0,16041271,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/07/2016,08:30,S 16th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16041294,9490,Missing Persons (18 and Over),03/07/2016,09:00,2600 block Sumner St,South Side Slopes,3,,
+OFFENSE 2.0,16041282,3929,Retail Theft.,03/07/2016,09:00,2600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16041374,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/07/2016,09:50,100 block Zara St,Knoxville,3,,
+ARREST,16023790,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,03/07/2016,12:15,1700 block E Carson St,Golden Triangle/Civic Arena,3,24,F
+ARREST,16017647,3503(b)(1)(i),Actual Communication,03/07/2016,12:15,1700 block E Carson St,Golden Triangle/Civic Arena,3,22,M
+ARREST,16022167,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,03/07/2016,12:15,1700 block E Carson St,Golden Triangle/Civic Arena,3,22,M
+ARREST,16023790,3503(b)(1)(i),Actual Communication,03/07/2016,12:15,1700 block E Carson St,Golden Triangle/Civic Arena,3,24,F
+ARREST,16009699,3503(b)(1)(i),Actual Communication,03/07/2016,12:30,Wharton Sq,Golden Triangle/Civic Arena,3,50,M
+ARREST,16039210,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,03/07/2016,13:30,2000 block Wharton St,Golden Triangle/Civic Arena,3,42,M
+OFFENSE 2.0,16041588,9999,9999 - (Misc. Incident): ,03/07/2016,16:08,100 block Meritt Ave,Carrick,3,,
+OFFENSE 2.0,16041523,3701,Robbery.,03/07/2016,16:30,800 block E Warrington Ave,Allentown,3,,
+ARREST,16041529,13(a)(31),Marijuana: Possession Small Amount,03/07/2016,16:42,Haberman Ave & E Warrington Ave,Beltzhoover,3,33,M
+ARREST,16041529,1301,Registration and Certificate of Title Required.,03/07/2016,16:42,Haberman Ave & E Warrington Ave,Beltzhoover,3,33,M
+ARREST,16041529,13(a)(32),Paraphernalia - Use or Possession,03/07/2016,16:42,Haberman Ave & E Warrington Ave,Beltzhoover,3,33,M
+ARREST,16041529,4703,Operation of Vehicle without Official Certif. of Inspection,03/07/2016,16:42,Haberman Ave & E Warrington Ave,Beltzhoover,3,33,M
+OFFENSE 2.0,16041529,13(a)(31),Marijuana: Possession Small Amount,03/07/2016,17:03,Haberman Ave & E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,16041529,13(a)(32),Paraphernalia - Use or Possession,03/07/2016,17:03,Haberman Ave & E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,16041529,1301,Registration and Certificate of Title Required.,03/07/2016,17:03,Haberman Ave & E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,16041529,4703,Operation of Vehicle without Official Certif. of Inspection,03/07/2016,17:03,Haberman Ave & E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,16041604,2701,Simple Assault.,03/07/2016,18:40,Knox Ave & Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16041607,3502,Burglary.,03/07/2016,18:49,100 block S 26th St,South Side Flats,3,,
+OFFENSE 2.0,16041607,3304,Criminal Mischief.,03/07/2016,18:49,100 block S 26th St,South Side Flats,3,,
+OFFENSE 2.0,16041713,3502,Burglary.,03/07/2016,21:41,800 block Excelsior St,Allentown,3,,
+OFFENSE 2.0,16041692,2709,Harassment (Non-Specific),03/07/2016,00:01,5600 block Aylesboro Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16041229,4303,General Lighting Requirements.,03/07/2016,04:21,S Braddock Ave & Guthrie St,Regent Square,4,,
+OFFENSE 2.0,16041229,1301,Registration and Certificate of Title Required.,03/07/2016,04:21,S Braddock Ave & Guthrie St,Regent Square,4,,
+OFFENSE 2.0,16041229,13(a)(31),Marijuana: Possession Small Amount,03/07/2016,04:21,S Braddock Ave & Guthrie St,Regent Square,4,,
+ARREST,16041229,4303,General Lighting Requirements.,03/07/2016,04:30,S Braddock Ave & Guthrie St,Regent Square,4,45,F
+ARREST,16041229,1301,Registration and Certificate of Title Required.,03/07/2016,04:30,S Braddock Ave & Guthrie St,Regent Square,4,45,F
+ARREST,16041229,13(a)(31),Marijuana: Possession Small Amount,03/07/2016,04:30,S Braddock Ave & Guthrie St,Regent Square,4,45,F
+OFFENSE 2.0,16041242,9093,Indirect Criminal Contempt,03/07/2016,05:30,1100 block Greenfield Ave,Greenfield,4,,
+ARREST,16041242,9093,Indirect Criminal Contempt,03/07/2016,06:07,1100 block Greenfield Ave,Greenfield,4,30,M
+OFFENSE 2.0,16041316,3304,Criminal Mischief.,03/07/2016,09:00,400 block S Craig St,North Oakland,4,,
+OFFENSE 2.0,16041316,9130,Graffiti Investigation,03/07/2016,09:00,400 block S Craig St,North Oakland,4,,
+OFFENSE 2.0,16041379,9999,9999 - (Misc. Incident): ,03/07/2016,12:11,Baum Blvd & Cypress St,Shadyside,4,,
+ARREST,16015301,3922,Theft by Deception.,03/07/2016,13:25,500 block Kilbourne St,Hazelwood,4,29,M
+ARREST,16015301,3921,Theft by Unlawful Taking or Disposition.,03/07/2016,13:25,500 block Kilbourne St,Hazelwood,4,29,M
+ARREST,16015301,4106,Access Device Fraud,03/07/2016,13:25,500 block Kilbourne St,Hazelwood,4,29,M
+OFFENSE 2.0,16041672,9489,Found Property,03/07/2016,16:00,700 Blk Shady Ave.,Point Breeze,4,,
+OFFENSE 2.0,16041585,3304,Criminal Mischief.,03/07/2016,18:05,200 block Johnston Ave,Hazelwood,4,,
+OFFENSE 2.0,16041627,9496,Dead on Arrival (DOA),03/07/2016,19:13,5000 block Ladora Way,Hazelwood,4,,
+OFFENSE 2.0,16041667,029,Missing Juvenile,03/07/2016,20:20,600 block Calera St,Hays,4,,
+OFFENSE 2.0,16041718,2702,Aggravated Assault.,03/07/2016,22:00,200 block Winston St,Hazelwood,4,,
+OFFENSE 2.0,16041498,3304,Criminal Mischief.,03/07/2016,06:50,200 block Gross St,Bloomfield,5,,
+OFFENSE 2.0,16041252,3304,Criminal Mischief.,03/07/2016,07:08,Bryant Ct & N Highland Ave,Highland Park,5,,
+OFFENSE 2.0,16041573,3304,Criminal Mischief.,03/07/2016,07:35,1100 block N Highland Ave,Highland Park,5,,
+OFFENSE 2.0,16041264,9501,Bench Warrant,03/07/2016,08:07,East Hills Dr & Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16041264,9999,9999 - (Misc. Incident): ,03/07/2016,08:07,East Hills Dr & Wilner Dr,East Hills,5,,
+ARREST,16003792,3929,Retail Theft.,03/07/2016,08:10,400 block N Highland Ave,East Liberty,5,21,F
+ARREST,16041264,9501,Bench Warrant,03/07/2016,09:04,East Hills Dr & Wilner Dr,East Hills,5,23,F
+OFFENSE 2.0,16041286,2709,Harassment (Non-Specific),03/07/2016,09:30,East Liberty Blvd & Larimer Ave,East Liberty,5,,
+OFFENSE 2.0,16041293,3743,Accidents Involving Damage to Attended Veh. or Property,03/07/2016,09:35,East Liberty Blvd & Larimer Ave,East Liberty,5,,
+ARREST,15206707,3502,Burglary.,03/07/2016,11:00,4600 block Torley St,Bloomfield,5,19,M
+OFFENSE 2.0,16041511,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/07/2016,16:18,900 block N Homewood Ave,Homewood North,5,,
+OFFENSE 2.0,16041535,9501,Bench Warrant,03/07/2016,16:45,7200 block Forest Way,Homewood North,5,,
+OFFENSE 2.0,16041535,5104,Resisting Arrest or Other Law Enforcement.,03/07/2016,16:45,7200 block Forest Way,Homewood North,5,,
+OFFENSE 2.0,16041535,4914(A),False Identification to Law Enforcement,03/07/2016,16:45,7200 block Forest Way,Homewood North,5,,
+ARREST,16041535,13(a)(32),Paraphernalia - Use or Possession,03/07/2016,17:00,7200 block Forest Way,Homewood North,5,27,F
+ARREST,16041535,4914(A),False Identification to Law Enforcement,03/07/2016,17:00,7200 block Forest Way,Homewood North,5,27,F
+ARREST,16041535,5104,Resisting Arrest or Other Law Enforcement.,03/07/2016,17:00,7200 block Forest Way,Homewood North,5,27,F
+ARREST,16041535,9501,Bench Warrant,03/07/2016,17:00,7200 block Forest Way,Homewood North,5,27,F
+ARREST,16038666,2701,Simple Assault.,03/07/2016,18:00,5700 block Bryant St,Highland Park,5,27,F
+OFFENSE 2.0,16041231,3802(a)(1),DUI - General Impairment,03/07/2016,04:27,Chartiers Ave & Middletown Rd,Chartiers City,6,,
+OFFENSE 2.0,16041231,3323,Stop Signs and Yield Signs.,03/07/2016,04:27,Chartiers Ave & Middletown Rd,Chartiers City,6,,
+OFFENSE 2.0,16041231,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,03/07/2016,04:27,Chartiers Ave & Middletown Rd,Chartiers City,6,,
+ARREST,16041231,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,03/07/2016,05:00,Chartiers Ave & Middletown Rd,Chartiers City,6,34,M
+ARREST,16041231,3802(a)(1),DUI - General Impairment,03/07/2016,05:00,Chartiers Ave & Middletown Rd,Chartiers City,6,34,M
+ARREST,16041231,3323,Stop Signs and Yield Signs.,03/07/2016,05:00,Chartiers Ave & Middletown Rd,Chartiers City,6,34,M
+OFFENSE 2.0,16041358,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/07/2016,07:30,1000 block Chartiers Ave,Elliott,6,,
+OFFENSE 2.0,16041311,3743,Accidents Involving Damage to Attended Veh. or Property,03/07/2016,10:00,2700 block W Carson St,Esplen,6,,
+ARREST,15070072,2701,Simple Assault.,03/07/2016,14:28,1500 block Beechview Ave,Bluff,6,32,M
+OFFENSE 2.0,16041581,029,Missing Juvenile,03/07/2016,18:30,100 block Cedarbrook Dr,Crafton Heights,6,,
