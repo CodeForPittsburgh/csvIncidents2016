@@ -1,0 +1,128 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16042405,9490,Missing Persons (18 and Over),03/09/2016,00:05,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16042419,9093,Indirect Criminal Contempt,03/09/2016,00:46,2100 block Lautner St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16042448,9488,False  Burglar Alarm,03/09/2016,02:39,General Robinson St E,North Shore,1,,
+OFFENSE 2.0,16042476,9488,False  Burglar Alarm,03/09/2016,04:39,1800 block Kleber St,Brighton Heights,1,,
+OFFENSE 2.0,16042482,3701,Robbery.,03/09/2016,05:00,Allegheny Ave & Sheffield St,Manchester,1,,
+OFFENSE 2.0,16042530,9488,False  Burglar Alarm,03/09/2016,08:03,800 block Behan St,Central Northside,1,,
+OFFENSE 2.0,16042556,9999,9999 - (Misc. Incident): suspicious person,03/09/2016,09:00,Brighton Rd & Davis Ave,Brighton Heights,1,,
+OFFENSE 2.0,16042568,3304,Criminal Mischief.,03/09/2016,09:00,1100 block Federal St,Central Northside,1,,
+OFFENSE 2.0,16042554,5505,Public Drunkenness,03/09/2016,09:14,Emlin St & East St,East Allegheny,1,,
+OFFENSE 2.0,16042719,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/09/2016,13:43,400 block Avery St,East Allegheny,1,,
+OFFENSE 2.0,16042719,903,Criminal Conspiracy.,03/09/2016,13:43,400 block Avery St,East Allegheny,1,,
+OFFENSE 2.0,16042719,13(a)(16),Possession of Controlled Substance,03/09/2016,13:43,400 block Avery St,East Allegheny,1,,
+ARREST,16042719,903,Criminal Conspiracy.,03/09/2016,13:43,400 block Avery St,East Allegheny,1,21,M
+ARREST,16042719,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/09/2016,13:43,400 block Avery St,East Allegheny,1,21,M
+ARREST,16042719,13(a)(16),Possession of Controlled Substance,03/09/2016,13:43,400 block Avery St,East Allegheny,1,21,M
+OFFENSE 2.0,16042742,3921,Theft by Unlawful Taking or Disposition.,03/09/2016,14:45,Voskamp St & Basin St,Spring Garden,1,,
+OFFENSE 2.0,16042742,2701,Simple Assault.,03/09/2016,14:45,Voskamp St & Basin St,Spring Garden,1,,
+OFFENSE 2.0,16042722,9488,False  Burglar Alarm,03/09/2016,14:48,1200 block Monterey St,Central Northside,1,,
+ARREST,16042283,2701,Simple Assault.,03/09/2016,15:00,4000 block Oswald St,Brighton Heights,1,40,M
+ARREST,16042283,903,Criminal Conspiracy.,03/09/2016,15:00,4000 block Oswald St,Brighton Heights,1,40,M
+ARREST,16042283,2903,False Imprisonment.,03/09/2016,15:00,4000 block Oswald St,Brighton Heights,1,40,M
+ARREST,16042283,3701,Robbery.,03/09/2016,15:00,4000 block Oswald St,Brighton Heights,1,40,M
+OFFENSE 2.0,16042792,029,Missing Juvenile,03/09/2016,15:55,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16042795,3304,Criminal Mischief.,03/09/2016,15:55,500 block Armandale St,Central Northside,1,,
+OFFENSE 2.0,16042781,029,Missing Juvenile,03/09/2016,15:55,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16042853,9999,9999 - (Misc. Incident): ,03/09/2016,17:41,Bonvue St,Perry North,1,,
+OFFENSE 2.0,16042899,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/09/2016,18:42,Sandusky Ct & Henderson St,Fineview,1,,
+OFFENSE 2.0,16042906,5902(a)(1),Prostitution ,03/09/2016,19:00,Howard St & E North Ave,Fineview,1,,
+OFFENSE 2.0,16042906,5902(a)(2),Prostitution - Loitering for purpose of,03/09/2016,19:00,Howard St & E North Ave,Fineview,1,,
+ARREST,16042906,5902(a)(1),Prostitution ,03/09/2016,19:00,Howard St & E North Ave,Fineview,1,29,F
+ARREST,16042906,5902(a)(2),Prostitution - Loitering for purpose of,03/09/2016,19:00,Howard St & E North Ave,Fineview,1,29,F
+OFFENSE 2.0,16042928,9501,Bench Warrant,03/09/2016,19:40,Federal St N & Sampsonia Way,Central Northside,1,,
+OFFENSE 2.0,16042928,13(a)(31),Marijuana: Possession Small Amount,03/09/2016,19:40,Federal St N & Sampsonia Way,Central Northside,1,,
+ARREST,16042928,13(a)(31),Marijuana: Possession Small Amount,03/09/2016,19:40,Federal St N & Sampsonia Way,Central Northside,1,44,F
+ARREST,16042928,9501,Bench Warrant,03/09/2016,19:40,Federal St N & Sampsonia Way,Central Northside,1,51,F
+ARREST,16042928,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,19:40,Federal St N & Sampsonia Way,Central Northside,1,51,F
+OFFENSE 2.0,16042928,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,19:40,Federal St N & Sampsonia Way,Central Northside,1,,
+OFFENSE 2.0,16042979,2701,Simple Assault.,03/09/2016,21:00,500 block N Taylor Ave,Central Northside,1,,
+ARREST,16042979,2701,Simple Assault.,03/09/2016,21:15,500 block N Taylor Ave,Central Northside,1,51,M
+ARREST,16042979,2701,Simple Assault.,03/09/2016,21:15,500 block N Taylor Ave,Central Northside,1,49,M
+OFFENSE 2.0,16042612,3743,Accidents Involving Damage to Attended Veh. or Property,03/09/2016,00:45,Grant St & Blvd of the Allies,Golden Triangle/Civic Arena,2,,
+ARREST,16020440,3929,Retail Theft.,03/09/2016,07:04,700 block Liberty Ave,Golden Triangle/Civic Arena,2,50,M
+ARREST,16020440,903,Criminal Conspiracy.,03/09/2016,07:04,700 block Liberty Ave,Golden Triangle/Civic Arena,2,50,M
+OFFENSE 2.0,16042527,3304,Criminal Mischief.,03/09/2016,07:51,1000 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16042548,9999,9999 - (Misc. Incident): ,03/09/2016,08:55,4700 block Hatfield St,Central Lawrenceville,2,,
+ARREST,16041361,4915,Failure to Comply with Megans Law,03/09/2016,13:27,900 block 2ND Ave,Golden Triangle/Civic Arena,2,28,M
+OFFENSE 2.0,16042801,3921,Theft by Unlawful Taking or Disposition.,03/09/2016,15:29,800 block Memory Ln,Bedford Dwellings,2,,
+OFFENSE 2.0,16042912,9497,Aided Case,03/09/2016,19:15,3900 block Howley St,Lower Lawrenceville,2,,
+ARREST,15206706,13(a)(31),Marijuana: Possession Small Amount,03/09/2016,06:15,Cedarhurst St & Bernd Way,Beltzhoover,3,28,M
+OFFENSE 2.0,16042525,3934,Theft from Vehicle,03/09/2016,07:10,1500 block Transverse Ave,Carrick,3,,
+OFFENSE 2.0,16042626,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/09/2016,07:40,2300 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16042598,3934,Theft from Vehicle,03/09/2016,10:30,200 block The Boulevard,Carrick,3,,
+OFFENSE 2.0,16042676,459.502(a),Dog Bites,03/09/2016,12:35,S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16042825,3921,Theft by Unlawful Taking or Disposition.,03/09/2016,13:50,100 block Parkfield St,Carrick,3,,
+ARREST,16042730,9501,Bench Warrant,03/09/2016,15:30,2000 block Wharton St,South Side Flats,3,25,M
+ARREST,16042730,9501,Bench Warrant,03/09/2016,15:30,2000 block Wharton St,South Side Flats,3,28,M
+OFFENSE 2.0,16042730,9501,Bench Warrant,03/09/2016,15:30,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16042816,3743,Accidents Involving Damage to Attended Veh. or Property,03/09/2016,16:15,Saw Mill Run Blvd & Crane Ave,Mount Washington,3,,
+OFFENSE 2.0,16042847,601.16,Public Urination And Defecation,03/09/2016,17:30,Arlington Ave & Brownsville Rd,South Side Slopes,3,,
+ARREST,15234596,9501,Bench Warrant,03/09/2016,18:18,E Carson St & S 17th St,South Side Flats,3,33,F
+ARREST,16025002,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/09/2016,19:00,Fame Way & Parkdale Ave,Strip District,3,,F
+ARREST,16025002,903,Criminal Conspiracy.,03/09/2016,19:00,Fame Way & Parkdale Ave,Strip District,3,18,F
+ARREST,16025002,2709.A3,HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE,03/09/2016,19:00,Fame Way & Parkdale Ave,Strip District,3,18,F
+ARREST,16025002,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/09/2016,19:00,Fame Way & Parkdale Ave,Strip District,3,18,F
+ARREST,16025002,903,Criminal Conspiracy.,03/09/2016,19:00,Fame Way & Parkdale Ave,Strip District,3,,F
+OFFENSE 2.0,16042905,5104,Resisting Arrest or Other Law Enforcement.,03/09/2016,19:01,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16042905,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,03/09/2016,19:01,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16042905,5505,Public Drunkenness,03/09/2016,19:01,2000 block Wharton St,South Side Flats,3,,
+ARREST,16042905,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,03/09/2016,19:10,2000 block Wharton St,South Side Flats,3,60,M
+ARREST,16042905,5505,Public Drunkenness,03/09/2016,19:10,2000 block Wharton St,South Side Flats,3,60,M
+ARREST,16042905,5104,Resisting Arrest or Other Law Enforcement.,03/09/2016,19:10,2000 block Wharton St,South Side Flats,3,60,M
+OFFENSE 2.0,16042826,901,Criminal Attempt,03/09/2016,11:50,3200 block Parkview Ave,South Oakland,4,,
+OFFENSE 2.0,16042744,9496,Dead on Arrival (DOA),03/09/2016,14:48,6400 block Rosemoor St,Squirrel Hill South,4,,
+OFFENSE 2.0,16042802,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,03/09/2016,15:30,4600 block Centre Ave,North Oakland,4,,
+OFFENSE 2.0,16042856,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,17:43,4900 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16042856,9501,Bench Warrant,03/09/2016,17:43,4900 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16042856,3503(b)(1)(i),Actual Communication,03/09/2016,17:43,4900 block 2nd Ave,Hazelwood,4,,
+ARREST,16042856,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,18:20,4900 block 2nd Ave,Hazelwood,4,26,F
+ARREST,16042856,9501,Bench Warrant,03/09/2016,18:20,4900 block 2nd Ave,Hazelwood,4,27,M
+ARREST,16042856,3503(b)(1)(i),Actual Communication,03/09/2016,18:20,4900 block 2nd Ave,Hazelwood,4,27,M
+ARREST,16042915,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,18:38,4400 block Browns Hill Rd,Hazelwood,4,27,M
+ARREST,16042915,13(a)(16),Possession of Controlled Substance,03/09/2016,18:38,4400 block Browns Hill Rd,Hazelwood,4,27,M
+OFFENSE 2.0,16042915,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,19:10,4400 block Browns Hill Rd,Hazelwood,4,,
+OFFENSE 2.0,16042915,13(a)(16),Possession of Controlled Substance,03/09/2016,19:10,4400 block Browns Hill Rd,Hazelwood,4,,
+ARREST,16042915,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,19:10,4400 block Browns Hill Rd,Hazelwood,4,23,M
+ARREST,16042915,13(a)(16),Possession of Controlled Substance,03/09/2016,19:10,4400 block Browns Hill Rd,Hazelwood,4,23,M
+OFFENSE 2.0,16042919,5505,Public Drunkenness,03/09/2016,19:30,7600 block Penn Ave,Point Breeze,4,,
+OFFENSE 2.0,16043001,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,03/09/2016,21:00,7000 block Reynolds St,Point Breeze,4,,
+OFFENSE 2.0,16042410,2705,Recklessly Endangering Another Person.,03/09/2016,00:40,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16042410,2707.1,Discharge of a Firearm into Occupied Structure,03/09/2016,00:40,2200 block Wilner Dr,East Hills,5,,
+ARREST,16042425,4914,False Identification to Law Enforcement Authorities,03/09/2016,01:22,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,50,M
+ARREST,16042425,1301,Registration and Certificate of Title Required.,03/09/2016,01:22,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,36,F
+ARREST,16042425,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,01:22,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,36,F
+ARREST,16042425,13(a)(16),Possession of Controlled Substance,03/09/2016,01:22,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,36,F
+ARREST,16042425,9501,Bench Warrant,03/09/2016,01:22,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,50,M
+OFFENSE 2.0,16042425,13(a)(16),Possession of Controlled Substance,03/09/2016,02:00,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16042425,13(a)(32),Paraphernalia - Use or Possession,03/09/2016,02:00,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16042425,9501,Bench Warrant,03/09/2016,02:00,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16042425,4914,False Identification to Law Enforcement Authorities,03/09/2016,02:00,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16042425,1301,Registration and Certificate of Title Required.,03/09/2016,02:00,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16042589,3304,Criminal Mischief.,03/09/2016,10:42,7300 block Susquehanna St,Homewood South,5,,
+OFFENSE 2.0,16042621,9093,Indirect Criminal Contempt,03/09/2016,11:00,200 block Pearl St,Bloomfield,5,,
+ARREST,16037857,3922,Theft by Deception.,03/09/2016,12:45,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,35,M
+OFFENSE 2.0,16042667,2701,Simple Assault.,03/09/2016,13:02,7200 block Verona Blvd,Lincoln-Lemington-Belmar,5,,
+ARREST,16042667,2701,Simple Assault.,03/09/2016,13:10,7200 block Verona Blvd,Lincoln-Lemington-Belmar,5,55,F
+ARREST,16042667,2701,Simple Assault.,03/09/2016,13:10,7200 block Verona Blvd,Lincoln-Lemington-Belmar,5,38,F
+ARREST,15207747,2701,Simple Assault.,03/09/2016,14:00,300 block West Penn Pl,Bloomfield,5,35,F
+ARREST,15203776,2701,Simple Assault.,03/09/2016,14:00,4800 block Friendship Ave,Bloomfield,5,37,F
+ARREST,15203776,5505,Public Drunkenness,03/09/2016,14:00,4800 block Friendship Ave,Bloomfield,5,37,F
+OFFENSE 2.0,16042765,9498,302 (Mental),03/09/2016,15:55,600 block Wilkinsburg Ave,East Hills,5,,
+OFFENSE 2.0,16042851,9490,Missing Persons (18 and Over),03/09/2016,17:36,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16042916,9999,9999 - (Misc. Incident): Neighbor dispute,03/09/2016,19:30,5300 block Rosetta St,Garfield,5,,
+OFFENSE 2.0,16042973,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/09/2016,20:30,5400 block Broad St,Garfield,5,,
+OFFENSE 2.0,16043044,3921,Theft by Unlawful Taking or Disposition.,03/09/2016,23:20,700 block N Beatty St,East Liberty,5,,
+OFFENSE 2.0,16042433,8106,Shots Fired,03/09/2016,01:54,Wabash St & S Main St,West End,6,,
+OFFENSE 2.0,16042435,9488,False  Burglar Alarm,03/09/2016,02:05,500 block S Main St,West End,6,,
+OFFENSE 2.0,16042457,9488,False  Burglar Alarm,03/09/2016,02:59,2500 block West Liberty Ave,Brookline,6,,
+OFFENSE 2.0,16042534,3743,Accidents Involving Damage to Attended Veh. or Property,03/09/2016,07:25,West End Cir,West End,6,,
+OFFENSE 2.0,16042518,9496,Dead on Arrival (DOA),03/09/2016,07:30,1200 block Lynch St,Sheraden,6,,
+OFFENSE 2.0,16042637,2709,Harassment (Non-Specific),03/09/2016,11:45,2600 block Winchester Dr,Banksville,6,,
+OFFENSE 2.0,16042842,9999,9999 - (Misc. Incident): Child not picked up at bus stop,03/09/2016,16:45,Chartiers Ave & Allendale St,Sheraden,6,,
+OFFENSE 2.0,16042817,9999,9999 - (Misc. Incident): ,03/09/2016,16:49,800 block Bay Ridge Ave,Brookline,6,,
+ARREST,16034011,9501,Bench Warrant,03/09/2016,17:20,2500 block West Liberty Ave,Beechview,6,30,M
+OFFENSE 2.0,16042934,9999,9999 - (Misc. Incident): ,03/09/2016,18:55,Broadway Ave & Realty Ave,Beechview,6,,
+OFFENSE 2.0,16042964,2707,Propulsion of Missiles ,03/09/2016,20:27,Landis St & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,16042964,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/09/2016,20:27,Landis St & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,16042631,9094,Recovered Stolen Vehicle (OUTSIDE CITY),03/09/2016,11:52,500 block Rodi Rd,Outside City,OSC,,
