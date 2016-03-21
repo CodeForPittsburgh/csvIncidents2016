@@ -1,0 +1,146 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+ARREST,16014099,1301,Registration and Certificate of Title Required.,03/20/2016,00:01,Isabella St & Sandusky St S,North Shore,1,40,M
+ARREST,16014099,1543,Driving While Operating Privilege is Suspended or Revoked.,03/20/2016,00:01,Isabella St & Sandusky St S,North Shore,1,40,M
+ARREST,16014099,3334,Turning Movements and Required Signals.,03/20/2016,00:01,Isabella St & Sandusky St S,North Shore,1,40,M
+ARREST,16014099,3733,Fleeing or Attempting to Elude Police Officer,03/20/2016,00:01,Isabella St & Sandusky St S,North Shore,1,40,M
+OFFENSE 2.0,16049847,9488,False  Burglar Alarm,03/20/2016,00:55,Children's Way,Allegheny Center,1,,
+OFFENSE 2.0,16049857,9488,False  Burglar Alarm,03/20/2016,01:07,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16050030,3304,Criminal Mischief.,03/20/2016,01:08,2000 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16049916,5505,Public Drunkenness,03/20/2016,02:19,California Ave & Forsythe St,Marshall-Shadeland,1,,
+ARREST,16049936,3802(a)(2),DUI - BAC >.08% <.10%,03/20/2016,02:50,2100 block Letsche St,Fineview,1,43,M
+ARREST,16049936,3802(a)(1),DUI - General Impairment,03/20/2016,02:50,2100 block Letsche St,Fineview,1,43,M
+OFFENSE 2.0,16049936,3802(a)(2),DUI - BAC >.08% <.10%,03/20/2016,02:50,2100 block Letsche St,Fineview,1,,
+OFFENSE 2.0,16049936,3802(a)(1),DUI - General Impairment,03/20/2016,02:50,2100 block Letsche St,Fineview,1,,
+ARREST,16049962,3802(a)(1),DUI - General Impairment,03/20/2016,03:52,W North Ave & Galveston Ave,Allegheny West,1,25,F
+ARREST,16049962,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,03/20/2016,03:52,W North Ave & Galveston Ave,Allegheny West,1,25,F
+ARREST,16049962,3334,Turning Movements and Required Signals.,03/20/2016,03:52,W North Ave & Galveston Ave,Allegheny West,1,25,F
+OFFENSE 2.0,16049962,3802(a)(1),DUI - General Impairment,03/20/2016,03:58,W North Ave & Galveston Ave,Allegheny West,1,,
+OFFENSE 2.0,16049962,3334,Turning Movements and Required Signals.,03/20/2016,03:58,W North Ave & Galveston Ave,Allegheny West,1,,
+OFFENSE 2.0,16049962,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,03/20/2016,03:58,W North Ave & Galveston Ave,Allegheny West,1,,
+OFFENSE 2.0,16050077,3502,Burglary.,03/20/2016,10:45,2600 block Shelton Ave,Perry South,1,,
+OFFENSE 2.0,16050077,2701(a)(3),Simple Assault - Attempts by Physical Menace ,03/20/2016,10:45,2600 block Shelton Ave,Perry South,1,,
+OFFENSE 2.0,16050077,907,Possessing Instruments of Crime.,03/20/2016,10:45,2600 block Shelton Ave,Perry South,1,,
+ARREST,15109819,3304,Criminal Mischief.,03/20/2016,10:50,400 block East Ohio St,East Allegheny,1,46,F
+ARREST,15109819,2701,Simple Assault.,03/20/2016,10:50,400 block East Ohio St,East Allegheny,1,46,F
+ARREST,16050077,3502,Burglary.,03/20/2016,10:50,2600 block Shelton Ave,Perry South,1,47,F
+ARREST,16050077,907,Possessing Instruments of Crime.,03/20/2016,10:50,2600 block Shelton Ave,Perry South,1,47,F
+ARREST,16050077,2701(a)(3),Simple Assault - Attempts by Physical Menace ,03/20/2016,10:50,2600 block Shelton Ave,Perry South,1,47,F
+OFFENSE 2.0,16050125,2709,Harassment (Non-Specific),03/20/2016,12:00,800 block Peralta St,East Allegheny,1,,
+OFFENSE 2.0,16050283,3304,Criminal Mischief.,03/20/2016,19:00,River Ave & Heinz St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16050283,3934,Theft from Vehicle,03/20/2016,19:00,River Ave & Heinz St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16050305,13(a)(32),Paraphernalia - Use or Possession,03/20/2016,19:59,300 block Cedar Ave,East Allegheny,1,,
+ARREST,16038683,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,03/20/2016,20:30,800 block Ridge Ave,Allegheny West,1,25,M
+ARREST,16038683,3701,Robbery.,03/20/2016,20:30,800 block Ridge Ave,Allegheny West,1,25,M
+ARREST,16038683,2709,Harassment (Non-Specific),03/20/2016,20:30,800 block Ridge Ave,Allegheny West,1,25,M
+OFFENSE 2.0,16049887,3928,Unauthorized Use of Automobile and Other Vehicles.,03/20/2016,01:42,3500 block Bethoven St,Polish Hill,2,,
+OFFENSE 2.0,16049891,3809(a),Restriction on Alcoholic Beverages in Vehicle,03/20/2016,01:49,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16049891,3802(a)(1),DUI - General Impairment,03/20/2016,01:49,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16049891,3718(a),Minor Prohib from Operating w/ Alcohol in System,03/20/2016,01:49,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16049891,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,03/20/2016,01:49,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16049891,13(a)(32),Paraphernalia - Use or Possession,03/20/2016,01:49,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,,
+ARREST,16049891,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,03/20/2016,01:55,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,18,F
+ARREST,16049891,3809(a),Restriction on Alcoholic Beverages in Vehicle,03/20/2016,01:55,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,18,F
+ARREST,16049891,3802(a)(1),DUI - General Impairment,03/20/2016,01:55,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,18,F
+ARREST,16049891,13(a)(32),Paraphernalia - Use or Possession,03/20/2016,01:55,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,18,F
+ARREST,16049891,3718(a),Minor Prohib from Operating w/ Alcohol in System,03/20/2016,01:55,Liberty Ave & Stanwix St,Golden Triangle/Civic Arena,2,18,F
+OFFENSE 2.0,16049991,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/20/2016,05:00,1900 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,16049990,9489,Found Property,03/20/2016,05:05,1100 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16050178,3503,Criminal Trespass,03/20/2016,15:00,700 block Mc Neil Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16050288,2709(a),Harassment.,03/20/2016,17:00,300 block Liberty Ave,Middle Hill,2,,
+OFFENSE 2.0,16050256,3922,Theft by Deception.,03/20/2016,17:30,1400 block Locust St,Bluff,2,,
+ARREST,16047707,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/20/2016,17:32,600 block First Ave,Golden Triangle/Civic Arena,2,54,F
+OFFENSE 2.0,16050247,1543,Driving While Operating Privilege is Suspended or Revoked.,03/20/2016,18:00,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16050247,13(a)(32),Paraphernalia - Use or Possession,03/20/2016,18:00,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16050247,13(a)(16),Possession of Controlled Substance,03/20/2016,18:00,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16050247,3802(a)(1),DUI - General Impairment,03/20/2016,18:00,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16050247,3802(d)(1)(i),DUI - Controlled Substance - Schedule I,03/20/2016,18:00,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16050247,13(a)(16),Possession of Controlled Substance,03/20/2016,18:10,600 block Liberty Ave,Golden Triangle/Civic Arena,2,38,M
+ARREST,16050247,13(a)(32),Paraphernalia - Use or Possession,03/20/2016,18:10,600 block Liberty Ave,Golden Triangle/Civic Arena,2,38,M
+ARREST,16050247,1543,Driving While Operating Privilege is Suspended or Revoked.,03/20/2016,18:10,600 block Liberty Ave,Golden Triangle/Civic Arena,2,38,M
+ARREST,16050247,3802(a)(1),DUI - General Impairment,03/20/2016,18:10,600 block Liberty Ave,Golden Triangle/Civic Arena,2,38,M
+ARREST,16050247,3802(d)(1)(i),DUI - Controlled Substance - Schedule I,03/20/2016,18:10,600 block Liberty Ave,Golden Triangle/Civic Arena,2,38,M
+OFFENSE 2.0,16050092,3304,Criminal Mischief.,03/20/2016,02:30,1000 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16049922,2702,Aggravated Assault.,03/20/2016,02:41,1700 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16049938,5505,Public Drunkenness,03/20/2016,02:52,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,16049938,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,03/20/2016,02:52,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,16049938,5104,Resisting Arrest or Other Law Enforcement.,03/20/2016,02:52,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,16049938,3304,Criminal Mischief.,03/20/2016,02:52,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,16049938,2706,Terroristic Threats.,03/20/2016,02:52,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,16049938,2702,Aggravated Assault.,03/20/2016,02:52,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,16049938,2701,Simple Assault.,03/20/2016,02:52,200 block Shiloh St,Mount Washington,3,,
+ARREST,16049938,3304,Criminal Mischief.,03/20/2016,02:56,200 block Shiloh St,Mount Washington,3,27,M
+ARREST,16049938,5104,Resisting Arrest or Other Law Enforcement.,03/20/2016,02:56,200 block Shiloh St,Mount Washington,3,27,M
+ARREST,16049938,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,03/20/2016,02:56,200 block Shiloh St,Mount Washington,3,27,M
+ARREST,16049938,5505,Public Drunkenness,03/20/2016,02:56,200 block Shiloh St,Mount Washington,3,27,M
+ARREST,16049938,2706,Terroristic Threats.,03/20/2016,02:56,200 block Shiloh St,Mount Washington,3,27,M
+ARREST,16049938,2701,Simple Assault.,03/20/2016,02:56,200 block Shiloh St,Mount Washington,3,27,M
+ARREST,16049938,2702,Aggravated Assault.,03/20/2016,02:56,200 block Shiloh St,Mount Washington,3,27,M
+OFFENSE 2.0,16050095,3304,Criminal Mischief.,03/20/2016,03:00,2500 block Leticoe St,South Side Slopes,3,,
+OFFENSE 2.0,16050095,901,Criminal Attempt,03/20/2016,03:00,2500 block Leticoe St,South Side Slopes,3,,
+OFFENSE 2.0,16050020,3503,Criminal Trespass,03/20/2016,07:19,2300 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16050073,3304,Criminal Mischief.,03/20/2016,09:00,Knox Ave,Knoxville,3,,
+OFFENSE 2.0,16050044,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/20/2016,09:20,2600 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16050085,9497,Aided Case,03/20/2016,11:05,Uxor Way,South Side Flats,3,,
+OFFENSE 2.0,16050106,3304,Criminal Mischief.,03/20/2016,11:30,400 block Parklow St,Knoxville,3,,
+OFFENSE 2.0,16050106,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,03/20/2016,11:30,400 block Parklow St,Knoxville,3,,
+OFFENSE 2.0,16050133,3304,Criminal Mischief.,03/20/2016,11:30,200 block Charles St,Knoxville,3,,
+OFFENSE 2.0,16050108,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,03/20/2016,12:15,2300 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16050117,3921,Theft by Unlawful Taking or Disposition.,03/20/2016,12:37,200 block E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,16050182,9999,9999 - (Misc. Incident):  Probation Issue ,03/20/2016,15:50,2200 block Dartmore St,Overbrook,3,,
+OFFENSE 2.0,16050194,3304,Criminal Mischief.,03/20/2016,16:00,600 block Griffin St,Mount Washington,3,,
+ARREST,16050229,13(a)(32),Paraphernalia - Use or Possession,03/20/2016,17:20,Churchview Ave & Kirk Ave,Carrick,3,27,M
+ARREST,16050229,1543,Driving While Operating Privilege is Suspended or Revoked.,03/20/2016,17:20,Churchview Ave & Kirk Ave,Carrick,3,27,M
+OFFENSE 2.0,16050229,13(a)(32),Paraphernalia - Use or Possession,03/20/2016,17:20,Churchview Ave & Kirk Ave,Carrick,3,,
+OFFENSE 2.0,16050229,1543,Driving While Operating Privilege is Suspended or Revoked.,03/20/2016,17:20,Churchview Ave & Kirk Ave,Carrick,3,,
+ARREST,16042986,2701(a)(3),Simple Assault - Attempts by Physical Menace ,03/20/2016,19:15,200 block Albert St,Golden Triangle/Civic Arena,3,23,M
+ARREST,16042986,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/20/2016,19:15,200 block Albert St,Golden Triangle/Civic Arena,3,23,M
+OFFENSE 2.0,16049822,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,03/20/2016,00:45,3800 block Dawson St,Central Oakland,4,,
+OFFENSE 2.0,16049822,601.04 (c) (1),Residential 0700-2200  >65dB(A) 2200-0700 >60dB(A),03/20/2016,00:45,3800 block Dawson St,Central Oakland,4,,
+OFFENSE 2.0,16049914,5505,Public Drunkenness,03/20/2016,01:14,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16049861,6310.1,Selling Liquor to Minors,03/20/2016,01:17,400 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16049861,601.19,Social Host and Underage Drinking,03/20/2016,01:17,400 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16049861,493(1),Furnishing Liquor/Malt to Intox.Persons/Minors.Etc.,03/20/2016,01:17,400 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16049861,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,03/20/2016,01:17,400 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16049906,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,03/20/2016,02:08,3700 block Frazier St,South Oakland,4,,
+OFFENSE 2.0,16049906,6310.3(a),Carrying a False Identification Card; under 21 to obtain liquor,03/20/2016,02:08,3700 block Frazier St,South Oakland,4,,
+OFFENSE 2.0,16049906,6310.1,Selling Liquor to Minors,03/20/2016,02:08,3700 block Frazier St,South Oakland,4,,
+ARREST,16050016,2701,Simple Assault.,03/20/2016,07:05,2500 block Allequippa St,West Oakland,4,52,M
+OFFENSE 2.0,16050016,2701,Simple Assault.,03/20/2016,07:40,2500 block Allequippa St,West Oakland,4,,
+OFFENSE 2.0,16050138,3921,Theft by Unlawful Taking or Disposition.,03/20/2016,13:00,5800 block Kentucky Ave,Shadyside,4,,
+OFFENSE 2.0,16050138,3503,Criminal Trespass,03/20/2016,13:00,5800 block Kentucky Ave,Shadyside,4,,
+OFFENSE 2.0,16050166,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/20/2016,13:18,Irvine St,Hazelwood,4,,
+OFFENSE 2.0,16050166,3503(a),Criminal Trespass,03/20/2016,13:18,Irvine St,Hazelwood,4,,
+OFFENSE 2.0,16050166,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/20/2016,13:18,Irvine St,Hazelwood,4,,
+OFFENSE 2.0,16050145,9496,Dead on Arrival (DOA),03/20/2016,13:48,5200 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16050239,3503(a),Criminal Trespass,03/20/2016,15:15,5000 block Blair St,Hazelwood,4,,
+ARREST,15239383,3921,Theft by Unlawful Taking or Disposition.,03/20/2016,19:30,100 block Woodland Rd,Squirrel Hill North,4,35,F
+ARREST,15239383,3922,Theft by Deception.,03/20/2016,19:30,100 block Woodland Rd,Squirrel Hill North,4,35,F
+ARREST,15239383,4101,Forgery.,03/20/2016,19:30,100 block Woodland Rd,Squirrel Hill North,4,35,F
+OFFENSE 2.0,16049941,029,Missing Juvenile,03/20/2016,02:57,7200 block Monticello St,Homewood North,5,,
+OFFENSE 2.0,16049963,3502,Burglary.,03/20/2016,03:47,6400 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16050015,2705,Recklessly Endangering Another Person.,03/20/2016,06:52,400 block Borland St,East Liberty,5,,
+OFFENSE 2.0,16050015,2701,Simple Assault.,03/20/2016,06:52,400 block Borland St,East Liberty,5,,
+OFFENSE 2.0,16050052,3929,Retail Theft.,03/20/2016,09:51,900 block Freeport Rd,Highland Park,5,,
+ARREST,16050052,3929,Retail Theft.,03/20/2016,10:02,900 block Freeport Rd,Highland Park,5,52,M
+OFFENSE 2.0,16050094,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/20/2016,11:26,5200 block Harriet St,Bloomfield,5,,
+OFFENSE 2.0,16050103,9497,Aided Case,03/20/2016,11:46,6600 block Butler St,Morningside,5,,
+OFFENSE 2.0,16050116,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,03/20/2016,12:35,300 block Hale St,Homewood South,5,,
+OFFENSE 2.0,16050169,9122,Miscellaneous Fire Vehicle Investigation to Continue,03/20/2016,15:16,7000 block Lemington Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16050249,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/20/2016,17:45,100 block Roup Ave,Friendship,5,,
+OFFENSE 2.0,16050310,2701,Simple Assault.,03/20/2016,20:09,400 block N Euclid Ave,East Liberty,5,,
+ARREST,16050310,2701,Simple Assault.,03/20/2016,20:15,400 block N Euclid Ave,East Liberty,5,25,M
+OFFENSE 2.0,16050339,3701,Robbery.,03/20/2016,21:27,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,16049979,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/20/2016,04:38,500 block Village Rd,Fairywood,6,,
+OFFENSE 2.0,16050190,3928,Unauthorized Use of Automobile and Other Vehicles.,03/20/2016,07:00,1400 block Kinmount St,Westwood,6,,
+ARREST,16050074,9501,Bench Warrant,03/20/2016,11:04,1600 block Belasco Ave,Beechview,6,44,M
+OFFENSE 2.0,16050074,9501,Bench Warrant,03/20/2016,11:04,1600 block Belasco Ave,Beechview,6,,
+OFFENSE 2.0,16050132,2701,Simple Assault.,03/20/2016,13:13,200 block Amherst St,Elliott,6,,
+OFFENSE 2.0,16050132,2902,Unlawful Restraint.,03/20/2016,13:13,200 block Amherst St,Elliott,6,,
+OFFENSE 2.0,16050132,2902,Unlawful Restraint.,03/20/2016,13:13,200 block Amherst St,Elliott,6,,
+OFFENSE 2.0,16050132,2701,Simple Assault.,03/20/2016,13:13,200 block Amherst St,Elliott,6,,
+OFFENSE 2.0,16050206,3304,Criminal Mischief.,03/20/2016,15:00,400 block Hammond St,Sheraden,6,,
+ARREST,16050132,2701,Simple Assault.,03/20/2016,16:10,200 block Amherst St,Elliott,6,29,M
+ARREST,16050132,2902,Unlawful Restraint.,03/20/2016,16:10,200 block Amherst St,Elliott,6,29,M
+OFFENSE 2.0,16050222,2709,Harassment (Non-Specific),03/20/2016,17:00,Wenzell Pl,Beechview,6,,
+ARREST,16050303,9501,Bench Warrant,03/20/2016,19:50,Universal St & Vania Way,Sheraden,6,28,M
+OFFENSE 2.0,16050303,9501,Bench Warrant,03/20/2016,19:50,Universal St & Vania Way,Sheraden,6,,
