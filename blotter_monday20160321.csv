@@ -1,0 +1,127 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16050408,9488,False  Burglar Alarm,03/21/2016,01:01,3900 block Kleber St,Brighton Heights,1,,
+OFFENSE 2.0,16050453,9488,False  Burglar Alarm,03/21/2016,02:43,2700 block Delgar St,Perry South,1,,
+OFFENSE 2.0,16050613,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/21/2016,04:00,1400 block Forsythe St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16050613,2706,Terroristic Threats.,03/21/2016,04:00,1400 block Forsythe St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16050486,9498,302 (Mental),03/21/2016,04:30,1000 block Sheffield St,Manchester,1,,
+OFFENSE 2.0,16050947,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/21/2016,07:30,1800 block Wittmer St,Brighton Heights,1,,
+OFFENSE 2.0,16050649,029,Missing Juvenile,03/21/2016,12:33,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16050658,029,Missing Juvenile,03/21/2016,12:33,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16050772,1543,Driving While Operating Privilege is Suspended or Revoked.,03/21/2016,16:08,W North Ave & Arch St,Allegheny Center,1,,
+OFFENSE 2.0,16050787,9490,Missing Persons (18 and Over),03/21/2016,16:24,300 block Mount Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16050834,9496,Dead on Arrival (DOA),03/21/2016,17:36,2600 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,16050898,2709,Harassment (Non-Specific),03/21/2016,18:00,2600 block Veteran St,Perry South,1,,
+OFFENSE 2.0,16050898,3921,Theft by Unlawful Taking or Disposition.,03/21/2016,18:00,2600 block Veteran St,Perry South,1,,
+OFFENSE 2.0,16050890,2701,Simple Assault.,03/21/2016,18:45,Bonvue St,Perry North,1,,
+OFFENSE 2.0,16050893,9496,Dead on Arrival (DOA),03/21/2016,18:48,3200 block Bainton St,Brighton Heights,1,,
+ARREST,16050890,2701,Simple Assault.,03/21/2016,19:05,Bonvue St,Perry North,1,31,F
+OFFENSE 2.0,16050923,9999,9999 - (Misc. Incident): ,03/21/2016,19:43,1200 block Termon Ave,Brighton Heights,1,,
+ARREST,16046521,2701,Simple Assault.,03/21/2016,00:44,600 block 1st Ave,Golden Triangle/Civic Arena,2,57,F
+OFFENSE 2.0,16050407,2705,Recklessly Endangering Another Person.,03/21/2016,00:50,Herron Ave & Paulowna St,Polish Hill,2,,
+OFFENSE 2.0,16050407,3714,Careless Driving,03/21/2016,00:50,Herron Ave & Paulowna St,Polish Hill,2,,
+OFFENSE 2.0,16050407,3802(a)(1),DUI - General Impairment,03/21/2016,00:50,Herron Ave & Paulowna St,Polish Hill,2,,
+ARREST,16050407,3714,Careless Driving,03/21/2016,01:40,Herron Ave & Paulowna St,Polish Hill,2,23,M
+ARREST,16050407,2705,Recklessly Endangering Another Person.,03/21/2016,01:40,Herron Ave & Paulowna St,Polish Hill,2,23,M
+ARREST,16050407,3802(a)(1),DUI - General Impairment,03/21/2016,01:40,Herron Ave & Paulowna St,Polish Hill,2,23,M
+OFFENSE 2.0,16050975,901,Criminal Attempt,03/21/2016,04:10,800 block Mc Candless St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16050586,13(a)(31),Marijuana: Possession Small Amount,03/21/2016,10:24,200 block Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16020792,2702,Aggravated Assault.,03/21/2016,12:10,1500 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,16050660,3502,Burglary.,03/21/2016,12:30,200 block 44th St,Central Lawrenceville,2,,
+OFFENSE 2.0,16050667,3701,Robbery.,03/21/2016,12:53,2400 block Bedford Ave,Bedford Dwellings,2,,
+ARREST,16020792,2702,Aggravated Assault.,03/21/2016,13:00,1500 block Penn Ave,Strip District,2,38,M
+ARREST,16049906,601.19,Social Host and Underage Drinking,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,22,M
+ARREST,16049906,493(1),Furnishing Liquor/Malt to Intox.Persons/Minors.Etc.,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,22,M
+ARREST,16049906,6310.1,Selling Liquor to Minors,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,22,M
+ARREST,16049861,6310.1,Selling Liquor to Minors,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,,M
+ARREST,16049861,601.19,Social Host and Underage Drinking,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,,M
+ARREST,16049861,493(1),Furnishing Liquor/Malt to Intox.Persons/Minors.Etc.,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,,M
+ARREST,16049861,6310.1,Selling Liquor to Minors,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,22,M
+ARREST,16049861,601.19,Social Host and Underage Drinking,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,22,M
+ARREST,16049906,493(1),Furnishing Liquor/Malt to Intox.Persons/Minors.Etc.,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,,M
+ARREST,16049906,601.19,Social Host and Underage Drinking,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,,M
+ARREST,16049906,6310.1,Selling Liquor to Minors,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,,M
+ARREST,16049861,493(1),Furnishing Liquor/Malt to Intox.Persons/Minors.Etc.,03/21/2016,16:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,22,M
+OFFENSE 2.0,16050854,9489,Found Property,03/21/2016,17:45,40th St & Willow St,Central Lawrenceville,2,,
+OFFENSE 2.0,16050888,5505,Public Drunkenness,03/21/2016,18:43,4300 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,16050927,9498,302 (Mental),03/21/2016,20:20,4200 block Dunkeld Way,Central Lawrenceville,2,,
+OFFENSE 2.0,16050948,9504,Lost Property,03/21/2016,20:55,100 block 6th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16051038,9501,Bench Warrant,03/21/2016,22:15,200 block Dinwiddie St,Crawford-Roberts,2,,
+ARREST,16051038,9501,Bench Warrant,03/21/2016,23:00,200 block Dinwiddie St,Crawford-Roberts,2,21,M
+OFFENSE 2.0,16050399,3304,Criminal Mischief.,03/21/2016,00:15,S 15th St,South Side Flats,3,,
+OFFENSE 2.0,16050422,2701,Simple Assault.,03/21/2016,01:20,Copperfield Ave & Westmont Ave,Carrick,3,,
+OFFENSE 2.0,16050422,3304,Criminal Mischief.,03/21/2016,01:20,Copperfield Ave & Westmont Ave,Carrick,3,,
+OFFENSE 2.0,16050614,3304,Criminal Mischief.,03/21/2016,03:00,S 13th St & Roland St,South Side Flats,3,,
+OFFENSE 2.0,16050614,3934,Theft from Vehicle,03/21/2016,03:00,S 13th St & Roland St,South Side Flats,3,,
+OFFENSE 2.0,16050477,9496,Dead on Arrival (DOA),03/21/2016,03:30,100 block The Boulevard,Carrick,3,,
+OFFENSE 2.0,16050469,3934,Theft from Vehicle,03/21/2016,03:35,100 block Fitler St,Arlington,3,,
+OFFENSE 2.0,16050851,3304,Criminal Mischief.,03/21/2016,05:45,Sarah St & S 9th St,South Side Flats,3,,
+OFFENSE 2.0,16050527,3934,Theft from Vehicle,03/21/2016,06:20,1000 block E Warrington Ave,South Side Slopes,3,,
+OFFENSE 2.0,16050534,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/21/2016,08:05,Pasadena St,Mount Washington,3,,
+OFFENSE 2.0,16050534,2701,Simple Assault.,03/21/2016,08:05,Pasadena St,Mount Washington,3,,
+OFFENSE 2.0,16050559,3934,Theft from Vehicle,03/21/2016,08:30,Bingham St & S 6th St,South Side Flats,3,,
+OFFENSE 2.0,16050559,3304,Criminal Mischief.,03/21/2016,08:30,Bingham St & S 6th St,South Side Flats,3,,
+OFFENSE 2.0,16050556,3934,Theft from Vehicle,03/21/2016,08:30,Bingham St & S 6th St,South Side Flats,3,,
+OFFENSE 2.0,16050556,3304,Criminal Mischief.,03/21/2016,08:30,Bingham St & S 6th St,South Side Flats,3,,
+ARREST,16034898,2701,Simple Assault.,03/21/2016,08:35,S 12th St & Sarah St,Golden Triangle/Civic Arena,3,38,M
+OFFENSE 2.0,16050615,3502,Burglary.,03/21/2016,09:00,400 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16050641,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/21/2016,09:45,S 11th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16050581,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/21/2016,10:04,Maytide St,Carrick,3,,
+ARREST,16050601,13(a)(16),Possession of Controlled Substance,03/21/2016,10:07,Beltzhoover Ave,Allentown,3,40,M
+OFFENSE 2.0,16050601,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),03/21/2016,10:07,Beltzhoover Ave,Allentown,3,,
+OFFENSE 2.0,16050601,3925,Receiving Stolen Property.,03/21/2016,10:07,Beltzhoover Ave,Allentown,3,,
+OFFENSE 2.0,16050601,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/21/2016,10:07,Beltzhoover Ave,Allentown,3,,
+OFFENSE 2.0,16050601,13(a)(16),Possession of Controlled Substance,03/21/2016,10:07,Beltzhoover Ave,Allentown,3,,
+ARREST,16050601,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),03/21/2016,10:07,Beltzhoover Ave,Allentown,3,40,M
+ARREST,16050601,3925,Receiving Stolen Property.,03/21/2016,10:07,Beltzhoover Ave,Allentown,3,40,M
+ARREST,16050601,13(a)(32),Paraphernalia - Use or Possession,03/21/2016,10:07,Beltzhoover Ave,Allentown,3,40,M
+ARREST,16050601,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/21/2016,10:07,Beltzhoover Ave,Allentown,3,40,M
+OFFENSE 2.0,16050675,3934,Theft from Vehicle,03/21/2016,13:08,1800 block Arlington Ave,South Side Slopes,3,,
+ARREST,16030093,2902,Unlawful Restraint.,03/21/2016,15:30,Millbridge St,Golden Triangle/Civic Arena,3,32,M
+ARREST,16030093,2702,Aggravated Assault.,03/21/2016,15:30,Millbridge St,Golden Triangle/Civic Arena,3,32,M
+OFFENSE 2.0,16050847,3743,Accidents Involving Damage to Attended Veh. or Property,03/21/2016,16:58,Liberty Brg & Blvd of the Allies,South Side Slopes,3,,
+OFFENSE 2.0,16050846,2701,Simple Assault.,03/21/2016,17:40,700 block Proctor Way,Allentown,3,,
+ARREST,16050846,2701,Simple Assault.,03/21/2016,17:50,700 block Proctor Way,Allentown,3,38,M
+ARREST,16050879,9501,Bench Warrant,03/21/2016,18:51,Meritt Ave & Windfall Way,Carrick,3,22,M
+OFFENSE 2.0,16050879,9501,Bench Warrant,03/21/2016,18:51,Meritt Ave & Windfall Way,Carrick,3,,
+OFFENSE 2.0,16050955,2701,Simple Assault.,03/21/2016,21:11,400 block Ruxton St,Mount Washington,3,,
+ARREST,16050955,2701,Simple Assault.,03/21/2016,21:21,400 block Ruxton St,Mount Washington,3,54,F
+OFFENSE 2.0,16050973,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/21/2016,21:45,100 block Monastery Ave,South Side Slopes,3,,
+OFFENSE 2.0,16050724,9999,9999 - (Misc. Incident): ,03/21/2016,02:50,6400 block Living Pl,Shadyside,4,,
+OFFENSE 2.0,16050458,3802(a)(1),DUI - General Impairment,03/21/2016,02:54,Summerlea St & Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,16050458,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/21/2016,02:54,Summerlea St & Ellsworth Ave,Shadyside,4,,
+ARREST,16050458,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/21/2016,03:01,Summerlea St & Ellsworth Ave,Shadyside,4,28,M
+ARREST,16050458,3802(a)(1),DUI - General Impairment,03/21/2016,03:01,Summerlea St & Ellsworth Ave,Shadyside,4,28,M
+OFFENSE 2.0,16050483,2701,Simple Assault.,03/21/2016,04:20,200 block Glen Caladh St,Hazelwood,4,,
+ARREST,16050483,2701,Simple Assault.,03/21/2016,04:35,200 block Glen Caladh St,Hazelwood,4,42,
+OFFENSE 2.0,16050576,3304,Criminal Mischief.,03/21/2016,08:30,6400 block Living Pl,Shadyside,4,,
+OFFENSE 2.0,16050544,2709,Harassment (Non-Specific),03/21/2016,08:30,200 block Flowers Ave,Hazelwood,4,,
+ARREST,16042217,903,Criminal Conspiracy.,03/21/2016,15:45,Dunmoyle St & Wilkins Ave,Squirrel Hill North,4,21,F
+ARREST,16042217,2702,Aggravated Assault.,03/21/2016,15:45,Dunmoyle St & Wilkins Ave,Squirrel Hill North,4,21,F
+ARREST,16042217,2702,Aggravated Assault.,03/21/2016,15:45,Dunmoyle St & Wilkins Ave,Squirrel Hill North,4,,F
+ARREST,16042217,903,Criminal Conspiracy.,03/21/2016,15:45,Dunmoyle St & Wilkins Ave,Squirrel Hill North,4,,F
+ARREST,16050804,9501,Bench Warrant,03/21/2016,16:50,300 block N Braddock Ave,Point Breeze North,4,25,M
+OFFENSE 2.0,16050804,1543,Driving While Operating Privilege is Suspended or Revoked.,03/21/2016,16:50,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16050804,4303,General Lighting Requirements.,03/21/2016,16:50,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16050804,4524,Windshield Obstructions and Wipers.,03/21/2016,16:50,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16050804,4703,Operation of Vehicle without Official Certif. of Inspection,03/21/2016,16:50,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16050804,9501,Bench Warrant,03/21/2016,16:50,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16050864,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,03/21/2016,18:03,5900 block Centre Ave,East Liberty,4,,
+OFFENSE 2.0,16050925,9497,Aided Case,03/21/2016,20:30,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16050950,3301,Arson ,03/21/2016,21:00,4100 block Gladstone St,Greenfield,4,,
+OFFENSE 2.0,16050969,9497,Aided Case,03/21/2016,21:50,200 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16051018,9012,Non-Violent Domestic,03/21/2016,23:45,2500 block Allequippa St,West Oakland,4,,
+OFFENSE 2.0,16050537,3921,Theft by Unlawful Taking or Disposition.,03/21/2016,07:30,4800 block Stanton Ave,Stanton Heights,5,,
+OFFENSE 2.0,16050526,2701,Simple Assault.,03/21/2016,07:44,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16050526,2702,Aggravated Assault.,03/21/2016,07:44,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16050541,3304,Criminal Mischief.,03/21/2016,08:00,6400 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16050624,2709,Harassment (Non-Specific),03/21/2016,11:36,100 block S. Whitfield St,East Liberty,5,,
+ARREST,16050526,2701,Simple Assault.,03/21/2016,13:00,2200 block Wilner Dr,East Hills,5,22,M
+OFFENSE 2.0,16050844,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,03/21/2016,16:40,6100 block Broad St,East Liberty,5,,
+OFFENSE 2.0,16050889,3929,Retail Theft.,03/21/2016,17:12,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16050889,903,Criminal Conspiracy.,03/21/2016,17:12,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16050936,9498,302 (Mental),03/21/2016,19:05,4400 block Milgate St,Bloomfield,5,,
+OFFENSE 2.0,16050554,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/21/2016,08:45,2600 block West Liberty Ave,Brookline,6,,
+OFFENSE 2.0,16050553,9488,False  Burglar Alarm,03/21/2016,08:50,2700 block Village Rd,Fairywood,6,,
+OFFENSE 2.0,16050761,2709(a)(4),Harassment Communicates Prohibited Acts,03/21/2016,11:55,2700 block Morange Rd,East Carnegie,6,,
+OFFENSE 2.0,16050855,3921,Theft by Unlawful Taking or Disposition.,03/21/2016,17:43,900 block Woodbourne Ave,Brookline,6,,
+OFFENSE 2.0,16050689,9504,Lost Property,03/21/2016,13:45,Brownsville Rd,Bluff,OSC,,
