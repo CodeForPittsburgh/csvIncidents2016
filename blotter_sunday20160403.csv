@@ -1,0 +1,129 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16059515,9488,False  Burglar Alarm,04/03/2016,02:48,1400 block Woodland Ave,Marshall-Shadeland,1,,
+ARREST,16059538,3802(a)(1),DUI - General Impairment,04/03/2016,03:35,I-279 & Pa Rt 28,North Shore,1,54,M
+ARREST,16059538,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,04/03/2016,03:35,I-279 & Pa Rt 28,North Shore,1,54,M
+OFFENSE 2.0,16059538,3802(a)(1),DUI - General Impairment,04/03/2016,04:05,I-279 & Pa Rt 28,North Shore,1,,
+OFFENSE 2.0,16059538,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,04/03/2016,04:05,I-279 & Pa Rt 28,North Shore,1,,
+OFFENSE 2.0,16059599,029,Missing Juvenile,04/03/2016,07:35,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16059603,9496,Dead on Arrival (DOA),04/03/2016,07:56,800 block SpringGarden Ave,East Allegheny,1,,
+OFFENSE 2.0,16059758,726.01 (a),Resale of tickets without license unlawful: Heinz Field & PNC Park must have license and be in reselling zone,04/03/2016,12:00,Federal St S & General Robinson St,North Shore,1,,
+OFFENSE 2.0,16059775,5505,Public Drunkenness,04/03/2016,15:28,300 block North Shore Dr,North Shore,1,,
+OFFENSE 2.0,16059793,601.16(b)(1)(a),Any Person who urinates or defecates in  on  or about any public place,04/03/2016,16:13,100 block Federal St S,North Shore,1,,
+OFFENSE 2.0,16059830,3934,Theft from Vehicle,04/03/2016,16:30,E General Robinson St,Allegheny Center,1,,
+OFFENSE 2.0,16059830,3304,Criminal Mischief.,04/03/2016,16:30,E General Robinson St,Allegheny Center,1,,
+ARREST,15018032,3922,Theft by Deception.,04/03/2016,19:18,solar St,Spring Hill-City View,1,53,F
+ARREST,15018032,4101,Forgery.,04/03/2016,19:18,solar St,Spring Hill-City View,1,53,F
+OFFENSE 2.0,16059942,3743,Accidents Involving Damage to Attended Veh. or Property,04/03/2016,20:22,East Ohio St & Madison Ave,East Allegheny,1,,
+OFFENSE 2.0,16059954,3502,Burglary.,04/03/2016,20:49,100 block Rhine Pl,Spring Hill-City View,1,,
+OFFENSE 2.0,16059974,2701,Simple Assault.,04/03/2016,21:28,1300 block Truax Way,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16059974,2702,Aggravated Assault.,04/03/2016,21:28,1300 block Truax Way,Troy Hill-Herrs Island,1,,
+ARREST,16059974,2701,Simple Assault.,04/03/2016,21:41,1300 block Truax Way,Troy Hill-Herrs Island,1,,F
+ARREST,16059974,2702,Aggravated Assault.,04/03/2016,21:41,1300 block Truax Way,Troy Hill-Herrs Island,1,,F
+ARREST,16059974,2701,Simple Assault.,04/03/2016,21:41,1300 block Truax Way,Troy Hill-Herrs Island,1,20,F
+OFFENSE 2.0,16059420,3304,Criminal Mischief.,04/03/2016,00:15,1900 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,16059481,3304,Criminal Mischief.,04/03/2016,01:50,200 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16059543,9497,Aided Case,04/03/2016,03:44,Wood St & 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16059570,3934,Theft from Vehicle,04/03/2016,04:00,1900 block webster Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,16059803,2701,Simple Assault.,04/03/2016,16:35,17th St & Spring Way,Strip District,2,,
+OFFENSE 2.0,16059803,2705,Recklessly Endangering Another Person.,04/03/2016,16:35,17th St & Spring Way,Strip District,2,,
+OFFENSE 2.0,16059803,3701,Robbery.,04/03/2016,16:35,17th St & Spring Way,Strip District,2,,
+OFFENSE 2.0,16059803,3736,Reckless Driving,04/03/2016,16:35,17th St & Spring Way,Strip District,2,,
+OFFENSE 2.0,16059803,3925,Receiving Stolen Property.,04/03/2016,16:35,17th St & Spring Way,Strip District,2,,
+OFFENSE 2.0,16059803,903,Criminal Conspiracy.,04/03/2016,16:35,17th St & Spring Way,Strip District,2,,
+OFFENSE 2.0,16059864,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/03/2016,17:25,5300 block Butler St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16059947,3701,Robbery.,04/03/2016,18:45,Enoch St & Granville St,Crawford-Roberts,2,,
+OFFENSE 2.0,16059927,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/03/2016,19:50,Magee St & 5th Ave,Bluff,2,,
+OFFENSE 2.0,16059948,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/03/2016,20:39,500 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+ARREST,16059803,2701,Simple Assault.,04/03/2016,22:11,17th St & Spring Way,Strip District,2,17,M
+ARREST,16059803,2705,Recklessly Endangering Another Person.,04/03/2016,22:11,17th St & Spring Way,Strip District,2,17,M
+ARREST,16059803,3701,Robbery.,04/03/2016,22:11,17th St & Spring Way,Strip District,2,17,M
+ARREST,16059803,3736,Reckless Driving,04/03/2016,22:11,17th St & Spring Way,Strip District,2,17,M
+ARREST,16059803,3925,Receiving Stolen Property.,04/03/2016,22:11,17th St & Spring Way,Strip District,2,17,M
+ARREST,16059803,903,Criminal Conspiracy.,04/03/2016,22:11,17th St & Spring Way,Strip District,2,17,M
+OFFENSE 2.0,16060007,9999,9999 - (Misc. Incident): ,04/03/2016,23:00,3300 block Milwaukee St,Upper Hill,2,,
+OFFENSE 2.0,16059506,601.16,Public Urination And Defecation,04/03/2016,02:30,S 15th St & Roland St,South Side Flats,3,,
+OFFENSE 2.0,16059572,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/03/2016,04:30,S 18th St & Rugraff St,South Side Slopes,3,,
+OFFENSE 2.0,16059572,3802(a)(1),DUI - General Impairment,04/03/2016,04:30,S 18th St & Rugraff St,South Side Slopes,3,,
+ARREST,16059572,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/03/2016,04:48,S 18th St & Rugraff St,South Side Slopes,3,54,F
+ARREST,16059572,3802(a)(1),DUI - General Impairment,04/03/2016,04:48,S 18th St & Rugraff St,South Side Slopes,3,54,F
+OFFENSE 2.0,16059651,3921(a),Theft by Unlawful Taking or Disposition - Movable item,04/03/2016,10:43,2400 block Cobden St,South Side Slopes,3,,
+OFFENSE 2.0,16059651,5509,Desecration of Venerated Objects.,04/03/2016,10:43,2400 block Cobden St,South Side Slopes,3,,
+ARREST,15173333,2701,Simple Assault.,04/03/2016,12:30,Sylvania Ave,Bluff,3,25,M
+OFFENSE 2.0,16059812,2701,Simple Assault.,04/03/2016,16:32,Bausman St & Knox Ave,Knoxville,3,,
+OFFENSE 2.0,16059812,3304,Criminal Mischief.,04/03/2016,16:32,Bausman St & Knox Ave,Knoxville,3,,
+OFFENSE 2.0,16059871,3304,Criminal Mischief.,04/03/2016,18:03,Roll Way & Alice St,Knoxville,3,,
+OFFENSE 2.0,16059939,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,04/03/2016,20:12,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16059939,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,04/03/2016,20:12,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16059939,2701,Simple Assault.,04/03/2016,20:12,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16059939,5505,Public Drunkenness,04/03/2016,20:12,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16059939,903,Criminal Conspiracy.,04/03/2016,20:12,1400 block E Carson St,South Side Flats,3,,
+ARREST,16059939,2701,Simple Assault.,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,M
+ARREST,16059939,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,M
+ARREST,16059939,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,M
+ARREST,16059939,5505,Public Drunkenness,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,M
+ARREST,16059939,903,Criminal Conspiracy.,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,M
+ARREST,16059939,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,26,M
+ARREST,16059939,903,Criminal Conspiracy.,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,F
+ARREST,16059939,5505,Public Drunkenness,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,26,M
+ARREST,16059939,903,Criminal Conspiracy.,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,26,M
+ARREST,16059939,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,F
+ARREST,16059939,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,F
+ARREST,16059939,5505,Public Drunkenness,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,29,F
+ARREST,16059939,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,04/03/2016,20:31,1400 block E Carson St,South Side Flats,3,26,M
+OFFENSE 2.0,16059467,601.04 (c) (2),Loudspeakers  etc 0700-2200 >75dB(c) 2200-0700 >75 dB(c),04/03/2016,01:28,3300 block Ward St,South Oakland,4,,
+OFFENSE 2.0,16059498,601.04 (c) (2),Loudspeakers  etc 0700-2200 >75dB(c) 2200-0700 >75 dB(c),04/03/2016,02:19,400 block Semple St,Central Oakland,4,,
+OFFENSE 2.0,16058962,9498,302 (Mental),04/03/2016,12:34,200 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16059768,13(a)(1),Manuf.  Deliv.  Poss. of Adult.  Misbrand. Cont. Subst.,04/03/2016,15:16,400 block Hazelwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16059768,13(a)(32),Paraphernalia - Use or Possession,04/03/2016,15:16,400 block Hazelwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16059768,13(a)(30),Possession w/ Intent to Del. Controlled Substance,04/03/2016,15:16,400 block Hazelwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16059768,13(a)(16),Possession of Controlled Substance,04/03/2016,15:16,400 block Hazelwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16059821,9497,Aided Case,04/03/2016,16:55,5700 block Wilkins Ave,Squirrel Hill North,4,,
+ARREST,16059768,13(a)(1),Manuf.  Deliv.  Poss. of Adult.  Misbrand. Cont. Subst.,04/03/2016,18:30,400 block Hazelwood Ave,Hazelwood,4,33,M
+ARREST,16059768,13(a)(32),Paraphernalia - Use or Possession,04/03/2016,18:30,400 block Hazelwood Ave,Hazelwood,4,33,M
+ARREST,16059768,13(a)(16),Possession of Controlled Substance,04/03/2016,18:30,400 block Hazelwood Ave,Hazelwood,4,33,M
+ARREST,16059768,13(a)(30),Possession w/ Intent to Del. Controlled Substance,04/03/2016,18:30,400 block Hazelwood Ave,Hazelwood,4,33,M
+OFFENSE 2.0,16060008,3112,Traffic-Control Signals.,04/03/2016,23:01,Shady Ave & Darlington Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16060008,9501,Bench Warrant,04/03/2016,23:01,Shady Ave & Darlington Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16060008,1543,Driving While Operating Privilege is Suspended or Revoked.,04/03/2016,23:01,Shady Ave & Darlington Rd,Squirrel Hill South,4,,
+ARREST,16060008,1543,Driving While Operating Privilege is Suspended or Revoked.,04/03/2016,23:07,Shady Ave & Darlington Rd,Squirrel Hill South,4,35,F
+ARREST,16060008,9501,Bench Warrant,04/03/2016,23:07,Shady Ave & Darlington Rd,Squirrel Hill South,4,35,F
+ARREST,16060008,3112,Traffic-Control Signals.,04/03/2016,23:07,Shady Ave & Darlington Rd,Squirrel Hill South,4,35,F
+OFFENSE 2.0,16059413,9123,Miscellaneous Fire Other Investigation to Continue,04/03/2016,00:13,1100 block Mc Cabe St,Stanton Heights,5,,
+OFFENSE 2.0,16059668,2701,Simple Assault.,04/03/2016,00:20,4900 block Liberty Ave,Bloomfield,5,,
+OFFENSE 2.0,16059575,2701,Simple Assault.,04/03/2016,05:00,1800 block Calistoga St,East Hills,5,,
+ARREST,16059575,2701,Simple Assault.,04/03/2016,05:15,1800 block Calistoga St,East Hills,5,28,M
+ARREST,16059575,2701,Simple Assault.,04/03/2016,05:15,1800 block Calistoga St,East Hills,5,28,F
+OFFENSE 2.0,16059592,9490,Missing Persons (18 and Over),04/03/2016,06:50,5700 block Bryant St,Highland Park,5,,
+OFFENSE 2.0,16059773,3921(a),Theft by Unlawful Taking or Disposition - Movable item,04/03/2016,15:21,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16059773,3701,Robbery.,04/03/2016,15:21,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16059773,3502,Burglary.,04/03/2016,15:21,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16059773,3304,Criminal Mischief.,04/03/2016,15:21,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16059773,2701(b)(2),Simple Assault -  Child Under 12 / Adult 21 Or Older,04/03/2016,15:21,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16059773,2701,Simple Assault.,04/03/2016,15:21,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16059773,4304(a)(1),Endangering Welfare of Children.,04/03/2016,15:21,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,16059784,3503(b)(1)(i),Actual Communication,04/03/2016,15:57,200 block S Fairmount St,Bloomfield,5,,
+OFFENSE 2.0,16059784,2701(a)(3),Simple Assault - Attempts by Physical Menace ,04/03/2016,15:57,200 block S Fairmount St,Bloomfield,5,,
+OFFENSE 2.0,16059784,13(a)(32),Paraphernalia - Use or Possession,04/03/2016,15:57,200 block S Fairmount St,Bloomfield,5,,
+ARREST,16059784,2701(a)(3),Simple Assault - Attempts by Physical Menace ,04/03/2016,16:35,200 block S Fairmount St,Bloomfield,5,33,M
+ARREST,16059784,3503(b)(1)(i),Actual Communication,04/03/2016,16:35,200 block S Fairmount St,Bloomfield,5,33,M
+ARREST,16059784,13(a)(32),Paraphernalia - Use or Possession,04/03/2016,16:35,200 block S Fairmount St,Bloomfield,5,33,M
+OFFENSE 2.0,16059937,3802(a)(2),DUI - BAC >.08% <.10%,04/03/2016,20:22,Highland Ct,Highland Park,5,,
+OFFENSE 2.0,16059937,3743,Accidents Involving Damage to Attended Veh. or Property,04/03/2016,20:22,Highland Ct,Highland Park,5,,
+OFFENSE 2.0,16059937,3802(a)(1),DUI - General Impairment,04/03/2016,20:22,Highland Ct,Highland Park,5,,
+ARREST,16059937,3802(a)(2),DUI - BAC >.08% <.10%,04/03/2016,20:30,Highland Ct,Highland Park,5,24,M
+ARREST,16059937,3743,Accidents Involving Damage to Attended Veh. or Property,04/03/2016,20:30,Highland Ct,Highland Park,5,24,M
+ARREST,16059937,3802(a)(1),DUI - General Impairment,04/03/2016,20:30,Highland Ct,Highland Park,5,24,M
+OFFENSE 2.0,16059417,13(a)(16),Possession of Controlled Substance,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,,
+OFFENSE 2.0,16059417,13(a)(30),Possession w/ Intent to Del. Controlled Substance,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,,
+OFFENSE 2.0,16059417,1372,Unauthorized Transfer or Use of Registration.,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,,
+OFFENSE 2.0,16059417,1543,Driving While Operating Privilege is Suspended or Revoked.,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,,
+OFFENSE 2.0,16059417,3802(a)(1),DUI - General Impairment,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,,
+ARREST,16059417,13(a)(16),Possession of Controlled Substance,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,40,M
+ARREST,16059417,13(a)(30),Possession w/ Intent to Del. Controlled Substance,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,40,M
+ARREST,16059417,3802(a)(1),DUI - General Impairment,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,40,M
+ARREST,16059417,1543,Driving While Operating Privilege is Suspended or Revoked.,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,40,M
+ARREST,16059417,1372,Unauthorized Transfer or Use of Registration.,04/03/2016,00:26,Sebring Ave & Dagmar Ave,Beechview,6,40,M
+OFFENSE 2.0,16059595,9490,Missing Persons (18 and Over),04/03/2016,07:14,200 block Stafford St,Esplen,6,,
+OFFENSE 2.0,16059755,3921,Theft by Unlawful Taking or Disposition.,04/03/2016,14:45,3300 block Tuxedo St,Sheraden,6,,
+ARREST,16059882,9501,Bench Warrant,04/03/2016,19:48,1500 block Crucible St,Crafton Heights,6,28,F
+OFFENSE 2.0,16059882,9501,Bench Warrant,04/03/2016,20:10,1500 block Crucible St,Crafton Heights,6,,
