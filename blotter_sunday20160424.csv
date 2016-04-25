@@ -1,0 +1,150 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16074335,541.06,Vehicles Obstructing Traffic,04/24/2016,00:52,West End Brg,Chateau,1,,
+OFFENSE 2.0,16074379,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/24/2016,02:05,1700 block Rhine St,Spring Hill-City View,1,,
+ARREST,16074415,1501,Drivers Required to be Licensed.,04/24/2016,03:12,700 block Allegheny Ave,Chateau,1,22,M
+ARREST,16074415,3802(a)(1),DUI - General Impairment,04/24/2016,03:12,700 block Allegheny Ave,Chateau,1,22,M
+ARREST,16074415,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/24/2016,03:12,700 block Allegheny Ave,Chateau,1,22,M
+OFFENSE 2.0,16074415,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/24/2016,03:38,700 block Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,16074415,3802(a)(1),DUI - General Impairment,04/24/2016,03:38,700 block Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,16074415,1501,Drivers Required to be Licensed.,04/24/2016,03:38,700 block Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,16074427,9497,Aided Case,04/24/2016,03:50,1900 block Rhine St,Spring Hill-City View,1,,
+OFFENSE 2.0,16074473,3304,Criminal Mischief.,04/24/2016,06:30,300 block Penfort St,Northview Heights,1,,
+OFFENSE 2.0,16074474,1543,Driving While Operating Privilege is Suspended or Revoked.,04/24/2016,06:36,Ohio River Blvd & West End Brg,Chateau,1,,
+OFFENSE 2.0,16074474,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/24/2016,06:36,Ohio River Blvd & West End Brg,Chateau,1,,
+OFFENSE 2.0,16074474,3802(a)(1),DUI - General Impairment,04/24/2016,06:36,Ohio River Blvd & West End Brg,Chateau,1,,
+OFFENSE 2.0,16074474,3736,Reckless Driving,04/24/2016,06:36,Ohio River Blvd & West End Brg,Chateau,1,,
+OFFENSE 2.0,16074474,1786,Required Financial Responsibility.,04/24/2016,06:36,Ohio River Blvd & West End Brg,Chateau,1,,
+ARREST,16074474,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/24/2016,06:40,Ohio River Blvd & West End Brg,Chateau,1,22,M
+ARREST,16074474,1543,Driving While Operating Privilege is Suspended or Revoked.,04/24/2016,06:40,Ohio River Blvd & West End Brg,Chateau,1,22,M
+ARREST,16074474,1786,Required Financial Responsibility.,04/24/2016,06:40,Ohio River Blvd & West End Brg,Chateau,1,22,M
+ARREST,16074474,3736,Reckless Driving,04/24/2016,06:40,Ohio River Blvd & West End Brg,Chateau,1,22,M
+ARREST,16074474,3802(a)(1),DUI - General Impairment,04/24/2016,06:40,Ohio River Blvd & West End Brg,Chateau,1,22,M
+OFFENSE 2.0,16074531,2702,Aggravated Assault.,04/24/2016,10:43,200 block E Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16074572,3304,Criminal Mischief.,04/24/2016,11:00,Woodland Ave & Mullins St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16074551,9488,False  Burglar Alarm,04/24/2016,11:45,900 block Western Ave,Allegheny West,1,,
+OFFENSE 2.0,16074566,3304,Criminal Mischief.,04/24/2016,12:00,800 block N Lincoln Ave,Allegheny West,1,,
+OFFENSE 2.0,16074566,3934,Theft from Vehicle,04/24/2016,12:00,800 block N Lincoln Ave,Allegheny West,1,,
+OFFENSE 2.0,16074589,9490,Missing Persons (18 and Over),04/24/2016,12:59,3000 block Norwood Ave,Perry North,1,,
+OFFENSE 2.0,16074657,2709(a),Harassment.,04/24/2016,15:25,700 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16074701,13(a)(31),Marijuana: Possession Small Amount,04/24/2016,16:10,100 block Hazlett St,Northview Heights,1,,
+ARREST,16074701,13(a)(31),Marijuana: Possession Small Amount,04/24/2016,16:10,100 block Hazlett St,Northview Heights,1,37,M
+ARREST,15175353,517.8,Home Improvement Fraud,04/24/2016,19:00,3900 block Brandon Rd,Brighton Heights,1,36,M
+ARREST,15175353,3503,Criminal Trespass,04/24/2016,19:00,3900 block Brandon Rd,Brighton Heights,1,36,M
+OFFENSE 2.0,16074861,9501,Bench Warrant,04/24/2016,21:00,East Ohio St & Nash St,East Allegheny,1,,
+ARREST,16074861,9501,Bench Warrant,04/24/2016,21:00,East Ohio St & Nash St,East Allegheny,1,47,M
+OFFENSE 2.0,16074308,4912,Impersonating a Public Servant.,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16074308,2702,Aggravated Assault.,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,,
+ARREST,16074308,5505,Public Drunkenness,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,40,F
+ARREST,16074308,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,40,F
+ARREST,16074308,5104,Resisting Arrest or Other Law Enforcement.,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,40,F
+ARREST,16074308,4912,Impersonating a Public Servant.,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,40,F
+ARREST,16074308,2702,Aggravated Assault.,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,40,F
+OFFENSE 2.0,16074308,5505,Public Drunkenness,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16074308,5104,Resisting Arrest or Other Law Enforcement.,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16074308,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,04/24/2016,00:05,3900 block Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16074342,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/24/2016,01:00,William Penn Pl & Strawberry Way,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16074342,3802(a)(1),DUI - General Impairment,04/24/2016,01:00,William Penn Pl & Strawberry Way,Golden Triangle/Civic Arena,2,,
+ARREST,16074342,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/24/2016,01:27,William Penn Pl & Strawberry Way,Golden Triangle/Civic Arena,2,37,M
+ARREST,16074342,3802(a)(1),DUI - General Impairment,04/24/2016,01:27,William Penn Pl & Strawberry Way,Golden Triangle/Civic Arena,2,37,M
+OFFENSE 2.0,16074369,3934,Theft from Vehicle,04/24/2016,01:55,20th St & Spring Way,Strip District,2,,
+OFFENSE 2.0,16074369,3304,Criminal Mischief.,04/24/2016,01:55,20th St & Spring Way,Strip District,2,,
+OFFENSE 2.0,16074482,3502,Burglary.,04/24/2016,05:00,500 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16074537,9999,9999 - (Misc. Incident): ,04/24/2016,11:00,500 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16074783,3304,Criminal Mischief.,04/24/2016,11:30,500 block 33rd St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16074581,3742.1,Accident Involv. Death/Inj. While not Licensed,04/24/2016,12:47,16th St Brg & Penn Ave,Strip District,2,,
+OFFENSE 2.0,16074581,2705,Recklessly Endangering Another Person.,04/24/2016,12:47,16th St Brg & Penn Ave,Strip District,2,,
+OFFENSE 2.0,16074581,3736,Reckless Driving,04/24/2016,12:47,16th St Brg & Penn Ave,Strip District,2,,
+OFFENSE 2.0,16074753,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,04/24/2016,17:33,600 block Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16074753,13(a)(31),Marijuana: Possession Small Amount,04/24/2016,17:33,600 block Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16074753,6106,Firearms not to be Carried without a License.,04/24/2016,17:33,600 block Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16074753,6110.1,Possesion of Firearm by Minor,04/24/2016,17:33,600 block Wood St,Golden Triangle/Civic Arena,2,,
+ARREST,16074753,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,04/24/2016,17:37,600 block Wood St,Golden Triangle/Civic Arena,2,17,M
+ARREST,16074753,13(a)(31),Marijuana: Possession Small Amount,04/24/2016,17:37,600 block Wood St,Golden Triangle/Civic Arena,2,17,M
+ARREST,16074753,6106,Firearms not to be Carried without a License.,04/24/2016,17:37,600 block Wood St,Golden Triangle/Civic Arena,2,17,M
+ARREST,16074753,6110.1,Possesion of Firearm by Minor,04/24/2016,17:37,600 block Wood St,Golden Triangle/Civic Arena,2,17,M
+ARREST,16074791,13(a)(31),Marijuana: Possession Small Amount,04/24/2016,18:52,Wylie Ave & Davenport St,Middle Hill,2,29,M
+ARREST,16074791,13(a)(32),Paraphernalia - Use or Possession,04/24/2016,18:52,Wylie Ave & Davenport St,Middle Hill,2,29,M
+ARREST,16074791,1543,Driving While Operating Privilege is Suspended or Revoked.,04/24/2016,18:52,Wylie Ave & Davenport St,Middle Hill,2,29,M
+ARREST,16074791,3323,Stop Signs and Yield Signs.,04/24/2016,18:52,Wylie Ave & Davenport St,Middle Hill,2,29,M
+OFFENSE 2.0,16074791,1543,Driving While Operating Privilege is Suspended or Revoked.,04/24/2016,19:16,Wylie Ave & Davenport St,Middle Hill,2,,
+OFFENSE 2.0,16074791,13(a)(32),Paraphernalia - Use or Possession,04/24/2016,19:16,Wylie Ave & Davenport St,Middle Hill,2,,
+OFFENSE 2.0,16074791,13(a)(31),Marijuana: Possession Small Amount,04/24/2016,19:16,Wylie Ave & Davenport St,Middle Hill,2,,
+OFFENSE 2.0,16074791,3323,Stop Signs and Yield Signs.,04/24/2016,19:16,Wylie Ave & Davenport St,Middle Hill,2,,
+ARREST,16060950,3921,Theft by Unlawful Taking or Disposition.,04/24/2016,19:30,3300 block Penn Ave,Lower Lawrenceville,2,25,M
+ARREST,16060950,3925,Receiving Stolen Property.,04/24/2016,19:30,3300 block Penn Ave,Lower Lawrenceville,2,25,M
+OFFENSE 2.0,16074332,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,04/24/2016,00:50,3000 block Arlington Ave,Arlington Heights,3,,
+OFFENSE 2.0,16074520,4304(a)(1),Endangering Welfare of Children.,04/24/2016,02:05,300 block Sterling St,South Side Slopes,3,,
+OFFENSE 2.0,16074525,3304,Criminal Mischief.,04/24/2016,03:00,1900 block Carey Way,South Side Flats,3,,
+OFFENSE 2.0,16074490,9999,9999 - (Misc. Incident): Overdose,04/24/2016,08:48,2500 block Arlington Ave,South Side Slopes,3,,
+OFFENSE 2.0,16074621,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/24/2016,13:45,21st St & Wharton St,Golden Triangle/Civic Arena,3,,
+OFFENSE 2.0,16074715,9999,9999 - (Misc. Incident): ,04/24/2016,16:00,300 block Richfield St,Overbrook,3,,
+OFFENSE 2.0,16074686,5505,Public Drunkenness,04/24/2016,16:07,200 block Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,16074782,3934,Theft from Vehicle,04/24/2016,18:05,Bausman St & Bernd St,Beltzhoover,3,,
+OFFENSE 2.0,16074821,3304,Criminal Mischief.,04/24/2016,19:00,300 block Suncrest St,Knoxville,3,,
+OFFENSE 2.0,16074804,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,04/24/2016,19:23,Millbridge St,Allentown,3,,
+OFFENSE 2.0,16074804,607.03,Discharging Firearm or Airgun,04/24/2016,19:23,Millbridge St,Allentown,3,,
+ARREST,16059288,3921(a),Theft by Unlawful Taking or Disposition - Movable item,04/24/2016,21:40,Roscoe St,South Side Slopes,3,34,M
+OFFENSE 2.0,16074357,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,04/24/2016,01:34,3200 block Dawson St,South Oakland,4,,
+OFFENSE 2.0,16074357,493(1),Furnishing Liquor/Malt to Intox.Persons/Minors.Etc.,04/24/2016,01:34,3200 block Dawson St,South Oakland,4,,
+OFFENSE 2.0,16074357,6310.1,Selling Liquor to Minors,04/24/2016,01:34,3200 block Dawson St,South Oakland,4,,
+OFFENSE 2.0,16074357,601.19,Social Host and Underage Drinking,04/24/2016,01:34,3200 block Dawson St,South Oakland,4,,
+OFFENSE 2.0,16074430,1543,Driving While Operating Privilege is Suspended or Revoked.,04/24/2016,03:25,Craft Ave & Forbes Ave,South Oakland,4,,
+OFFENSE 2.0,16074430,13(a)(31),Marijuana: Possession Small Amount,04/24/2016,03:25,Craft Ave & Forbes Ave,South Oakland,4,,
+OFFENSE 2.0,16074430,13(a)(32),Paraphernalia - Use or Possession,04/24/2016,03:25,Craft Ave & Forbes Ave,South Oakland,4,,
+ARREST,16074430,13(a)(32),Paraphernalia - Use or Possession,04/24/2016,03:26,Craft Ave & Forbes Ave,South Oakland,4,29,M
+ARREST,16074430,13(a)(31),Marijuana: Possession Small Amount,04/24/2016,03:26,Craft Ave & Forbes Ave,South Oakland,4,29,M
+ARREST,16074430,1543,Driving While Operating Privilege is Suspended or Revoked.,04/24/2016,03:26,Craft Ave & Forbes Ave,South Oakland,4,29,M
+OFFENSE 2.0,16074456,3304,Criminal Mischief.,04/24/2016,05:12,4600 block Browns Hill Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16074456,3926(a)(1),Theft of Services; Cable  Gas  Taxi  Bill  Tab  etc.,04/24/2016,05:12,4600 block Browns Hill Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16074517,3921,Theft by Unlawful Taking or Disposition.,04/24/2016,10:00,6500 block Lilac St,Squirrel Hill South,4,,
+OFFENSE 2.0,16074680,4101,Forgery.,04/24/2016,12:00,5000 block Castleman St,Shadyside,4,,
+OFFENSE 2.0,16074680,4120,Identity Theft,04/24/2016,12:00,5000 block Castleman St,Shadyside,4,,
+OFFENSE 2.0,16074664,3304,Criminal Mischief.,04/24/2016,14:00,Dawson St & Oakland Way,Central Oakland,4,,
+OFFENSE 2.0,16074634,2702,Aggravated Assault.,04/24/2016,15:00,800 block Monteiro St,Greenfield,4,,
+OFFENSE 2.0,16074634,2709(a),Harassment.,04/24/2016,15:00,800 block Monteiro St,Greenfield,4,,
+OFFENSE 2.0,16074634,2705,Recklessly Endangering Another Person.,04/24/2016,15:00,800 block Monteiro St,Greenfield,4,,
+OFFENSE 2.0,16074634,2701(a)(3),Simple Assault - Attempts by Physical Menace ,04/24/2016,15:00,800 block Monteiro St,Greenfield,4,,
+OFFENSE 2.0,16074668,2709(a.1)(1)(ii),Cyber Harassment Of A Child Through An Electronic Social Media Service: Threat To Inflict Harm,04/24/2016,15:33,800 block Johnston Ave,Glen Hazel,4,,
+OFFENSE 2.0,16074668,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,04/24/2016,15:33,800 block Johnston Ave,Glen Hazel,4,,
+OFFENSE 2.0,16074720,3923,Theft by Extortion.,04/24/2016,17:00,1800 block Parkview Blvd,Squirrel Hill South,4,,
+ARREST,16074634,2701(a)(3),Simple Assault - Attempts by Physical Menace ,04/24/2016,17:28,800 block Monteiro St,Greenfield,4,36,F
+ARREST,16074634,2702,Aggravated Assault.,04/24/2016,17:28,800 block Monteiro St,Greenfield,4,36,F
+ARREST,16074634,2705,Recklessly Endangering Another Person.,04/24/2016,17:28,800 block Monteiro St,Greenfield,4,36,F
+ARREST,16074634,2709(a),Harassment.,04/24/2016,17:28,800 block Monteiro St,Greenfield,4,36,F
+OFFENSE 2.0,16074794,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/24/2016,18:00,Sennott St & S Bouquet St,Central Oakland,4,,
+OFFENSE 2.0,16074382,1543,Driving While Operating Privilege is Suspended or Revoked.,04/24/2016,02:07,Larimer Ave & East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16074382,3743,Accidents Involving Damage to Attended Veh. or Property,04/24/2016,02:07,Larimer Ave & East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16074382,3802(a)(1),DUI - General Impairment,04/24/2016,02:07,Larimer Ave & East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16074382,5104,Resisting Arrest or Other Law Enforcement.,04/24/2016,02:07,Larimer Ave & East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16074382,5121,Escape.,04/24/2016,02:07,Larimer Ave & East Liberty Blvd,East Liberty,5,,
+ARREST,16074382,1543,Driving While Operating Privilege is Suspended or Revoked.,04/24/2016,02:17,Larimer Ave & East Liberty Blvd,East Liberty,5,22,M
+ARREST,16074382,3743,Accidents Involving Damage to Attended Veh. or Property,04/24/2016,02:17,Larimer Ave & East Liberty Blvd,East Liberty,5,22,M
+ARREST,16074382,3802(a)(1),DUI - General Impairment,04/24/2016,02:17,Larimer Ave & East Liberty Blvd,East Liberty,5,22,M
+ARREST,16074382,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,04/24/2016,02:17,Larimer Ave & East Liberty Blvd,East Liberty,5,22,M
+ARREST,16074382,5104,Resisting Arrest or Other Law Enforcement.,04/24/2016,02:17,Larimer Ave & East Liberty Blvd,East Liberty,5,22,M
+ARREST,16074382,5121,Escape.,04/24/2016,02:17,Larimer Ave & East Liberty Blvd,East Liberty,5,22,M
+OFFENSE 2.0,16074534,9497,Aided Case,04/24/2016,10:55,300 block Pearl St,Bloomfield,5,,
+OFFENSE 2.0,16074601,9122,Miscellaneous Fire Vehicle Investigation to Continue,04/24/2016,13:22,N Homewood Ave & Kedron St,Homewood North,5,,
+OFFENSE 2.0,16074665,3928,Unauthorized Use of Automobile and Other Vehicles.,04/24/2016,15:00,300 block Stratford Ave,Friendship,5,,
+OFFENSE 2.0,16074651,9497,Aided Case,04/24/2016,15:22,5100 block West Penn Pl,Bloomfield,5,,
+OFFENSE 2.0,16074700,2701,Simple Assault.,04/24/2016,16:17,Hendon Ct,East Liberty,5,,
+ARREST,16074700,2701,Simple Assault.,04/24/2016,16:36,Hendon Ct,East Liberty,5,26,F
+OFFENSE 2.0,16074722,3304,Criminal Mischief.,04/24/2016,16:40,2300 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,16074819,2701,Simple Assault.,04/24/2016,18:10,5900 block Station St,East Liberty,5,,
+OFFENSE 2.0,16074819,908,Prohibited Offensive Weapons.,04/24/2016,18:10,5900 block Station St,East Liberty,5,,
+OFFENSE 2.0,16074874,9489,Found Property,04/24/2016,18:33,5900 block Station St,East Liberty,5,,
+OFFENSE 2.0,16074775,3304,Criminal Mischief.,04/24/2016,18:33,400 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,16074874,2702,Aggravated Assault.,04/24/2016,18:33,5900 block Station St,East Liberty,5,,
+OFFENSE 2.0,16074805,2702,Aggravated Assault.,04/24/2016,19:40,100 block N Euclid Ave,East Liberty,5,,
+OFFENSE 2.0,16074835,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,04/24/2016,20:10,5500 block Broad St,Garfield,5,,
+OFFENSE 2.0,16074289,029,Missing Juvenile,04/24/2016,00:01,1200 block lakewood St,Elliott,6,,
+OFFENSE 2.0,16074417,9490,Missing Persons (18 and Over),04/24/2016,03:08,700 block Bay Ridge Ave,Brookline,6,,
+ARREST,16074410,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,04/24/2016,03:15,1300 block Wareman Ave,Brookline,6,23,F
+OFFENSE 2.0,16074410,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,04/24/2016,03:44,1300 block Wareman Ave,Brookline,6,,
+OFFENSE 2.0,16074526,3701,Robbery.,04/24/2016,10:15,Clairhaven St & Stratmore St,Crafton Heights,6,,
+OFFENSE 2.0,16074550,9488,False  Burglar Alarm,04/24/2016,11:45,3700 block Wind Gap Ave,Windgap,6,,
+OFFENSE 2.0,16074736,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/24/2016,17:08,2300 block Noblestown Rd,Oakwood,6,,
+OFFENSE 2.0,16074814,3921,Theft by Unlawful Taking or Disposition.,04/24/2016,19:00,2900 block Sheraden Blvd,Sheraden,6,,
+OFFENSE 2.0,16074799,13(a)(32),Paraphernalia - Use or Possession,04/24/2016,19:15,1000 block Woodbourne Ave,Brookline,6,,
+ARREST,16074799,13(a)(32),Paraphernalia - Use or Possession,04/24/2016,19:15,1000 block Woodbourne Ave,Brookline,6,21,M
+OFFENSE 2.0,16060817,2701,Simple Assault.,04/24/2016,20:45,Tuxedo St,Sheraden,6,,
