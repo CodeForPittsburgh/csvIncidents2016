@@ -1,0 +1,108 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16075602,3921(a),Theft by Unlawful Taking or Disposition - Movable item,04/26/2016,00:20,1000 block Lamont St,California-Kirkbride,1,,
+OFFENSE 2.0,16075602,3502,Burglary.,04/26/2016,00:20,1000 block Lamont St,California-Kirkbride,1,,
+OFFENSE 2.0,16075640,9488,False  Burglar Alarm,04/26/2016,00:56,800 block Pennsylvania Ave,Central Northside,1,,
+ARREST,16072616,3929,Retail Theft.,04/26/2016,00:57,800 block Pennsylvania Ave,California-Kirkbride,1,19,F
+ARREST,16072616,3503,Criminal Trespass,04/26/2016,00:57,800 block Pennsylvania Ave,California-Kirkbride,1,19,F
+ARREST,16075583,5101,Obstructing Admin. of Law ,04/26/2016,02:58,300 block East Ohio St,Allegheny Center,1,44,F
+OFFENSE 2.0,16075731,9012,Non-Violent Domestic,04/26/2016,05:00,1300 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16075849,9129,Miscellaneous Investigation,04/26/2016,09:50,3400 block Gass Ave,Brighton Heights,1,,
+OFFENSE 2.0,16075918,2709(a),Harassment.,04/26/2016,12:03,600 block Chester Ave,Perry South,1,,
+OFFENSE 2.0,16076054,2709(a)(2),Harassment by Following Person in Public Place(s),04/26/2016,14:00,2900 block perrysville Ave,Perry North,1,,
+OFFENSE 2.0,16075926,029,Missing Juvenile,04/26/2016,14:10,2000 block Termon Ave,Brighton Heights,1,,
+ARREST,14168360,1501,Drivers Required to be Licensed.,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,17,M
+ARREST,14168360,903,Criminal Conspiracy.,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,15,F
+ARREST,14168360,3925,Receiving Stolen Property.,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,15,F
+ARREST,14168360,903,Criminal Conspiracy.,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,17,M
+ARREST,14168360,3925,Receiving Stolen Property.,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,17,M
+ARREST,14168360,3921,Theft by Unlawful Taking or Disposition.,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,17,M
+ARREST,14168360,3743,Accidents Involving Damage to Attended Veh. or Property,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,17,M
+ARREST,14168360,3304,Criminal Mischief.,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,17,M
+ARREST,14168360,1786,Required Financial Responsibility.,04/26/2016,14:30,4000 block Vinceton St,Perry North,1,17,M
+OFFENSE 2.0,16076034,3304,Criminal Mischief.,04/26/2016,16:02,900 block Allegheny Ave,Manchester,1,,
+OFFENSE 2.0,16076069,3743,Accidents Involving Damage to Attended Veh. or Property,04/26/2016,16:52,East Ohio St & Cedar Ave,Allegheny Center,1,,
+ARREST,16076087,1501,Drivers Required to be Licensed.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,21,M
+ARREST,16076087,5101,Obstructing Admin. of Law ,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,21,M
+ARREST,16076087,3701,Robbery.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,21,M
+ARREST,16076087,2706,Terroristic Threats.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,21,M
+ARREST,16076087,2702,Aggravated Assault.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,21,M
+OFFENSE 2.0,16076087,1501,Drivers Required to be Licensed.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,,
+OFFENSE 2.0,16076087,1543,Driving While Operating Privilege is Suspended or Revoked.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,,
+OFFENSE 2.0,16076087,2702,Aggravated Assault.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,,
+OFFENSE 2.0,16076087,2706,Terroristic Threats.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,,
+OFFENSE 2.0,16076087,3701,Robbery.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,,
+ARREST,16076087,1543,Driving While Operating Privilege is Suspended or Revoked.,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,21,M
+OFFENSE 2.0,16076087,5101,Obstructing Admin. of Law ,04/26/2016,17:35,Parkhurst St & Federal St N,Central Northside,1,,
+OFFENSE 2.0,16076199,5507,Obstructing Highways and Passages.,04/26/2016,20:17,East St & east Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16076281,2701,Simple Assault.,04/26/2016,23:10,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16076281,5123,Contraband.,04/26/2016,23:10,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16076281,2706,Terroristic Threats.,04/26/2016,23:10,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16076281,13(a)(32),Paraphernalia - Use or Possession,04/26/2016,23:10,200 block East Ohio St,Allegheny Center,1,,
+ARREST,16076281,2706,Terroristic Threats.,04/26/2016,23:16,200 block East Ohio St,Allegheny Center,1,30,M
+ARREST,16076281,5123,Contraband.,04/26/2016,23:16,200 block East Ohio St,Allegheny Center,1,30,M
+ARREST,16076281,2701,Simple Assault.,04/26/2016,23:16,200 block East Ohio St,Allegheny Center,1,30,M
+ARREST,16076281,13(a)(32),Paraphernalia - Use or Possession,04/26/2016,23:16,200 block East Ohio St,Allegheny Center,1,30,M
+OFFENSE 2.0,16076293,3921,Theft by Unlawful Taking or Disposition.,04/26/2016,23:59,1600 block Lowrie St,Troy Hill-Herrs Island,1,,
+ARREST,16069570,2701,Simple Assault.,04/26/2016,08:00,600 block First Ave,Golden Triangle/Civic Arena,2,60,M
+ARREST,16060392,7611,Unlawful Use of Computer,04/26/2016,08:50,600 block First Ave,Golden Triangle/Civic Arena,2,29,F
+ARREST,16060392,4106,Access Device Fraud,04/26/2016,08:50,600 block First Ave,Golden Triangle/Civic Arena,2,29,F
+ARREST,16060392,3922,Theft by Deception.,04/26/2016,08:50,600 block First Ave,Golden Triangle/Civic Arena,2,29,F
+OFFENSE 2.0,16076075,3304,Criminal Mischief.,04/26/2016,13:00,PPG Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16075970,3503(b)(1)(i),Actual Communication,04/26/2016,13:36,100 block 5th Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16068921,13(a)(16),Possession of Controlled Substance,04/26/2016,15:00,600 block 1st Ave,East Allegheny,2,59,M
+OFFENSE 2.0,16076014,9999,9999 - (Misc. Incident): ,04/26/2016,15:50,11th St & Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16076090,4120,Identity Theft,04/26/2016,17:30,5200 block Harrison St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16076186,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/26/2016,19:00,Smallman St & 12th St,Strip District,2,,
+OFFENSE 2.0,16076205,3743,Accidents Involving Damage to Attended Veh. or Property,04/26/2016,19:15,Blvd of the Allies & Stevenson St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16076178,13(a)(32),Paraphernalia - Use or Possession,04/26/2016,19:30,Milwaukee St & Finland St,Upper Hill,2,,
+ARREST,16076178,13(a)(32),Paraphernalia - Use or Possession,04/26/2016,19:30,Milwaukee St & Finland St,Upper Hill,2,30,M
+OFFENSE 2.0,16076178,13(a)(16),Possession of Controlled Substance,04/26/2016,19:30,Milwaukee St & Finland St,Upper Hill,2,,
+ARREST,16076178,13(a)(16),Possession of Controlled Substance,04/26/2016,19:30,Milwaukee St & Finland St,Upper Hill,2,30,M
+ARREST,16061924,2701,Simple Assault.,04/26/2016,20:04,600 block 1st Ave,Golden Triangle/Civic Arena,2,32,F
+OFFENSE 2.0,16075638,3934,Theft from Vehicle,04/26/2016,00:45,Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16075801,3921,Theft by Unlawful Taking or Disposition.,04/26/2016,08:00,Sarah St & S 26th St,South Side Flats,3,,
+OFFENSE 2.0,16075817,2709(a),Harassment.,04/26/2016,09:12,Spring St & Arlington Ave,Arlington,3,,
+OFFENSE 2.0,16075844,3304,Criminal Mischief.,04/26/2016,09:43,1300 block S 13th St,Mount Washington,3,,
+OFFENSE 2.0,16075844,3934,Theft from Vehicle,04/26/2016,09:43,1300 block S 13th St,Mount Washington,3,,
+OFFENSE 2.0,16075865,9999,9999 - (Misc. Incident): Neighbor Dispute,04/26/2016,10:00,2400 block Charcot St,Arlington,3,,
+OFFENSE 2.0,16075880,9496,Dead on Arrival (DOA),04/26/2016,10:30,2800 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16075921,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/26/2016,12:00,Forbes Ave & McGee St,Strip District,3,,
+OFFENSE 2.0,16076029,2701,Simple Assault.,04/26/2016,15:50,2200 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16076029,2706,Terroristic Threats.,04/26/2016,15:50,2200 block Brownsville Rd,Carrick,3,,
+ARREST,15166793,3921,Theft by Unlawful Taking or Disposition.,04/26/2016,17:00,200 block Shiloh St,Bluff,3,24,M
+OFFENSE 2.0,16076104,2709,Harassment (Non-Specific),04/26/2016,17:25,2100 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16076220,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,04/26/2016,20:15,2600 block S 18th St,South Side Slopes,3,,
+OFFENSE 2.0,16076276,2701,Simple Assault.,04/26/2016,22:25,100 block Provost Rd,Overbrook,3,,
+ARREST,16076276,2701,Simple Assault.,04/26/2016,22:50,100 block Provost Rd,Overbrook,3,25,F
+OFFENSE 2.0,16075841,9999,9999 - (Misc. Incident): ,04/26/2016,09:38,2100 block Shady Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16076004,3304,Criminal Mischief.,04/26/2016,10:00,100 block Glen Caladh St,Hazelwood,4,,
+OFFENSE 2.0,16075899,9999,9999 - (Misc. Incident): Phone Scam,04/26/2016,11:00,4600 block Bayard St,North Oakland,4,,
+OFFENSE 2.0,16076007,3743,Accidents Involving Damage to Attended Veh. or Property,04/26/2016,15:09,S Braddock Ave & Penn Ave,Point Breeze,4,,
+OFFENSE 2.0,16076202,3928,Unauthorized Use of Automobile and Other Vehicles.,04/26/2016,17:00,700 block Johnston Ave,Glen Hazel,4,,
+OFFENSE 2.0,16076130,3745,Accidents Involving Damage to Unattended Veh.or Prop.,04/26/2016,18:22,5700 Blk of Pocusset St,Squirrel Hill North,4,,
+OFFENSE 2.0,16076122,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,04/26/2016,18:24,5500 block Walnut St,Shadyside,4,,
+OFFENSE 2.0,16076159,3934,Theft from Vehicle,04/26/2016,19:00,2500 block Shady Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16076159,3304,Criminal Mischief.,04/26/2016,19:00,2500 block Shady Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16076268,2501,Criminal Homicide.,04/26/2016,22:14,3200 block Gorman Way,South Oakland,4,,
+OFFENSE 2.0,16075675,2706,Terroristic Threats.,04/26/2016,02:03,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,16075702,9093,Indirect Criminal Contempt,04/26/2016,03:08,1000 block Premier St,Stanton Heights,5,,
+ARREST,16075702,9093,Indirect Criminal Contempt,04/26/2016,03:11,1000 block Premier St,Stanton Heights,5,49,M
+OFFENSE 2.0,16075756,3934,Theft from Vehicle,04/26/2016,06:19,900 block Chislett St,Morningside,5,,
+OFFENSE 2.0,16075848,633.20,Dangerous Dogs,04/26/2016,09:27,8600 block Bricelyn St,East Hills,5,,
+OFFENSE 2.0,16075855,3304,Criminal Mischief.,04/26/2016,09:30,500 block Edlam Way,Garfield,5,,
+OFFENSE 2.0,16075898,2709(a),Harassment.,04/26/2016,11:20,8600 block Bricelyn St,East Hills,5,,
+ARREST,16016833,903,Criminal Conspiracy.,04/26/2016,11:30,5100 block Penn Ave,Garfield,5,49,F
+ARREST,16016833,3921,Theft by Unlawful Taking or Disposition.,04/26/2016,11:30,5100 block Penn Ave,Garfield,5,49,F
+ARREST,16016833,903,Criminal Conspiracy.,04/26/2016,12:00,5100 block Penn Ave,Garfield,5,51,M
+ARREST,16016833,3921,Theft by Unlawful Taking or Disposition.,04/26/2016,12:00,5100 block Penn Ave,Garfield,5,51,M
+OFFENSE 2.0,16075925,029,Missing Juvenile,04/26/2016,12:30,6500 block Deary St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16076196,9999,9999 - (Misc. Incident): Neighbor Dispute,04/26/2016,20:13,100 block Hawthorne Ct,Stanton Heights,5,,
+OFFENSE 2.0,16076012,3304,Criminal Mischief.,04/26/2016,02:46,1400 block West Liberty Ave,Brookline,6,,
+OFFENSE 2.0,16076204,3934,Theft from Vehicle,04/26/2016,05:30,1300 block Oakridge St,Brookline,6,,
+OFFENSE 2.0,16075852,3934,Theft from Vehicle,04/26/2016,06:30,2200 block Saranac Ave,Beechview,6,,
+OFFENSE 2.0,16075901,3934,Theft from Vehicle,04/26/2016,08:10,1200 block Oakridge St,Brookline,6,,
+OFFENSE 2.0,16076113,3742,Accidents Involving Death or Personal Injury,04/26/2016,12:41,Banksville Rd Ramp & I-376 Ramp,Banksville,6,,
+ARREST,15177842,1786,Required Financial Responsibility.,04/26/2016,12:45,1600 block Dagmar Ave,Bluff,6,35,M
+ARREST,15177842,3921,Theft by Unlawful Taking or Disposition.,04/26/2016,12:45,1600 block Dagmar Ave,Bluff,6,35,M
+ARREST,15177842,1501,Drivers Required to be Licensed.,04/26/2016,12:45,1600 block Dagmar Ave,Bluff,6,35,M
+ARREST,15177842,3925,Receiving Stolen Property.,04/26/2016,12:45,1600 block Dagmar Ave,Bluff,6,35,M
