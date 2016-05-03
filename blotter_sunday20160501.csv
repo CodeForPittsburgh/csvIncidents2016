@@ -1,0 +1,119 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16079028,9488,False  Burglar Alarm,05/01/2016,00:44,800 block Phineas St,East Allegheny,1,,
+OFFENSE 2.0,16079064,9488,False  Burglar Alarm,05/01/2016,01:40,1300 block Western Ave,Chateau,1,,
+OFFENSE 2.0,16079109,9488,False  Burglar Alarm,05/01/2016,02:51,1300 block Western Ave,Chateau,1,,
+OFFENSE 2.0,16079118,13(a)(16),Possession of Controlled Substance,05/01/2016,03:03,General Robinson St & Sandusky St S,North Shore,1,,
+ARREST,16079118,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,03:03,General Robinson St & Sandusky St S,North Shore,1,25,M
+ARREST,16079118,13(a)(16),Possession of Controlled Substance,05/01/2016,03:03,General Robinson St & Sandusky St S,North Shore,1,25,M
+OFFENSE 2.0,16079118,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,03:03,General Robinson St & Sandusky St S,North Shore,1,,
+OFFENSE 2.0,16079165,2702,Aggravated Assault.,05/01/2016,05:24,400 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16079165,2706,Terroristic Threats.,05/01/2016,05:24,400 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16079165,3304,Criminal Mischief.,05/01/2016,05:24,400 block Mt Pleasant Rd,Northview Heights,1,,
+ARREST,16079171,9501,Bench Warrant,05/01/2016,05:30,2900 block N Charles St,Perry South,1,26,M
+OFFENSE 2.0,16079171,9501,Bench Warrant,05/01/2016,05:30,2900 block N Charles St,Perry South,1,,
+OFFENSE 2.0,16079193,3304,Criminal Mischief.,05/01/2016,06:00,300 block River Ave,North Shore,1,,
+OFFENSE 2.0,16079192,3304,Criminal Mischief.,05/01/2016,07:29,3200 block Mc Clure Ave,Brighton Heights,1,,
+OFFENSE 2.0,16079220,9999,9999 - (Misc. Incident): ,05/01/2016,09:00,4000 block Grizella St,Perry North,1,,
+OFFENSE 2.0,16079246,9488,False  Burglar Alarm,05/01/2016,10:15,800 block Phineas St,East Allegheny,1,,
+OFFENSE 2.0,16079255,4120,Identity Theft,05/01/2016,10:40,1100 block Sheffield St,Manchester,1,,
+OFFENSE 2.0,16079373,5503,Disorderly Conduct.,05/01/2016,14:38,200 block Lamar St,Golden Triangle/Civic Arena,1,,
+OFFENSE 2.0,16079373,5901,Open Lewdness.,05/01/2016,14:38,200 block Lamar St,Golden Triangle/Civic Arena,1,,
+OFFENSE 2.0,16079386,3701,Robbery.,05/01/2016,15:40,500 block Sampsonia St,Central Northside,1,,
+OFFENSE 2.0,16079392,3743,Accidents Involving Damage to Attended Veh. or Property,05/01/2016,16:07,Ohio River Blvd & Brighton Heights Blvd,Brighton Heights,1,,
+OFFENSE 2.0,16079427,3701,Robbery.,05/01/2016,16:40,Foreland St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16079423,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/01/2016,16:41,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16079423,5121,Escape.,05/01/2016,16:41,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16079423,5505,Public Drunkenness,05/01/2016,16:41,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16079423,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/01/2016,16:41,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16079423,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/01/2016,16:41,600 block East Ohio St,East Allegheny,1,,
+ARREST,16079423,5505,Public Drunkenness,05/01/2016,16:58,600 block East Ohio St,East Allegheny,1,34,M
+ARREST,16079423,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/01/2016,16:58,600 block East Ohio St,East Allegheny,1,34,M
+ARREST,16079423,5121,Escape.,05/01/2016,16:58,600 block East Ohio St,East Allegheny,1,34,M
+ARREST,16079423,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/01/2016,16:58,600 block East Ohio St,East Allegheny,1,34,M
+ARREST,16079423,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/01/2016,16:58,600 block East Ohio St,East Allegheny,1,34,M
+OFFENSE 2.0,16079518,2501,Criminal Homicide.,05/01/2016,18:53,Divinity St,Perry South,1,,
+OFFENSE 2.0,16079034,9999,9999 - (Misc. Incident): ,05/01/2016,01:19,Van Braam St,Bluff,2,,
+OFFENSE 2.0,16079100,3714,Careless Driving,05/01/2016,02:38,40th St & Foster St,Central Lawrenceville,2,,
+OFFENSE 2.0,16079100,2705,Recklessly Endangering Another Person.,05/01/2016,02:38,40th St & Foster St,Central Lawrenceville,2,,
+OFFENSE 2.0,16079100,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/01/2016,02:38,40th St & Foster St,Central Lawrenceville,2,,
+ARREST,16079100,2705,Recklessly Endangering Another Person.,05/01/2016,02:59,40th St & Foster St,Central Lawrenceville,2,33,M
+ARREST,16079100,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/01/2016,02:59,40th St & Foster St,Central Lawrenceville,2,33,M
+ARREST,16079100,3714,Careless Driving,05/01/2016,02:59,40th St & Foster St,Central Lawrenceville,2,33,M
+OFFENSE 2.0,16079126,2707.1,Discharge of a Firearm into Occupied Structure,05/01/2016,03:40,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16079126,2702,Aggravated Assault.,05/01/2016,03:40,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16079451,9489,Found Property,05/01/2016,06:45,Grant St & Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16079413,6503.1,Habitual Offenders,05/01/2016,15:58,Forbes Ave & Jumonville St,Bluff,2,,
+OFFENSE 2.0,16079413,3733,Fleeing or Attempting to Elude Police Officer,05/01/2016,15:58,Forbes Ave & Jumonville St,Bluff,2,,
+OFFENSE 2.0,16079413,3714,Careless Driving,05/01/2016,15:58,Forbes Ave & Jumonville St,Bluff,2,,
+OFFENSE 2.0,16079413,1543,Driving While Operating Privilege is Suspended or Revoked.,05/01/2016,15:58,Forbes Ave & Jumonville St,Bluff,2,,
+OFFENSE 2.0,16079425,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,17:09,Dinwiddie St & Rose St,Crawford-Roberts,2,,
+OFFENSE 2.0,16079425,9501,Bench Warrant,05/01/2016,17:09,Dinwiddie St & Rose St,Crawford-Roberts,2,,
+ARREST,16079425,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,17:09,Dinwiddie St & Rose St,Crawford-Roberts,2,28,M
+ARREST,16079425,9501,Bench Warrant,05/01/2016,17:09,Dinwiddie St & Rose St,Crawford-Roberts,2,28,M
+OFFENSE 2.0,16079462,9497,Aided Case,05/01/2016,17:38,2600 block Centre Ave,Middle Hill,2,,
+ARREST,16048625,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),05/01/2016,22:27,600 block Wood St,Golden Triangle/Civic Arena,2,24,M
+ARREST,16078982,2702,Aggravated Assault.,05/01/2016,00:19,1700 block E Carson St,South Side Flats,3,25,M
+ARREST,16078982,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/01/2016,00:19,1700 block E Carson St,South Side Flats,3,25,M
+OFFENSE 2.0,16079093,3743,Accidents Involving Damage to Attended Veh. or Property,05/01/2016,02:18,E Carson St & S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16079084,9999,9999 - (Misc. Incident): Nuisances Bar Report,05/01/2016,02:20,1700 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16079136,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/01/2016,03:00,1200 block Muriel St,South Side Flats,3,,
+OFFENSE 2.0,16079481,2709(a)(6),Harassment Communicates Repeatedly at Extreme Hours,05/01/2016,03:28,300 block Dengler St,Arlington,3,,
+OFFENSE 2.0,16079182,2701,Simple Assault.,05/01/2016,06:32,300 block Newett St,Carrick,3,,
+ARREST,16079182,2701,Simple Assault.,05/01/2016,07:03,300 block Newett St,Carrick,3,42,F
+OFFENSE 2.0,16079191,3304,Criminal Mischief.,05/01/2016,07:15,100 block Beltzhoover Ave,Allentown,3,,
+OFFENSE 2.0,16077804,3925,Receiving Stolen Property.,05/01/2016,11:23,Angelo St & Mt Oliver St,South Side Slopes,3,,
+ARREST,16077804,3925,Receiving Stolen Property.,05/01/2016,11:28,Angelo St & Mt Oliver St,South Side Slopes,3,16,M
+OFFENSE 2.0,16079295,2707.1,Discharge of a Firearm into Occupied Structure,05/01/2016,11:40,900 block Proctor Way,Allentown,3,,
+OFFENSE 2.0,16079325,3929,Retail Theft.,05/01/2016,13:05,700 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16079379,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/01/2016,15:00,2300 block Carey Way,South Side Flats,3,,
+OFFENSE 2.0,16079382,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/01/2016,15:00,Emerald St,Allentown,3,,
+OFFENSE 2.0,16079419,3304,Criminal Mischief.,05/01/2016,16:20,S 21st St & Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16079441,2701,Simple Assault.,05/01/2016,17:05,800 block Estella Ave,Beltzhoover,3,,
+ARREST,16079441,2701,Simple Assault.,05/01/2016,17:26,800 block Estella Ave,Beltzhoover,3,48,M
+OFFENSE 2.0,16079570,3701,Robbery.,05/01/2016,21:35,900 block Manton Way,Allentown,3,,
+OFFENSE 2.0,16079642,3502,Burglary.,05/01/2016,23:30,2100 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16079642,901,Criminal Attempt,05/01/2016,23:30,2100 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16079019,9497,Aided Case,05/01/2016,00:22,2nd Ave & Greenfield Ave,Hazelwood,4,,
+OFFENSE 2.0,16079121,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,03:13,2000 block De Ruad St,West Oakland,4,,
+ARREST,16079121,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,03:20,2000 block De Ruad St,West Oakland,4,39,M
+ARREST,16079121,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,03:20,2000 block De Ruad St,West Oakland,4,47,F
+ARREST,16074816,2701(a)(3),Simple Assault - Attempts by Physical Menace ,05/01/2016,05:40,5100 block Chaplain Way,Hazelwood,4,32,M
+ARREST,16074816,2706,Terroristic Threats.,05/01/2016,05:40,5100 block Chaplain Way,Hazelwood,4,32,M
+OFFENSE 2.0,16079117,3743,Accidents Involving Damage to Attended Veh. or Property,05/01/2016,07:00,300 block Meyran Ave,Central Oakland,4,,
+OFFENSE 2.0,16079241,3743,Accidents Involving Damage to Attended Veh. or Property,05/01/2016,10:00,Chatsworth Ave & Hazelwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16079274,8106,Shots Fired,05/01/2016,10:58,5500 block Gate lodge Way,Hazelwood,4,,
+OFFENSE 2.0,16079319,3502,Burglary.,05/01/2016,12:35,2300 block Eldridge St,Squirrel Hill South,4,,
+OFFENSE 2.0,16079473,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/01/2016,14:00,Walnut St & College Ave,Shadyside,4,,
+OFFENSE 2.0,16079557,2702,Aggravated Assault.,05/01/2016,20:09,Gate Lodge Way & Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16079557,2705,Recklessly Endangering Another Person.,05/01/2016,20:09,Gate Lodge Way & Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16079048,9501,Bench Warrant,05/01/2016,01:21,1000 block Brushton Ave,Homewood North,5,,
+ARREST,16079048,9501,Bench Warrant,05/01/2016,01:44,1000 block Brushton Ave,Homewood North,5,48,M
+ARREST,16079048,9501,Bench Warrant,05/01/2016,01:51,1000 block Brushton Ave,Homewood North,5,40,F
+ARREST,15113506,2701,Simple Assault.,05/01/2016,02:04,7700 block Baxster St,Homewood North,5,55,M
+OFFENSE 2.0,16079123,3304,Criminal Mischief.,05/01/2016,02:30,6400 block Dean St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16079107,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,05/01/2016,02:48,6600 block Frankstown Ave,Larimer,5,,
+OFFENSE 2.0,16079442,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,05/01/2016,17:13,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16079460,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,17:14,Washington Blvd & Negley Run Blvd,Highland Park,5,,
+OFFENSE 2.0,16079460,1301,Registration and Certificate of Title Required.,05/01/2016,17:14,Washington Blvd & Negley Run Blvd,Highland Park,5,,
+OFFENSE 2.0,16079460,1543,Driving While Operating Privilege is Suspended or Revoked.,05/01/2016,17:14,Washington Blvd & Negley Run Blvd,Highland Park,5,,
+ARREST,16079460,1543,Driving While Operating Privilege is Suspended or Revoked.,05/01/2016,17:20,Washington Blvd & Negley Run Blvd,Highland Park,5,23,M
+ARREST,16079460,13(a)(32),Paraphernalia - Use or Possession,05/01/2016,17:20,Washington Blvd & Negley Run Blvd,Highland Park,5,23,M
+ARREST,16079460,1301,Registration and Certificate of Title Required.,05/01/2016,17:20,Washington Blvd & Negley Run Blvd,Highland Park,5,23,M
+OFFENSE 2.0,16079465,13(a)(31),Marijuana: Possession Small Amount,05/01/2016,17:40,Larimer Ave & Station St,East Liberty,5,,
+OFFENSE 2.0,16079465,3353,Prohibitions in Specified Places.,05/01/2016,17:40,Larimer Ave & Station St,East Liberty,5,,
+OFFENSE 2.0,16079478,2701,Simple Assault.,05/01/2016,18:00,7800 block Formosa Way,Homewood South,5,,
+ARREST,16079442,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,05/01/2016,18:00,6200 block Penn Ave,East Liberty,5,23,F
+ARREST,16079465,3353,Prohibitions in Specified Places.,05/01/2016,18:00,Larimer Ave & Station St,East Liberty,5,32,M
+ARREST,16079465,13(a)(31),Marijuana: Possession Small Amount,05/01/2016,18:00,Larimer Ave & Station St,East Liberty,5,32,M
+OFFENSE 2.0,16079495,9497,Aided Case,05/01/2016,18:29,7200 block Somerset St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16079552,3304,Criminal Mischief.,05/01/2016,19:57,6900 block Frankstown Ave,Homewood West,5,,
+OFFENSE 2.0,16079563,3304,Criminal Mischief.,05/01/2016,20:21,100 block S Graham St,Friendship,5,,
+OFFENSE 2.0,16079062,8106,Shots Fired,05/01/2016,01:36,West Liberty Ave & Saranac Ave,Brookline,6,,
+OFFENSE 2.0,16079155,2701,Simple Assault.,05/01/2016,04:35,100 block Ledgedale St,Westwood,6,,
+ARREST,16079155,2701,Simple Assault.,05/01/2016,05:00,100 block Ledgedale St,Westwood,6,21,M
+OFFENSE 2.0,16079232,9488,False  Burglar Alarm,05/01/2016,09:50,2100 block Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,16079405,2701,Simple Assault.,05/01/2016,16:20,300 block Minton St,Sheraden,6,,
+OFFENSE 2.0,16079414,9129,Miscellaneous Investigation,05/01/2016,16:30,2900 block Middletown Rd,Sheraden,6,,
+OFFENSE 2.0,16079414,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/01/2016,16:30,2900 block Middletown Rd,Sheraden,6,,
+ARREST,16079405,2701,Simple Assault.,05/01/2016,16:30,300 block Minton St,Sheraden,6,27,M
+OFFENSE 2.0,16079542,9498,302 (Mental),05/01/2016,19:00,1400 block Bellaire Pl,Brookline,6,,
