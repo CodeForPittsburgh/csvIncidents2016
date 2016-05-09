@@ -1,0 +1,146 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16083880,2702,Aggravated Assault.,05/08/2016,00:19,900 block Woodlow St,Crafton Heights,1,,
+ARREST,16083880,2702,Aggravated Assault.,05/08/2016,00:31,900 block Woodlow St,Crafton Heights,1,59,M
+ARREST,16053156,2702,Aggravated Assault.,05/08/2016,02:00,1700 block Belleau Dr,Fineview,1,25,F
+OFFENSE 2.0,16083948,2701,Simple Assault.,05/08/2016,02:10,300 block W Burgess St,Perry South,1,,
+OFFENSE 2.0,16083963,2702,Aggravated Assault.,05/08/2016,02:24,500 block General Robinson St W,North Shore,1,,
+OFFENSE 2.0,16083963,2706,Terroristic Threats.,05/08/2016,02:24,500 block General Robinson St W,North Shore,1,,
+OFFENSE 2.0,16083963,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,05/08/2016,02:24,500 block General Robinson St W,North Shore,1,,
+OFFENSE 2.0,16083963,5104,Resisting Arrest or Other Law Enforcement.,05/08/2016,02:24,500 block General Robinson St W,North Shore,1,,
+ARREST,16083963,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,05/08/2016,02:57,500 block General Robinson St W,North Shore,1,21,M
+ARREST,16083963,5104,Resisting Arrest or Other Law Enforcement.,05/08/2016,02:57,500 block General Robinson St W,North Shore,1,21,M
+ARREST,16083963,2706,Terroristic Threats.,05/08/2016,02:57,500 block General Robinson St W,North Shore,1,21,M
+ARREST,16083963,2702,Aggravated Assault.,05/08/2016,02:57,500 block General Robinson St W,North Shore,1,21,M
+OFFENSE 2.0,16084014,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,05/08/2016,04:37,Ohio River Blvd & Beaver Ave Ramp,Marshall-Shadeland,1,,
+OFFENSE 2.0,16084014,3802(a)(1),DUI - General Impairment,05/08/2016,04:37,Ohio River Blvd & Beaver Ave Ramp,Marshall-Shadeland,1,,
+ARREST,16084014,3802(a)(1),DUI - General Impairment,05/08/2016,05:00,Ohio River Blvd & Beaver Ave Ramp,Marshall-Shadeland,1,24,M
+ARREST,16084014,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,05/08/2016,05:00,Ohio River Blvd & Beaver Ave Ramp,Marshall-Shadeland,1,24,M
+OFFENSE 2.0,16084016,029,Missing Juvenile,05/08/2016,07:10,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16084092,9501,Bench Warrant,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16084092,5121,Escape.,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16084092,5104,Resisting Arrest or Other Law Enforcement.,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16084092,4914,False Identification to Law Enforcement Authorities,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,,
+ARREST,16084092,4914,False Identification to Law Enforcement Authorities,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,24,F
+ARREST,16084092,9501,Bench Warrant,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,24,F
+ARREST,16084092,5121,Escape.,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,24,F
+ARREST,16084092,5104,Resisting Arrest or Other Law Enforcement.,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,24,F
+ARREST,16084092,13(a)(32),Paraphernalia - Use or Possession,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,24,F
+OFFENSE 2.0,16084092,13(a)(32),Paraphernalia - Use or Possession,05/08/2016,09:04,Tripoli St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16084124,3503,Criminal Trespass,05/08/2016,09:30,Allegheny Sq W,Allegheny Center,1,,
+OFFENSE 2.0,16084124,3304,Criminal Mischief.,05/08/2016,09:30,Allegheny Sq W,Allegheny Center,1,,
+OFFENSE 2.0,16084100,029,Missing Juvenile,05/08/2016,09:47,600 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16084217,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/08/2016,13:40,1200 block Success St,California-Kirkbride,1,,
+OFFENSE 2.0,16084217,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/08/2016,13:40,1200 block Success St,California-Kirkbride,1,,
+ARREST,16084217,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/08/2016,14:00,1200 block Success St,California-Kirkbride,1,18,M
+ARREST,16084217,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/08/2016,14:00,1200 block Success St,California-Kirkbride,1,18,M
+OFFENSE 2.0,16084237,2709(a),Harassment.,05/08/2016,14:49,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,16084254,473.05 (c),Fire Prohibited,05/08/2016,15:15,1100 block Harvard Cir,Brighton Heights,1,,
+OFFENSE 2.0,16084264,2701,Simple Assault.,05/08/2016,15:25,3700 block Atkins St,Brighton Heights,1,,
+OFFENSE 2.0,16084264,3304,Criminal Mischief.,05/08/2016,15:25,3700 block Atkins St,Brighton Heights,1,,
+OFFENSE 2.0,16083939,2701,Simple Assault.,05/08/2016,01:58,21st St & Mulberry Way,Strip District,2,,
+OFFENSE 2.0,16083939,5104,Resisting Arrest or Other Law Enforcement.,05/08/2016,01:58,21st St & Mulberry Way,Strip District,2,,
+ARREST,16083939,5104,Resisting Arrest or Other Law Enforcement.,05/08/2016,01:58,21st St & Mulberry Way,Strip District,2,30,M
+ARREST,16083939,5126,Flight to Avoid Apprehension  Trial or Punishment.,05/08/2016,01:58,21st St & Mulberry Way,Strip District,2,30,M
+ARREST,16083939,2701,Simple Assault.,05/08/2016,01:58,21st St & Mulberry Way,Strip District,2,30,M
+OFFENSE 2.0,16083998,8106,Shots Fired,05/08/2016,03:25,Moultrie St & Watson St,Bluff,2,,
+OFFENSE 2.0,16083998,607.03,Discharging Firearm or Airgun,05/08/2016,03:25,Moultrie St & Watson St,Bluff,2,,
+OFFENSE 2.0,16083998,2705,Recklessly Endangering Another Person.,05/08/2016,03:25,Moultrie St & Watson St,Bluff,2,,
+OFFENSE 2.0,16083998,2702,Aggravated Assault.,05/08/2016,03:25,Moultrie St & Watson St,Bluff,2,,
+OFFENSE 2.0,16084079,3502,Burglary.,05/08/2016,08:24,1700 block Tustin St,Bluff,2,,
+OFFENSE 2.0,16084079,3701,Robbery.,05/08/2016,08:24,1700 block Tustin St,Bluff,2,,
+OFFENSE 2.0,16084111,601.16,Public Urination And Defecation,05/08/2016,09:38,6st Ave & Coffey Way,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16084133,2701,Simple Assault.,05/08/2016,10:45,100 block Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16084133,2709(a),Harassment.,05/08/2016,10:45,100 block Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16084271,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/08/2016,15:52,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16084271,4106,Access Device Fraud,05/08/2016,15:52,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16084317,9497,Aided Case,05/08/2016,17:32,2400 block Bedford Ave,Bedford Dwellings,2,,
+ARREST,16080913,3922,Theft by Deception.,05/08/2016,20:24,Bigelow Blvd Ramp & Crosstown Blvd,Golden Triangle/Civic Arena,2,26,F
+OFFENSE 2.0,16084409,13(a)(32),Paraphernalia - Use or Possession,05/08/2016,20:24,Bigelow Blvd Ramp & Crosstown Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16084409,9501,Bench Warrant,05/08/2016,20:24,Bigelow Blvd Ramp & Crosstown Blvd,Golden Triangle/Civic Arena,2,,
+ARREST,16084409,13(a)(32),Paraphernalia - Use or Possession,05/08/2016,20:24,Bigelow Blvd Ramp & Crosstown Blvd,Golden Triangle/Civic Arena,2,29,M
+ARREST,16084409,9501,Bench Warrant,05/08/2016,20:24,Bigelow Blvd Ramp & Crosstown Blvd,Golden Triangle/Civic Arena,2,29,M
+OFFENSE 2.0,16083978,13(a)(31),Marijuana: Possession Small Amount,05/08/2016,02:45,S 18th St & Wrights Way,South Side Flats,3,,
+ARREST,16083978,13(a)(31),Marijuana: Possession Small Amount,05/08/2016,02:45,S 18th St & Wrights Way,South Side Flats,3,27,M
+OFFENSE 2.0,16083985,3802(e),DUI - Minors - BAC >=.02%,05/08/2016,02:56,500 block Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16083985,3802(a)(1),DUI - General Impairment,05/08/2016,02:56,500 block Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16083985,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/08/2016,02:56,500 block Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16083985,1543,Driving While Operating Privilege is Suspended or Revoked.,05/08/2016,02:56,500 block Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16083985,3718(a),Minor Prohib from Operating w/ Alcohol in System,05/08/2016,02:56,500 block Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16083985,3743,Accidents Involving Damage to Attended Veh. or Property,05/08/2016,02:56,500 block Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16083985,3809(a),Restriction on Alcoholic Beverages in Vehicle,05/08/2016,02:56,500 block Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16083985,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,05/08/2016,02:56,500 block Arlington Ave,Allentown,3,,
+OFFENSE 2.0,16083974,3736,Reckless Driving,05/08/2016,03:04,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,,
+OFFENSE 2.0,16083974,2705,Recklessly Endangering Another Person.,05/08/2016,03:04,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,,
+OFFENSE 2.0,16083974,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,05/08/2016,03:04,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,,
+OFFENSE 2.0,16083974,3802(a)(1),DUI - General Impairment,05/08/2016,03:04,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,,
+ARREST,16083985,3718(a),Minor Prohib from Operating w/ Alcohol in System,05/08/2016,03:10,500 block Arlington Ave,Allentown,3,20,F
+ARREST,16083985,3743,Accidents Involving Damage to Attended Veh. or Property,05/08/2016,03:10,500 block Arlington Ave,Allentown,3,20,F
+ARREST,16083985,3802(a)(1),DUI - General Impairment,05/08/2016,03:10,500 block Arlington Ave,Allentown,3,20,F
+ARREST,16083985,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/08/2016,03:10,500 block Arlington Ave,Allentown,3,20,F
+ARREST,16083985,3802(e),DUI - Minors - BAC >=.02%,05/08/2016,03:10,500 block Arlington Ave,Allentown,3,20,F
+ARREST,16083985,3809(a),Restriction on Alcoholic Beverages in Vehicle,05/08/2016,03:10,500 block Arlington Ave,Allentown,3,20,F
+ARREST,16083985,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,05/08/2016,03:10,500 block Arlington Ave,Allentown,3,20,F
+ARREST,16083985,1543,Driving While Operating Privilege is Suspended or Revoked.,05/08/2016,03:10,500 block Arlington Ave,Allentown,3,20,F
+OFFENSE 2.0,16084426,3304,Criminal Mischief.,05/08/2016,03:15,St Thomas St,South Side Slopes,3,,
+OFFENSE 2.0,16084108,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/08/2016,07:30,S 22nd St & Larkins Way,South Side Flats,3,,
+ARREST,16084064,5104,Resisting Arrest or Other Law Enforcement.,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,48,M
+ARREST,16084064,2702,Aggravated Assault.,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,48,M
+ARREST,16084064,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,48,M
+ARREST,16084064,3503(b.1)(i),Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,48,M
+OFFENSE 2.0,16084064,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,,
+ARREST,16084064,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,48,M
+OFFENSE 2.0,16084064,2702,Aggravated Assault.,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,,
+OFFENSE 2.0,16084064,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,,
+OFFENSE 2.0,16084064,3503(b.1)(i),Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,,
+OFFENSE 2.0,16084064,5104,Resisting Arrest or Other Law Enforcement.,05/08/2016,07:45,3000 block Arlington Ave,Arlington Heights,3,,
+OFFENSE 2.0,16084089,3929,Retail Theft.,05/08/2016,08:50,700 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16084223,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/08/2016,09:30,2000 block Dellrose St,Carrick,3,,
+OFFENSE 2.0,16084128,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/08/2016,10:00,1700 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16084219,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/08/2016,13:46,200 block Albert St,Mount Washington,3,,
+OFFENSE 2.0,16084397,2701,Simple Assault.,05/08/2016,19:52,100 block Zara St,Knoxville,3,,
+OFFENSE 2.0,16084423,3743,Accidents Involving Damage to Attended Veh. or Property,05/08/2016,20:58,300 block Shaler St & Woodville Ave,Duquesne Heights,3,,
+OFFENSE 2.0,16083893,5505,Public Drunkenness,05/08/2016,00:39,S Craig St & Forbes Ave,North Oakland,4,,
+OFFENSE 2.0,16083943,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,05/08/2016,01:50,3300 block Niagara St,South Oakland,4,,
+OFFENSE 2.0,16084076,2701,Simple Assault.,05/08/2016,05:06,6800 block Forward Ave,Garfield,4,,
+OFFENSE 2.0,16084055,3503,Criminal Trespass,05/08/2016,07:02,200 block Chesterfield Rd,West Oakland,4,,
+OFFENSE 2.0,16084144,3934,Theft from Vehicle,05/08/2016,08:00,100 block Conover Rd,Point Breeze,4,,
+ARREST,16084055,3503,Criminal Trespass,05/08/2016,08:14,200 block Chesterfield Rd,West Oakland,4,22,M
+OFFENSE 2.0,16084094,3921,Theft by Unlawful Taking or Disposition.,05/08/2016,08:30,700 block S Linden Ave,Point Breeze,4,,
+OFFENSE 2.0,16084094,3934,Theft from Vehicle,05/08/2016,08:30,700 block S Linden Ave,Point Breeze,4,,
+OFFENSE 2.0,16084308,3502,Burglary.,05/08/2016,10:00,1100 block Murray Hill Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16084129,3304,Criminal Mischief.,05/08/2016,10:20,400 block Hastings St,Point Breeze,4,,
+OFFENSE 2.0,16084235,3502,Burglary.,05/08/2016,14:30,200 block N Craig St,North Oakland,4,,
+OFFENSE 2.0,16084297,2701,Simple Assault.,05/08/2016,15:35,600 block Calera St,Hays,4,,
+OFFENSE 2.0,16084384,2702,Aggravated Assault.,05/08/2016,19:09,200 block Winston St,Hazelwood,4,,
+OFFENSE 2.0,16084421,3304,Criminal Mischief.,05/08/2016,20:30,4700 block Irvine St,Hazelwood,4,,
+OFFENSE 2.0,16084440,13(a)(32),Paraphernalia - Use or Possession,05/08/2016,21:40,Murray Ave & Bartlett St,Squirrel Hill South,4,,
+OFFENSE 2.0,16084440,13(a)(31),Marijuana: Possession Small Amount,05/08/2016,21:40,Murray Ave & Bartlett St,Squirrel Hill South,4,,
+OFFENSE 2.0,16084440,5503,Disorderly Conduct.,05/08/2016,21:40,Murray Ave & Bartlett St,Squirrel Hill South,4,,
+ARREST,16084440,13(a)(32),Paraphernalia - Use or Possession,05/08/2016,21:55,Murray Ave & Bartlett St,Squirrel Hill South,4,50,M
+ARREST,16084440,5503,Disorderly Conduct.,05/08/2016,21:55,Murray Ave & Bartlett St,Squirrel Hill South,4,50,M
+ARREST,16084440,13(a)(31),Marijuana: Possession Small Amount,05/08/2016,21:55,Murray Ave & Bartlett St,Squirrel Hill South,4,50,M
+OFFENSE 2.0,16050537,1501,Drivers Required to be Licensed.,05/08/2016,02:11,4800 block Stanton Ave,Stanton Heights,5,,
+OFFENSE 2.0,16050537,3925,Receiving Stolen Property.,05/08/2016,02:11,4800 block Stanton Ave,Stanton Heights,5,,
+ARREST,16050537,1501,Drivers Required to be Licensed.,05/08/2016,02:15,4800 block Stanton Ave,Stanton Heights,5,18,M
+ARREST,16050537,3925,Receiving Stolen Property.,05/08/2016,02:15,4800 block Stanton Ave,Stanton Heights,5,18,M
+OFFENSE 2.0,16083969,2705,Recklessly Endangering Another Person.,05/08/2016,02:32,700 block Singer Pl,East Hills,5,,
+OFFENSE 2.0,16083969,2701,Simple Assault.,05/08/2016,02:32,700 block Singer Pl,East Hills,5,,
+OFFENSE 2.0,16083969,2701(a)(3),Simple Assault - Attempts by Physical Menace ,05/08/2016,02:32,700 block Singer Pl,East Hills,5,,
+ARREST,16083969,2701(a)(3),Simple Assault - Attempts by Physical Menace ,05/08/2016,02:39,700 block Singer Pl,East Hills,5,32,M
+ARREST,16083969,2705,Recklessly Endangering Another Person.,05/08/2016,02:39,700 block Singer Pl,East Hills,5,32,M
+ARREST,16083969,2701,Simple Assault.,05/08/2016,02:39,700 block Singer Pl,East Hills,5,32,M
+OFFENSE 2.0,16084099,3922,Theft by Deception.,05/08/2016,07:30,300 block N Atlantic Ave,Garfield,5,,
+OFFENSE 2.0,16084070,9999,9999 - (Misc. Incident): ,05/08/2016,08:15,8600 block Bricelyn St,East Hills,5,,
+OFFENSE 2.0,16084130,1543,Driving While Operating Privilege is Suspended or Revoked.,05/08/2016,11:30,1500 block Lincoln Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16084130,908,Prohibited Offensive Weapons.,05/08/2016,11:30,1500 block Lincoln Ave,Lincoln-Lemington-Belmar,5,,
+ARREST,16084130,13(a)(32),Paraphernalia - Use or Possession,05/08/2016,11:30,1500 block Lincoln Ave,Lincoln-Lemington-Belmar,5,19,F
+ARREST,16084130,908,Prohibited Offensive Weapons.,05/08/2016,11:30,1500 block Lincoln Ave,Lincoln-Lemington-Belmar,5,19,F
+ARREST,16084130,1543,Driving While Operating Privilege is Suspended or Revoked.,05/08/2016,11:30,1500 block Lincoln Ave,Lincoln-Lemington-Belmar,5,19,F
+OFFENSE 2.0,16084130,13(a)(32),Paraphernalia - Use or Possession,05/08/2016,11:30,1500 block Lincoln Ave,Lincoln-Lemington-Belmar,5,,
+ARREST,16084130,3334,Turning Movements and Required Signals.,05/08/2016,11:30,1500 block Lincoln Ave,Lincoln-Lemington-Belmar,5,19,F
+OFFENSE 2.0,16084130,3334,Turning Movements and Required Signals.,05/08/2016,11:30,1500 block Lincoln Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16083892,3802(a)(1),DUI - General Impairment,05/08/2016,01:06,West End Brg,West End,6,,
+OFFENSE 2.0,16083892,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/08/2016,01:06,West End Brg,West End,6,,
+ARREST,16083892,3802(a)(1),DUI - General Impairment,05/08/2016,01:06,West End Brg,West End,6,37,M
+ARREST,16083892,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/08/2016,01:06,West End Brg,West End,6,37,M
+OFFENSE 2.0,16084292,5505,Public Drunkenness,05/08/2016,16:31,Brookline Blvd & Wedgemere St,Brookline,6,,
