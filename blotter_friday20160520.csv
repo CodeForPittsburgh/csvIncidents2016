@@ -1,0 +1,169 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16092074,9999,9999 - (Misc. Incident):  Euthanize possum,05/20/2016,00:04,Beaver Ave & Preble Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16092126,4303,General Lighting Requirements.,05/20/2016,01:34,James St & E North Ave,Central Northside,1,,
+OFFENSE 2.0,16092126,9501,Bench Warrant,05/20/2016,01:34,James St & E North Ave,Central Northside,1,,
+ARREST,16092126,4303,General Lighting Requirements.,05/20/2016,01:40,James St & E North Ave,Central Northside,1,37,M
+ARREST,16092126,9501,Bench Warrant,05/20/2016,01:40,James St & E North Ave,Central Northside,1,37,M
+ARREST,16053184,2701(b)(2),Simple Assault -  Child Under 12 / Adult 21 Or Older,05/20/2016,06:00,1400 block Page St,Chateau,1,54,M
+ARREST,16053184,4304(a)(1),Endangering Welfare of Children.,05/20/2016,06:00,1400 block Page St,Chateau,1,54,M
+OFFENSE 2.0,16092236,3934,Theft from Vehicle,05/20/2016,06:40,3500 block Mexico St,Brighton Heights,1,,
+OFFENSE 2.0,16092268,3304,Criminal Mischief.,05/20/2016,08:57,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16092378,8106,Shots Fired,05/20/2016,12:00,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,16092649,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,18:34,1000 block Arch St,Allegheny Center,1,,
+ARREST,16092649,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,18:40,1000 block Arch St,Allegheny Center,1,29,F
+OFFENSE 2.0,16092672,13(a)(31),Marijuana: Possession Small Amount,05/20/2016,19:25,1200 block Rush St,Manchester,1,,
+OFFENSE 2.0,16092672,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,19:25,1200 block Rush St,Manchester,1,,
+ARREST,16092672,13(a)(31),Marijuana: Possession Small Amount,05/20/2016,19:25,1200 block Rush St,Manchester,1,18,M
+ARREST,16092672,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,19:25,1200 block Rush St,Manchester,1,18,M
+OFFENSE 2.0,16092119,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/20/2016,01:20,100 block 9th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16092168,601.04(e)(1),Amplified Noise from a vehicle operated on a public street  alley  etc  at a distance of (75) feet,05/20/2016,02:20,Smallman St & 21st St,Strip District,2,,
+OFFENSE 2.0,16092184,425.26,Miscellaneous,05/20/2016,02:25,4000 block Eden Way,Central Lawrenceville,2,,
+OFFENSE 2.0,16092178,9498,302 (Mental),05/20/2016,02:48,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16092180,9498,302 (Mental),05/20/2016,02:50,700 block Danube St,Upper Hill,2,,
+OFFENSE 2.0,16092196,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,03:42,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16092333,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,10:30,400 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16092733,2702,Aggravated Assault.,05/20/2016,12:00,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16092445,6110.1,Possesion of Firearm by Minor,05/20/2016,13:36,Seneca St & 5th Ave,Bluff,2,,
+OFFENSE 2.0,16092445,5126,Flight to Avoid Apprehension  Trial or Punishment.,05/20/2016,13:36,Seneca St & 5th Ave,Bluff,2,,
+OFFENSE 2.0,16092445,5104,Resisting Arrest or Other Law Enforcement.,05/20/2016,13:36,Seneca St & 5th Ave,Bluff,2,,
+OFFENSE 2.0,16092445,4910,Tampering with or Fabricating Physical Evidence.,05/20/2016,13:36,Seneca St & 5th Ave,Bluff,2,,
+OFFENSE 2.0,16092445,3925,Receiving Stolen Property.,05/20/2016,13:36,Seneca St & 5th Ave,Bluff,2,,
+OFFENSE 2.0,16092445,13(a)(31),Marijuana: Possession Small Amount,05/20/2016,13:36,Seneca St & 5th Ave,Bluff,2,,
+OFFENSE 2.0,16092445,6106,Firearms not to be Carried without a License.,05/20/2016,13:36,Seneca St & 5th Ave,Bluff,2,,
+ARREST,16092445,3925,Receiving Stolen Property.,05/20/2016,13:38,Seneca St & 5th Ave,Bluff,2,16,M
+ARREST,16092445,4910,Tampering with or Fabricating Physical Evidence.,05/20/2016,13:38,Seneca St & 5th Ave,Bluff,2,16,M
+ARREST,16092445,5104,Resisting Arrest or Other Law Enforcement.,05/20/2016,13:38,Seneca St & 5th Ave,Bluff,2,16,M
+ARREST,16092445,5126,Flight to Avoid Apprehension  Trial or Punishment.,05/20/2016,13:38,Seneca St & 5th Ave,Bluff,2,16,M
+ARREST,16092445,6106,Firearms not to be Carried without a License.,05/20/2016,13:38,Seneca St & 5th Ave,Bluff,2,16,M
+ARREST,16092445,13(a)(31),Marijuana: Possession Small Amount,05/20/2016,13:38,Seneca St & 5th Ave,Bluff,2,16,M
+ARREST,16092445,6110.1,Possesion of Firearm by Minor,05/20/2016,13:38,Seneca St & 5th Ave,Bluff,2,16,M
+OFFENSE 2.0,16092491,4304(a)(1),Endangering Welfare of Children.,05/20/2016,15:05,2400 block Chauncey Dr,Bedford Dwellings,2,,
+OFFENSE 2.0,16092491,2701,Simple Assault.,05/20/2016,15:05,2400 block Chauncey Dr,Bedford Dwellings,2,,
+OFFENSE 2.0,16092565,4304(a)(1),Endangering Welfare of Children.,05/20/2016,16:36,300 block Burrows St,Terrace Village,2,,
+OFFENSE 2.0,16092565,9129,Miscellaneous Investigation,05/20/2016,16:36,300 block Burrows St,Terrace Village,2,,
+OFFENSE 2.0,16092111,3802(a)(1),DUI - General Impairment,05/20/2016,01:10,Bausman St & Bernd St,Beltzhoover,3,,
+OFFENSE 2.0,16092111,1301,Registration and Certificate of Title Required.,05/20/2016,01:10,Bausman St & Bernd St,Beltzhoover,3,,
+OFFENSE 2.0,16092111,1786,Required Financial Responsibility.,05/20/2016,01:10,Bausman St & Bernd St,Beltzhoover,3,,
+OFFENSE 2.0,16092111,4703,Operation of Vehicle without Official Certif. of Inspection,05/20/2016,01:10,Bausman St & Bernd St,Beltzhoover,3,,
+ARREST,16092111,4703,Operation of Vehicle without Official Certif. of Inspection,05/20/2016,01:15,Bausman St & Bernd St,Beltzhoover,3,44,F
+ARREST,16092111,4581,Restraint Systems.,05/20/2016,01:15,Bausman St & Bernd St,Beltzhoover,3,44,F
+ARREST,16092111,4706,Prohib. on Expend. for Emission Insp Prog..,05/20/2016,01:15,Bausman St & Bernd St,Beltzhoover,3,44,F
+ARREST,16092111,1301,Registration and Certificate of Title Required.,05/20/2016,01:15,Bausman St & Bernd St,Beltzhoover,3,44,F
+ARREST,16092111,1786,Required Financial Responsibility.,05/20/2016,01:15,Bausman St & Bernd St,Beltzhoover,3,44,F
+ARREST,16092111,3802(a)(1),DUI - General Impairment,05/20/2016,01:15,Bausman St & Bernd St,Beltzhoover,3,44,F
+ARREST,16092111,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/20/2016,01:15,Bausman St & Bernd St,Beltzhoover,3,44,F
+OFFENSE 2.0,16092157,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092157,6106,Firearms not to be Carried without a License.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092157,908,Prohibited Offensive Weapons.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092157,607.03,Discharging Firearm or Airgun,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092157,5121,Escape.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092157,4910,Tampering with or Fabricating Physical Evidence.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092157,2705,Recklessly Endangering Another Person.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092157,2702,Aggravated Assault.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,,
+ARREST,16092157,4910,Tampering with or Fabricating Physical Evidence.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,30,M
+ARREST,16092157,5121,Escape.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,30,M
+ARREST,16092157,6106,Firearms not to be Carried without a License.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,30,M
+ARREST,16092157,607.03,Discharging Firearm or Airgun,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,30,M
+ARREST,16092157,2702,Aggravated Assault.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,30,M
+ARREST,16092157,2705,Recklessly Endangering Another Person.,05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,30,M
+ARREST,16092157,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),05/20/2016,02:07,1200 block E Carson St,South Side Flats,3,30,M
+OFFENSE 2.0,16092212,2902,Unlawful Restraint.,05/20/2016,04:40,1700 block Amanda St,Carrick,3,,
+OFFENSE 2.0,16092212,2702,Aggravated Assault.,05/20/2016,04:40,1700 block Amanda St,Carrick,3,,
+OFFENSE 2.0,16092214,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,05/20/2016,04:44,400 block Zara St,Knoxville,3,,
+ARREST,16092212,2902,Unlawful Restraint.,05/20/2016,04:46,1700 block Amanda St,Carrick,3,34,M
+ARREST,16092212,2702,Aggravated Assault.,05/20/2016,04:46,1700 block Amanda St,Carrick,3,34,M
+ARREST,16092214,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/20/2016,05:20,400 block Zara St,Knoxville,3,35,F
+ARREST,16092214,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,05/20/2016,05:20,400 block Zara St,Knoxville,3,32,F
+ARREST,16053707,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,06:00,300 block Sunnyland Ave,Carrick,3,29,M
+ARREST,16053707,3502,Burglary.,05/20/2016,06:00,300 block Sunnyland Ave,Carrick,3,29,M
+ARREST,16053707,3304,Criminal Mischief.,05/20/2016,06:00,300 block Sunnyland Ave,Carrick,3,29,M
+ARREST,16053707,2701,Simple Assault.,05/20/2016,06:00,300 block Sunnyland Ave,Carrick,3,29,M
+OFFENSE 2.0,16092261,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,07:21,Beltzhoover Ave,Allentown,3,,
+OFFENSE 2.0,16092269,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,07:26,900 block Bernd St,Beltzhoover,3,,
+ARREST,16092269,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,07:26,900 block Bernd St,Beltzhoover,3,29,M
+OFFENSE 2.0,16092269,13(a)(31),Marijuana: Possession Small Amount,05/20/2016,07:26,900 block Bernd St,Beltzhoover,3,,
+ARREST,16092269,13(a)(31),Marijuana: Possession Small Amount,05/20/2016,07:26,900 block Bernd St,Beltzhoover,3,29,M
+ARREST,16092269,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,07:26,900 block Bernd St,Beltzhoover,3,25,M
+ARREST,16092269,13(a)(31),Marijuana: Possession Small Amount,05/20/2016,07:26,900 block Bernd St,Beltzhoover,3,25,M
+OFFENSE 2.0,16092276,3304,Criminal Mischief.,05/20/2016,08:00,100 block Knox Ave,Knoxville,3,,
+OFFENSE 2.0,16092322,4120,Identity Theft,05/20/2016,10:00,100 block Prospect St,Mount Washington,3,,
+OFFENSE 2.0,16092322,4101,Forgery.,05/20/2016,10:00,100 block Prospect St,Mount Washington,3,,
+OFFENSE 2.0,16092322,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,10:00,100 block Prospect St,Mount Washington,3,,
+OFFENSE 2.0,16092356,4105(a)(1),Bad Checks,05/20/2016,11:23,1900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092356,4101,Forgery.,05/20/2016,11:23,1900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092356,3925,Receiving Stolen Property.,05/20/2016,11:23,1900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16092356,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,11:23,1900 block E Carson St,South Side Flats,3,,
+ARREST,16092356,4105(a)(1),Bad Checks,05/20/2016,11:23,1900 block E Carson St,South Side Flats,3,28,M
+ARREST,16092356,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,11:23,1900 block E Carson St,South Side Flats,3,28,M
+ARREST,16092356,3925,Receiving Stolen Property.,05/20/2016,11:23,1900 block E Carson St,South Side Flats,3,28,M
+ARREST,16092356,4101,Forgery.,05/20/2016,11:23,1900 block E Carson St,South Side Flats,3,28,M
+OFFENSE 2.0,16092435,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,13:05,S 15TH St,South Side Flats,3,,
+OFFENSE 2.0,16092585,13(a)(16),Possession of Controlled Substance,05/20/2016,17:00,2600 block Kingwood St,Overbrook,3,,
+OFFENSE 2.0,16092585,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,17:00,2600 block Kingwood St,Overbrook,3,,
+OFFENSE 2.0,16092585,3304,Criminal Mischief.,05/20/2016,17:00,2600 block Kingwood St,Overbrook,3,,
+OFFENSE 2.0,16092585,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/20/2016,17:00,2600 block Kingwood St,Overbrook,3,,
+ARREST,16092585,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,17:35,2600 block Kingwood St,Overbrook,3,37,M
+ARREST,16092585,3304,Criminal Mischief.,05/20/2016,17:35,2600 block Kingwood St,Overbrook,3,37,M
+ARREST,16092585,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/20/2016,17:35,2600 block Kingwood St,Overbrook,3,37,M
+ARREST,16092585,13(a)(16),Possession of Controlled Substance,05/20/2016,17:35,2600 block Kingwood St,Overbrook,3,37,M
+ARREST,16092611,13(a)(16),Possession of Controlled Substance,05/20/2016,17:47,Knox Ave & Charles St,Knoxville,3,27,M
+ARREST,16092611,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,17:47,Knox Ave & Charles St,Knoxville,3,27,M
+ARREST,16092611,9501,Bench Warrant,05/20/2016,17:47,Knox Ave & Charles St,Knoxville,3,27,M
+OFFENSE 2.0,16092611,13(a)(16),Possession of Controlled Substance,05/20/2016,17:52,Knox Ave & Charles St,Knoxville,3,,
+OFFENSE 2.0,16092611,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,17:52,Knox Ave & Charles St,Knoxville,3,,
+OFFENSE 2.0,16092611,9501,Bench Warrant,05/20/2016,17:52,Knox Ave & Charles St,Knoxville,3,,
+OFFENSE 2.0,16092447,9999,9999 - (Misc. Incident): ,05/20/2016,08:10,500 block Morewood Ave,Shadyside,4,,
+OFFENSE 2.0,16092281,9999,9999 - (Misc. Incident): ,05/20/2016,08:15,300 block N Dithridge St,North Oakland,4,,
+OFFENSE 2.0,16092352,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/20/2016,10:30,5000 block Amberson Pl,Shadyside,4,,
+ARREST,16091215,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,05/20/2016,12:15,5500 block Centre Ave,Shadyside,4,51,F
+OFFENSE 2.0,16092495,3929,Retail Theft.,05/20/2016,15:15,5900 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,16092742,3304,Criminal Mischief.,05/20/2016,20:30,Overlook Dr,Squirrel Hill South,4,,
+OFFENSE 2.0,16092105,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/20/2016,00:56,1100 block N Murtland St,Homewood West,5,,
+OFFENSE 2.0,16092116,2701,Simple Assault.,05/20/2016,01:20,600 block Haverhill St,East Hills,5,,
+OFFENSE 2.0,16092140,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/20/2016,01:48,6500 block Rowan St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16092155,2701(a)(3),Simple Assault - Attempts by Physical Menace ,05/20/2016,02:04,Kelly St & Durango Way,Homewood South,5,,
+OFFENSE 2.0,16092167,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,02:25,800 block Oranmore St,Stanton Heights,5,,
+ARREST,12228849,4914(A),False Identification to Law Enforcement,05/20/2016,02:41,St Marie St & Collins Ave,East Liberty,5,19,M
+ARREST,12228849,7512,Criminal Use of Communication,05/20/2016,02:41,St Marie St & Collins Ave,East Liberty,5,19,M
+ARREST,12228849,903,Criminal Conspiracy.,05/20/2016,02:41,St Marie St & Collins Ave,East Liberty,5,19,M
+ARREST,12228849,4910,Tampering with or Fabricating Physical Evidence.,05/20/2016,02:41,St Marie St & Collins Ave,East Liberty,5,19,M
+ARREST,12228849,1543,Driving While Operating Privilege is Suspended or Revoked.,05/20/2016,02:41,St Marie St & Collins Ave,East Liberty,5,19,M
+ARREST,12228849,1501,Drivers Required to be Licensed.,05/20/2016,02:41,St Marie St & Collins Ave,East Liberty,5,19,M
+ARREST,12228849,13(a)(16),Possession of Controlled Substance,05/20/2016,02:41,St Marie St & Collins Ave,East Liberty,5,19,M
+ARREST,16057885,9015,Failure To Appear/Arrest on Attachment Order,05/20/2016,02:41,2200 block Wilner Dr,East Hills,5,19,M
+ARREST,12228849,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/20/2016,02:41,St Marie St & Collins Ave,East Liberty,5,19,M
+ARREST,16048469,9015,Failure To Appear/Arrest on Attachment Order,05/20/2016,03:50,200 block S Atlantic Ave,Bloomfield,5,19,M
+ARREST,16092240,13(a)(16),Possession of Controlled Substance,05/20/2016,06:30,7500 block Mulford St,Homewood South,5,29,M
+ARREST,16092240,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/20/2016,06:30,7500 block Mulford St,Homewood South,5,29,M
+ARREST,16092240,13(a)(32),Paraphernalia - Use or Possession,05/20/2016,06:30,7500 block Mulford St,Homewood South,5,29,M
+ARREST,16092240,3925,Receiving Stolen Property.,05/20/2016,06:30,7500 block Mulford St,Homewood South,5,29,M
+OFFENSE 2.0,16092240,13(a)(16),Possession of Controlled Substance,05/20/2016,06:30,7500 block Mulford St,Homewood South,5,,
+OFFENSE 2.0,16092240,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/20/2016,06:30,7500 block Mulford St,Homewood South,5,,
+OFFENSE 2.0,16092240,13(a)(30)*,Delivery of Controlled Substance,05/20/2016,06:30,7500 block Mulford St,Homewood South,5,,
+OFFENSE 2.0,16092240,3925,Receiving Stolen Property.,05/20/2016,06:30,7500 block Mulford St,Homewood South,5,,
+OFFENSE 2.0,16092575,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/20/2016,08:00,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16092294,9496,Dead on Arrival (DOA),05/20/2016,08:49,100 block Finley St,Larimer,5,,
+OFFENSE 2.0,16092432,9124,Drug Investigation,05/20/2016,12:05,1400 block Washington Blvd,Highland Park,5,,
+OFFENSE 2.0,16092419,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,13:00,7000 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16092426,3926(a)(1),Theft of Services; Cable  Gas  Taxi  Bill  Tab  etc.,05/20/2016,13:14,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16092501,3743,Accidents Involving Damage to Attended Veh. or Property,05/20/2016,15:00,4700 block Liberty Ave,Bloomfield,5,,
+ARREST,16023132,2701,Simple Assault.,05/20/2016,15:35,100 block Hawthorne Ct,Stanton Heights,5,21,M
+ARREST,16082881,3921,Theft by Unlawful Taking or Disposition.,05/20/2016,17:05,4800 block Baum Blvd,Bloomfield,5,48,M
+OFFENSE 2.0,16092597,9501,Bench Warrant,05/20/2016,17:23,Broad St & East Liberty Blvd,East Liberty,5,,
+ARREST,16092597,9501,Bench Warrant,05/20/2016,17:37,Broad St & East Liberty Blvd,East Liberty,5,41,M
+OFFENSE 2.0,16092709,2701,Simple Assault.,05/20/2016,19:55,7300 block Kelly St,Homewood South,5,,
+OFFENSE 2.0,16092538,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,05/20/2016,00:01,1200 block Chelton Ave,Brookline,6,,
+OFFENSE 2.0,16092538,2709(a),Harassment.,05/20/2016,00:01,1200 block Chelton Ave,Brookline,6,,
+OFFENSE 2.0,16092245,9491,Industrial Accident,05/20/2016,07:10,2200 block Roswell Dr,Elliott,6,,
+OFFENSE 2.0,16092364,3701,Robbery.,05/20/2016,11:20,Allendale St & Allendale Cir,Sheraden,6,,
+OFFENSE 2.0,16092420,9490,Missing Persons (18 and Over),05/20/2016,13:15,3000 block Zephyr Ave,Sheraden,6,,
+OFFENSE 2.0,16092496,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/20/2016,14:30,1500 block Methyl St,Beechview,6,,
+OFFENSE 2.0,16092496,4912,Impersonating a Public Servant.,05/20/2016,14:30,1500 block Methyl St,Beechview,6,,
+OFFENSE 2.0,16092524,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/20/2016,15:00,600 block Crysler St,Brookline,6,,
+OFFENSE 2.0,16092814,3502,Burglary.,05/20/2016,17:00,200 block Traymore Ave,Beechview,6,,
+OFFENSE 2.0,16092774,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/20/2016,22:00,1500 block Fallowfield Ave,Beechview,6,,
+OFFENSE 2.0,16092774,2706,Terroristic Threats.,05/20/2016,22:00,1500 block Fallowfield Ave,Beechview,6,,
+OFFENSE 2.0,16092774,2701,Simple Assault.,05/20/2016,22:00,1500 block Fallowfield Ave,Beechview,6,,
+ARREST,16092774,2706,Terroristic Threats.,05/20/2016,22:30,1500 block Fallowfield Ave,Beechview,6,26,M
+ARREST,16092774,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/20/2016,22:30,1500 block Fallowfield Ave,Beechview,6,26,M
+ARREST,16092774,2701,Simple Assault.,05/20/2016,22:30,1500 block Fallowfield Ave,Beechview,6,26,M
