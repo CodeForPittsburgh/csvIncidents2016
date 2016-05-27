@@ -1,0 +1,185 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16094778,9492,Dog Bite,05/24/2016,01:05,3100 block Frederick St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16094785,9488,False  Burglar Alarm,05/24/2016,01:19,400 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16094960,9999,9999 - (Misc. Incident): Recovered Car Possibly Involved in Shooting,05/24/2016,05:30,2000 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,16094906,3502,Burglary.,05/24/2016,06:30,Riverview Park,Perry North,1,,
+OFFENSE 2.0,16094948,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/24/2016,08:30,1000 block Sheffield St,Manchester,1,,
+OFFENSE 2.0,16095020,3304,Criminal Mischief.,05/24/2016,09:00,1200 block Boyle St,Central Northside,1,,
+OFFENSE 2.0,16095020,3503,Criminal Trespass,05/24/2016,09:00,1200 block Boyle St,Central Northside,1,,
+OFFENSE 2.0,16095078,3502,Burglary.,05/24/2016,12:00,2700 block Ellis St,Perry South,1,,
+OFFENSE 2.0,16087063,029,Missing Juvenile,05/24/2016,13:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16095263,3502,Burglary.,05/24/2016,13:00,1300 block Pennsylvania Ave,Manchester,1,,
+OFFENSE 2.0,16095193,3929,Retail Theft.,05/24/2016,14:43,3200 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,16095185,9999,9999 - (Misc. Incident): Children Missing From School,05/24/2016,15:29,300 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16095210,9488,False  Burglar Alarm,05/24/2016,16:04,1000 block Cedar Ave,Allegheny Center,1,,
+OFFENSE 2.0,16095233,9488,False  Burglar Alarm,05/24/2016,16:33,3100 block Wadlow St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16095277,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/24/2016,17:31,900 block Mina St,Spring Hill-City View,1,,
+OFFENSE 2.0,16095281,13(a)(31),Marijuana: Possession Small Amount,05/24/2016,17:39,1600 block Sandusky Ct,Fineview,1,,
+ARREST,16095281,3503(b)(1)(i),Actual Communication,05/24/2016,17:39,1600 block Sandusky Ct,Fineview,1,22,M
+ARREST,16095281,13(a)(31),Marijuana: Possession Small Amount,05/24/2016,17:39,1600 block Sandusky Ct,Fineview,1,22,M
+OFFENSE 2.0,16095281,3503(b)(1)(i),Actual Communication,05/24/2016,17:39,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16095290,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/24/2016,17:49,1200 block Middle St,East Allegheny,1,,
+ARREST,16095307,13(a)(16),Possession of Controlled Substance,05/24/2016,17:53,1600 block Sandusky Ct,Fineview,1,28,M
+ARREST,16095307,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,17:53,1600 block Sandusky Ct,Fineview,1,28,M
+ARREST,16095307,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,17:53,1600 block Sandusky Ct,Fineview,1,37,F
+OFFENSE 2.0,16095307,13(a)(16),Possession of Controlled Substance,05/24/2016,17:53,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16095307,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,17:53,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16095318,9124,Drug Investigation,05/24/2016,18:00,1500 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,16095317,9124,Drug Investigation,05/24/2016,18:00,1500 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,16095435,9489,Found Property,05/24/2016,20:00,Hoffman St & Knott St,Manchester,1,,
+OFFENSE 2.0,16094753,9497,Aided Case,05/24/2016,00:18,100 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16094795,1543,Driving While Operating Privilege is Suspended or Revoked.,05/24/2016,01:33,3300 block Bigelow Blvd,Polish Hill,2,,
+OFFENSE 2.0,16094795,3362,Maximum Speed Limits.,05/24/2016,01:33,3300 block Bigelow Blvd,Polish Hill,2,,
+OFFENSE 2.0,16094795,4703,Operation of Vehicle without Official Certif. of Inspection,05/24/2016,01:33,3300 block Bigelow Blvd,Polish Hill,2,,
+ARREST,16094795,13(a)(31),Marijuana: Possession Small Amount,05/24/2016,01:33,3300 block Bigelow Blvd,Polish Hill,2,26,M
+ARREST,16094795,1543,Driving While Operating Privilege is Suspended or Revoked.,05/24/2016,01:33,3300 block Bigelow Blvd,Polish Hill,2,26,M
+ARREST,16094795,4703,Operation of Vehicle without Official Certif. of Inspection,05/24/2016,01:33,3300 block Bigelow Blvd,Polish Hill,2,26,M
+OFFENSE 2.0,16094795,13(a)(31),Marijuana: Possession Small Amount,05/24/2016,01:33,3300 block Bigelow Blvd,Polish Hill,2,,
+ARREST,16094795,3362,Maximum Speed Limits.,05/24/2016,01:33,3300 block Bigelow Blvd,Polish Hill,2,26,M
+OFFENSE 2.0,16094842,9498,302 (Mental),05/24/2016,03:14,Birmingham Brg & 5th Ave,Bluff,2,,
+ARREST,16048087,9015,Failure To Appear/Arrest on Attachment Order,05/24/2016,10:53,Commonwealth Pl & Blvd of Allies,Golden Triangle/Civic Arena,2,38,M
+OFFENSE 2.0,16095113,9093,Indirect Criminal Contempt,05/24/2016,14:10,200 block Oak Hill Dr,Terrace Village,2,,
+OFFENSE 2.0,16095286,3934,Theft from Vehicle,05/24/2016,15:30,5th Ave & Washington Pl,Bluff,2,,
+OFFENSE 2.0,16095249,903,Criminal Conspiracy.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,
+ARREST,16095249,903,Criminal Conspiracy.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,M
+ARREST,16095249,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,M
+ARREST,16095249,5121,Escape.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,M
+ARREST,16095249,5104,Resisting Arrest or Other Law Enforcement.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,M
+ARREST,16095249,2905,Interference with Custody of Committed Persons.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,M
+ARREST,16095249,2702,Aggravated Assault.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,M
+ARREST,16095249,903,Criminal Conspiracy.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,28,F
+ARREST,16095249,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,28,F
+ARREST,16095249,5121,Escape.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,28,F
+ARREST,16095249,5104,Resisting Arrest or Other Law Enforcement.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,28,F
+ARREST,16095249,2905,Interference with Custody of Committed Persons.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,28,F
+ARREST,16095249,2702,Aggravated Assault.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,28,F
+OFFENSE 2.0,16095249,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095249,5121,Escape.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095249,5104,Resisting Arrest or Other Law Enforcement.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095249,2905,Interference with Custody of Committed Persons.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095249,2702,Aggravated Assault.,05/24/2016,16:57,4th Ave & Wood St,Golden Triangle/Civic Arena,2,,
+ARREST,16095249,903,Criminal Conspiracy.,05/24/2016,17:05,4th Ave & Wood St,Golden Triangle/Civic Arena,2,22,F
+ARREST,16095249,5121,Escape.,05/24/2016,17:05,4th Ave & Wood St,Golden Triangle/Civic Arena,2,22,F
+ARREST,16095249,5101,Obstructing Admin. of Law ,05/24/2016,17:05,4th Ave & Wood St,Golden Triangle/Civic Arena,2,22,F
+ARREST,16095301,4910,Tampering with or Fabricating Physical Evidence.,05/24/2016,18:03,Centre Ave & Kirkpatrick St,Middle Hill,2,67,M
+ARREST,16095301,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,18:03,Centre Ave & Kirkpatrick St,Middle Hill,2,59,M
+ARREST,16095301,5503,Disorderly Conduct.,05/24/2016,18:03,Centre Ave & Kirkpatrick St,Middle Hill,2,67,M
+ARREST,16095301,5503,Disorderly Conduct.,05/24/2016,18:03,Centre Ave & Kirkpatrick St,Middle Hill,2,59,M
+ARREST,16095301,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,18:03,Centre Ave & Kirkpatrick St,Middle Hill,2,67,M
+OFFENSE 2.0,15095353,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,05/24/2016,18:30,Trent St,Middle Hill,2,,
+OFFENSE 2.0,16095301,5503,Disorderly Conduct.,05/24/2016,18:33,Centre Ave & Kirkpatrick St,Middle Hill,2,,
+OFFENSE 2.0,16095301,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,18:33,Centre Ave & Kirkpatrick St,Middle Hill,2,,
+OFFENSE 2.0,16095301,4910,Tampering with or Fabricating Physical Evidence.,05/24/2016,18:33,Centre Ave & Kirkpatrick St,Middle Hill,2,,
+OFFENSE 2.0,16095387,3304,Criminal Mischief.,05/24/2016,20:01,3500 block Camp St,Upper Hill,2,,
+OFFENSE 2.0,16095460,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,22:01,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095460,1501,Drivers Required to be Licensed.,05/24/2016,22:01,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095460,3714,Careless Driving,05/24/2016,22:01,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095460,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/24/2016,22:01,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095460,3802(a)(1),DUI - General Impairment,05/24/2016,22:01,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16095460,3112,Traffic-Control Signals.,05/24/2016,22:01,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+ARREST,16095460,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,22:11,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,51,M
+ARREST,16095460,3802(a)(1),DUI - General Impairment,05/24/2016,22:11,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,51,M
+ARREST,16095460,3714,Careless Driving,05/24/2016,22:11,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,51,M
+ARREST,16095460,3112,Traffic-Control Signals.,05/24/2016,22:11,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,51,M
+ARREST,16095460,1501,Drivers Required to be Licensed.,05/24/2016,22:11,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,51,M
+ARREST,16095460,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/24/2016,22:11,Grant St & Fort Pitt Blvd,Golden Triangle/Civic Arena,2,51,M
+OFFENSE 2.0,16095274,9504,Lost Property,05/24/2016,00:01,500 block Fisher St,Mt. Oliver Neighborhood,3,,
+OFFENSE 2.0,16094840,1785,Proof of Financial Responsibility Following Accident.,05/24/2016,02:53,200 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16094840,9999,9999 - (Misc. Incident): Non-Reportable Crash (City Vehicle),05/24/2016,02:53,200 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16094840,1574,Permitting Unauthorized Person to Drive.,05/24/2016,02:53,200 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16094840,1543,Driving While Operating Privilege is Suspended or Revoked.,05/24/2016,02:53,200 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16094840,1501,Drivers Required to be Licensed.,05/24/2016,02:53,200 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16094854,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,05/24/2016,03:00,200 block Bausman St,Knoxville,3,,
+ARREST,16083974,3736,Reckless Driving,05/24/2016,04:40,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,20,F
+ARREST,16083974,3802(a)(1),DUI - General Impairment,05/24/2016,04:40,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,20,F
+ARREST,16083974,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/24/2016,04:40,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,20,F
+ARREST,16083974,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,05/24/2016,04:40,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,20,F
+ARREST,16083974,2705,Recklessly Endangering Another Person.,05/24/2016,04:40,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,20,F
+OFFENSE 2.0,16094891,3502,Burglary.,05/24/2016,06:16,2200 block Almont St,Carrick,3,,
+OFFENSE 2.0,16095365,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/24/2016,07:20,2000 block Jane St,South Side Flats,3,,
+OFFENSE 2.0,16094933,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/24/2016,08:00,S 18th St & Gregory St,South Side Slopes,3,,
+ARREST,16094276,5505,Public Drunkenness,05/24/2016,10:20,1700 block E Carson St,Golden Triangle/Civic Arena,3,23,M
+ARREST,16094276,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/24/2016,10:20,1700 block E Carson St,Golden Triangle/Civic Arena,3,23,M
+ARREST,16094276,5104,Resisting Arrest or Other Law Enforcement.,05/24/2016,10:20,1700 block E Carson St,Golden Triangle/Civic Arena,3,23,M
+OFFENSE 2.0,16095075,9999,9999 - (Misc. Incident): Strong Chemical Smell,05/24/2016,12:00,700 block Warrinton Ave,Allentown,3,,
+OFFENSE 2.0,16095093,3701,Robbery.,05/24/2016,12:51,2600 block Churchview Ave,Carrick,3,,
+OFFENSE 2.0,16095093,3502,Burglary.,05/24/2016,12:51,2600 block Churchview Ave,Carrick,3,,
+ARREST,16095093,3502,Burglary.,05/24/2016,12:51,2600 block Churchview Ave,Carrick,3,33,M
+OFFENSE 2.0,16095108,3503(b)(1)(i),Actual Communication,05/24/2016,13:00,2400 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,16094627,7512,Criminal Use of Communication,05/24/2016,14:30,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16094627,13(a)(30)*,Delivery of Controlled Substance,05/24/2016,14:30,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16094627,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/24/2016,14:30,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16094627,13(a)(16),Possession of Controlled Substance,05/24/2016,14:30,800 block E Warrington Ave,Allentown,3,,
+ARREST,16094627,13(a)(30)*,Delivery of Controlled Substance,05/24/2016,14:30,800 block E Warrington Ave,Allentown,3,29,M
+ARREST,16094627,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/24/2016,14:30,800 block E Warrington Ave,Allentown,3,29,M
+ARREST,16094627,13(a)(16),Possession of Controlled Substance,05/24/2016,14:30,800 block E Warrington Ave,Allentown,3,29,M
+ARREST,16094627,7512,Criminal Use of Communication,05/24/2016,14:30,800 block E Warrington Ave,Allentown,3,29,M
+OFFENSE 2.0,16095191,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/24/2016,15:00,Allen St,Allentown,3,,
+OFFENSE 2.0,16095309,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/24/2016,15:30,1800 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16095181,9497,Aided Case,05/24/2016,16:00,600 block Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,16095413,3921,Theft by Unlawful Taking or Disposition.,05/24/2016,17:00,S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16095319,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,05/24/2016,17:10,1800 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16095266,3743,Accidents Involving Damage to Attended Veh. or Property,05/24/2016,17:14,Saw Mill Run Blvd Ramp & West Liberty Ave Ramp,Bon Air,3,,
+OFFENSE 2.0,16095299,2709,Harassment (Non-Specific),05/24/2016,17:55,200 block Poplargrove St,Carrick,3,,
+OFFENSE 2.0,16095332,9999,9999 - (Misc. Incident): ,05/24/2016,18:34,Beltzhoover Ave & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16095380,9490,Missing Persons (18 and Over),05/24/2016,19:50,900 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16095408,9489,Found Property,05/24/2016,20:00,100 block S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16095397,3301,Arson ,05/24/2016,20:06,200 block Lelia St,Mount Washington,3,,
+OFFENSE 2.0,16095397,3302,Causing or Risking Catastrophe.,05/24/2016,20:06,200 block Lelia St,Mount Washington,3,,
+OFFENSE 2.0,16095397,3304,Criminal Mischief.,05/24/2016,20:06,200 block Lelia St,Mount Washington,3,,
+ARREST,16095397,3301,Arson ,05/24/2016,20:45,200 block Lelia St,Mount Washington,3,26,M
+ARREST,16095397,3302,Causing or Risking Catastrophe.,05/24/2016,20:45,200 block Lelia St,Mount Washington,3,26,M
+ARREST,16095397,3304,Criminal Mischief.,05/24/2016,20:45,200 block Lelia St,Mount Washington,3,26,M
+OFFENSE 2.0,16094748,029,Missing Juvenile,05/24/2016,00:15,600 block Johnston Ave,Glen Hazel,4,,
+OFFENSE 2.0,16094907,3934,Theft from Vehicle,05/24/2016,06:30,5900 block Elwood St,Shadyside,4,,
+OFFENSE 2.0,16095018,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/24/2016,08:00,100 block N Lang Ave,Point Breeze North,4,,
+OFFENSE 2.0,16094943,3921,Theft by Unlawful Taking or Disposition.,05/24/2016,08:30,2000 block 5th Ave,West Oakland,4,,
+OFFENSE 2.0,16095066,9496,Dead on Arrival (DOA),05/24/2016,12:00,3700 block Beechwood Blvd,Greenfield,4,,
+ARREST,16095070,9501,Bench Warrant,05/24/2016,12:36,penn Ave & 5th Ave,Shadyside,4,30,M
+OFFENSE 2.0,16095070,9501,Bench Warrant,05/24/2016,12:36,penn Ave & 5th Ave,Shadyside,4,,
+OFFENSE 2.0,16095187,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/24/2016,15:00,Bayard Rd,Shadyside,4,,
+OFFENSE 2.0,16095211,3743,Accidents Involving Damage to Attended Veh. or Property,05/24/2016,15:45,5700 block 5th Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16095214,4910,Tampering with or Fabricating Physical Evidence.,05/24/2016,16:09,Penn Ave & N Homewood Ave,Point Breeze North,4,,
+OFFENSE 2.0,16095214,3809(a),Restriction on Alcoholic Beverages in Vehicle,05/24/2016,16:09,Penn Ave & N Homewood Ave,Point Breeze North,4,,
+OFFENSE 2.0,16095333,3743,Accidents Involving Damage to Attended Veh. or Property,05/24/2016,17:05,2nd Ave & Hot Metal St Brg,South Oakland,4,,
+OFFENSE 2.0,16095406,2701,Simple Assault.,05/24/2016,20:15,5000 block Ampere St,Hazelwood,4,,
+ARREST,16095458,3323,Stop Signs and Yield Signs.,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,25,M
+ARREST,16095458,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,25,M
+OFFENSE 2.0,16095458,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,,
+OFFENSE 2.0,16095458,13(a)(31),Marijuana: Possession Small Amount,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,,
+OFFENSE 2.0,16095458,13(a)(32),Paraphernalia - Use or Possession,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,,
+OFFENSE 2.0,16095458,1543,Driving While Operating Privilege is Suspended or Revoked.,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,,
+OFFENSE 2.0,16095458,3323,Stop Signs and Yield Signs.,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,,
+ARREST,16095458,13(a)(31),Marijuana: Possession Small Amount,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,21,M
+ARREST,16095458,13(a)(16),Possession of Controlled Substance,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,25,M
+ARREST,16095458,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,25,M
+ARREST,16095458,13(a)(31),Marijuana: Possession Small Amount,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,25,M
+OFFENSE 2.0,16095458,13(a)(16),Possession of Controlled Substance,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,,
+ARREST,16095458,1543,Driving While Operating Privilege is Suspended or Revoked.,05/24/2016,22:15,Kirkpatrick St & Bentley Dr,West Oakland,4,25,M
+OFFENSE 2.0,16094761,3701,Robbery.,05/24/2016,00:30,N Negley Ave & Rural St,Garfield,5,,
+OFFENSE 2.0,16094913,3921,Theft by Unlawful Taking or Disposition.,05/24/2016,07:27,5400 block Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,16094990,3701,Robbery.,05/24/2016,08:15,5600 block Baum Blvd,Friendship,5,,
+OFFENSE 2.0,16094990,2701(a)(3),Simple Assault - Attempts by Physical Menace ,05/24/2016,08:15,5600 block Baum Blvd,Friendship,5,,
+OFFENSE 2.0,16094955,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/24/2016,08:47,5700 block Butler St,Stanton Heights,5,,
+OFFENSE 2.0,16095055,9501,Bench Warrant,05/24/2016,10:17,7800 block Kelly St,Homewood South,5,,
+OFFENSE 2.0,16095032,4120,Identity Theft,05/24/2016,10:30,5700 block Callowhill St,Highland Park,5,,
+ARREST,16095055,9501,Bench Warrant,05/24/2016,10:38,7800 block Kelly St,Homewood South,5,34,F
+OFFENSE 2.0,16095194,4120,Identity Theft,05/24/2016,15:00,Hemingway St,Bloomfield,5,,
+OFFENSE 2.0,16095330,2709(a),Harassment.,05/24/2016,18:30,5700 block Wellesley Ave,Highland Park,5,,
+OFFENSE 2.0,16095343,9999,9999 - (Misc. Incident): CYF referral,05/24/2016,19:44,1000 block Brushton Ave,Homewood North,5,,
+OFFENSE 2.0,16095001,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/24/2016,06:00,100 block Balver Ave,Oakwood,6,,
+OFFENSE 2.0,16095234,3921,Theft by Unlawful Taking or Disposition.,05/24/2016,07:00,1500 block Norwalk St,Crafton Heights,6,,
+OFFENSE 2.0,16095166,9496,Dead on Arrival (DOA),05/24/2016,14:53,1600 block Chelton Ave,Brookline,6,,
+OFFENSE 2.0,16095195,9496,Dead on Arrival (DOA),05/24/2016,15:59,900 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,16095247,029,Missing Juvenile,05/24/2016,16:55,100 block Wabash St,West End,6,,
+OFFENSE 2.0,16095320,9999,9999 - (Misc. Incident): ,05/24/2016,17:00,2600 block Glasgow St,Sheraden,6,,
+OFFENSE 2.0,16095321,2709(a),Harassment.,05/24/2016,18:26,1500 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16095287,3934,Theft from Vehicle,05/24/2016,19:00,2600 block Glasgow St,Sheraden,6,,
+OFFENSE 2.0,16095390,2709,Harassment (Non-Specific),05/24/2016,20:00,400 block Lorenz Ave,Elliott,6,,
+OFFENSE 2.0,16095439,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/24/2016,21:00,Oakwood Rd,Oakwood,6,,
+OFFENSE 2.0,16095440,029,Missing Juvenile,05/24/2016,21:21,200 block Fairview Ave,Elliott,6,,
+ARREST,16095439,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/24/2016,21:50,Oakwood Rd,Oakwood,6,22,M
+OFFENSE 2.0,16095479,3701,Robbery.,05/24/2016,22:45,2200 block Noblestown Rd,Westwood,6,,
+OFFENSE 2.0,16095486,2501,Criminal Homicide.,05/24/2016,23:09,1300 block Steuben St,Crafton Heights,6,,
+OFFENSE 2.0,16095216,4106,Access Device Fraud,05/24/2016,16:00,1000 block Glass Run Rd,Outside State,OSC,,
+OFFENSE 2.0,16095216,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/24/2016,16:00,1000 block Glass Run Rd,Outside State,OSC,,
