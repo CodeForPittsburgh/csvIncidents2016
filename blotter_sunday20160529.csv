@@ -1,0 +1,159 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16098930,3701,Robbery.,05/29/2016,00:01,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,16098579,9497,Aided Case,05/29/2016,00:45,Mitchell St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16098629,9488,False  Burglar Alarm,05/29/2016,01:47,2900 block New Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16098702,5506,Loitering and Prowling at Night,05/29/2016,03:23,Wadlow St & Embury St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16098702,3934,Theft from Vehicle,05/29/2016,03:23,Wadlow St & Embury St,Marshall-Shadeland,1,,
+ARREST,16098702,5506,Loitering and Prowling at Night,05/29/2016,03:29,Wadlow St & Embury St,Marshall-Shadeland,1,50,M
+ARREST,16098702,3934,Theft from Vehicle,05/29/2016,03:29,Wadlow St & Embury St,Marshall-Shadeland,1,50,M
+OFFENSE 2.0,16098705,3921,Theft by Unlawful Taking or Disposition.,05/29/2016,03:31,Northshore Dr,Chateau,1,,
+OFFENSE 2.0,16098714,9488,False  Burglar Alarm,05/29/2016,03:44,2900 block New Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16098738,2706,Terroristic Threats.,05/29/2016,05:00,3200 block Bainton St,Brighton Heights,1,,
+OFFENSE 2.0,16098738,5506,Loitering and Prowling at Night,05/29/2016,05:00,3200 block Bainton St,Brighton Heights,1,,
+OFFENSE 2.0,16098738,4302,Periods for Requiring Lighted Lamps.,05/29/2016,05:00,3200 block Bainton St,Brighton Heights,1,,
+OFFENSE 2.0,16098738,3503(b.1)(i),Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises,05/29/2016,05:00,3200 block Bainton St,Brighton Heights,1,,
+OFFENSE 2.0,16098738,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/29/2016,05:00,3200 block Bainton St,Brighton Heights,1,,
+OFFENSE 2.0,16098738,2709(a)(6),Harassment Communicates Repeatedly at Extreme Hours,05/29/2016,05:00,3200 block Bainton St,Brighton Heights,1,,
+OFFENSE 2.0,16098742,3802(a)(1),DUI - General Impairment,05/29/2016,05:15,Pa Rt 28,East Allegheny,1,,
+OFFENSE 2.0,16098742,3735.1,Aggravated Assault While DUI,05/29/2016,05:15,Pa Rt 28,East Allegheny,1,,
+ARREST,16098742,3802(a)(1),DUI - General Impairment,05/29/2016,05:30,Pa Rt 28,East Allegheny,1,29,M
+ARREST,16098742,3735.1,Aggravated Assault While DUI,05/29/2016,05:30,Pa Rt 28,East Allegheny,1,29,M
+OFFENSE 2.0,16098860,3304,Criminal Mischief.,05/29/2016,06:30,300 block Dunlap St,Perry North,1,,
+OFFENSE 2.0,16098772,9497,Aided Case,05/29/2016,07:11,3100 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,16098821,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/29/2016,09:15,Niggel St & Ley St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,16098829,9489,Found Property,05/29/2016,10:20,100 block Mazeroski Way,North Shore,1,,
+OFFENSE 2.0,16098843,029,Missing Juvenile,05/29/2016,10:30,3400 block Sipe St,Brighton Heights,1,,
+OFFENSE 2.0,16098957,9093,Indirect Criminal Contempt,05/29/2016,14:06,3000 block Shadeland Ave,Marshall-Shadeland,1,,
+ARREST,16098957,9093,Indirect Criminal Contempt,05/29/2016,14:19,3000 block Shadeland Ave,Marshall-Shadeland,1,22,M
+OFFENSE 2.0,16099009,9488,False  Burglar Alarm,05/29/2016,15:55,2200 block Holyoke St,Perry South,1,,
+OFFENSE 2.0,16099001,9999,9999 - (Misc. Incident): ,05/29/2016,16:05,1400 block N Franklin St,Manchester,1,,
+OFFENSE 2.0,16099026,3743,Accidents Involving Damage to Attended Veh. or Property,05/29/2016,16:20,100 block Brahm St,Spring Hill-City View,1,,
+OFFENSE 2.0,16099026,3304,Criminal Mischief.,05/29/2016,16:20,100 block Brahm St,Spring Hill-City View,1,,
+OFFENSE 2.0,16099026,1543,Driving While Operating Privilege is Suspended or Revoked.,05/29/2016,16:20,100 block Brahm St,Spring Hill-City View,1,,
+OFFENSE 2.0,16099054,3304,Criminal Mischief.,05/29/2016,17:00,1200 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16099170,9090,Recovered Firearm,05/29/2016,20:35,1500 block Chateau St,Manchester,1,,
+OFFENSE 2.0,16099247,2706,Terroristic Threats.,05/29/2016,21:00,3100 block Frederick St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16099247,2705,Recklessly Endangering Another Person.,05/29/2016,21:00,3100 block Frederick St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16099247,3302,Causing or Risking Catastrophe.,05/29/2016,21:00,3100 block Frederick St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16099247,3502,Burglary.,05/29/2016,21:00,3100 block Frederick St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16099326,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/29/2016,23:50,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16099326,5505,Public Drunkenness,05/29/2016,23:50,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16099326,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,05/29/2016,23:50,1600 block Sandusky Ct,Fineview,1,,
+ARREST,16099326,5505,Public Drunkenness,05/29/2016,23:50,1600 block Sandusky Ct,Fineview,1,,F
+ARREST,16099326,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/29/2016,23:50,1600 block Sandusky Ct,Fineview,1,,F
+ARREST,16099326,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,05/29/2016,23:50,1600 block Sandusky Ct,Fineview,1,,F
+OFFENSE 2.0,16098610,9999,9999 - (Misc. Incident): Injury; Unknown Origin--Medic Assist,05/29/2016,01:17,Birmingham Brg & 5th Ave,Bluff,2,,
+OFFENSE 2.0,16098642,2709(a),Harassment.,05/29/2016,01:45,Bigelow Sq,Golden Triangle/Civic Arena,2,,
+ARREST,16098657,5503,Disorderly Conduct.,05/29/2016,02:30,100 block 9th St,Golden Triangle/Civic Arena,2,26,M
+OFFENSE 2.0,16098657,3926.C1,THEFT OF SERVICES,05/29/2016,02:30,100 block 9th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16098657,5104,Resisting Arrest or Other Law Enforcement.,05/29/2016,02:30,100 block 9th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16098657,5503,Disorderly Conduct.,05/29/2016,02:30,100 block 9th St,Golden Triangle/Civic Arena,2,,
+ARREST,16098657,3926.C1,THEFT OF SERVICES,05/29/2016,02:30,100 block 9th St,Golden Triangle/Civic Arena,2,26,M
+ARREST,16098657,5104,Resisting Arrest or Other Law Enforcement.,05/29/2016,02:30,100 block 9th St,Golden Triangle/Civic Arena,2,26,M
+OFFENSE 2.0,16098737,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/29/2016,04:50,Roberts St,Crawford-Roberts,2,,
+ARREST,16098737,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/29/2016,05:22,Roberts St,Crawford-Roberts,2,36,F
+OFFENSE 2.0,16098782,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/29/2016,08:00,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16098787,3509,Parking.,05/29/2016,08:30,4200 block Post St,Central Lawrenceville,2,,
+OFFENSE 2.0,16098787,3304,Criminal Mischief.,05/29/2016,08:30,4200 block Post St,Central Lawrenceville,2,,
+OFFENSE 2.0,16098942,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/29/2016,08:45,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16098835,3743,Accidents Involving Damage to Attended Veh. or Property,05/29/2016,10:45,4600 block Plummer St,Central Lawrenceville,2,,
+OFFENSE 2.0,16098926,3921,Theft by Unlawful Taking or Disposition.,05/29/2016,12:00,1800 block Webster Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,16098923,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/29/2016,12:00,2100 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16098980,3743,Accidents Involving Damage to Attended Veh. or Property,05/29/2016,14:50,Bigelow Blvd & Herron Ave,Strip District,2,,
+OFFENSE 2.0,16099047,13(a)(16),Possession of Controlled Substance,05/29/2016,17:10,Grant St & Oliver Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16099047,3323,Stop Signs and Yield Signs.,05/29/2016,17:10,Grant St & Oliver Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16099047,3334,Turning Movements and Required Signals.,05/29/2016,17:10,Grant St & Oliver Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16099047,3802(a)(1),DUI - General Impairment,05/29/2016,17:10,Grant St & Oliver Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16099047,13(a)(16),Possession of Controlled Substance,05/29/2016,17:10,Grant St & Oliver Ave,Golden Triangle/Civic Arena,2,23,F
+ARREST,16099047,3323,Stop Signs and Yield Signs.,05/29/2016,17:10,Grant St & Oliver Ave,Golden Triangle/Civic Arena,2,23,F
+ARREST,16099047,3334,Turning Movements and Required Signals.,05/29/2016,17:10,Grant St & Oliver Ave,Golden Triangle/Civic Arena,2,23,F
+ARREST,16099047,3802(a)(1),DUI - General Impairment,05/29/2016,17:10,Grant St & Oliver Ave,Golden Triangle/Civic Arena,2,23,F
+OFFENSE 2.0,16099070,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/29/2016,17:23,Roberts St,Crawford-Roberts,2,,
+ARREST,16099076,9501,Bench Warrant,05/29/2016,17:35,Liberty Brg,Bluff,2,46,M
+OFFENSE 2.0,16099076,9501,Bench Warrant,05/29/2016,17:35,Liberty Brg,Bluff,2,,
+ARREST,16099070,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/29/2016,17:41,Roberts St,Crawford-Roberts,2,36,F
+OFFENSE 2.0,16099098,13(a)(32),Paraphernalia - Use or Possession,05/29/2016,18:20,2000 block Wyandotte St,Crawford-Roberts,2,,
+ARREST,16099098,601.16,Public Urination And Defecation,05/29/2016,18:20,2000 block Wyandotte St,Crawford-Roberts,2,54,M
+ARREST,16099098,13(a)(32),Paraphernalia - Use or Possession,05/29/2016,18:20,2000 block Wyandotte St,Crawford-Roberts,2,54,M
+OFFENSE 2.0,16099098,601.16,Public Urination And Defecation,05/29/2016,18:20,2000 block Wyandotte St,Crawford-Roberts,2,,
+OFFENSE 2.0,16099182,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,05/29/2016,20:00,1800 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,16099165,3701,Robbery.,05/29/2016,20:30,Maddock Pl & Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16099165,2702,Aggravated Assault.,05/29/2016,20:30,Maddock Pl & Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16098670,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/29/2016,01:30,1300 block Nobles Ln,Carrick,3,,
+OFFENSE 2.0,16098688,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,05/29/2016,02:26,S 15th St,South Side Flats,3,,
+OFFENSE 2.0,16098688,5505,Public Drunkenness,05/29/2016,02:26,S 15th St,South Side Flats,3,,
+ARREST,16098688,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,05/29/2016,02:26,S 15th St,South Side Flats,3,22,F
+ARREST,16098688,5505,Public Drunkenness,05/29/2016,02:26,S 15th St,South Side Flats,3,22,F
+OFFENSE 2.0,16098696,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,05/29/2016,03:17,2600 block Jane St,South Side Flats,3,,
+OFFENSE 2.0,16098773,3304,Criminal Mischief.,05/29/2016,06:00,700 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16098761,3921,Theft by Unlawful Taking or Disposition.,05/29/2016,06:00,1800 block Fox Way,South Side Flats,3,,
+OFFENSE 2.0,16098790,3934,Theft from Vehicle,05/29/2016,07:00,100 block Haberman Ave,Mount Washington,3,,
+OFFENSE 2.0,16098833,2709(a)(3),Harassment No Legitimate Purpose,05/29/2016,10:00,2500 block Waterman Ave,Carrick,3,,
+OFFENSE 2.0,16098847,3928,Unauthorized Use of Automobile and Other Vehicles.,05/29/2016,10:30,2000 block Spring St,Arlington,3,,
+OFFENSE 2.0,16098885,9122,Miscellaneous Fire Vehicle Investigation to Continue,05/29/2016,11:39,300 block Zara St,Knoxville,3,,
+OFFENSE 2.0,16098933,9489,Found Property,05/29/2016,13:00,100 block E Woodford Ave,Carrick,3,,
+OFFENSE 2.0,16098947,3304,Criminal Mischief.,05/29/2016,13:38,100 block S 11th St,South Side Flats,3,,
+OFFENSE 2.0,16099044,8104,CLASS 1 - Suspicious Package or Device,05/29/2016,16:46,2400 block Burham St,South Side Slopes,3,,
+OFFENSE 2.0,16099118,2702,Aggravated Assault.,05/29/2016,18:50,100 block redlyn St,Knoxville,3,,
+ARREST,16099118,2702,Aggravated Assault.,05/29/2016,19:00,100 block redlyn St,Knoxville,3,24,M
+OFFENSE 2.0,16099135,3929,Retail Theft.,05/29/2016,19:20,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16099135,5901,Open Lewdness.,05/29/2016,19:20,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16099204,3502,Burglary.,05/29/2016,20:30,2700 block Steiner St,Carrick,3,,
+OFFENSE 2.0,16098615,3929,Retail Theft.,05/29/2016,01:11,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16098725,3934,Theft from Vehicle,05/29/2016,01:49,3100 block Bohem St,South Oakland,4,,
+OFFENSE 2.0,16098791,901,Criminal Attempt,05/29/2016,04:05,7200 block Thomas Blvd,Point Breeze,4,,
+OFFENSE 2.0,16098791,3502,Burglary.,05/29/2016,04:05,7200 block Thomas Blvd,Point Breeze,4,,
+OFFENSE 2.0,16098780,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/29/2016,07:00,300 block Greenfield Ave,Greenfield,4,,
+OFFENSE 2.0,16098890,3934,Theft from Vehicle,05/29/2016,07:00,100 block Lytton Ave,North Oakland,4,,
+OFFENSE 2.0,16098813,3934,Theft from Vehicle,05/29/2016,09:30,Covode St & Yeshiva Way,Squirrel Hill South,4,,
+OFFENSE 2.0,16098912,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/29/2016,12:15,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16099003,3929,Retail Theft.,05/29/2016,12:47,3700 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,16098964,3921,Theft by Unlawful Taking or Disposition.,05/29/2016,14:15,6300 block Shakespeare St,Shadyside,4,,
+OFFENSE 2.0,16098994,9999,9999 - (Misc. Incident): ,05/29/2016,15:30,Forbes Ave & Shady Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16099010,9122,Miscellaneous Fire Vehicle Investigation to Continue,05/29/2016,15:53,S Thomas St & N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16099065,9489,Found Property,05/29/2016,17:00,Penn Ave & 5th Ave,Shadyside,4,,
+OFFENSE 2.0,16099053,5503,Disorderly Conduct.,05/29/2016,17:02,W Elizabeth St & Lytle St,Hazelwood,4,,
+OFFENSE 2.0,16099053,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/29/2016,17:02,W Elizabeth St & Lytle St,Hazelwood,4,,
+OFFENSE 2.0,16099081,9497,Aided Case,05/29/2016,17:59,5800 block Bartlett St,Squirrel Hill South,4,,
+OFFENSE 2.0,16099081,9498,302 (Mental),05/29/2016,17:59,5800 block Bartlett St,Squirrel Hill South,4,,
+OFFENSE 2.0,16099119,9999,9999 - (Misc. Incident): ,05/29/2016,19:29,5600 block Forward Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16098582,3928,Unauthorized Use of Automobile and Other Vehicles.,05/29/2016,00:20,6200 block Kalida Dr,East Liberty,5,,
+OFFENSE 2.0,16098840,3921,Theft by Unlawful Taking or Disposition.,05/29/2016,02:00,300 block N Graham St,Garfield,5,,
+OFFENSE 2.0,16098775,029,Missing Juvenile,05/29/2016,08:00,300 block S Negley Ave,Friendship,5,,
+OFFENSE 2.0,16098798,2709,Harassment (Non-Specific),05/29/2016,09:20,6300 block Penn Ave,East Liberty,5,,
+ARREST,16034791,2706,Terroristic Threats.,05/29/2016,10:15,5700 block Wellesley Ave,Highland Park,5,,M
+ARREST,16034791,2709(a)(4),Harassment Communicates Prohibited Acts,05/29/2016,10:15,5700 block Wellesley Ave,Highland Park,5,,M
+ARREST,15165741,3929,Retail Theft.,05/29/2016,10:30,1800 block Morningside Ave,Morningside,5,30,M
+OFFENSE 2.0,16098864,9496,Dead on Arrival (DOA),05/29/2016,11:07,1400 block Mellon St,Highland Park,5,,
+OFFENSE 2.0,16098897,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,05/29/2016,11:56,100 block N Euclid Ave,East Liberty,5,,
+OFFENSE 2.0,16098897,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/29/2016,11:56,100 block N Euclid Ave,East Liberty,5,,
+OFFENSE 2.0,16098897,2709.A3,HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE,05/29/2016,11:56,100 block N Euclid Ave,East Liberty,5,,
+ARREST,16098897,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,05/29/2016,12:05,100 block N Euclid Ave,East Liberty,5,55,F
+ARREST,16098897,2709.A3,HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE,05/29/2016,12:05,100 block N Euclid Ave,East Liberty,5,55,F
+ARREST,16098897,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/29/2016,12:05,100 block N Euclid Ave,East Liberty,5,55,F
+OFFENSE 2.0,16099013,3929,Retail Theft.,05/29/2016,16:06,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16099147,9497,Aided Case,05/29/2016,18:33,Mayflower St,Larimer,5,,
+OFFENSE 2.0,16099187,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/29/2016,19:00,4800 block Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,16098744,9501,Bench Warrant,05/29/2016,06:09,800 block Shadycrest Dr,Beechview,6,,
+ARREST,16098744,9501,Bench Warrant,05/29/2016,06:09,800 block Shadycrest Dr,Beechview,6,22,M
+OFFENSE 2.0,16098861,3921,Theft by Unlawful Taking or Disposition.,05/29/2016,10:30,1000 block Faulkner St,Sheraden,6,,
+ARREST,16032260,9015,Failure To Appear/Arrest on Attachment Order,05/29/2016,10:30,Gibson St & Lorenz Ave,Elliott,6,28,F
+ARREST,16098837,3502,Burglary.,05/29/2016,10:35,2300 block Candace St,Beechview,6,41,M
+OFFENSE 2.0,16098837,3502,Burglary.,05/29/2016,11:30,2300 block Candace St,Beechview,6,,
+OFFENSE 2.0,16098908,1501,Drivers Required to be Licensed.,05/29/2016,12:28,1400 block Crucible St,Crafton Heights,6,,
+ARREST,16098908,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/29/2016,12:28,1400 block Crucible St,Crafton Heights,6,17,M
+ARREST,16098908,1501,Drivers Required to be Licensed.,05/29/2016,12:28,1400 block Crucible St,Crafton Heights,6,17,M
+ARREST,16098908,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/29/2016,12:28,1400 block Crucible St,Crafton Heights,6,17,M
+ARREST,16098908,13(a)(16),Possession of Controlled Substance,05/29/2016,12:28,1400 block Crucible St,Crafton Heights,6,17,M
+OFFENSE 2.0,16098908,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/29/2016,12:28,1400 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16098908,13(a)(30),Possession w/ Intent to Del. Controlled Substance,05/29/2016,12:28,1400 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16098908,13(a)(16),Possession of Controlled Substance,05/29/2016,12:28,1400 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16098953,9999,9999 - (Misc. Incident): Neighbor dispute,05/29/2016,14:05,1200 block Mutual St,Sheraden,6,,
+OFFENSE 2.0,16098999,9501,Bench Warrant,05/29/2016,15:35,Sebring Ave & Fallowfield Ave,Beechview,6,,
+ARREST,16098999,9501,Bench Warrant,05/29/2016,15:40,Sebring Ave & Fallowfield Ave,Beechview,6,36,M
+ARREST,16099167,5505,Public Drunkenness,05/29/2016,20:45,1200 block Lakewood St,Elliott,6,28,M
+ARREST,16099167,2701,Simple Assault.,05/29/2016,20:45,1200 block Lakewood St,Elliott,6,28,M
+OFFENSE 2.0,16099167,2701,Simple Assault.,05/29/2016,20:45,1200 block Lakewood St,Elliott,6,,
+OFFENSE 2.0,16099167,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/29/2016,20:45,1200 block Lakewood St,Elliott,6,,
+OFFENSE 2.0,16099167,5505,Public Drunkenness,05/29/2016,20:45,1200 block Lakewood St,Elliott,6,,
+ARREST,16099167,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/29/2016,20:45,1200 block Lakewood St,Elliott,6,28,M
