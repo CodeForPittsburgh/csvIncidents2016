@@ -1,0 +1,186 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+ARREST,16108270,5121,Escape.,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,19,M
+ARREST,16108270,5101,Obstructing Admin. of Law ,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,19,M
+ARREST,16108270,3736,Reckless Driving,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,19,M
+ARREST,16108270,1501,Drivers Required to be Licensed.,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,19,M
+OFFENSE 2.0,16108270,5121,Escape.,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16108270,4906,False Reports to Law Enforcement Authorities.,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16108270,5101,Obstructing Admin. of Law ,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,,
+ARREST,16108270,4906,False Reports to Law Enforcement Authorities.,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,19,F
+OFFENSE 2.0,16108270,1501,Drivers Required to be Licensed.,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16108270,3736,Reckless Driving,06/12/2016,00:09,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16108309,9123,Miscellaneous Fire Other Investigation to Continue,06/12/2016,00:58,100 block Rhine Pl,Spring Hill-City View,1,,
+ARREST,16108348,13(a)(16),Possession of Controlled Substance,06/12/2016,01:44,Middle St & Foreland St,East Allegheny,1,33,M
+OFFENSE 2.0,16108348,13(a)(32),Paraphernalia - Use or Possession,06/12/2016,01:44,Middle St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,16108348,13(a)(16),Possession of Controlled Substance,06/12/2016,01:44,Middle St & Foreland St,East Allegheny,1,,
+ARREST,16108348,13(a)(32),Paraphernalia - Use or Possession,06/12/2016,01:44,Middle St & Foreland St,East Allegheny,1,33,M
+OFFENSE 2.0,16108357,2702,Aggravated Assault.,06/12/2016,01:56,River Ave & Madison Ave,North Shore,1,,
+OFFENSE 2.0,16108357,13(a)(31),Marijuana: Possession Small Amount,06/12/2016,01:56,River Ave & Madison Ave,North Shore,1,,
+OFFENSE 2.0,16108376,3701,Robbery.,06/12/2016,02:24,3100 block Staho Way,Marshall-Shadeland,1,,
+ARREST,16108357,2702,Aggravated Assault.,06/12/2016,02:33,River Ave & Madison Ave,North Shore,1,29,F
+ARREST,16108357,13(a)(31),Marijuana: Possession Small Amount,06/12/2016,02:33,River Ave & Madison Ave,North Shore,1,29,F
+ARREST,16108411,2701,Simple Assault.,06/12/2016,03:40,2600 block Shadeland Ave,Knoxville,1,33,M
+ARREST,16108411,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,06/12/2016,03:40,2600 block Shadeland Ave,Knoxville,1,33,M
+OFFENSE 2.0,16108411,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,06/12/2016,03:40,2600 block Shadeland Ave,Knoxville,1,,
+OFFENSE 2.0,16108411,2701,Simple Assault.,06/12/2016,03:40,2600 block Shadeland Ave,Knoxville,1,,
+OFFENSE 2.0,16108456,3934,Theft from Vehicle,06/12/2016,06:45,1500 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16108460,029,Missing Juvenile,06/12/2016,07:02,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16108470,3304,Criminal Mischief.,06/12/2016,07:30,1100 block Davis Ave,Brighton Heights,1,,
+OFFENSE 2.0,16108489,3934,Theft from Vehicle,06/12/2016,07:30,1100 block Davis Ave,Brighton Heights,1,,
+OFFENSE 2.0,16108496,3934,Theft from Vehicle,06/12/2016,08:30,1200 block Pemberton St,Brighton Heights,1,,
+ARREST,16108511,13(a)(16),Possession of Controlled Substance,06/12/2016,09:53,Evergreen Rd & Ivory Ave,Summer Hill,1,30,M
+OFFENSE 2.0,16108511,3743,Accidents Involving Damage to Attended Veh. or Property,06/12/2016,09:53,Evergreen Rd & Ivory Ave,Summer Hill,1,,
+OFFENSE 2.0,16108511,3736,Reckless Driving,06/12/2016,09:53,Evergreen Rd & Ivory Ave,Summer Hill,1,,
+OFFENSE 2.0,16108511,1543,Driving While Operating Privilege is Suspended or Revoked.,06/12/2016,09:53,Evergreen Rd & Ivory Ave,Summer Hill,1,,
+OFFENSE 2.0,16108511,13(a)(16),Possession of Controlled Substance,06/12/2016,09:53,Evergreen Rd & Ivory Ave,Summer Hill,1,,
+ARREST,16108511,1543,Driving While Operating Privilege is Suspended or Revoked.,06/12/2016,09:53,Evergreen Rd & Ivory Ave,Summer Hill,1,30,M
+ARREST,16108511,3743,Accidents Involving Damage to Attended Veh. or Property,06/12/2016,09:53,Evergreen Rd & Ivory Ave,Summer Hill,1,30,M
+ARREST,16108511,3736,Reckless Driving,06/12/2016,09:53,Evergreen Rd & Ivory Ave,Summer Hill,1,30,M
+OFFENSE 2.0,16108552,9488,False  Burglar Alarm,06/12/2016,11:06,500 block W Burgess St,Perry South,1,,
+OFFENSE 2.0,16108566,9488,False  Burglar Alarm,06/12/2016,11:38,Heinz St,East Allegheny,1,,
+OFFENSE 2.0,16108715,9497,Aided Case,06/12/2016,16:20,3200 block Central Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16108827,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,06/12/2016,20:05,Manhattan St & Page St,Manchester,1,,
+OFFENSE 2.0,16108827,3921,Theft by Unlawful Taking or Disposition.,06/12/2016,20:05,Manhattan St & Page St,Manchester,1,,
+OFFENSE 2.0,16108479,3743,Accidents Involving Damage to Attended Veh. or Property,06/12/2016,01:00,40th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16108523,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/12/2016,10:10,2300 block Rail Road St,Bluff,2,,
+ARREST,16099576,2701,Simple Assault.,06/12/2016,10:34,700 block Mercer St,Crawford-Roberts,2,39,F
+OFFENSE 2.0,16108531,2904,Interference with Custody of Children.,06/12/2016,10:36,500 block Mount Pleasant Rd,Northview Heights,2,,
+OFFENSE 2.0,16108592,13(a)(32),Paraphernalia - Use or Possession,06/12/2016,12:21,300 block Urbana Way,Central Lawrenceville,2,,
+OFFENSE 2.0,16108592,3925,Receiving Stolen Property.,06/12/2016,12:21,300 block Urbana Way,Central Lawrenceville,2,,
+OFFENSE 2.0,16108592,13(a)(16),Possession of Controlled Substance,06/12/2016,12:21,300 block Urbana Way,Central Lawrenceville,2,,
+OFFENSE 2.0,16108592,3921,Theft by Unlawful Taking or Disposition.,06/12/2016,12:21,300 block Urbana Way,Central Lawrenceville,2,,
+OFFENSE 2.0,16108593,4106,Access Device Fraud,06/12/2016,12:30,100 block 6th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16108593,3921,Theft by Unlawful Taking or Disposition.,06/12/2016,12:30,100 block 6th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16108608,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,06/12/2016,13:15,300 block Grant St,Golden Triangle/Civic Arena,2,,
+ARREST,16108592,13(a)(32),Paraphernalia - Use or Possession,06/12/2016,14:24,300 block Urbana Way,Central Lawrenceville,2,62,M
+ARREST,16108592,13(a)(16),Possession of Controlled Substance,06/12/2016,14:24,300 block Urbana Way,Central Lawrenceville,2,62,M
+ARREST,16108592,3925,Receiving Stolen Property.,06/12/2016,14:24,300 block Urbana Way,Central Lawrenceville,2,62,M
+OFFENSE 2.0,16108892,9496,Dead on Arrival (DOA),06/12/2016,22:08,700 block Bryn Mawr Rd,Upper Hill,2,,
+OFFENSE 2.0,16108907,9501,Bench Warrant,06/12/2016,22:22,Wood St & Liberty Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16108907,9501,Bench Warrant,06/12/2016,22:25,Wood St & Liberty Ave,Golden Triangle/Civic Arena,2,30,F
+ARREST,16108928,9093,Indirect Criminal Contempt,06/12/2016,23:29,Elmore St,Middle Hill,2,30,M
+OFFENSE 2.0,16108928,9093,Indirect Criminal Contempt,06/12/2016,23:36,Elmore St,Middle Hill,2,,
+ARREST,16108335,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/12/2016,01:30,1500 block E Carson St,South Side Flats,3,23,M
+OFFENSE 2.0,16108335,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/12/2016,01:30,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16108373,3701,Robbery.,06/12/2016,02:17,900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16108373,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,06/12/2016,02:17,900 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16108386,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/12/2016,02:38,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16108387,5121,Escape.,06/12/2016,02:50,100 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16108387,903,Criminal Conspiracy.,06/12/2016,02:50,100 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16108387,4914,False Identification to Law Enforcement Authorities,06/12/2016,02:50,100 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16108387,3304,Criminal Mischief.,06/12/2016,02:50,100 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16108387,3701,Robbery.,06/12/2016,02:50,100 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16108387,3925,Receiving Stolen Property.,06/12/2016,02:50,100 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16108387,5104,Resisting Arrest or Other Law Enforcement.,06/12/2016,02:50,100 block Southern Ave,Mount Washington,3,,
+ARREST,16108387,3701,Robbery.,06/12/2016,03:11,100 block Southern Ave,Mount Washington,3,21,M
+ARREST,16108387,3925,Receiving Stolen Property.,06/12/2016,03:11,100 block Southern Ave,Mount Washington,3,21,M
+ARREST,16108387,5121,Escape.,06/12/2016,03:11,100 block Southern Ave,Mount Washington,3,21,M
+ARREST,16108387,903,Criminal Conspiracy.,06/12/2016,03:11,100 block Southern Ave,Mount Washington,3,21,M
+ARREST,16108387,903,Criminal Conspiracy.,06/12/2016,03:18,100 block Southern Ave,Mount Washington,3,26,M
+ARREST,16108387,5104,Resisting Arrest or Other Law Enforcement.,06/12/2016,03:18,100 block Southern Ave,Mount Washington,3,26,M
+ARREST,16108387,5121,Escape.,06/12/2016,03:18,100 block Southern Ave,Mount Washington,3,26,M
+ARREST,16108387,4914,False Identification to Law Enforcement Authorities,06/12/2016,03:18,100 block Southern Ave,Mount Washington,3,26,M
+ARREST,16108387,3925,Receiving Stolen Property.,06/12/2016,03:18,100 block Southern Ave,Mount Washington,3,26,M
+ARREST,16108387,3701,Robbery.,06/12/2016,03:18,100 block Southern Ave,Mount Washington,3,26,M
+OFFENSE 2.0,16108412,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/12/2016,03:35,1800 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16108412,2702,Aggravated Assault.,06/12/2016,03:35,1800 block E Carson St,South Side Flats,3,,
+ARREST,16108412,2702,Aggravated Assault.,06/12/2016,03:50,1800 block E Carson St,South Side Flats,3,25,M
+ARREST,16108412,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/12/2016,03:50,1800 block E Carson St,South Side Flats,3,27,M
+OFFENSE 2.0,16108425,9018,Accidental Fire,06/12/2016,04:11,300 block Parallel Ave,Carrick,3,,
+OFFENSE 2.0,16108794,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/12/2016,05:09,1800 block S 18th St,South Side Slopes,3,,
+OFFENSE 2.0,16108494,901,Criminal Attempt,06/12/2016,08:30,2100 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16108509,3304,Criminal Mischief.,06/12/2016,09:00,1800 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16108514,3921,Theft by Unlawful Taking or Disposition.,06/12/2016,10:00,2500 block Jane St,South Side Flats,3,,
+ARREST,16101538,2701,Simple Assault.,06/12/2016,10:40,1800 block Larkins Way,South Side Flats,3,23,M
+ARREST,16101538,3701,Robbery.,06/12/2016,10:40,1800 block Larkins Way,South Side Flats,3,23,M
+OFFENSE 2.0,16108564,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/12/2016,11:00,100 block S 15th St,South Side Flats,3,,
+OFFENSE 2.0,16108667,3934,Theft from Vehicle,06/12/2016,14:41,W Sycamore St & Pitcher Way,Duquesne Heights,3,,
+OFFENSE 2.0,16108719,4914,False Identification to Law Enforcement Authorities,06/12/2016,16:24,Beltzhoover Ave,Allentown,3,,
+ARREST,16108719,4914,False Identification to Law Enforcement Authorities,06/12/2016,16:50,Beltzhoover Ave,Allentown,3,,M
+OFFENSE 2.0,16108823,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/12/2016,20:05,100 block Romeyn Way,Knoxville,3,,
+OFFENSE 2.0,16108341,9999,9999 - (Misc. Incident): ,06/12/2016,01:36,N Bellefield Ave & Bayard St,North Oakland,4,,
+OFFENSE 2.0,16108413,9496,Dead on Arrival (DOA),06/12/2016,03:36,1400 block Bennington Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16108491,9999,9999 - (Misc. Incident): Found bones.,06/12/2016,08:40,1000 block Technology Center Dr,South Oakland,4,,
+OFFENSE 2.0,16108513,3921,Theft by Unlawful Taking or Disposition.,06/12/2016,09:10,1200 block Murdoch Rd,Squirrel Hill North,4,,
+OFFENSE 2.0,16108549,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/12/2016,10:30,6800 block Reynolds St,Point Breeze,4,,
+OFFENSE 2.0,16108549,3503,Criminal Trespass,06/12/2016,10:30,6800 block Reynolds St,Point Breeze,4,,
+OFFENSE 2.0,16108577,9498,302 (Mental),06/12/2016,12:30,3200 block Shady Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16108710,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/12/2016,15:00,300 block N Murtland St,Point Breeze North,4,,
+OFFENSE 2.0,16108721,9999,9999 - (Misc. Incident): Non-reportable Crash,06/12/2016,16:30,Northumberland St & Murray Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16108852,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/12/2016,19:57,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16108852,3929,Retail Theft.,06/12/2016,19:57,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16108868,3743,Accidents Involving Damage to Attended Veh. or Property,06/12/2016,21:00,S Negley Ave & Dunmoyle St,Squirrel Hill North,4,,
+OFFENSE 2.0,16108879,3929,Retail Theft.,06/12/2016,21:23,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16108333,2701,Simple Assault.,06/12/2016,00:45,2200 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,16108438,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,06/12/2016,04:58,8600 block Bricelyn St,East Hills,5,,
+OFFENSE 2.0,16108452,901,Criminal Attempt,06/12/2016,06:19,Frankstown Ave & Brushton Ave,Homewood North,5,,
+OFFENSE 2.0,16108452,2702,Aggravated Assault.,06/12/2016,06:19,Frankstown Ave & Brushton Ave,Homewood North,5,,
+OFFENSE 2.0,16108467,1543,Driving While Operating Privilege is Suspended or Revoked.,06/12/2016,07:17,Edmond St & Penn Ave,Bloomfield,5,,
+OFFENSE 2.0,16108467,3802(a)(1),DUI - General Impairment,06/12/2016,07:17,Edmond St & Penn Ave,Bloomfield,5,,
+ARREST,16108467,3802(a)(1),DUI - General Impairment,06/12/2016,07:40,Edmond St & Penn Ave,Bloomfield,5,38,M
+ARREST,16108467,1543,Driving While Operating Privilege is Suspended or Revoked.,06/12/2016,07:40,Edmond St & Penn Ave,Bloomfield,5,38,M
+OFFENSE 2.0,16108476,9999,9999 - (Misc. Incident): ,06/12/2016,08:30,4600 block Penn Ave,Bloomfield,5,,
+OFFENSE 2.0,16108524,2709(a)(2),Harassment by Following Person in Public Place(s),06/12/2016,10:00,5500 block Hays St,East Liberty,5,,
+OFFENSE 2.0,16108524,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),06/12/2016,10:00,5500 block Hays St,East Liberty,5,,
+OFFENSE 2.0,16108559,9999,9999 - (Misc. Incident): Entering Vehicle,06/12/2016,11:15,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,16108572,4524,Windshield Obstructions and Wipers.,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,9501,Bench Warrant,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,5503,Disorderly Conduct.,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,5104,Resisting Arrest or Other Law Enforcement.,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,4914,False Identification to Law Enforcement Authorities,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,4706,Prohib. on Expend. for Emission Insp Prog..,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,4523,Exhaust Systems  Mufflers and Noise Control.,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,4107(b)(2),Vehicle Equipment Standards,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,2702,Aggravated Assault.,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,13(a)(30),Possession w/ Intent to Del. Controlled Substance,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,16108572,13(a)(16),Possession of Controlled Substance,06/12/2016,11:48,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+ARREST,16108572,4107(b)(2),Vehicle Equipment Standards,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,4914,False Identification to Law Enforcement Authorities,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,4523,Exhaust Systems  Mufflers and Noise Control.,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,13(a)(16),Possession of Controlled Substance,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,13(a)(30),Possession w/ Intent to Del. Controlled Substance,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,2702,Aggravated Assault.,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,4706,Prohib. on Expend. for Emission Insp Prog..,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,9501,Bench Warrant,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,5503,Disorderly Conduct.,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,4524,Windshield Obstructions and Wipers.,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16108572,5104,Resisting Arrest or Other Law Enforcement.,06/12/2016,12:15,Washington Blvd & Allegheny River Blvd,Highland Park,5,37,M
+ARREST,16105978,2701(a)(3),Simple Assault - Attempts by Physical Menace ,06/12/2016,12:55,400 block Enright Ct,East Liberty,5,38,F
+OFFENSE 2.0,16108666,3304,Criminal Mischief.,06/12/2016,13:45,1200 block Ferris Ct,Homewood North,5,,
+OFFENSE 2.0,16108741,2709,Harassment (Non-Specific),06/12/2016,17:15,East Liberty Blvd & N Euclid Ave,East Liberty,5,,
+OFFENSE 2.0,16108927,3743,Accidents Involving Damage to Attended Veh. or Property,06/12/2016,23:17,7700 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,16108927,6106,Firearms not to be Carried without a License.,06/12/2016,23:17,7700 block Hamilton Ave,Homewood South,5,,
+ARREST,16108927,6106,Firearms not to be Carried without a License.,06/12/2016,23:45,7700 block Hamilton Ave,Homewood South,5,21,M
+ARREST,16108927,3743,Accidents Involving Damage to Attended Veh. or Property,06/12/2016,23:45,7700 block Hamilton Ave,Homewood South,5,21,M
+OFFENSE 2.0,16108298,3502,Burglary.,06/12/2016,00:10,3100 block Landis St,Sheraden,6,,
+OFFENSE 2.0,16108417,3929,Retail Theft.,06/12/2016,03:40,3100 block Banksville Rd,Banksville,6,,
+OFFENSE 2.0,16108442,2709,Harassment (Non-Specific),06/12/2016,04:05,300 block Oakville Dr,Banksville,6,,
+OFFENSE 2.0,16108442,3304,Criminal Mischief.,06/12/2016,04:05,300 block Oakville Dr,Banksville,6,,
+OFFENSE 2.0,16108439,2701,Simple Assault.,06/12/2016,04:30,100 block Clairtonica St,Crafton Heights,6,,
+ARREST,16108439,2701,Simple Assault.,06/12/2016,05:15,100 block Clairtonica St,Crafton Heights,6,21,F
+OFFENSE 2.0,16108462,3502,Burglary.,06/12/2016,06:40,1500 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,16108478,3304,Criminal Mischief.,06/12/2016,08:00,300 block Oakville Dr,Banksville,6,,
+OFFENSE 2.0,16108515,9999,9999 - (Misc. Incident): ,06/12/2016,08:00,2900 block Sheraden Blvd,Sheraden,6,,
+OFFENSE 2.0,16108477,5503,Disorderly Conduct.,06/12/2016,08:30,3700 block Allendale Cir,Sheraden,6,,
+OFFENSE 2.0,16108477,13(a)(32),Paraphernalia - Use or Possession,06/12/2016,08:30,3700 block Allendale Cir,Sheraden,6,,
+OFFENSE 2.0,16108477,13(a)(31),Marijuana: Possession Small Amount,06/12/2016,08:30,3700 block Allendale Cir,Sheraden,6,,
+ARREST,16108477,5503,Disorderly Conduct.,06/12/2016,10:00,3700 block Allendale Cir,Sheraden,6,23,M
+ARREST,16108477,13(a)(32),Paraphernalia - Use or Possession,06/12/2016,10:00,3700 block Allendale Cir,Sheraden,6,23,M
+ARREST,16108477,13(a)(31),Marijuana: Possession Small Amount,06/12/2016,10:00,3700 block Allendale Cir,Sheraden,6,23,M
+OFFENSE 2.0,16108537,2709(a)(6),Harassment Communicates Repeatedly at Extreme Hours,06/12/2016,10:11,1300 block Woodbourne Ave,Brookline,6,,
+OFFENSE 2.0,16108520,9497,Aided Case,06/12/2016,10:45,1200 block Bellaire Pl,Brookline,6,,
+OFFENSE 2.0,16108574,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/12/2016,11:00,1600 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16108568,3503,Criminal Trespass,06/12/2016,11:39,400 block Tabor St,Esplen,6,,
+OFFENSE 2.0,16108600,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/12/2016,11:53,2600 block Pioneer Ave,Brookline,6,,
+ARREST,16108600,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/12/2016,11:53,2600 block Pioneer Ave,Brookline,6,20,M
+ARREST,16108600,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/12/2016,11:53,2600 block Pioneer Ave,Brookline,6,37,M
+OFFENSE 2.0,16108620,2701,Simple Assault.,06/12/2016,13:30,1700 block Broadway Ave,Beechview,6,,
+OFFENSE 2.0,16108620,2902,Unlawful Restraint.,06/12/2016,13:30,1700 block Broadway Ave,Beechview,6,,
+ARREST,16108620,2701,Simple Assault.,06/12/2016,13:45,1700 block Broadway Ave,Beechview,6,24,M
+ARREST,16108620,2902,Unlawful Restraint.,06/12/2016,13:45,1700 block Broadway Ave,Beechview,6,24,M
+OFFENSE 2.0,16108834,9999,9999 - (Misc. Incident): Non reportable accident.,06/12/2016,20:34,1800 block Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,16108871,3921,Theft by Unlawful Taking or Disposition.,06/12/2016,21:00,1200 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,16108862,3921,Theft by Unlawful Taking or Disposition.,06/12/2016,21:30,3100 block Sacramento Ave,Sheraden,6,,
+OFFENSE 2.0,16108883,3921,Theft by Unlawful Taking or Disposition.,06/12/2016,21:54,2300 block Palm Beach Ave,Beechview,6,,
+OFFENSE 2.0,16108883,4106,Access Device Fraud,06/12/2016,21:54,2300 block Palm Beach Ave,Beechview,6,,
+OFFENSE 2.0,16108902,9999,9999 - (Misc. Incident): ,06/12/2016,23:02,2700 block Banksville Ave,Banksville,6,,
