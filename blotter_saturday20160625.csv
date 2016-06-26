@@ -1,0 +1,228 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16117625,3802(a)(1),DUI - General Impairment,06/25/2016,03:04,1200 block Brighton Rd,Central Northside,1,,
+OFFENSE 2.0,16117625,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,06/25/2016,03:04,1200 block Brighton Rd,Central Northside,1,,
+OFFENSE 2.0,16117625,9501,Bench Warrant,06/25/2016,03:04,1200 block Brighton Rd,Central Northside,1,,
+ARREST,16117625,3802(a)(1),DUI - General Impairment,06/25/2016,03:45,1200 block Brighton Rd,Central Northside,1,57,M
+ARREST,16117625,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,06/25/2016,03:45,1200 block Brighton Rd,Central Northside,1,57,M
+ARREST,16117625,9501,Bench Warrant,06/25/2016,03:45,1200 block Brighton Rd,Central Northside,1,57,M
+OFFENSE 2.0,16117658,5505,Public Drunkenness,06/25/2016,05:17,300 block N Shore Dr,North Shore,1,,
+ARREST,16117658,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,06/25/2016,05:17,300 block N Shore Dr,North Shore,1,14,M
+ARREST,16117658,5505,Public Drunkenness,06/25/2016,05:17,300 block N Shore Dr,North Shore,1,14,M
+ARREST,16117658,13(a)(31),Marijuana: Possession Small Amount,06/25/2016,05:17,300 block N Shore Dr,North Shore,1,14,M
+OFFENSE 2.0,16117658,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,06/25/2016,05:17,300 block N Shore Dr,North Shore,1,,
+OFFENSE 2.0,16117658,13(a)(31),Marijuana: Possession Small Amount,06/25/2016,05:17,300 block N Shore Dr,North Shore,1,,
+ARREST,16099247,9501,Bench Warrant,06/25/2016,06:39,3100 block Frederick St,Marshall-Shadeland,1,57,M
+OFFENSE 2.0,16117688,3304,Criminal Mischief.,06/25/2016,07:26,300 block Penfort St,Northview Heights,1,,
+OFFENSE 2.0,16117688,3503,Criminal Trespass,06/25/2016,07:26,300 block Penfort St,Northview Heights,1,,
+OFFENSE 2.0,16117688,2701,Simple Assault.,06/25/2016,07:26,300 block Penfort St,Northview Heights,1,,
+OFFENSE 2.0,16117688,2709(a),Harassment.,06/25/2016,07:26,300 block Penfort St,Northview Heights,1,,
+OFFENSE 2.0,16117733,3929,Retail Theft.,06/25/2016,09:30,3200 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,16117740,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,06/25/2016,10:08,Mitchell St,Marshall-Shadeland,1,,
+ARREST,16117740,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,06/25/2016,10:15,Mitchell St,Marshall-Shadeland,1,48,M
+ARREST,16117740,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,06/25/2016,10:15,Mitchell St,Marshall-Shadeland,1,25,M
+OFFENSE 2.0,16117896,9488,False  Burglar Alarm,06/25/2016,15:28,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16117894,3714,Careless Driving,06/25/2016,15:41,3400 block Shadeland Ave,Brighton Heights,1,,
+ARREST,16117894,5511,Cruelty to Animals.,06/25/2016,15:41,3400 block Shadeland Ave,Brighton Heights,1,48,M
+ARREST,16117894,3802(a)(1),DUI - General Impairment,06/25/2016,15:41,3400 block Shadeland Ave,Brighton Heights,1,48,M
+OFFENSE 2.0,16117894,3323,Stop Signs and Yield Signs.,06/25/2016,15:41,3400 block Shadeland Ave,Brighton Heights,1,,
+OFFENSE 2.0,16117894,3802(a)(1),DUI - General Impairment,06/25/2016,15:41,3400 block Shadeland Ave,Brighton Heights,1,,
+OFFENSE 2.0,16117894,5511,Cruelty to Animals.,06/25/2016,15:41,3400 block Shadeland Ave,Brighton Heights,1,,
+ARREST,16117894,3323,Stop Signs and Yield Signs.,06/25/2016,15:41,3400 block Shadeland Ave,Brighton Heights,1,48,M
+ARREST,16117894,3714,Careless Driving,06/25/2016,15:41,3400 block Shadeland Ave,Brighton Heights,1,48,M
+OFFENSE 2.0,16117958,2709,Harassment (Non-Specific),06/25/2016,16:30,East St & Venture,Perry North,1,,
+ARREST,16116018,13(a)(16),Possession of Controlled Substance,06/25/2016,19:00,E North Ave & Sandusky St N,Central Northside,1,25,M
+ARREST,16112281,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,19:00,1000 block Western Ave,Manchester,1,40,M
+ARREST,16117541,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/25/2016,00:45,2200 block Bentley Dr,Terrace Village,2,36,M
+OFFENSE 2.0,16117541,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,06/25/2016,00:45,2200 block Bentley Dr,Terrace Village,2,,
+OFFENSE 2.0,16117541,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/25/2016,00:45,2200 block Bentley Dr,Terrace Village,2,,
+ARREST,16117541,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,06/25/2016,00:45,2200 block Bentley Dr,Terrace Village,2,36,M
+OFFENSE 2.0,16117540,9090,Recovered Firearm,06/25/2016,01:20,11th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16117602,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,06/25/2016,02:18,900 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16117602,2709(a),Harassment.,06/25/2016,02:18,900 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16117602,2701,Simple Assault.,06/25/2016,02:18,900 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16117074,9490,Missing Persons (18 and Over),06/25/2016,03:50,500 block 52nd St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16117650,9497,Aided Case,06/25/2016,03:56,1400 block 5th Ave,Bluff,2,,
+ARREST,16117711,3503,Criminal Trespass,06/25/2016,09:46,1400 block Locust St,Bluff,2,46,M
+ARREST,16117711,9501,Bench Warrant,06/25/2016,09:46,1400 block Locust St,Bluff,2,46,M
+ARREST,16117711,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,09:46,1400 block Locust St,Bluff,2,46,M
+ARREST,16117711,4106,Access Device Fraud,06/25/2016,09:46,1400 block Locust St,Bluff,2,46,M
+OFFENSE 2.0,16117711,4106,Access Device Fraud,06/25/2016,10:00,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16117711,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,10:00,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16117711,3503,Criminal Trespass,06/25/2016,10:00,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16117711,9501,Bench Warrant,06/25/2016,10:00,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16117848,3934,Theft from Vehicle,06/25/2016,11:30,Carnegie St & Stanton Ave,Upper Lawrenceville,2,,
+OFFENSE 2.0,16117862,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,13:50,700 block Anaheim St,Upper Hill,2,,
+OFFENSE 2.0,16117974,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,06/25/2016,16:00,100 block Washington Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16117928,029,Missing Juvenile,06/25/2016,16:00,2000 block Centre Ave,Middle Hill,2,,
+OFFENSE 2.0,16117941,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/25/2016,16:15,3600 block Denny St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16117936,4101,Forgery.,06/25/2016,16:25,600 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16118003,2701,Simple Assault.,06/25/2016,18:30,2nd Ave & Ross St,Golden Triangle/Civic Arena,2,,
+ARREST,16118003,2701,Simple Assault.,06/25/2016,18:32,2nd Ave & Ross St,Golden Triangle/Civic Arena,2,41,F
+OFFENSE 2.0,16118030,1543,Driving While Operating Privilege is Suspended or Revoked.,06/25/2016,18:53,5th Ave & Van Braam St,Bluff,2,,
+OFFENSE 2.0,16118030,1301,Registration and Certificate of Title Required.,06/25/2016,18:53,5th Ave & Van Braam St,Bluff,2,,
+OFFENSE 2.0,16118030,13(a)(16),Possession of Controlled Substance,06/25/2016,18:53,5th Ave & Van Braam St,Bluff,2,,
+ARREST,16118030,1301,Registration and Certificate of Title Required.,06/25/2016,18:55,5th Ave & Van Braam St,Bluff,2,59,M
+ARREST,16118030,1543,Driving While Operating Privilege is Suspended or Revoked.,06/25/2016,18:55,5th Ave & Van Braam St,Bluff,2,59,M
+ARREST,16118030,13(a)(16),Possession of Controlled Substance,06/25/2016,18:55,5th Ave & Van Braam St,Bluff,2,59,M
+OFFENSE 2.0,16118035,9999,9999 - (Misc. Incident): Vehicle hit by rocks,06/25/2016,19:00,Bigelow Blvd & 6th Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16118068,3323,Stop Signs and Yield Signs.,06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+ARREST,16118068,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+ARREST,16118068,6106,Firearms not to be Carried without a License.,06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+ARREST,16118068,9501,Bench Warrant,06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+ARREST,16118068,4303,General Lighting Requirements.,06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+ARREST,16118068,4914,False Identification to Law Enforcement Authorities,06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+ARREST,16118068,3809(a),Restriction on Alcoholic Beverages in Vehicle,06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+ARREST,16118068,3925,Receiving Stolen Property.,06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+ARREST,16118068,1543,Driving While Operating Privilege is Suspended or Revoked.,06/25/2016,19:55,Cliff St & Cassatt St,Crawford-Roberts,2,29,M
+OFFENSE 2.0,16118105,9489,Found Property,06/25/2016,20:15,400 block Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16118068,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16118068,6106,Firearms not to be Carried without a License.,06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16118068,9501,Bench Warrant,06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16118068,3323,Stop Signs and Yield Signs.,06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16118068,4303,General Lighting Requirements.,06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16118068,3925,Receiving Stolen Property.,06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16118068,3809(a),Restriction on Alcoholic Beverages in Vehicle,06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16118068,4914,False Identification to Law Enforcement Authorities,06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16118068,1543,Driving While Operating Privilege is Suspended or Revoked.,06/25/2016,20:20,Cliff St & Cassatt St,Crawford-Roberts,2,,
+OFFENSE 2.0,16117523,2709(a),Harassment.,06/25/2016,00:20,100 block Orchard Pl,Knoxville,3,,
+OFFENSE 2.0,16117537,3736,Reckless Driving,06/25/2016,00:34,800 block Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,16117537,3802(a)(1),DUI - General Impairment,06/25/2016,00:34,800 block Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,16117537,9501,Bench Warrant,06/25/2016,00:34,800 block Boggs Ave,Mount Washington,3,,
+ARREST,16117537,3802(a)(1),DUI - General Impairment,06/25/2016,00:50,800 block Boggs Ave,Mount Washington,3,26,M
+ARREST,16117537,9501,Bench Warrant,06/25/2016,00:50,800 block Boggs Ave,Mount Washington,3,26,M
+ARREST,16117537,3736,Reckless Driving,06/25/2016,00:50,800 block Boggs Ave,Mount Washington,3,26,M
+OFFENSE 2.0,16117614,2702,Aggravated Assault.,06/25/2016,02:38,Arlington Ave & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16117614,3802(a)(1),DUI - General Impairment,06/25/2016,02:38,Arlington Ave & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16117614,3742,Accidents Involving Death or Personal Injury,06/25/2016,02:38,Arlington Ave & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16117614,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,06/25/2016,02:38,Arlington Ave & E Warrington Ave,Allentown,3,,
+ARREST,16117614,3802(a)(1),DUI - General Impairment,06/25/2016,02:42,Arlington Ave & E Warrington Ave,Allentown,3,22,M
+ARREST,16117614,3742,Accidents Involving Death or Personal Injury,06/25/2016,02:42,Arlington Ave & E Warrington Ave,Allentown,3,22,M
+ARREST,16117614,2702,Aggravated Assault.,06/25/2016,02:42,Arlington Ave & E Warrington Ave,Allentown,3,22,M
+ARREST,16117614,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,06/25/2016,02:42,Arlington Ave & E Warrington Ave,Allentown,3,22,M
+OFFENSE 2.0,16117617,2701,Simple Assault.,06/25/2016,02:49,300 block Taft Ave,Beltzhoover,3,,
+OFFENSE 2.0,16117617,2706,Terroristic Threats.,06/25/2016,02:49,300 block Taft Ave,Beltzhoover,3,,
+ARREST,16117617,2706,Terroristic Threats.,06/25/2016,03:36,300 block Taft Ave,Beltzhoover,3,18,M
+ARREST,16117617,2701,Simple Assault.,06/25/2016,03:36,300 block Taft Ave,Beltzhoover,3,18,M
+OFFENSE 2.0,16117652,3925,Receiving Stolen Property.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16117652,6106,Firearms not to be Carried without a License.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16117652,3701,Robbery.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16117652,3112,Traffic-Control Signals.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16117652,1543,Driving While Operating Privilege is Suspended or Revoked.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,16117652,3733,Fleeing or Attempting to Elude Police Officer,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,,
+ARREST,16117652,3925,Receiving Stolen Property.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,24,M
+ARREST,16117652,3733,Fleeing or Attempting to Elude Police Officer,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,24,M
+ARREST,16117652,3701,Robbery.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,24,M
+ARREST,16117652,3112,Traffic-Control Signals.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,24,M
+ARREST,16117652,1543,Driving While Operating Privilege is Suspended or Revoked.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,24,M
+ARREST,16117652,6106,Firearms not to be Carried without a License.,06/25/2016,04:11,Allen St & E Warrington Ave,Allentown,3,24,M
+OFFENSE 2.0,16117667,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,04:53,700 block Excelsior St,Allentown,3,,
+OFFENSE 2.0,16117667,903,Criminal Conspiracy.,06/25/2016,04:53,700 block Excelsior St,Allentown,3,,
+OFFENSE 2.0,16117667,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/25/2016,04:53,700 block Excelsior St,Allentown,3,,
+OFFENSE 2.0,16117667,3733,Fleeing or Attempting to Elude Police Officer,06/25/2016,04:53,700 block Excelsior St,Allentown,3,,
+OFFENSE 2.0,16117667,3502,Burglary.,06/25/2016,04:53,700 block Excelsior St,Allentown,3,,
+ARREST,16117667,3502,Burglary.,06/25/2016,05:03,700 block Excelsior St,Allentown,3,18,F
+ARREST,16117667,903,Criminal Conspiracy.,06/25/2016,05:03,700 block Excelsior St,Allentown,3,18,F
+ARREST,16117667,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,05:03,700 block Excelsior St,Allentown,3,18,F
+OFFENSE 2.0,16117685,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,07:00,Freeland St,Allentown,3,,
+OFFENSE 2.0,16117709,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/25/2016,08:00,100 block Amabell St,Mount Washington,3,,
+OFFENSE 2.0,16117736,2706,Terroristic Threats.,06/25/2016,09:27,S 14th St,South Side Flats,3,,
+OFFENSE 2.0,16117804,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/25/2016,11:00,Beltzhoover Ave,Allentown,3,,
+OFFENSE 2.0,16117900,3934,Theft from Vehicle,06/25/2016,12:15,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16117856,607.03,Discharging Firearm or Airgun,06/25/2016,13:41,300 block Clover St,Arlington,3,,
+OFFENSE 2.0,16117856,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/25/2016,13:41,300 block Clover St,Arlington,3,,
+OFFENSE 2.0,16117856,3925,Receiving Stolen Property.,06/25/2016,13:41,300 block Clover St,Arlington,3,,
+OFFENSE 2.0,16117856,2702,Aggravated Assault.,06/25/2016,13:41,300 block Clover St,Arlington,3,,
+OFFENSE 2.0,16117856,907,Possessing Instruments of Crime.,06/25/2016,13:41,300 block Clover St,Arlington,3,,
+OFFENSE 2.0,16117856,2705,Recklessly Endangering Another Person.,06/25/2016,13:41,300 block Clover St,Arlington,3,,
+ARREST,16117856,907,Possessing Instruments of Crime.,06/25/2016,15:37,300 block Clover St,Arlington,3,25,M
+ARREST,16117856,2702,Aggravated Assault.,06/25/2016,15:37,300 block Clover St,Arlington,3,25,M
+ARREST,16117856,2705,Recklessly Endangering Another Person.,06/25/2016,15:37,300 block Clover St,Arlington,3,25,M
+ARREST,16117856,3925,Receiving Stolen Property.,06/25/2016,15:37,300 block Clover St,Arlington,3,25,M
+ARREST,16117856,607.03,Discharging Firearm or Airgun,06/25/2016,15:37,300 block Clover St,Arlington,3,25,M
+ARREST,16117856,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/25/2016,15:37,300 block Clover St,Arlington,3,25,M
+ARREST,16117937,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,16:33,2100 block Sarah St,South Side Flats,3,50,M
+OFFENSE 2.0,16117937,5505,Public Drunkenness,06/25/2016,16:33,2100 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16117937,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,16:33,2100 block Sarah St,South Side Flats,3,,
+ARREST,16117937,5505,Public Drunkenness,06/25/2016,16:33,2100 block Sarah St,South Side Flats,3,50,M
+ARREST,15186705,4106,Access Device Fraud,06/25/2016,17:00,500 block Brownsville Rd,Knoxville,3,51,M
+ARREST,15186705,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,17:00,500 block Brownsville Rd,Knoxville,3,51,M
+OFFENSE 2.0,16117971,3742,Accidents Involving Death or Personal Injury,06/25/2016,17:05,Wyoming St & Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,16117991,9999,9999 - (Misc. Incident): ,06/25/2016,18:00,200 block Nobles Ln,Carrick,3,,
+OFFENSE 2.0,16118029,3743,Accidents Involving Damage to Attended Veh. or Property,06/25/2016,18:40,W Sycamore St & Maple Ter,Mount Washington,3,,
+ARREST,16099276,9015,Failure To Appear/Arrest on Attachment Order,06/25/2016,21:12,1500 block E Carson St,South Side Flats,3,55,M
+OFFENSE 2.0,16118176,2701,Simple Assault.,06/25/2016,23:53,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16118176,3304,Criminal Mischief.,06/25/2016,23:53,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16118176,3502,Burglary.,06/25/2016,23:53,100 block Bausman St,Knoxville,3,,
+ARREST,16118176,2701,Simple Assault.,06/25/2016,23:59,100 block Bausman St,Knoxville,3,44,F
+ARREST,16118176,3502,Burglary.,06/25/2016,23:59,100 block Bausman St,Knoxville,3,44,F
+ARREST,16118176,3304,Criminal Mischief.,06/25/2016,23:59,100 block Bausman St,Knoxville,3,44,F
+OFFENSE 2.0,16117568,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/25/2016,01:30,200 block Atwood St,Central Oakland,4,,
+ARREST,16117568,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/25/2016,01:30,200 block Atwood St,Central Oakland,4,21,M
+OFFENSE 2.0,16118157,5506,Loitering and Prowling at Night,06/25/2016,06:00,7000 block Thomas Blvd,Point Breeze North,4,,
+OFFENSE 2.0,16118157,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,06:00,7000 block Thomas Blvd,Point Breeze North,4,,
+OFFENSE 2.0,16117702,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,07:30,5400 block Northumberland St,Squirrel Hill North,4,,
+OFFENSE 2.0,16117720,2701,Simple Assault.,06/25/2016,08:56,200 block Renova St,Hazelwood,4,,
+ARREST,16117720,2701,Simple Assault.,06/25/2016,09:33,200 block Renova St,Hazelwood,4,36,F
+OFFENSE 2.0,16117772,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/25/2016,11:30,200 block Johnston Ave,Hazelwood,4,,
+OFFENSE 2.0,16117795,2701,Simple Assault.,06/25/2016,11:57,300 block Renova St,Hazelwood,4,,
+OFFENSE 2.0,16117844,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,06/25/2016,13:00,Oakland Sq,Central Oakland,4,,
+OFFENSE 2.0,16117889,5507,Obstructing Highways and Passages.,06/25/2016,15:30,Penn Ave & S Braddock Ave,Point Breeze,4,,
+ARREST,16117889,5507,Obstructing Highways and Passages.,06/25/2016,15:36,Penn Ave & S Braddock Ave,Point Breeze,4,52,M
+OFFENSE 2.0,16117909,903,Criminal Conspiracy.,06/25/2016,15:50,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16117909,3929,Retail Theft.,06/25/2016,15:50,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16117909,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,15:50,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16117910,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,06/25/2016,15:53,6300 block Shakespeare St,Shadyside,4,,
+ARREST,16117909,903,Criminal Conspiracy.,06/25/2016,16:20,200 block Atwood St,Central Oakland,4,33,M
+ARREST,16117909,9501,Bench Warrant,06/25/2016,16:20,200 block Atwood St,Central Oakland,4,33,M
+ARREST,16117909,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,16:20,200 block Atwood St,Central Oakland,4,33,M
+ARREST,16117909,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,16:25,200 block Atwood St,Central Oakland,4,27,M
+ARREST,16117909,3929,Retail Theft.,06/25/2016,16:25,200 block Atwood St,Central Oakland,4,27,M
+ARREST,16117909,903,Criminal Conspiracy.,06/25/2016,16:25,200 block Atwood St,Central Oakland,4,27,M
+ARREST,16117909,9501,Bench Warrant,06/25/2016,16:25,200 block Atwood St,Central Oakland,4,27,M
+OFFENSE 2.0,16118202,9489,Found Property,06/25/2016,20:30,Walnut St & Bellefonte St,Shadyside,4,,
+OFFENSE 2.0,16118098,3921,Theft by Unlawful Taking or Disposition.,06/25/2016,21:45,Shady Ave & 5th Ave,Shadyside,4,,
+OFFENSE 2.0,16118144,9093,Indirect Criminal Contempt,06/25/2016,22:15,200 block Renova St,Hazelwood,4,,
+ARREST,16118144,9093,Indirect Criminal Contempt,06/25/2016,22:30,200 block Renova St,Hazelwood,4,36,F
+OFFENSE 2.0,16117522,9094,Recovered Stolen Vehicle (OUTSIDE CITY),06/25/2016,00:14,100 block Schenley Manor Dr,Outside City,5,,
+OFFENSE 2.0,16117552,3304,Criminal Mischief.,06/25/2016,00:57,Frankstown Ave & Wilkinsburg Ave,East Hills,5,,
+OFFENSE 2.0,16117552,2702,Aggravated Assault.,06/25/2016,00:57,Frankstown Ave & Wilkinsburg Ave,East Hills,5,,
+ARREST,16117552,2702,Aggravated Assault.,06/25/2016,01:10,Frankstown Ave & Wilkinsburg Ave,East Hills,5,25,F
+ARREST,16117552,3304,Criminal Mischief.,06/25/2016,01:10,Frankstown Ave & Wilkinsburg Ave,East Hills,5,25,F
+OFFENSE 2.0,16117627,3502,Burglary.,06/25/2016,03:00,6500 block Llewellyn Pl,Larimer,5,,
+OFFENSE 2.0,16117788,2705,Recklessly Endangering Another Person.,06/25/2016,11:50,1000 block Brushton Ave,Homewood North,5,,
+OFFENSE 2.0,16117788,4304(a)(1),Endangering Welfare of Children.,06/25/2016,11:50,1000 block Brushton Ave,Homewood North,5,,
+OFFENSE 2.0,16117788,2701,Simple Assault.,06/25/2016,11:50,1000 block Brushton Ave,Homewood North,5,,
+OFFENSE 2.0,16117794,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,06/25/2016,12:00,Frankstown Ave & N Homewood Ave,Homewood North,5,,
+ARREST,16117788,2701,Simple Assault.,06/25/2016,12:05,1000 block Brushton Ave,Homewood North,5,29,F
+ARREST,16117788,4304(a)(1),Endangering Welfare of Children.,06/25/2016,12:05,1000 block Brushton Ave,Homewood North,5,29,F
+ARREST,16117788,2705,Recklessly Endangering Another Person.,06/25/2016,12:05,1000 block Brushton Ave,Homewood North,5,29,F
+OFFENSE 2.0,16117934,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,06/25/2016,14:00,500 block Seagirt St,East Hills,5,,
+OFFENSE 2.0,16117949,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/25/2016,16:51,800 block Sheridan Ave,Highland Park,5,,
+ARREST,16118046,3929,Retail Theft.,06/25/2016,19:00,6200 block Penn Ave,East Liberty,5,35,M
+OFFENSE 2.0,16118046,3929,Retail Theft.,06/25/2016,19:00,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16118050,9501,Bench Warrant,06/25/2016,19:26,Penn Ave & N Atlantic Ave,Bloomfield,5,,
+ARREST,16118050,9501,Bench Warrant,06/25/2016,19:35,Penn Ave & N Atlantic Ave,Bloomfield,5,40,M
+OFFENSE 2.0,16118124,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/25/2016,21:19,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16118124,13(a)(31),Marijuana: Possession Small Amount,06/25/2016,21:19,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16118124,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,06/25/2016,21:19,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16118124,9501,Bench Warrant,06/25/2016,21:19,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16118124,4914,False Identification to Law Enforcement Authorities,06/25/2016,21:19,6200 block Penn Ave,East Liberty,5,,
+ARREST,16118124,13(a)(31),Marijuana: Possession Small Amount,06/25/2016,21:25,6200 block Penn Ave,East Liberty,5,22,F
+ARREST,16118124,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/25/2016,21:25,6200 block Penn Ave,East Liberty,5,22,F
+ARREST,16118124,4914,False Identification to Law Enforcement Authorities,06/25/2016,21:25,6200 block Penn Ave,East Liberty,5,22,F
+ARREST,16118124,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,06/25/2016,21:25,6200 block Penn Ave,East Liberty,5,22,F
+ARREST,16118124,9501,Bench Warrant,06/25/2016,21:25,6200 block Penn Ave,East Liberty,5,22,F
+OFFENSE 2.0,16117760,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,09:30,3100 block Fadette St,Sheraden,6,,
+OFFENSE 2.0,16117744,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/25/2016,10:00,Lakewood St & Rudolph St,Elliott,6,,
+OFFENSE 2.0,16117826,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/25/2016,12:00,900 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,16117901,2705,Recklessly Endangering Another Person.,06/25/2016,16:00,2600 block Winchester Dr,Banksville,6,,
+OFFENSE 2.0,16117901,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,16:00,2600 block Winchester Dr,Banksville,6,,
+OFFENSE 2.0,16117901,13(a)(16),Possession of Controlled Substance,06/25/2016,16:00,2600 block Winchester Dr,Banksville,6,,
+ARREST,16117901,13(a)(16),Possession of Controlled Substance,06/25/2016,16:00,2600 block Winchester Dr,Banksville,6,24,F
+ARREST,16117901,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,16:00,2600 block Winchester Dr,Banksville,6,24,F
+OFFENSE 2.0,16118099,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,20:54,1000 block Lessing St,Crafton Heights,6,,
+ARREST,16118099,13(a)(16),Possession of Controlled Substance,06/25/2016,22:30,1000 block Lessing St,Crafton Heights,6,26,F
+ARREST,16118099,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,22:30,1000 block Lessing St,Crafton Heights,6,26,F
+ARREST,16118099,13(a)(16),Possession of Controlled Substance,06/25/2016,22:30,1000 block Lessing St,Crafton Heights,6,40,M
+ARREST,16118099,13(a)(32),Paraphernalia - Use or Possession,06/25/2016,22:30,1000 block Lessing St,Crafton Heights,6,40,M
+OFFENSE 2.0,16117771,9094,Recovered Stolen Vehicle (OUTSIDE CITY),06/25/2016,11:23,400 block Virginia Ave,Outside City,OSC,,
