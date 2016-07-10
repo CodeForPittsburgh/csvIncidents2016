@@ -1,0 +1,134 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16126553,3921,Theft by Unlawful Taking or Disposition.,07/08/2016,00:38,1300 block Chicago St,Northview Heights,1,,
+OFFENSE 2.0,16126572,9488,False  Burglar Alarm,07/08/2016,01:11,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16112610,2702,Aggravated Assault.,07/08/2016,02:17,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,16112610,2705,Recklessly Endangering Another Person.,07/08/2016,02:17,1700 block Belleau Dr,Fineview,1,,
+ARREST,16112610,2702,Aggravated Assault.,07/08/2016,02:17,1700 block Belleau Dr,Fineview,1,38,F
+ARREST,16112610,2705,Recklessly Endangering Another Person.,07/08/2016,02:17,1700 block Belleau Dr,Fineview,1,38,F
+OFFENSE 2.0,16126733,3304,Criminal Mischief.,07/08/2016,09:00,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16126771,2707.1,Discharge of a Firearm into Occupied Structure,07/08/2016,10:00,200 block Kennedy Ave,Perry South,1,,
+OFFENSE 2.0,16126771,4105(a)(1),Bad Checks,07/08/2016,10:00,200 block Kennedy Ave,Perry South,1,,
+OFFENSE 2.0,16126771,4103,Fraud. Destruct.  Remov. or Conceal.of Record. Instr.,07/08/2016,10:00,200 block Kennedy Ave,Perry South,1,,
+OFFENSE 2.0,16126771,4101,Forgery.,07/08/2016,10:00,200 block Kennedy Ave,Perry South,1,,
+OFFENSE 2.0,16126788,13(a)(16),Possession of Controlled Substance,07/08/2016,12:28,W Mc Intyre Ave,Perry South,1,,
+OFFENSE 2.0,16126788,9501,Bench Warrant,07/08/2016,12:28,W Mc Intyre Ave,Perry South,1,,
+OFFENSE 2.0,16126788,5123,Contraband.,07/08/2016,12:28,W Mc Intyre Ave,Perry South,1,,
+ARREST,16126788,13(a)(16),Possession of Controlled Substance,07/08/2016,12:43,W Mc Intyre Ave,Perry South,1,54,F
+ARREST,16126788,5123,Contraband.,07/08/2016,12:43,W Mc Intyre Ave,Perry South,1,54,F
+ARREST,16126788,9501,Bench Warrant,07/08/2016,12:43,W Mc Intyre Ave,Perry South,1,54,F
+OFFENSE 2.0,16126799,2501,Criminal Homicide.,07/08/2016,12:48,2300 block Atmore St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16126921,3502,Burglary.,07/08/2016,16:30,700 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16126981,3921,Theft by Unlawful Taking or Disposition.,07/08/2016,18:35,Cedar Ave & East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,16126988,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,18:38,700 block Moravian Way,East Allegheny,1,,
+ARREST,16126988,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,18:38,700 block Moravian Way,East Allegheny,1,66,M
+OFFENSE 2.0,16127015,4106,Access Device Fraud,07/08/2016,19:00,1500 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,16127055,3743,Accidents Involving Damage to Attended Veh. or Property,07/08/2016,20:49,2100 block Rhine St,Spring Hill-City View,1,,
+OFFENSE 2.0,16127055,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,07/08/2016,20:49,2100 block Rhine St,Spring Hill-City View,1,,
+OFFENSE 2.0,16127055,3802(a)(1),DUI - General Impairment,07/08/2016,20:49,2100 block Rhine St,Spring Hill-City View,1,,
+ARREST,16127055,3743,Accidents Involving Damage to Attended Veh. or Property,07/08/2016,21:05,2100 block Rhine St,Spring Hill-City View,1,38,F
+ARREST,16127055,3802(a)(1),DUI - General Impairment,07/08/2016,21:05,2100 block Rhine St,Spring Hill-City View,1,38,F
+ARREST,16127055,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,07/08/2016,21:05,2100 block Rhine St,Spring Hill-City View,1,38,F
+OFFENSE 2.0,16126663,2709(a),Harassment.,07/08/2016,06:00,7th St & Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16126668,3716,Accidents Involving Overturned Vehicles,07/08/2016,06:56,300 block 32nd St,Polish Hill,2,,
+ARREST,16119784,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,07/08/2016,09:00,600 block First Ave,Golden Triangle/Civic Arena,2,60,M
+ARREST,16119784,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,07/08/2016,09:00,600 block First Ave,Golden Triangle/Civic Arena,2,60,M
+OFFENSE 2.0,16126737,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/08/2016,10:00,4200 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,16126764,029,Missing Juvenile,07/08/2016,11:30,Locust St & Marion St,Bluff,2,,
+ARREST,16122695,4915,Failure to Comply with Megans Law,07/08/2016,12:00,900 block Second Ave,Golden Triangle/Civic Arena,2,37,M
+OFFENSE 2.0,16126901,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/08/2016,15:00,35th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16127027,9999,(Misc. Vehicle Crime): ,07/08/2016,19:50,7th St & Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16127033,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,07/08/2016,19:50,300 block 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16127082,5505,Public Drunkenness,07/08/2016,21:10,Market Sq,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16126592,3928,Unauthorized Use of Automobile and Other Vehicles.,07/08/2016,01:53,500 block Laughlin Ave,Carrick,3,,
+OFFENSE 2.0,16126608,3925,Receiving Stolen Property.,07/08/2016,03:41,400 block Industry St & Curtin Ave,Beltzhoover,3,,
+OFFENSE 2.0,16126608,1501,Drivers Required to be Licensed.,07/08/2016,03:41,400 block Industry St & Curtin Ave,Beltzhoover,3,,
+OFFENSE 2.0,16126608,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,03:41,400 block Industry St & Curtin Ave,Beltzhoover,3,,
+OFFENSE 2.0,16126608,13(a)(31),Marijuana: Possession Small Amount,07/08/2016,03:41,400 block Industry St & Curtin Ave,Beltzhoover,3,,
+OFFENSE 2.0,16126608,13(a)(16),Possession of Controlled Substance,07/08/2016,03:41,400 block Industry St & Curtin Ave,Beltzhoover,3,,
+OFFENSE 2.0,16126608,4303,General Lighting Requirements.,07/08/2016,03:41,400 block Industry St & Curtin Ave,Beltzhoover,3,,
+ARREST,16126608,4303,General Lighting Requirements.,07/08/2016,03:45,400 block Industry St & Curtin Ave,Beltzhoover,3,18,F
+ARREST,16126608,3925,Receiving Stolen Property.,07/08/2016,03:45,400 block Industry St & Curtin Ave,Beltzhoover,3,18,F
+ARREST,16126608,1501,Drivers Required to be Licensed.,07/08/2016,03:45,400 block Industry St & Curtin Ave,Beltzhoover,3,18,F
+ARREST,16126608,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,03:45,400 block Industry St & Curtin Ave,Beltzhoover,3,18,F
+ARREST,16126608,13(a)(31),Marijuana: Possession Small Amount,07/08/2016,03:45,400 block Industry St & Curtin Ave,Beltzhoover,3,18,F
+ARREST,16126608,13(a)(16),Possession of Controlled Substance,07/08/2016,03:45,400 block Industry St & Curtin Ave,Beltzhoover,3,18,F
+OFFENSE 2.0,16126682,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,07/08/2016,06:50,Edgebrook Ave & Saw Mill Run Blvd,Bon Air,3,,
+OFFENSE 2.0,16126740,3934,Theft from Vehicle,07/08/2016,10:20,S 12th St & Muriel St,South Side Flats,3,,
+ARREST,16126781,13(a)(31),Marijuana: Possession Small Amount,07/08/2016,12:20,900 block Saw Mill Run Blvd,Bon Air,3,29,M
+OFFENSE 2.0,16126781,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,12:20,900 block Saw Mill Run Blvd,Bon Air,3,,
+OFFENSE 2.0,16126781,13(a)(31),Marijuana: Possession Small Amount,07/08/2016,12:20,900 block Saw Mill Run Blvd,Bon Air,3,,
+ARREST,16126781,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,12:20,900 block Saw Mill Run Blvd,Bon Air,3,29,M
+OFFENSE 2.0,16126791,9123,Miscellaneous Fire Other Investigation to Continue,07/08/2016,12:35,200 block E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,16126837,3921(a),Theft by Unlawful Taking or Disposition - Movable item,07/08/2016,14:20,Southern Ave,Mount Washington,3,,
+ARREST,16000804,3921,Theft by Unlawful Taking or Disposition.,07/08/2016,14:22,1100 block Arlington Ave,Allentown,3,,M
+OFFENSE 2.0,16126872,3304,Criminal Mischief.,07/08/2016,15:00,S 10th St & Southside Trail,South Side Flats,3,,
+OFFENSE 2.0,16126872,3934,Theft from Vehicle,07/08/2016,15:00,S 10th St & Southside Trail,South Side Flats,3,,
+OFFENSE 2.0,16126895,3929,Retail Theft.,07/08/2016,16:15,1900 block Wharton Ct,South Side Flats,3,,
+OFFENSE 2.0,16126984,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,18:32,Bausman St & Saw Mill Run Blvd,Bon Air,3,,
+OFFENSE 2.0,16126984,3301,Driving on Right Side of Roadway.,07/08/2016,18:32,Bausman St & Saw Mill Run Blvd,Bon Air,3,,
+ARREST,16126984,3301,Driving on Right Side of Roadway.,07/08/2016,18:42,Bausman St & Saw Mill Run Blvd,Bon Air,3,28,F
+ARREST,16126984,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,18:42,Bausman St & Saw Mill Run Blvd,Bon Air,3,28,F
+OFFENSE 2.0,16127009,2702,Aggravated Assault.,07/08/2016,19:05,1200 block Transverse Ave,Carrick,3,,
+OFFENSE 2.0,16127058,2709,Harassment (Non-Specific),07/08/2016,20:20,200 block Jucunda St,Knoxville,3,,
+OFFENSE 2.0,16127158,3503(b)(1)(i),Actual Communication,07/08/2016,23:54,300 block Bigham St,Mount Washington,3,,
+OFFENSE 2.0,16126637,9489,Found Property,07/08/2016,05:05,Amberson Pl & Amberson Ave,Shadyside,4,,
+OFFENSE 2.0,16126665,3743,Accidents Involving Damage to Attended Veh. or Property,07/08/2016,06:53,Beechwood Blvd & Lilac St,Greenfield,4,,
+OFFENSE 2.0,16126938,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/08/2016,08:30,6400 block Living Pl,Shadyside,4,,
+OFFENSE 2.0,16126849,3921,Theft by Unlawful Taking or Disposition.,07/08/2016,12:40,5400 block 5th Ave,Shadyside,4,,
+OFFENSE 2.0,16127005,9497,Aided Case,07/08/2016,19:43,3800 block O Hara St,North Oakland,4,,
+OFFENSE 2.0,16127005,9999,9999 - (Misc. Incident): Assist outside agency,07/08/2016,19:43,3800 block O Hara St,North Oakland,4,,
+OFFENSE 2.0,16127028,2706,Terroristic Threats.,07/08/2016,19:45,3400 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,16127028,2701(a)(3),Simple Assault - Attempts by Physical Menace ,07/08/2016,19:45,3400 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,16127034,3743,Accidents Involving Damage to Attended Veh. or Property,07/08/2016,20:38,5th Ave & Atwood St,West Oakland,4,,
+OFFENSE 2.0,16127098,3503,Criminal Trespass,07/08/2016,22:15,300 block Mc Kee Pl,Central Oakland,4,,
+OFFENSE 2.0,16127119,2702,Aggravated Assault.,07/08/2016,22:36,6800 block Thomas St,Point Breeze North,4,,
+OFFENSE 2.0,16126579,9497,Aided Case,07/08/2016,01:28,7200 block Verona Blvd,Lincoln-Lemington-Belmar,5,,
+ARREST,16126675,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,06:11,7300 block Kelly St,Homewood South,5,39,F
+ARREST,16126675,4914,False Identification to Law Enforcement Authorities,07/08/2016,06:11,7300 block Kelly St,Homewood South,5,24,M
+ARREST,16126675,13(a)(30),Possession w/ Intent to Del. Controlled Substance,07/08/2016,06:11,7300 block Kelly St,Homewood South,5,39,F
+ARREST,16126675,13(a)(16),Possession of Controlled Substance,07/08/2016,06:11,7300 block Kelly St,Homewood South,5,39,F
+OFFENSE 2.0,16126732,3304,Criminal Mischief.,07/08/2016,07:00,5600 block Wellesley Ave,Highland Park,5,,
+ARREST,16070020,3925,Receiving Stolen Property.,07/08/2016,07:20,1800 block Morningside Ave,Morningside,5,30,M
+ARREST,16070020,3502,Burglary.,07/08/2016,07:20,1800 block Morningside Ave,Morningside,5,30,M
+ARREST,16070020,3921,Theft by Unlawful Taking or Disposition.,07/08/2016,07:20,1800 block Morningside Ave,Morningside,5,30,M
+ARREST,16104524,3925,Receiving Stolen Property.,07/08/2016,08:00,7100 block Everton St,Lincoln-Lemington-Belmar,5,27,F
+OFFENSE 2.0,16126675,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,08:00,7300 block Kelly St,Homewood South,5,,
+OFFENSE 2.0,16126675,4914,False Identification to Law Enforcement Authorities,07/08/2016,08:00,7300 block Kelly St,Homewood South,5,,
+OFFENSE 2.0,16126675,13(a)(30),Possession w/ Intent to Del. Controlled Substance,07/08/2016,08:00,7300 block Kelly St,Homewood South,5,,
+OFFENSE 2.0,16126675,13(a)(16),Possession of Controlled Substance,07/08/2016,08:00,7300 block Kelly St,Homewood South,5,,
+ARREST,16061874,2706,Terroristic Threats.,07/08/2016,12:45,1000 block Brushton Ave,Homewood North,5,23,M
+ARREST,16061874,2701(a)(3),Simple Assault - Attempts by Physical Menace ,07/08/2016,12:45,1000 block Brushton Ave,Homewood North,5,23,M
+OFFENSE 2.0,16126831,2709(a),Harassment.,07/08/2016,14:00,6200 block Kalida Dr,East Liberty,5,,
+OFFENSE 2.0,16126843,3921,Theft by Unlawful Taking or Disposition.,07/08/2016,14:43,Meadow St & Larimer Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16126265,2706,Terroristic Threats.,07/08/2016,15:25,600 block N Beatty St,East Liberty,5,,
+OFFENSE 2.0,16126265,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,07/08/2016,15:25,600 block N Beatty St,East Liberty,5,,
+OFFENSE 2.0,16126918,3802(a)(1),DUI - General Impairment,07/08/2016,16:40,1000 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+ARREST,16126918,3802(a)(1),DUI - General Impairment,07/08/2016,17:17,1000 block Freeport Rd,Lincoln-Lemington-Belmar,5,27,F
+OFFENSE 2.0,16126949,9134,Pedestrian Hit by Vehicle/Non-Reportable Accident,07/08/2016,17:20,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16126919,9999,9999 - (Misc. Incident): Welfare check on children in the home.,07/08/2016,18:00,4500 block Carroll St,Bloomfield,5,,
+OFFENSE 2.0,16126545,9497,Aided Case,07/08/2016,00:20,700 block Steuben St,Elliott,6,,
+OFFENSE 2.0,16126874,9999,9999 - (Misc. Incident): ,07/08/2016,01:00,300 block Stratmore St,Crafton Heights,6,,
+OFFENSE 2.0,16126673,13(a)(16),Possession of Controlled Substance,07/08/2016,06:57,1200 block Lakewood St,Elliott,6,,
+OFFENSE 2.0,16126673,13(a)(31),Marijuana: Possession Small Amount,07/08/2016,06:57,1200 block Lakewood St,Elliott,6,,
+OFFENSE 2.0,16126673,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,06:57,1200 block Lakewood St,Elliott,6,,
+OFFENSE 2.0,16126673,7512,Criminal Use of Communication,07/08/2016,06:57,1200 block Lakewood St,Elliott,6,,
+OFFENSE 2.0,16126673,13(a)(30),Possession w/ Intent to Del. Controlled Substance,07/08/2016,06:57,1200 block Lakewood St,Elliott,6,,
+ARREST,16126673,13(a)(16),Possession of Controlled Substance,07/08/2016,07:15,1200 block Lakewood St,Elliott,6,22,M
+ARREST,16126673,13(a)(30),Possession w/ Intent to Del. Controlled Substance,07/08/2016,07:15,1200 block Lakewood St,Elliott,6,22,M
+ARREST,16126673,13(a)(31),Marijuana: Possession Small Amount,07/08/2016,07:15,1200 block Lakewood St,Elliott,6,22,M
+ARREST,16126673,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,07:15,1200 block Lakewood St,Elliott,6,22,M
+ARREST,16126673,7512,Criminal Use of Communication,07/08/2016,07:15,1200 block Lakewood St,Elliott,6,22,M
+ARREST,16126131,907,Possessing Instruments of Crime.,07/08/2016,10:15,2800 block Banksville Rd,Golden Triangle/Civic Arena,6,32,M
+ARREST,16126131,2701,Simple Assault.,07/08/2016,10:15,2800 block Banksville Rd,Golden Triangle/Civic Arena,6,32,M
+ARREST,16126131,13(a)(31),Marijuana: Possession Small Amount,07/08/2016,10:15,2800 block Banksville Rd,Golden Triangle/Civic Arena,6,32,M
+ARREST,16126131,13(a)(16),Possession of Controlled Substance,07/08/2016,10:15,2800 block Banksville Rd,Golden Triangle/Civic Arena,6,32,M
+ARREST,16126131,13(a)(32),Paraphernalia - Use or Possession,07/08/2016,10:15,2800 block Banksville Rd,Golden Triangle/Civic Arena,6,21,F
+ARREST,16126131,13(a)(16),Possession of Controlled Substance,07/08/2016,10:15,2800 block Banksville Rd,Golden Triangle/Civic Arena,6,21,F
+ARREST,16126131,13(a)(31),Marijuana: Possession Small Amount,07/08/2016,10:15,2800 block Banksville Rd,Golden Triangle/Civic Arena,6,21,F
+OFFENSE 2.0,16126756,3934,Theft from Vehicle,07/08/2016,11:10,900 block Chartiers Ave,Elliott,6,,
+OFFENSE 2.0,16126766,13(a)(16),Possession of Controlled Substance,07/08/2016,11:35,1500 block Crucible St,Crafton Heights,6,,
+ARREST,16126766,13(a)(16),Possession of Controlled Substance,07/08/2016,11:40,1500 block Crucible St,Crafton Heights,6,25,M
+OFFENSE 2.0,16126786,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/08/2016,12:00,Wabash St,West End,6,,
+OFFENSE 2.0,16126844,9999,9999 - (Misc. Incident): ,07/08/2016,13:35,2200 block Boustead St,Beechview,6,,
+OFFENSE 2.0,16126810,3701,Robbery.,07/08/2016,14:00,Wabash St,West End,6,,
+OFFENSE 2.0,16127130,4106,Access Device Fraud,07/08/2016,20:30,1400 block Oakglen St,Crafton Heights,6,,
