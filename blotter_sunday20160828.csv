@@ -1,0 +1,136 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16161555,9999,9999 - (Misc. Incident): ,08/28/2016,00:10,2600 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,16161596,9488,False  Burglar Alarm,08/28/2016,01:05,3400 block Shadeland Ave,Brighton Heights,1,,
+OFFENSE 2.0,16161667,9488,False  Burglar Alarm,08/28/2016,03:12,1300 block Halsey Pl,Marshall-Shadeland,1,,
+OFFENSE 2.0,16162067,3743,Accidents Involving Damage to Attended Veh. or Property,08/28/2016,04:00,800 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16161698,3702,Robbery of Motor Vehicle.,08/28/2016,04:40,Federal St N & W North Ave,Allegheny Center,1,,
+OFFENSE 2.0,16161707,3701,Robbery.,08/28/2016,05:15,300 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,16161720,029,Missing Juvenile,08/28/2016,06:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16161715,029,Missing Juvenile,08/28/2016,06:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16161904,9497,Aided Case,08/28/2016,15:17,3600 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16161925,2705,Recklessly Endangering Another Person.,08/28/2016,16:00,300 block Sandusky St N & E North Ave,Central Northside,1,,
+OFFENSE 2.0,16161925,6110.1,Possesion of Firearm by Minor,08/28/2016,16:00,300 block Sandusky St N & E North Ave,Central Northside,1,,
+OFFENSE 2.0,16161928,9017,Found Drugs,08/28/2016,16:14,1300 block Manhattan St,Manchester,1,,
+OFFENSE 2.0,16154835,5503,Disorderly Conduct.,08/28/2016,17:10,1600 block Sandusky Ct,Morningside,1,,
+OFFENSE 2.0,16154835,3701,Robbery.,08/28/2016,17:10,1600 block Sandusky Ct,Morningside,1,,
+OFFENSE 2.0,16154835,2709,Harassment (Non-Specific),08/28/2016,17:10,1600 block Sandusky Ct,Morningside,1,,
+ARREST,16154835,5503,Disorderly Conduct.,08/28/2016,17:10,1600 block Sandusky Ct,Morningside,1,25,M
+ARREST,16154835,3701,Robbery.,08/28/2016,17:10,1600 block Sandusky Ct,Morningside,1,25,M
+ARREST,16154835,2709,Harassment (Non-Specific),08/28/2016,17:10,1600 block Sandusky Ct,Morningside,1,25,M
+ARREST,16154835,2701,Simple Assault.,08/28/2016,17:10,1600 block Sandusky Ct,Morningside,1,25,M
+OFFENSE 2.0,16154835,2701,Simple Assault.,08/28/2016,17:10,1600 block Sandusky Ct,Morningside,1,,
+OFFENSE 2.0,16162075,3502,Burglary.,08/28/2016,18:47,800 block Concord St,East Allegheny,1,,
+OFFENSE 2.0,16162101,2709(a),Harassment.,08/28/2016,21:51,2200 block N Charles St,Perry South,1,,
+OFFENSE 2.0,16162116,9488,False  Burglar Alarm,08/28/2016,22:30,1800 block Beaver Ave,Chateau,1,,
+OFFENSE 2.0,16162125,2606(a),Aggravated Assault on Unborn Child,08/28/2016,23:00,1200 block Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,16162125,3701,Robbery.,08/28/2016,23:00,1200 block Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,16162130,2705,Recklessly Endangering Another Person.,08/28/2016,23:14,1300 block Chicago St,Northview Heights,1,,
+OFFENSE 2.0,16162130,2707.1,Discharge of a Firearm into Occupied Structure,08/28/2016,23:14,1300 block Chicago St,Northview Heights,1,,
+OFFENSE 2.0,16162130,3304,Criminal Mischief.,08/28/2016,23:14,1300 block Chicago St,Northview Heights,1,,
+OFFENSE 2.0,16161591,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,08/28/2016,00:58,5100 block Berlin Way,Upper Lawrenceville,2,,
+OFFENSE 2.0,16161605,3701,Robbery.,08/28/2016,01:15,Dinwiddie St & Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,16161658,3802(a)(1),DUI - General Impairment,08/28/2016,02:47,Liberty Ave & 12th St,Golden Triangle/Civic Arena,2,,
+ARREST,16161658,3802(a)(1),DUI - General Impairment,08/28/2016,03:01,Liberty Ave & 12th St,Golden Triangle/Civic Arena,2,37,M
+ARREST,16161685,3733,Fleeing or Attempting to Elude Police Officer,08/28/2016,03:58,2000 block Smallman St,Strip District,2,16,M
+ARREST,16161685,3925,Receiving Stolen Property.,08/28/2016,03:58,2000 block Smallman St,Strip District,2,16,M
+ARREST,16161685,3743,Accidents Involving Damage to Attended Veh. or Property,08/28/2016,03:58,2000 block Smallman St,Strip District,2,16,M
+ARREST,16161685,3736,Reckless Driving,08/28/2016,03:58,2000 block Smallman St,Strip District,2,16,M
+ARREST,16161685,1501,Drivers Required to be Licensed.,08/28/2016,03:58,2000 block Smallman St,Strip District,2,16,M
+OFFENSE 2.0,16161685,3925,Receiving Stolen Property.,08/28/2016,05:00,2000 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16161685,1501,Drivers Required to be Licensed.,08/28/2016,05:00,2000 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16161685,3733,Fleeing or Attempting to Elude Police Officer,08/28/2016,05:00,2000 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16161685,3736,Reckless Driving,08/28/2016,05:00,2000 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16161685,3743,Accidents Involving Damage to Attended Veh. or Property,08/28/2016,05:00,2000 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16161716,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,06:15,11th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16161762,3929,Retail Theft.,08/28/2016,09:20,500 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16161805,3921,Theft by Unlawful Taking or Disposition.,08/28/2016,10:00,900 block Watson St,Bluff,2,,
+OFFENSE 2.0,16161886,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,14:24,Gist St & Locust St,Bluff,2,,
+OFFENSE 2.0,16161890,1543,Driving While Operating Privilege is Suspended or Revoked.,08/28/2016,14:50,55th St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16161890,9501,Bench Warrant,08/28/2016,14:50,55th St,Upper Lawrenceville,2,,
+ARREST,16161890,9501,Bench Warrant,08/28/2016,16:18,55th St,Upper Lawrenceville,2,33,F
+ARREST,16161890,1543,Driving While Operating Privilege is Suspended or Revoked.,08/28/2016,16:18,55th St,Upper Lawrenceville,2,33,F
+OFFENSE 2.0,16162053,9998,Overdose,08/28/2016,20:10,5200 block Natrona Way,Upper Lawrenceville,2,,
+OFFENSE 2.0,16161551,5505,Public Drunkenness,08/28/2016,00:10,S 15th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16161562,5503,Disorderly Conduct.,08/28/2016,00:20,S 17th St & E Carson St,South Side Flats,3,,
+ARREST,16161613,2702,Aggravated Assault.,08/28/2016,01:25,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16161613,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,08/28/2016,01:25,1500 block E Carson St,South Side Flats,3,22,M
+ARREST,16161613,5503,Disorderly Conduct.,08/28/2016,01:25,1500 block E Carson St,South Side Flats,3,22,M
+OFFENSE 2.0,16161613,5503,Disorderly Conduct.,08/28/2016,01:25,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16161613,2702,Aggravated Assault.,08/28/2016,01:25,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16161613,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,08/28/2016,01:25,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16161683,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,08/28/2016,02:30,400 block Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,16161651,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,08/28/2016,02:32,S 17th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16161651,5505,Public Drunkenness,08/28/2016,02:32,S 17th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16161651,5104,Resisting Arrest or Other Law Enforcement.,08/28/2016,02:32,S 17th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16161651,13(a)(31),Marijuana: Possession Small Amount,08/28/2016,02:32,S 17th St & E Carson St,South Side Flats,3,,
+ARREST,16161651,13(a)(31),Marijuana: Possession Small Amount,08/28/2016,02:34,S 17th St & E Carson St,South Side Flats,3,41,F
+ARREST,16161651,5104,Resisting Arrest or Other Law Enforcement.,08/28/2016,02:34,S 17th St & E Carson St,South Side Flats,3,41,F
+ARREST,16161651,5505,Public Drunkenness,08/28/2016,02:34,S 17th St & E Carson St,South Side Flats,3,41,F
+ARREST,16161651,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,08/28/2016,02:34,S 17th St & E Carson St,South Side Flats,3,41,F
+OFFENSE 2.0,16161677,2701(a)(3),Simple Assault - Attempts by Physical Menace ,08/28/2016,03:32,1700 block Saw Mill Run Blvd,Carrick,3,,
+OFFENSE 2.0,16161677,3701,Robbery.,08/28/2016,03:32,1700 block Saw Mill Run Blvd,Carrick,3,,
+OFFENSE 2.0,16161695,3502,Burglary.,08/28/2016,04:00,2600 block Stella St,South Side Slopes,3,,
+OFFENSE 2.0,16161708,3502,Burglary.,08/28/2016,05:33,2700 block Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,16161708,3503,Criminal Trespass,08/28/2016,05:33,2700 block Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,16161708,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,05:33,2700 block Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,16161729,3921,Theft by Unlawful Taking or Disposition.,08/28/2016,06:45,1300 block Nobles Ln,Carrick,3,,
+OFFENSE 2.0,16161745,3502,Burglary.,08/28/2016,07:30,2300 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16161745,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,07:30,2300 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,16161776,3934,Theft from Vehicle,08/28/2016,09:00,500 block Gearing Ave,Beltzhoover,3,,
+OFFENSE 2.0,16161816,3304,Criminal Mischief.,08/28/2016,11:00,S 16th St & Merriman St,South Side Flats,3,,
+OFFENSE 2.0,16161954,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,12:00,S 26th St & Jane St,South Side Flats,3,,
+OFFENSE 2.0,16161844,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,12:00,300 block Kathleen St,Mount Washington,3,,
+OFFENSE 2.0,16161821,3921,Theft by Unlawful Taking or Disposition.,08/28/2016,12:10,200 block Reifert St,Knoxville,3,,
+ARREST,16140274,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,08/28/2016,16:07,1300 block Denise St,Carrick,3,69,M
+ARREST,16140274,2709.A3,HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE,08/28/2016,16:07,1300 block Denise St,Carrick,3,69,M
+OFFENSE 2.0,16161926,8104,CLASS 1 - Suspicious Package or Device,08/28/2016,16:14,3200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16161926,9489,Found Property,08/28/2016,16:14,3200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16162000,3304,Criminal Mischief.,08/28/2016,18:20,Odette St,Overbrook,3,,
+OFFENSE 2.0,16162000,2701,Simple Assault.,08/28/2016,18:20,Odette St,Overbrook,3,,
+OFFENSE 2.0,16162000,3701,Robbery.,08/28/2016,18:20,Odette St,Overbrook,3,,
+OFFENSE 2.0,16161570,2701,Simple Assault.,08/28/2016,00:30,Lawn St,South Oakland,4,,
+OFFENSE 2.0,16161570,9093,Indirect Criminal Contempt,08/28/2016,00:30,Lawn St,South Oakland,4,,
+OFFENSE 2.0,16161563,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,08/28/2016,00:44,300 block Oakland Ave,Central Oakland,4,,
+OFFENSE 2.0,16161563,6310.1,Selling Liquor to Minors,08/28/2016,00:44,300 block Oakland Ave,Central Oakland,4,,
+OFFENSE 2.0,16161563,601.04 (c) (2),Loudspeakers  etc 0700-2200 >75dB(c) 2200-0700 >75 dB(c),08/28/2016,00:44,300 block Oakland Ave,Central Oakland,4,,
+ARREST,16161570,9093,Indirect Criminal Contempt,08/28/2016,00:45,Lawn St,South Oakland,4,41,F
+ARREST,16161570,9093,Indirect Criminal Contempt,08/28/2016,00:45,Lawn St,South Oakland,4,44,M
+ARREST,16161570,2701,Simple Assault.,08/28/2016,00:45,Lawn St,South Oakland,4,41,F
+ARREST,16161570,2701,Simple Assault.,08/28/2016,00:45,Lawn St,South Oakland,4,44,M
+OFFENSE 2.0,16161599,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,08/28/2016,01:05,Ophelia St & Joe Hammer Sq,South Oakland,4,,
+OFFENSE 2.0,16161610,3929,Retail Theft.,08/28/2016,01:22,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16161636,3502,Burglary.,08/28/2016,02:06,200 block Dunseith St,West Oakland,4,,
+OFFENSE 2.0,16161684,9498,302 (Mental),08/28/2016,02:48,4600 block Saline St,Squirrel Hill South,4,,
+OFFENSE 2.0,16161681,3304,Criminal Mischief.,08/28/2016,03:30,3200 block Parkview Ave,South Oakland,4,,
+OFFENSE 2.0,16161746,3934,Theft from Vehicle,08/28/2016,06:45,700 block East End Ave,Regent Square,4,,
+OFFENSE 2.0,16161758,3921,Theft by Unlawful Taking or Disposition.,08/28/2016,08:00,5600 block Walnut St,Shadyside,4,,
+OFFENSE 2.0,16161891,3502,Burglary.,08/28/2016,08:00,2000 block Wightman St,Squirrel Hill South,4,,
+OFFENSE 2.0,16161744,3934,Theft from Vehicle,08/28/2016,08:30,Waldeck St,Greenfield,4,,
+OFFENSE 2.0,16161747,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,08/28/2016,08:59,Elwood St & Greenbriar Way,Shadyside,4,,
+OFFENSE 2.0,16161725,9999,9999 - (Misc. Incident): ,08/28/2016,09:00,Glenwood Ave & Mansion St,Hazelwood,4,,
+OFFENSE 2.0,16161799,3745,Accidents Involving Damage to Unattended Veh.or Prop.,08/28/2016,10:30,Summerlea St & Elmer St,Shadyside,4,,
+OFFENSE 2.0,16161788,3934,Theft from Vehicle,08/28/2016,10:30,4200 block Mc Caslin St,Greenfield,4,,
+OFFENSE 2.0,16161934,3304,Criminal Mischief.,08/28/2016,13:30,5100 block Langhorn St,Hazelwood,4,,
+OFFENSE 2.0,16161924,3745,Accidents Involving Damage to Unattended Veh.or Prop.,08/28/2016,16:00,English Ln,Squirrel Hill South,4,,
+OFFENSE 2.0,16162088,2701,Simple Assault.,08/28/2016,21:33,100 block Berwick St,Hazelwood,4,,
+ARREST,16162088,2701,Simple Assault.,08/28/2016,21:45,100 block Berwick St,Hazelwood,4,24,F
+OFFENSE 2.0,16161801,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,01:30,7200 block Formosa Way,Homewood South,5,,
+OFFENSE 2.0,16161750,3934,Theft from Vehicle,08/28/2016,09:00,1400 block N St Clair St,Highland Park,5,,
+OFFENSE 2.0,16161755,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,09:00,300 block S Atlantic Ave,Bloomfield,5,,
+OFFENSE 2.0,16161760,3304,Criminal Mischief.,08/28/2016,09:00,300 block S Graham St,Friendship,5,,
+OFFENSE 2.0,16161760,3934,Theft from Vehicle,08/28/2016,09:00,300 block S Graham St,Friendship,5,,
+OFFENSE 2.0,16161842,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/28/2016,11:00,6600 block Rowan St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16161808,9999,9999 - (Misc. Incident): ,08/28/2016,11:20,500 block Lowell St,Larimer,5,,
+OFFENSE 2.0,16161908,2701,Simple Assault.,08/28/2016,15:32,7200 block Susquehanna St,Homewood South,5,,
+OFFENSE 2.0,16161908,2706,Terroristic Threats.,08/28/2016,15:32,7200 block Susquehanna St,Homewood South,5,,
+ARREST,16161908,2701,Simple Assault.,08/28/2016,16:00,7200 block Susquehanna St,Homewood South,5,61,M
+ARREST,16161908,2706,Terroristic Threats.,08/28/2016,16:00,7200 block Susquehanna St,Homewood South,5,61,M
+OFFENSE 2.0,16161590,9498,302 (Mental),08/28/2016,01:51,1400 block Isoline St,Chartiers City,6,,
+OFFENSE 2.0,16161734,9490,Missing Persons (18 and Over),08/28/2016,08:03,2600 block Merwyn Ave,Sheraden,6,,
+OFFENSE 2.0,16161751,9488,False  Burglar Alarm,08/28/2016,09:20,1000 block Lakewood St,Elliott,6,,
+ARREST,16161766,13(a)(16),Possession of Controlled Substance,08/28/2016,10:14,900 block Woodlow St,Crafton Heights,6,21,M
+OFFENSE 2.0,16161766,13(a)(16),Possession of Controlled Substance,08/28/2016,10:14,900 block Woodlow St,Crafton Heights,6,,
+ARREST,16121468,9501,Bench Warrant,08/28/2016,15:47,800 block Crucible St,Elliott,6,30,M
+OFFENSE 2.0,16161838,9094,Recovered Stolen Vehicle (OUTSIDE CITY),08/28/2016,12:48,1800 block Arlington Ave,Outside City,OSC,,
+OFFENSE 2.0,16161872,9999,9999 - (Misc. Incident): ,08/28/2016,13:31,3300 block Churchview Ave,Squirrel Hill South,OSC,,
+OFFENSE 2.0,16161872,3745,Accidents Involving Damage to Unattended Veh.or Prop.,08/28/2016,13:31,3300 block Churchview Ave,Squirrel Hill South,OSC,,
