@@ -1,0 +1,155 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16174288,029,Missing Juvenile,09/15/2016,00:15,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16174289,029,Missing Juvenile,09/15/2016,00:15,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16174309,9488,False  Burglar Alarm,09/15/2016,01:25,1100 block Western Ave,Chateau,1,,
+OFFENSE 2.0,16174322,13(a)(16),Possession of Controlled Substance,09/15/2016,01:38,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16174322,13(a)(32),Paraphernalia - Use or Possession,09/15/2016,01:38,1600 block Sandusky Ct,Fineview,1,,
+ARREST,16174322,13(a)(32),Paraphernalia - Use or Possession,09/15/2016,01:50,1600 block Sandusky Ct,Fineview,1,38,M
+ARREST,16174322,13(a)(16),Possession of Controlled Substance,09/15/2016,01:50,1600 block Sandusky Ct,Fineview,1,38,M
+ARREST,16174322,13(a)(32),Paraphernalia - Use or Possession,09/15/2016,02:00,1600 block Sandusky Ct,Fineview,1,41,M
+OFFENSE 2.0,16174328,9497,Aided Case,09/15/2016,02:36,2900 block N Charles St,Perry South,1,,
+ARREST,16171769,2701,Simple Assault.,09/15/2016,09:45,100 block Federal St S,North Shore,1,51,M
+ARREST,16171769,5505,Public Drunkenness,09/15/2016,09:45,100 block Federal St S,North Shore,1,51,M
+OFFENSE 2.0,16174635,029,Missing Juvenile,09/15/2016,12:05,2600 block Stayton St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16174567,9999,9999 - (Misc. Incident): Disruptive Juvenile,09/15/2016,12:18,3900 block Perrysville Ave,Perry North,1,,
+OFFENSE 2.0,16174601,9497,Aided Case,09/15/2016,13:06,4000 block Ohio River Blvd,Marshall-Shadeland,1,,
+ARREST,16134872,9015,Failure To Appear/Arrest on Attachment Order,09/15/2016,13:30,Moravian St & East Ohio St,East Allegheny,1,28,F
+OFFENSE 2.0,16174647,9999,9999 - (Misc. Incident): ,09/15/2016,14:12,2300 block Brighton Rd,Central Northside,1,,
+OFFENSE 2.0,16174660,9093,Indirect Criminal Contempt,09/15/2016,14:22,600 block East Ohio St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,16174785,9501,Bench Warrant,09/15/2016,17:36,Fountain St & Shockoe Way,Central Northside,1,,
+ARREST,16174785,9501,Bench Warrant,09/15/2016,17:40,Fountain St & Shockoe Way,Central Northside,1,41,M
+OFFENSE 2.0,16174850,3304,Criminal Mischief.,09/15/2016,19:21,1400 block Geyer Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16174891,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,09/15/2016,20:44,100 block Mairdale Ave,Perry North,1,,
+OFFENSE 2.0,16174891,3802(a)(1),DUI - General Impairment,09/15/2016,20:44,100 block Mairdale Ave,Perry North,1,,
+ARREST,16174891,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,09/15/2016,21:00,100 block Mairdale Ave,Perry North,1,38,F
+ARREST,16174891,3802(a)(1),DUI - General Impairment,09/15/2016,21:00,100 block Mairdale Ave,Perry North,1,38,F
+OFFENSE 2.0,16174899,2702,Aggravated Assault.,09/15/2016,21:02,Brighton Rd & California Ave,Central Northside,1,,
+OFFENSE 2.0,16174899,2705,Recklessly Endangering Another Person.,09/15/2016,21:02,Brighton Rd & California Ave,Central Northside,1,,
+OFFENSE 2.0,16174899,907,Possessing Instruments of Crime.,09/15/2016,21:02,Brighton Rd & California Ave,Central Northside,1,,
+OFFENSE 2.0,16174899,5503,Disorderly Conduct.,09/15/2016,21:02,Brighton Rd & California Ave,Central Northside,1,,
+ARREST,16174899,907,Possessing Instruments of Crime.,09/15/2016,21:15,Brighton Rd & California Ave,Central Northside,1,28,F
+ARREST,16174899,5503,Disorderly Conduct.,09/15/2016,21:15,Brighton Rd & California Ave,Central Northside,1,28,F
+ARREST,16174899,2705,Recklessly Endangering Another Person.,09/15/2016,21:15,Brighton Rd & California Ave,Central Northside,1,28,F
+ARREST,16174899,2702,Aggravated Assault.,09/15/2016,21:15,Brighton Rd & California Ave,Central Northside,1,28,F
+OFFENSE 2.0,16174949,9490,Missing Persons (18 and Over),09/15/2016,22:30,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,16174980,9497,Aided Case,09/15/2016,23:30,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,16174292,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,09/15/2016,00:15,Liberty Ave & Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16174292,5505,Public Drunkenness,09/15/2016,00:15,Liberty Ave & Wood St,Golden Triangle/Civic Arena,2,,
+ARREST,16174292,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,09/15/2016,00:27,Liberty Ave & Wood St,Golden Triangle/Civic Arena,2,45,M
+ARREST,16174292,5505,Public Drunkenness,09/15/2016,00:27,Liberty Ave & Wood St,Golden Triangle/Civic Arena,2,45,M
+OFFENSE 2.0,16174492,9999,9999 - (Misc. Incident): Witness Account of Non-Reportable Accident,09/15/2016,08:50,Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+ARREST,16174645,903,Criminal Conspiracy.,09/15/2016,11:43,200 block 5th Ave,Golden Triangle/Civic Arena,2,26,F
+OFFENSE 2.0,16174645,4101,Forgery.,09/15/2016,11:43,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16174645,4101,Forgery.,09/15/2016,11:43,200 block 5th Ave,Golden Triangle/Civic Arena,2,26,F
+ARREST,16174645,13(a)(32),Paraphernalia - Use or Possession,09/15/2016,11:43,200 block 5th Ave,Golden Triangle/Civic Arena,2,26,F
+OFFENSE 2.0,16174645,13(a)(16),Possession of Controlled Substance,09/15/2016,11:43,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16174645,903,Criminal Conspiracy.,09/15/2016,11:43,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16174645,13(a)(32),Paraphernalia - Use or Possession,09/15/2016,11:43,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+ARREST,16174645,13(a)(16),Possession of Controlled Substance,09/15/2016,11:43,200 block 5th Ave,Golden Triangle/Civic Arena,2,26,F
+ARREST,16174645,903,Criminal Conspiracy.,09/15/2016,11:55,200 block 5th Ave,Golden Triangle/Civic Arena,2,23,M
+ARREST,16174645,4101,Forgery.,09/15/2016,11:55,200 block 5th Ave,Golden Triangle/Civic Arena,2,23,M
+OFFENSE 2.0,16174724,3743,Accidents Involving Damage to Attended Veh. or Property,09/15/2016,13:56,600 block Grant St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,16174827,9999,9999 - (Misc. Incident): ,09/15/2016,17:45,1600 block Waterfront Pl,Strip District,2,,
+ARREST,16174808,2701,Simple Assault.,09/15/2016,18:54,2400 block Wylie Ave,Middle Hill,2,43,M
+OFFENSE 2.0,16174808,2701,Simple Assault.,09/15/2016,18:54,2400 block Wylie Ave,Middle Hill,2,,
+ARREST,16172803,2702,Aggravated Assault.,09/15/2016,20:30,43rd St,Strip District,2,20,M
+OFFENSE 2.0,16174961,029,Missing Juvenile,09/15/2016,22:38,200 block Dinwiddie St,Crawford-Roberts,2,,
+OFFENSE 2.0,16174285,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/15/2016,00:10,2800 block Arlington Ave,South Side Slopes,3,,
+OFFENSE 2.0,16174435,3934,Theft from Vehicle,09/15/2016,03:10,200 block Seward St,Duquesne Heights,3,,
+OFFENSE 2.0,16174457,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/15/2016,07:00,100 block Poplargrove St,Carrick,3,,
+OFFENSE 2.0,16174436,2706,Terroristic Threats.,09/15/2016,07:50,300 block Chalfont St,Beltzhoover,3,,
+OFFENSE 2.0,16174876,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/15/2016,08:00,1300 block Breed St,South Side Flats,3,,
+OFFENSE 2.0,16174458,2706,Terroristic Threats.,09/15/2016,08:43,100 block Knox Ave,Knoxville,3,,
+OFFENSE 2.0,16174458,3304,Criminal Mischief.,09/15/2016,08:43,100 block Knox Ave,Knoxville,3,,
+OFFENSE 2.0,16174458,2701,Simple Assault.,09/15/2016,08:43,100 block Knox Ave,Knoxville,3,,
+OFFENSE 2.0,16174487,3929,Retail Theft.,09/15/2016,09:35,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16174568,2709,Harassment (Non-Specific),09/15/2016,12:07,2800 block Arlington Ave,Arlington,3,,
+ARREST,16064356,13(a)(16),Possession of Controlled Substance,09/15/2016,13:00,W Woodford Ave & Westmont Ave,Golden Triangle/Civic Arena,3,39,M
+ARREST,16064356,4107(b)(2),Vehicle Equipment Standards,09/15/2016,13:00,W Woodford Ave & Westmont Ave,Golden Triangle/Civic Arena,3,39,M
+OFFENSE 2.0,16174612,2709,Harassment (Non-Specific),09/15/2016,13:19,400 block Edgemont St,Mount Washington,3,,
+OFFENSE 2.0,16174637,9489,Found Property,09/15/2016,13:45,2500 block Brownsville Rd,Carrick,3,,
+ARREST,16169406,4915,Failure to Comply with Megans Law,09/15/2016,14:15,400 block Suncrest St,Allentown,3,77,M
+OFFENSE 2.0,16174791,3921,Theft by Unlawful Taking or Disposition.,09/15/2016,15:00,2500 block Spring St,Arlington,3,,
+OFFENSE 2.0,16174778,2701,Simple Assault.,09/15/2016,15:31,300 block Richfield St,Overbrook,3,,
+OFFENSE 2.0,16174778,4304(a)(1),Endangering Welfare of Children.,09/15/2016,15:31,300 block Richfield St,Overbrook,3,,
+ARREST,16162797,2701,Simple Assault.,09/15/2016,17:00,2100 block Brownsville Rd,Carrick,3,24,F
+OFFENSE 2.0,16174767,9123,Miscellaneous Fire Other Investigation to Continue,09/15/2016,17:19,1700 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16174733,9999,9999 - (Misc. Incident): ,09/15/2016,17:40,200 block E Agnew Ave,Carrick,3,,
+OFFENSE 2.0,16174796,2709(a),Harassment.,09/15/2016,17:44,1900 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,16174792,3323,Stop Signs and Yield Signs.,09/15/2016,17:45,Salisbury St & Clover St,South Side Slopes,3,,
+OFFENSE 2.0,16174792,9501,Bench Warrant,09/15/2016,17:45,Salisbury St & Clover St,South Side Slopes,3,,
+OFFENSE 2.0,16174792,4914,False Identification to Law Enforcement Authorities,09/15/2016,17:45,Salisbury St & Clover St,South Side Slopes,3,,
+ARREST,16174792,4914,False Identification to Law Enforcement Authorities,09/15/2016,17:45,Salisbury St & Clover St,South Side Slopes,3,24,M
+ARREST,16174792,9501,Bench Warrant,09/15/2016,17:45,Salisbury St & Clover St,South Side Slopes,3,24,M
+OFFENSE 2.0,16174822,2709,Harassment (Non-Specific),09/15/2016,18:10,S 21st St & Sarah St,South Side Flats,3,,
+ARREST,16174778,2701,Simple Assault.,09/15/2016,19:00,300 block Richfield St,Overbrook,3,51,M
+ARREST,16174778,4304(a)(1),Endangering Welfare of Children.,09/15/2016,19:00,300 block Richfield St,Overbrook,3,51,M
+OFFENSE 2.0,16174838,9123,Miscellaneous Fire Other Investigation to Continue,09/15/2016,19:04,100 block S 19th St,South Side Flats,3,,
+OFFENSE 2.0,16174875,3502,Burglary.,09/15/2016,20:00,1900 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16174870,9998,Overdose Other,09/15/2016,20:03,2800 block Mary St,South Side Slopes,3,,
+OFFENSE 2.0,16174865,1543,Driving While Operating Privilege is Suspended or Revoked.,09/15/2016,20:10,300 block Chalfont St,Beltzhoover,3,,
+OFFENSE 2.0,16174865,1372,Unauthorized Transfer or Use of Registration.,09/15/2016,20:10,300 block Chalfont St,Beltzhoover,3,,
+OFFENSE 2.0,16174865,3925,Receiving Stolen Property.,09/15/2016,20:10,300 block Chalfont St,Beltzhoover,3,,
+OFFENSE 2.0,16174865,5104,Resisting Arrest or Other Law Enforcement.,09/15/2016,20:10,300 block Chalfont St,Beltzhoover,3,,
+ARREST,16174877,2701,Simple Assault.,09/15/2016,20:25,100 block Bausman St,Knoxville,3,18,M
+ARREST,16174877,2706,Terroristic Threats.,09/15/2016,20:25,100 block Bausman St,Knoxville,3,18,M
+ARREST,16174877,3503(b.1)(i),Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises,09/15/2016,20:25,100 block Bausman St,Knoxville,3,18,M
+ARREST,16174877,5104,Resisting Arrest or Other Law Enforcement.,09/15/2016,20:25,100 block Bausman St,Knoxville,3,18,M
+ARREST,16174877,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,09/15/2016,20:25,100 block Bausman St,Knoxville,3,18,M
+ARREST,16174865,1372,Unauthorized Transfer or Use of Registration.,09/15/2016,20:36,300 block Chalfont St,Beltzhoover,3,68,M
+ARREST,16174865,1543,Driving While Operating Privilege is Suspended or Revoked.,09/15/2016,20:36,300 block Chalfont St,Beltzhoover,3,68,M
+ARREST,16174865,3925,Receiving Stolen Property.,09/15/2016,20:36,300 block Chalfont St,Beltzhoover,3,68,M
+ARREST,16174865,5104,Resisting Arrest or Other Law Enforcement.,09/15/2016,20:36,300 block Chalfont St,Beltzhoover,3,68,M
+OFFENSE 2.0,16174877,2706,Terroristic Threats.,09/15/2016,20:48,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16174877,3503(b.1)(i),Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises,09/15/2016,20:48,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16174877,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,09/15/2016,20:48,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16174877,5104,Resisting Arrest or Other Law Enforcement.,09/15/2016,20:48,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,16174877,2701,Simple Assault.,09/15/2016,20:48,100 block Bausman St,Knoxville,3,,
+ARREST,16166627,4915,Failure to Comply with Megans Law,09/15/2016,01:30,7400 block Penfield Ct,Point Breeze North,4,36,M
+OFFENSE 2.0,16174357,9497,Aided Case,09/15/2016,02:33,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16173671,9999,9999 - (Misc. Incident): Mayor's Complanit,09/15/2016,03:05,4700 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,16174374,3929,Retail Theft.,09/15/2016,03:59,4600 block Centre Ave,North Oakland,4,,
+OFFENSE 2.0,16174485,9501,Bench Warrant,09/15/2016,09:00,300 block Four Mile Run Rd,Greenfield,4,,
+ARREST,16174485,9501,Bench Warrant,09/15/2016,10:00,300 block Four Mile Run Rd,Greenfield,4,42,F
+OFFENSE 2.0,16174536,3743,Accidents Involving Damage to Attended Veh. or Property,09/15/2016,11:10,Interboro Ave & Oakleaf Dr,Lincoln Place,4,,
+OFFENSE 2.0,16174655,3502,Burglary.,09/15/2016,14:30,300 block N Craig St,North Oakland,4,,
+OFFENSE 2.0,16174694,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,09/15/2016,15:35,5500 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,16174694,3503(b)(1)(i),Actual Communication,09/15/2016,15:35,5500 block Centre Ave,Shadyside,4,,
+ARREST,16174694,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,09/15/2016,16:05,5500 block Centre Ave,Shadyside,4,53,F
+ARREST,16174694,3503(b)(1)(i),Actual Communication,09/15/2016,16:05,5500 block Centre Ave,Shadyside,4,53,F
+OFFENSE 2.0,16174847,3502,Burglary.,09/15/2016,18:30,400 block S Highland Ave,Shadyside,4,,
+OFFENSE 2.0,16174958,3701,Robbery.,09/15/2016,19:30,700 block Johnston Ave,Glen Hazel,4,,
+OFFENSE 2.0,16174965,3502,Burglary.,09/15/2016,22:30,5400 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,16174423,9489,Found Property,09/15/2016,07:29,Hampton St & King Ave,Highland Park,5,,
+OFFENSE 2.0,16174539,3743,Accidents Involving Damage to Attended Veh. or Property,09/15/2016,08:30,Washington Blvd & One Wild Pl,Morningside,5,,
+OFFENSE 2.0,16174519,3934,Theft from Vehicle,09/15/2016,09:30,5400 block Stanton Ave,Morningside,5,,
+ARREST,16174746,9501,Bench Warrant,09/15/2016,15:13,7900 block Hamilton Ave,Homewood South,5,22,M
+OFFENSE 2.0,16174746,9501,Bench Warrant,09/15/2016,15:13,7900 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,16174727,3502,Burglary.,09/15/2016,16:00,6900 block Kelly St,Homewood West,5,,
+OFFENSE 2.0,16174752,9997,Overdose Death,09/15/2016,16:58,5600 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16174880,3921,Theft by Unlawful Taking or Disposition.,09/15/2016,17:15,300 block S Negley Ave,Friendship,5,,
+OFFENSE 2.0,16174769,3929,Retail Theft.,09/15/2016,17:22,400 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,16174769,2701,Simple Assault.,09/15/2016,17:22,400 block N Highland Ave,East Liberty,5,,
+ARREST,16148449,3701,Robbery.,09/15/2016,17:25,Deary St & Larimer Ave Brg,Lincoln-Lemington-Belmar,5,18,M
+ARREST,16174769,3929,Retail Theft.,09/15/2016,17:29,400 block N Highland Ave,East Liberty,5,52,M
+ARREST,16174769,2701,Simple Assault.,09/15/2016,17:29,400 block N Highland Ave,East Liberty,5,52,M
+OFFENSE 2.0,16174889,3743,Accidents Involving Damage to Attended Veh. or Property,09/15/2016,20:40,N highland Ave & East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,16174317,3304,Criminal Mischief.,09/15/2016,01:05,300 block Stanhope St,Esplen,6,,
+OFFENSE 2.0,16174514,3743,Accidents Involving Damage to Attended Veh. or Property,09/15/2016,08:15,Dunster St & La Moine St,Brookline,6,,
+OFFENSE 2.0,16125139,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,09/15/2016,10:16,500 block Brookline Blvd,Golden Triangle/Civic Arena,6,,
+ARREST,16125139,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,09/15/2016,10:16,500 block Brookline Blvd,Golden Triangle/Civic Arena,6,18,F
+OFFENSE 2.0,16174584,9496,Dead on Arrival (DOA),09/15/2016,12:43,2800 block Banksville Rd,Banksville,6,,
+ARREST,16125609,9015,Failure To Appear/Arrest on Attachment Order,09/15/2016,14:00,1500 block Broadway Ave,Bluff,6,36,F
+OFFENSE 2.0,16174661,2702,Aggravated Assault.,09/15/2016,14:45,1200 block Tweed St,Sheraden,6,,
+OFFENSE 2.0,16174700,3502,Burglary.,09/15/2016,15:30,500 block Beaufort Ave,Brookline,6,,
+OFFENSE 2.0,16174760,3502,Burglary.,09/15/2016,17:30,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,16174806,3304,Criminal Mischief.,09/15/2016,18:00,700 block Mayville Ave,Brookline,6,,
+ARREST,16169284,3304,Criminal Mischief.,09/15/2016,18:45,2900 block Banksville Rd,Banksville,6,48,M
+ARREST,16169284,3502,Burglary.,09/15/2016,18:45,2900 block Banksville Rd,Banksville,6,48,M
+OFFENSE 2.0,16174846,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/15/2016,18:48,600 block Southcrest Dr,Brookline,6,,
+OFFENSE 2.0,16174920,3301,Arson ,09/15/2016,21:22,1600 block Belhurst Ave,Windgap,6,,
+OFFENSE 2.0,16174920,3302,Causing or Risking Catastrophe.,09/15/2016,21:22,1600 block Belhurst Ave,Windgap,6,,
+OFFENSE 2.0,16174920,3304(a)(1),CRIMINAL MISCHIEF-Prop Damage By Fire  Explosives  or Other Dangerous Means,09/15/2016,21:22,1600 block Belhurst Ave,Windgap,6,,
+ARREST,16174920,3301,Arson ,09/15/2016,22:00,1600 block Belhurst Ave,Windgap,6,27,M
+ARREST,16174920,3302,Causing or Risking Catastrophe.,09/15/2016,22:00,1600 block Belhurst Ave,Windgap,6,27,M
+ARREST,16174920,3304(a)(1),CRIMINAL MISCHIEF-Prop Damage By Fire  Explosives  or Other Dangerous Means,09/15/2016,22:00,1600 block Belhurst Ave,Windgap,6,27,M
