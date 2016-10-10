@@ -1,0 +1,123 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16190823,2701,Simple Assault.,10/09/2016,01:16,300 block North Shore Dr,Chateau,1,,
+OFFENSE 2.0,16190823,5104,Resisting Arrest or Other Law Enforcement.,10/09/2016,01:16,300 block North Shore Dr,Chateau,1,,
+ARREST,16190823,2701,Simple Assault.,10/09/2016,01:16,300 block North Shore Dr,Chateau,1,23,M
+ARREST,16190823,5104,Resisting Arrest or Other Law Enforcement.,10/09/2016,01:16,300 block North Shore Dr,Chateau,1,23,M
+OFFENSE 2.0,16191017,3304,Criminal Mischief.,10/09/2016,02:30,Haug St & High St,Spring Garden,1,,
+OFFENSE 2.0,16190866,3802(a)(1),DUI - General Impairment,10/09/2016,02:40,1400 block Benton Ave,Brighton Heights,1,,
+OFFENSE 2.0,16190866,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,10/09/2016,02:40,1400 block Benton Ave,Brighton Heights,1,,
+OFFENSE 2.0,16190866,3809(a),Restriction on Alcoholic Beverages in Vehicle,10/09/2016,02:40,1400 block Benton Ave,Brighton Heights,1,,
+ARREST,16190866,3802(a)(1),DUI - General Impairment,10/09/2016,03:20,1400 block Benton Ave,Brighton Heights,1,24,M
+ARREST,16190866,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,10/09/2016,03:20,1400 block Benton Ave,Brighton Heights,1,24,M
+ARREST,16190866,3809(a),Restriction on Alcoholic Beverages in Vehicle,10/09/2016,03:20,1400 block Benton Ave,Brighton Heights,1,24,M
+OFFENSE 2.0,16190964,9488,False  Burglar Alarm,10/09/2016,08:51,1300 block Superior Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16190978,2701,Simple Assault.,10/09/2016,09:42,Federal St N & E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,16190978,3304,Criminal Mischief.,10/09/2016,09:42,Federal St N & E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,16191005,9999,9999 - (Misc. Incident): Child Custody Dispute,10/09/2016,10:25,1500 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,16191082,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/09/2016,12:30,1900 block Rockledge St,Spring Hill-City View,1,,
+OFFENSE 2.0,16191165,9497,Aided Case,10/09/2016,15:27,2600 block Palisade Ln,Perry South,1,,
+OFFENSE 2.0,16191178,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/09/2016,16:00,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,16191198,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,10/09/2016,16:38,Preble Ave & W North Ave,Chateau,1,,
+OFFENSE 2.0,16191198,3934,Theft from Vehicle,10/09/2016,16:38,Preble Ave & W North Ave,Chateau,1,,
+OFFENSE 2.0,16191216,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/09/2016,17:00,General Robinson St E,North Shore,1,,
+OFFENSE 2.0,16191270,13(a)(32),Paraphernalia - Use or Possession,10/09/2016,19:07,300 block Shockoe Way & Fountain St,Central North Side,1,,
+ARREST,16191270,13(a)(32),Paraphernalia - Use or Possession,10/09/2016,19:07,300 block Shockoe Way & Fountain St,Central North Side,1,46,M
+OFFENSE 2.0,16190777,3802(a)(1),DUI - General Impairment,10/09/2016,00:15,4800 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,16190802,2701,Simple Assault.,10/09/2016,00:40,500 block Landleiss Pl,Upper Hill,2,,
+ARREST,16190802,2701,Simple Assault.,10/09/2016,02:00,500 block Landleiss Pl,Upper Hill,2,54,M
+OFFENSE 2.0,16191226,3743,Accidents Involving Damage to Attended Veh. or Property,10/09/2016,14:45,Penn Ave & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16191175,13(a)(16),Possession of Controlled Substance,10/09/2016,15:55,700 block 2nd Ave,Bluff,2,,
+OFFENSE 2.0,16191175,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,10/09/2016,15:55,700 block 2nd Ave,Bluff,2,,
+OFFENSE 2.0,16191175,9998,Overdose Other,10/09/2016,15:55,700 block 2nd Ave,Bluff,2,,
+OFFENSE 2.0,16191203,3743,Accidents Involving Damage to Attended Veh. or Property,10/09/2016,16:30,Grant St & Blvd Of The Allies,Central Business District,2,,
+OFFENSE 2.0,16191211,3353,Prohibitions in Specified Places.,10/09/2016,17:03,10th St Byp & Fort Duquesne Blvd,Central Business District,2,,
+OFFENSE 2.0,16191211,9999,9999 - (Misc. Incident): ,10/09/2016,17:03,10th St Byp & Fort Duquesne Blvd,Central Business District,2,,
+OFFENSE 2.0,16191211,3352,Removal of Vehicle by or at Direction of Police.,10/09/2016,17:03,10th St Byp & Fort Duquesne Blvd,Central Business District,2,,
+OFFENSE 2.0,16191211,1311,Registration Card to be Signed and Exhibited on Demand.,10/09/2016,17:03,10th St Byp & Fort Duquesne Blvd,Central Business District,2,,
+OFFENSE 2.0,16191197,3743,Accidents Involving Damage to Attended Veh. or Property,10/09/2016,17:05,Fort Pitt Blvd & Grant St,Central Business District,2,,
+OFFENSE 2.0,16191236,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/09/2016,17:53,100 block 6th St,Central Business District,2,,
+OFFENSE 2.0,16191250,9999,9999 - (Misc. Incident): ,10/09/2016,18:00,800 block Liberty Ave,Central Business District,2,,
+OFFENSE 2.0,16191250,3922,Theft by Deception.,10/09/2016,18:00,800 block Liberty Ave,Central Business District,2,,
+OFFENSE 2.0,16191242,9134,Pedestrian Hit by Vehicle/Non-Reportable Accident,10/09/2016,18:05,100 block Market St,Central Business District,2,,
+ARREST,15199667,13(a)(32),Paraphernalia - Use or Possession,10/09/2016,18:30,1600 block Colwell St,Crawford-Roberts,2,50,M
+ARREST,16185844,1301,Registration and Certificate of Title Required.,10/09/2016,18:30,600 block 1st Ave,Highland Park,2,25,M
+ARREST,16185844,4703,Operation of Vehicle without Official Certif. of Inspection,10/09/2016,18:30,600 block 1st Ave,Highland Park,2,25,M
+ARREST,16185844,13(a)(31)(i),Marijuana - Possess Small Amt for Personal Use,10/09/2016,18:30,600 block 1st Ave,Highland Park,2,25,M
+OFFENSE 2.0,16191276,3304,Criminal Mischief.,10/09/2016,19:15,200 block 37th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16191281,8106,Shots Fired,10/09/2016,19:17,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,16191279,3926(a)(4),Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restaurants),10/09/2016,19:22,100 block 9th St,Central Business District,2,,
+OFFENSE 2.0,16191312,9496,Dead on Arrival (DOA),10/09/2016,20:18,600 block Penn Ave,Central Business District,2,,
+ARREST,16032479,3502,Burglary.,10/09/2016,21:45,600 block Penn Ave,Central Business District,2,45,M
+ARREST,16159533,3502,Burglary.,10/09/2016,00:45,2200 block Arlington Ave,Arlington,3,37,M
+OFFENSE 2.0,16190849,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,10/09/2016,01:56,1700 block Mary St,South Side Flats,3,,
+OFFENSE 2.0,16190857,3743,Accidents Involving Damage to Attended Veh. or Property,10/09/2016,02:23,Saw Mill Run Blvd & Woodruff St,Duquesne Heights,3,,
+OFFENSE 2.0,16190858,9489,Found Property,10/09/2016,02:27,S 17th St & Roland St,South Side Flats,3,,
+OFFENSE 2.0,16190861,5502,Failure of Disorderly Persons to Disperse ,10/09/2016,02:33,1000 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16190861,5104,Resisting Arrest or Other Law Enforcement.,10/09/2016,02:33,1000 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16190861,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/09/2016,02:33,1000 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16190861,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,10/09/2016,02:33,1000 block E Carson St,South Side Flats,3,,
+ARREST,16190861,5502,Failure of Disorderly Persons to Disperse ,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,17,F
+ARREST,16190861,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,17,F
+ARREST,16190861,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,20,F
+ARREST,16190861,5104,Resisting Arrest or Other Law Enforcement.,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,20,F
+ARREST,16190861,5502,Failure of Disorderly Persons to Disperse ,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,20,F
+ARREST,16190861,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,20,F
+ARREST,16190861,5104,Resisting Arrest or Other Law Enforcement.,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,17,F
+ARREST,16190861,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,17,F
+ARREST,16190861,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,19,F
+ARREST,16190861,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,19,F
+ARREST,16190861,5502,Failure of Disorderly Persons to Disperse ,10/09/2016,02:40,1000 block E Carson St,South Side Flats,3,19,F
+OFFENSE 2.0,16190878,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/09/2016,03:14,1700 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16190969,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/09/2016,09:00,1600 block Oakhurst St,Carrick,3,,
+OFFENSE 2.0,16191266,3304,Criminal Mischief.,10/09/2016,09:00,1600 block Oakhurst St,Carrick,3,,
+OFFENSE 2.0,16191075,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/09/2016,10:00,800 block Proctor Way,Allentown,3,,
+OFFENSE 2.0,16190997,9488,False  Burglar Alarm,10/09/2016,10:08,200 block Chalfont St,Beltzhoover,3,,
+OFFENSE 2.0,16191179,2706,Terroristic Threats.,10/09/2016,15:58,S 16th St,South Side Flats,3,,
+OFFENSE 2.0,16191179,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/09/2016,15:58,S 16th St,South Side Flats,3,,
+OFFENSE 2.0,16191179,2709(b),Stalking,10/09/2016,15:58,S 16th St,South Side Flats,3,,
+ARREST,16191179,2709(b),Stalking,10/09/2016,16:59,S 16th St,South Side Flats,3,20,F
+ARREST,16191179,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/09/2016,16:59,S 16th St,South Side Flats,3,20,F
+ARREST,16191179,2706,Terroristic Threats.,10/09/2016,16:59,S 16th St,South Side Flats,3,20,F
+OFFENSE 2.0,16191212,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/09/2016,17:02,200 block Station Square Dr W,South Shore,3,,
+OFFENSE 2.0,16191212,13(a)(32),Paraphernalia - Use or Possession,10/09/2016,17:02,200 block Station Square Dr W,South Shore,3,,
+OFFENSE 2.0,16191231,3921,Theft by Unlawful Taking or Disposition.,10/09/2016,17:10,1000 block E Carson St,South Side Flats,3,,
+ARREST,16191212,13(a)(32),Paraphernalia - Use or Possession,10/09/2016,17:15,200 block Station Square Dr W,South Shore,3,26,M
+ARREST,16191212,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/09/2016,17:15,200 block Station Square Dr W,South Shore,3,26,M
+OFFENSE 2.0,16191245,2701,Simple Assault.,10/09/2016,18:00,2200 block Brownsville Rd,Carrick,3,,
+ARREST,16191245,2701,Simple Assault.,10/09/2016,18:18,2200 block Brownsville Rd,Carrick,3,45,M
+OFFENSE 2.0,16191300,2701,Simple Assault.,10/09/2016,19:53,200 block Edith St,Duquesne Heights,3,,
+ARREST,16191300,2701,Simple Assault.,10/09/2016,20:43,200 block Edith St,Duquesne Heights,3,27,M
+OFFENSE 2.0,16190790,2709,Harassment (Non-Specific),10/09/2016,00:23,200 block Swope St,Shadyside,4,,
+OFFENSE 2.0,16190918,3502,Burglary.,10/09/2016,03:00,300 block Meyran Ave,Central Oakland,4,,
+OFFENSE 2.0,16190880,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/09/2016,03:15,Sennott St & Atwood St,Central Oakland,4,,
+OFFENSE 2.0,16190905,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/09/2016,03:30,300 block Semple St,Central Oakland,4,,
+OFFENSE 2.0,16190905,3502,Burglary.,10/09/2016,03:30,300 block Semple St,Central Oakland,4,,
+OFFENSE 2.0,16190985,3743,Accidents Involving Damage to Attended Veh. or Property,10/09/2016,09:56,Bates St & Mc Kee Pl,Central Oakland,4,,
+OFFENSE 2.0,16191057,3934,Theft from Vehicle,10/09/2016,11:30,100 block Mt Royal Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16191164,3701,Robbery.,10/09/2016,15:25,400 block N Homewood Ave,Point Breeze North,4,,
+OFFENSE 2.0,16191164,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/09/2016,15:25,400 block N Homewood Ave,Point Breeze North,4,,
+OFFENSE 2.0,16191164,903,Criminal Conspiracy.,10/09/2016,15:25,400 block N Homewood Ave,Point Breeze North,4,,
+OFFENSE 2.0,16191164,3702,Robbery of Motor Vehicle.,10/09/2016,15:25,400 block N Homewood Ave,Point Breeze North,4,,
+OFFENSE 2.0,16191247,3502,Burglary.,10/09/2016,17:00,5000 block Gloster St,Hazelwood,4,,
+OFFENSE 2.0,16191347,3503,Criminal Trespass,10/09/2016,22:15,2000 block De Ruad St,West Oakland,4,,
+OFFENSE 2.0,16191003,3502,Burglary.,10/09/2016,10:14,1000 block N Lang Ave,Homewood North,5,,
+OFFENSE 2.0,16191233,3304,Criminal Mischief.,10/09/2016,17:47,400 block Pearl St,Bloomfield,5,,
+OFFENSE 2.0,16191224,13(a)(31),Marijuana: Possession Small Amount,10/09/2016,18:07,Bennett St & N Murtland St,Homewood West,5,,
+OFFENSE 2.0,16191224,1501,Drivers Required to be Licensed.,10/09/2016,18:07,Bennett St & N Murtland St,Homewood West,5,,
+OFFENSE 2.0,16191224,1543,Driving While Operating Privilege is Suspended or Revoked.,10/09/2016,18:07,Bennett St & N Murtland St,Homewood West,5,,
+OFFENSE 2.0,16191224,3334,Turning Movements and Required Signals.,10/09/2016,18:07,Bennett St & N Murtland St,Homewood West,5,,
+OFFENSE 2.0,16191224,4910,Tampering with or Fabricating Physical Evidence.,10/09/2016,18:07,Bennett St & N Murtland St,Homewood West,5,,
+ARREST,16191224,4910,Tampering with or Fabricating Physical Evidence.,10/09/2016,18:07,Bennett St & N Murtland St,Homewood West,5,26,M
+ARREST,16191224,13(a)(31),Marijuana: Possession Small Amount,10/09/2016,18:07,Bennett St & N Murtland St,Homewood West,5,26,M
+OFFENSE 2.0,16191274,9497,Aided Case,10/09/2016,19:10,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16191317,2701,Simple Assault.,10/09/2016,20:34,600 block N St Clair St,East Liberty,5,,
+ARREST,16191317,2701,Simple Assault.,10/09/2016,20:52,600 block N St Clair St,East Liberty,5,30,M
+OFFENSE 2.0,16190928,9488,False  Burglar Alarm,10/09/2016,05:17,1800 block Noblestown Rd,Westwood,6,,
+OFFENSE 2.0,16191012,9488,False  Burglar Alarm,10/09/2016,10:45,2300 block Whited St,Brookline,6,,
+OFFENSE 2.0,16191108,9488,False  Burglar Alarm,10/09/2016,13:40,3400 block Clearfield St,Windgap,6,,
+OFFENSE 2.0,16191292,2702,Aggravated Assault.,10/09/2016,19:31,1100 block Clippert Ave,Brookline,6,,
+ARREST,16191289,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,10/09/2016,20:00,1700 block Wabash St,West End,6,23,M
+ARREST,16191289,3802(a)(1),DUI - General Impairment,10/09/2016,20:00,1700 block Wabash St,West End,6,23,M
+OFFENSE 2.0,16191289,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,10/09/2016,20:02,1700 block Wabash St,West End,6,,
+OFFENSE 2.0,16191289,3802(a)(1),DUI - General Impairment,10/09/2016,20:02,1700 block Wabash St,West End,6,,
+ARREST,16191292,2702,Aggravated Assault.,10/09/2016,20:31,1100 block Clippert Ave,Brookline,6,37,M
