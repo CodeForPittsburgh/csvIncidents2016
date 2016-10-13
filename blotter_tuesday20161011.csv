@@ -1,0 +1,156 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16192549,4106,Access Device Fraud,10/11/2016,00:01,1200 block Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,16192549,3921,Theft by Unlawful Taking or Disposition.,10/11/2016,00:01,1200 block Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,16192042,3701,Robbery.,10/11/2016,01:04,2600 block Sunset Ave,Spring Hill-City View,1,,
+OFFENSE 2.0,16192060,2702,Aggravated Assault.,10/11/2016,01:30,1400 block Liverpool St,Manchester,1,,
+OFFENSE 2.0,16192060,2707.1,Discharge of a Firearm into Occupied Structure,10/11/2016,01:30,1400 block Liverpool St,Manchester,1,,
+OFFENSE 2.0,16192060,2705,Recklessly Endangering Another Person.,10/11/2016,01:30,1400 block Liverpool St,Manchester,1,,
+ARREST,16192060,2705,Recklessly Endangering Another Person.,10/11/2016,02:30,1400 block Liverpool St,Manchester,1,24,F
+ARREST,16192060,2707.1,Discharge of a Firearm into Occupied Structure,10/11/2016,02:30,1400 block Liverpool St,Manchester,1,24,F
+ARREST,16192060,2702,Aggravated Assault.,10/11/2016,02:30,1400 block Liverpool St,Manchester,1,24,F
+OFFENSE 2.0,16192119,3304,Criminal Mischief.,10/11/2016,04:22,500 block East Ohio St,East Allegheny,1,,
+ARREST,16185601,2702,Aggravated Assault.,10/11/2016,08:48,1500 block Brighton Rd,California-Kirkbride,1,54,F
+OFFENSE 2.0,16192227,3934,Theft from Vehicle,10/11/2016,09:00,1900 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,16192331,3502,Burglary.,10/11/2016,09:00,2300 block Preble Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16192227,3304,Criminal Mischief.,10/11/2016,09:00,1900 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,16192235,3304,Criminal Mischief.,10/11/2016,09:30,1200 block Veto St,Central North Side,1,,
+OFFENSE 2.0,16192235,3934,Theft from Vehicle,10/11/2016,09:30,1200 block Veto St,Central North Side,1,,
+ARREST,16160310,3304,Criminal Mischief.,10/11/2016,09:45,Anderson St & Lacock St,North Shore,1,37,M
+OFFENSE 2.0,16192343,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/11/2016,10:00,1400 block Sandusky St N,Central North Side,1,,
+OFFENSE 2.0,16192250,9490,Missing Persons (18 and Over),10/11/2016,11:15,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16192304,9125,Possible  Stolen Car Recovered,10/11/2016,12:09,2400 block Osgood St,Perry South,1,,
+OFFENSE 2.0,16192304,5126,Flight to Avoid Apprehension  Trial or Punishment.,10/11/2016,12:09,2400 block Osgood St,Perry South,1,,
+OFFENSE 2.0,16192304,3733,Fleeing or Attempting to Elude Police Officer,10/11/2016,12:09,2400 block Osgood St,Perry South,1,,
+OFFENSE 2.0,16192304,3111,Obedience to Traffic-Control Devices.,10/11/2016,12:09,2400 block Osgood St,Perry South,1,,
+OFFENSE 2.0,16192304,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/11/2016,12:09,2400 block Osgood St,Perry South,1,,
+OFFENSE 2.0,16192315,9488,False  Burglar Alarm,10/11/2016,12:27,Waldorf St,Perry North,1,,
+OFFENSE 2.0,16192347,3502,Burglary.,10/11/2016,13:22,400 block Ridgewood St,Perry South,1,,
+ARREST,16148711,6106,Firearms not to be Carried without a License.,10/11/2016,13:35,800 block Mt Pleasant Rd,Northview Heights,1,21,M
+ARREST,16148711,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),10/11/2016,13:35,800 block Mt Pleasant Rd,Northview Heights,1,21,M
+ARREST,16148711,2501,Criminal Homicide.,10/11/2016,13:35,800 block Mt Pleasant Rd,Northview Heights,1,21,M
+ARREST,16187731,3925,Receiving Stolen Property.,10/11/2016,16:19,1600 block Sandusky Ct,Fineview,1,23,M
+ARREST,16187731,903,Criminal Conspiracy.,10/11/2016,16:19,1600 block Sandusky Ct,Fineview,1,23,M
+ARREST,16187731,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),10/11/2016,16:19,1600 block Sandusky Ct,Fineview,1,23,M
+ARREST,16187731,13(a)(16),Possession of Controlled Substance,10/11/2016,16:19,1600 block Sandusky Ct,Fineview,1,23,M
+ARREST,16187731,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/11/2016,16:19,1600 block Sandusky Ct,Fineview,1,23,M
+OFFENSE 2.0,16192487,9488,False  Burglar Alarm,10/11/2016,17:19,800 block Galveston Ave,Allegheny West,1,,
+ARREST,16191698,3701,Robbery.,10/11/2016,17:40,Three Rvers Heritage Trl,Chateau,1,50,M
+OFFENSE 2.0,16192610,2709(a),Harassment.,10/11/2016,19:57,400 block Benton Ave,Brighton Heights,1,,
+OFFENSE 2.0,16192594,3701,Robbery.,10/11/2016,20:07,2600 block Sunset Ave,Spring Hill-City View,1,,
+OFFENSE 2.0,16192692,3921,Theft by Unlawful Taking or Disposition.,10/11/2016,23:50,500 block Knoll St,East Allegheny,1,,
+OFFENSE 2.0,16192036,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/11/2016,00:43,300 block Eckstein Pl,Terrace Village,2,,
+OFFENSE 2.0,16192074,5505,Public Drunkenness,10/11/2016,02:40,54th St & Keystone St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16192192,2709,Harassment (Non-Specific),10/11/2016,05:30,400 block Hancock St,Polish Hill,2,,
+OFFENSE 2.0,16192192,3934,Theft from Vehicle,10/11/2016,05:30,400 block Hancock St,Polish Hill,2,,
+OFFENSE 2.0,16192192,3304,Criminal Mischief.,10/11/2016,05:30,400 block Hancock St,Polish Hill,2,,
+OFFENSE 2.0,16192162,3921,Theft by Unlawful Taking or Disposition.,10/11/2016,07:00,300 block 37th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,16192175,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/11/2016,07:30,900 block Watson St,Bluff,2,,
+OFFENSE 2.0,16192182,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/11/2016,08:00,37th St & Mintwood St,Lower Lawrenceville,2,,
+ARREST,16179601,13(a)(32),Paraphernalia - Use or Possession,10/11/2016,10:23,400 block Ross St,Central Business District,2,71,F
+ARREST,16179601,13(a)(16),Possession of Controlled Substance,10/11/2016,10:23,400 block Ross St,Central Business District,2,71,F
+ARREST,16179601,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/11/2016,10:23,400 block Ross St,Central Business District,2,71,F
+OFFENSE 2.0,16192292,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/11/2016,11:47,900 block Liberty Ave,Central Business District,2,,
+OFFENSE 2.0,16192434,4101,Forgery.,10/11/2016,16:14,400 block Smithfield St,Central Business District,2,,
+ARREST,16137838,2701,Simple Assault.,10/11/2016,16:19,600 block Junilla St,Middle Hill,2,23,M
+ARREST,16192443,5104,Resisting Arrest or Other Law Enforcement.,10/11/2016,16:19,Junilla St & Upfold Way,Middle Hill,2,23,M
+ARREST,16192443,5121,Escape.,10/11/2016,16:19,Junilla St & Upfold Way,Middle Hill,2,23,M
+ARREST,16192443,5126,Flight to Avoid Apprehension  Trial or Punishment.,10/11/2016,16:19,Junilla St & Upfold Way,Middle Hill,2,23,M
+OFFENSE 2.0,16192443,5104,Resisting Arrest or Other Law Enforcement.,10/11/2016,16:19,Junilla St & Upfold Way,Middle Hill,2,,
+OFFENSE 2.0,16192443,5121,Escape.,10/11/2016,16:19,Junilla St & Upfold Way,Middle Hill,2,,
+OFFENSE 2.0,16192443,5126,Flight to Avoid Apprehension  Trial or Punishment.,10/11/2016,16:19,Junilla St & Upfold Way,Middle Hill,2,,
+OFFENSE 2.0,16192540,9504,Lost Property,10/11/2016,16:30,600 block Grant St,Central Business District,2,,
+OFFENSE 2.0,16192580,3304,Criminal Mischief.,10/11/2016,18:00,100 block McCandless Ave,Upper Lawrenceville,2,,
+OFFENSE 2.0,16192569,3743,Accidents Involving Damage to Attended Veh. or Property,10/11/2016,18:30,500 block Oak Hill Dr,Terrace Village,2,,
+OFFENSE 2.0,16192581,2709(a),Harassment.,10/11/2016,18:45,Herron Ave & Hancock St,Polish Hill,2,,
+OFFENSE 2.0,16192555,9998,Overdose Other,10/11/2016,19:15,Centre Ave & Kirkpatrick St,Middle Hill,2,,
+ARREST,16140773,4120,Identity Theft,10/11/2016,01:39,2600 block E Carson St,South Side Flats,3,23,F
+ARREST,16140773,4106,Access Device Fraud,10/11/2016,01:39,2600 block E Carson St,South Side Flats,3,23,F
+ARREST,16140773,3926.C1,THEFT OF SERVICES,10/11/2016,01:39,2600 block E Carson St,South Side Flats,3,23,F
+OFFENSE 2.0,16192122,9497,Aided Case,10/11/2016,04:45,2800 block Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,16192161,3304,Criminal Mischief.,10/11/2016,07:10,E Meyers St,Carrick,3,,
+OFFENSE 2.0,16192215,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/11/2016,07:20,S 26th St & Josephine St,South Side Flats,3,,
+OFFENSE 2.0,16192483,3304,Criminal Mischief.,10/11/2016,07:30,1400 block Transverse Ave,Carrick,3,,
+OFFENSE 2.0,16192559,3502,Burglary.,10/11/2016,08:45,100 block Spencer Ave,Carrick,3,,
+OFFENSE 2.0,16192303,5505,Public Drunkenness,10/11/2016,11:10,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16192303,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/11/2016,11:10,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16192303,2702,Aggravated Assault.,10/11/2016,11:10,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,16192303,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,10/11/2016,11:10,2000 block Wharton St,South Side Flats,3,,
+ARREST,16192303,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,10/11/2016,11:10,2000 block Wharton St,South Side Flats,3,56,M
+ARREST,16192303,5505,Public Drunkenness,10/11/2016,11:10,2000 block Wharton St,South Side Flats,3,56,M
+ARREST,16192303,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/11/2016,11:10,2000 block Wharton St,South Side Flats,3,56,M
+ARREST,16192303,2702,Aggravated Assault.,10/11/2016,11:10,2000 block Wharton St,South Side Flats,3,56,M
+OFFENSE 2.0,16192283,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/11/2016,12:16,1900 block E Carson St,South Side Flats,3,,
+ARREST,16192283,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/11/2016,12:16,1900 block E Carson St,South Side Flats,3,31,F
+OFFENSE 2.0,16192437,3928,Unauthorized Use of Automobile and Other Vehicles.,10/11/2016,16:22,200 block Charles St,Knoxville,3,,
+OFFENSE 2.0,16192471,2706,Terroristic Threats.,10/11/2016,16:35,E Carson St & Becks Run Rd,South Side Flats,3,,
+OFFENSE 2.0,16192501,2709(a)(2),Harassment by Following Person in Public Place(s),10/11/2016,17:37,1100 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,16192593,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/11/2016,19:15,100 block Hornaday Rd,Carrick,3,,
+ARREST,16159687,3502,Burglary.,10/11/2016,19:20,1500 block E Carson St,South Side Flats,3,30,M
+OFFENSE 2.0,16192583,9497,Aided Case,10/11/2016,19:44,11th St,Central Business District,3,,
+OFFENSE 2.0,16192150,3921,Theft by Unlawful Taking or Disposition.,10/11/2016,06:30,3700 block Orpwood St,South Oakland,4,,
+OFFENSE 2.0,16192199,3934,Theft from Vehicle,10/11/2016,08:30,6300 block Morrowfield Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16192181,2709(b),Stalking,10/11/2016,08:47,600 block N Bellefonte St,Shadyside,4,,
+OFFENSE 2.0,16192181,2709(a),Harassment.,10/11/2016,08:47,600 block N Bellefonte St,Shadyside,4,,
+OFFENSE 2.0,16192241,9998,Overdose Other,10/11/2016,10:26,2000 block De Ruad St & Wyandotte St,West Oakland,4,,
+OFFENSE 2.0,16192393,3304,Criminal Mischief.,10/11/2016,12:00,300 block Spahr St,Shadyside,4,,
+OFFENSE 2.0,16192393,3934,Theft from Vehicle,10/11/2016,12:00,300 block Spahr St,Shadyside,4,,
+OFFENSE 2.0,16192414,9093,Indirect Criminal Contempt,10/11/2016,14:30,4300 block Tesla St,Greenfield,4,,
+OFFENSE 2.0,16192431,3502,Burglary.,10/11/2016,15:30,Courtland St,Hazelwood,4,,
+ARREST,16192414,9093,Indirect Criminal Contempt,10/11/2016,16:08,4300 block Tesla St,Greenfield,4,46,M
+ARREST,16192505,13(a)(16),Possession of Controlled Substance,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,33,M
+ARREST,16192505,13(a)(19),Purchase from Unauthorized Seller,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,33,M
+ARREST,16192505,13(a)(30)*,Delivery of Controlled Substance,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,33,M
+ARREST,16192505,13(a)(16),Possession of Controlled Substance,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,51,M
+ARREST,16192505,13(a)(19),Purchase from Unauthorized Seller,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,51,M
+ARREST,16192505,13(a)(30)*,Delivery of Controlled Substance,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,51,M
+OFFENSE 2.0,16192505,13(a)(16),Possession of Controlled Substance,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,,
+OFFENSE 2.0,16192505,13(a)(19),Purchase from Unauthorized Seller,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,,
+OFFENSE 2.0,16192505,13(a)(30)*,Delivery of Controlled Substance,10/11/2016,17:35,300 block Ashton Ave,Hazelwood,4,,
+OFFENSE 2.0,16192518,9489,Found Property,10/11/2016,18:00,6500 block 5th Ave,Point Breeze,4,,
+OFFENSE 2.0,16192492,3921,Theft by Unlawful Taking or Disposition.,10/11/2016,00:01,300 block S Aiken Ave,Bloomfield,5,,
+OFFENSE 2.0,16192075,9497,Aided Case,10/11/2016,02:30,7200 block Somerset St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16192142,3934,Theft from Vehicle,10/11/2016,05:00,Victor Way & Shetland St,Larimer,5,,
+OFFENSE 2.0,16192178,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/11/2016,09:00,1100 block Brintell St,Stanton Heights,5,,
+OFFENSE 2.0,16192193,3934,Theft from Vehicle,10/11/2016,09:00,1100 block Brintell St,Stanton Heights,5,,
+OFFENSE 2.0,16192260,9998,Overdose Other,10/11/2016,10:47,4700 block Aloe Way,Bloomfield,5,,
+ARREST,16173916,3701,Robbery.,10/11/2016,11:55,400 block N Highland Ave,East Liberty,5,29,M
+OFFENSE 2.0,16192287,9998,Overdose Other,10/11/2016,11:57,100 block S Whitfield St,East Liberty,5,,
+OFFENSE 2.0,16192301,3921,Theft by Unlawful Taking or Disposition.,10/11/2016,12:08,4500 block Rosina Way,Bloomfield,5,,
+OFFENSE 2.0,16192399,3922,Theft by Deception.,10/11/2016,14:30,5700 block Bryant St,Highland Park,5,,
+OFFENSE 2.0,16192420,3304,Criminal Mischief.,10/11/2016,15:48,5100 block Kincaid St,Garfield,5,,
+OFFENSE 2.0,16192420,8106,Shots Fired,10/11/2016,15:48,5100 block Kincaid St,Garfield,5,,
+OFFENSE 2.0,16192450,2709(a),Harassment.,10/11/2016,16:00,300 block West Penn Pl,Bloomfield,5,,
+OFFENSE 2.0,16192428,3929,Retail Theft.,10/11/2016,16:02,4700 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,16192428,9501,Bench Warrant,10/11/2016,16:02,4700 block Centre Ave,Bloomfield,5,,
+ARREST,16192428,3929,Retail Theft.,10/11/2016,16:14,4700 block Centre Ave,Bloomfield,5,47,M
+OFFENSE 2.0,16192546,3701,Robbery.,10/11/2016,19:00,7900 block Susquehanna St,Homewood South,5,,
+OFFENSE 2.0,16192572,3304,Criminal Mischief.,10/11/2016,19:30,7500 block Mulford St,Homewood South,5,,
+OFFENSE 2.0,16192572,2701(a)(3),Simple Assault - Attempts by Physical Menace ,10/11/2016,19:30,7500 block Mulford St,Homewood South,5,,
+OFFENSE 2.0,16192579,9489,Found Property,10/11/2016,19:35,4900 block Liberty Ave,Bloomfield,5,,
+OFFENSE 2.0,16192121,3701,Robbery.,10/11/2016,04:45,2600 block Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,16192121,3701,Robbery.,10/11/2016,04:45,2600 block Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,16192309,3304,Criminal Mischief.,10/11/2016,06:30,2200 block Broadway Ave,Beechview,6,,
+OFFENSE 2.0,16192172,9488,False  Burglar Alarm,10/11/2016,08:30,1800 block Broadway Ave,Beechview,6,,
+OFFENSE 2.0,16192206,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/11/2016,08:30,1200 block Arnold St,Elliott,6,,
+OFFENSE 2.0,16192578,4106,Access Device Fraud,10/11/2016,10:40,200 block Radcliffe St,Esplen,6,,
+OFFENSE 2.0,16192285,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): Extortion Attempt,10/11/2016,11:37,600 block Woodbourne Ave,Brookline,6,,
+OFFENSE 2.0,16192308,9496,Dead on Arrival (DOA),10/11/2016,12:00,1900 block Dale St,Westwood,6,,
+OFFENSE 2.0,16192562,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/11/2016,13:00,1400 block Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,16192562,2701,Simple Assault.,10/11/2016,13:00,1400 block Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,16192552,9999,9999 - (Misc. Incident): missing person,10/11/2016,15:00,3200 block Faronia St,Sheraden,6,,
+OFFENSE 2.0,16192381,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/11/2016,15:15,2100 block Noblestown Rd,Westwood,6,,
+ARREST,16192381,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/11/2016,15:15,2100 block Noblestown Rd,Westwood,6,22,M
+ARREST,16192381,13(a)(16),Possession of Controlled Substance,10/11/2016,15:15,2100 block Noblestown Rd,Westwood,6,22,M
+OFFENSE 2.0,16192381,13(a)(16),Possession of Controlled Substance,10/11/2016,15:15,2100 block Noblestown Rd,Westwood,6,,
+OFFENSE 2.0,16182233,3921,Theft by Unlawful Taking or Disposition.,10/11/2016,17:37,2700 block Stafford St,Marshall-Shadeland,6,,
+OFFENSE 2.0,16182233,3502,Burglary.,10/11/2016,17:37,2700 block Stafford St,Marshall-Shadeland,6,,
+OFFENSE 2.0,16182233,3925,Receiving Stolen Property.,10/11/2016,17:37,2700 block Stafford St,Marshall-Shadeland,6,,
+ARREST,16182233,3925,Receiving Stolen Property.,10/11/2016,17:45,2700 block Stafford St,Marshall-Shadeland,6,22,M
+ARREST,16182233,3921,Theft by Unlawful Taking or Disposition.,10/11/2016,17:45,2700 block Stafford St,Marshall-Shadeland,6,22,M
+ARREST,16182233,3502,Burglary.,10/11/2016,17:45,2700 block Stafford St,Marshall-Shadeland,6,22,M
+ARREST,16192121,903,Criminal Conspiracy.,10/11/2016,19:30,2600 block Glen Mawr St,Sheraden,6,20,M
+ARREST,16192121,6106,Firearms not to be Carried without a License.,10/11/2016,19:30,2600 block Glen Mawr St,Sheraden,6,20,M
+ARREST,16192121,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),10/11/2016,19:30,2600 block Glen Mawr St,Sheraden,6,20,M
+ARREST,16192121,3701,Robbery.,10/11/2016,19:30,2600 block Glen Mawr St,Sheraden,6,20,M
+ARREST,16192121,2705,Recklessly Endangering Another Person.,10/11/2016,19:30,2600 block Glen Mawr St,Sheraden,6,20,M
+ARREST,16192121,907,Possessing Instruments of Crime.,10/11/2016,19:30,2600 block Glen Mawr St,Sheraden,6,20,M
