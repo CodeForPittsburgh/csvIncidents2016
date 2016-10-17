@@ -1,0 +1,177 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16194691,13(a)(32),Paraphernalia - Use or Possession,10/15/2016,01:20,Mazeroski Way & Reedsdale St,North Shore,1,,
+OFFENSE 2.0,16194691,3714,Careless Driving,10/15/2016,01:20,Mazeroski Way & Reedsdale St,North Shore,1,,
+OFFENSE 2.0,16194691,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/15/2016,01:20,Mazeroski Way & Reedsdale St,North Shore,1,,
+OFFENSE 2.0,16194691,3802(a)(1),DUI - General Impairment,10/15/2016,01:20,Mazeroski Way & Reedsdale St,North Shore,1,,
+OFFENSE 2.0,16194691,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,01:20,Mazeroski Way & Reedsdale St,North Shore,1,,
+ARREST,16194691,3802(a)(1),DUI - General Impairment,10/15/2016,01:22,Mazeroski Way & Reedsdale St,North Shore,1,31,M
+ARREST,16194691,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/15/2016,01:22,Mazeroski Way & Reedsdale St,North Shore,1,31,M
+ARREST,16194691,3714,Careless Driving,10/15/2016,01:22,Mazeroski Way & Reedsdale St,North Shore,1,31,M
+ARREST,16194691,13(a)(32),Paraphernalia - Use or Possession,10/15/2016,01:22,Mazeroski Way & Reedsdale St,North Shore,1,31,M
+ARREST,16194691,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,01:22,Mazeroski Way & Reedsdale St,North Shore,1,31,M
+OFFENSE 2.0,16194733,9488,False  Burglar Alarm,10/15/2016,02:32,500 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,16194768,3926(a)(1),Theft of Services; Cable  Gas  Taxi  Bill  Tab  etc.,10/15/2016,03:57,W North Ave & Brighton Rd,Allegheny West,1,,
+OFFENSE 2.0,16194768,5505,Public Drunkenness,10/15/2016,03:57,W North Ave & Brighton Rd,Allegheny West,1,,
+ARREST,16173618,2701,Simple Assault.,10/15/2016,06:40,2300 block Colorado St,Marshall-Shadeland,1,27,M
+OFFENSE 2.0,16194965,3502,Burglary.,10/15/2016,08:30,2900 block N Charles St,Perry South,1,,
+OFFENSE 2.0,16194844,9489,Found Property,10/15/2016,09:01,Art Rooney Ave & North Shore Dr,North Shore,1,,
+OFFENSE 2.0,16194898,3503(a),Criminal Trespass,10/15/2016,10:21,3600 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,16194192,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,10/15/2016,10:30,1200 block River Ave,Troy Hill,1,,
+OFFENSE 2.0,16194192,3934,Theft from Vehicle,10/15/2016,10:30,1200 block River Ave,Troy Hill,1,,
+OFFENSE 2.0,16194993,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/15/2016,11:00,3900 block Brandon Rd,Brighton Heights,1,,
+OFFENSE 2.0,16194977,9488,False  Burglar Alarm,10/15/2016,12:48,2300 block Osgood St,Perry South,1,,
+ARREST,16180143,3502,Burglary.,10/15/2016,14:40,900 block Ahlers Way,East Allegheny,1,44,M
+OFFENSE 2.0,16195063,901,Criminal Attempt,10/15/2016,15:55,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,16195063,2702,Aggravated Assault.,10/15/2016,15:55,1600 block Sandusky Ct,Fineview,1,,
+ARREST,16140943,3921,Theft by Unlawful Taking or Disposition.,10/15/2016,16:30,1200 block Loraine St,Central North Side,1,31,M
+ARREST,16140943,2701,Simple Assault.,10/15/2016,16:30,1200 block Loraine St,Central North Side,1,31,M
+ARREST,16195063,901,Criminal Attempt,10/15/2016,16:30,1600 block Sandusky Ct,Fineview,1,31,M
+ARREST,16195063,2702,Aggravated Assault.,10/15/2016,16:30,1600 block Sandusky Ct,Fineview,1,31,M
+OFFENSE 2.0,16195113,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,16:35,1500 block Letort St,Brighton Heights,1,,
+ARREST,16195113,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,16:45,1500 block Letort St,Brighton Heights,1,49,M
+OFFENSE 2.0,16195075,13(a)(32),Paraphernalia - Use or Possession,10/15/2016,17:33,Preble Ave & Island Ave,Chateau,1,,
+OFFENSE 2.0,16195075,13(a)(16),Possession of Controlled Substance,10/15/2016,17:33,Preble Ave & Island Ave,Chateau,1,,
+ARREST,16195075,13(a)(16),Possession of Controlled Substance,10/15/2016,17:41,Preble Ave & Island Ave,Chateau,1,38,F
+ARREST,16195075,13(a)(32),Paraphernalia - Use or Possession,10/15/2016,17:41,Preble Ave & Island Ave,Chateau,1,38,F
+OFFENSE 2.0,16195156,9999,9999 - (Misc. Incident): ,10/15/2016,18:25,3900 block Oakdale St,Brighton Heights,1,,
+OFFENSE 2.0,16195190,3921,Theft by Unlawful Taking or Disposition.,10/15/2016,19:50,800 block Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,16194989,9124,Drug Investigation,10/15/2016,00:00,2000 block Centre Ave,Crawford-Roberts,2,,
+ARREST,16146650,2701,Simple Assault.,10/15/2016,00:26,2600 block Centre Ave,Terrace Village,2,46,M
+ARREST,16146650,2606(a),Aggravated Assault on Unborn Child,10/15/2016,00:26,2600 block Centre Ave,Terrace Village,2,46,M
+ARREST,16194681,9501,Bench Warrant,10/15/2016,01:16,Smallman St & 23rd St,Strip District,2,23,M
+OFFENSE 2.0,16194681,9501,Bench Warrant,10/15/2016,01:16,Smallman St & 23rd St,Strip District,2,,
+ARREST,16117220,9093,Indirect Criminal Contempt,10/15/2016,01:24,2300 block Centre Ave,Middle Hill,2,43,M
+ARREST,16117220,2709(b),Stalking,10/15/2016,01:24,2300 block Centre Ave,Middle Hill,2,43,M
+ARREST,16117220,2709(a),Harassment.,10/15/2016,01:24,2300 block Centre Ave,Middle Hill,2,43,M
+ARREST,16117220,2701,Simple Assault.,10/15/2016,01:24,2300 block Centre Ave,Middle Hill,2,43,M
+ARREST,16117220,3502,Burglary.,10/15/2016,01:24,2300 block Centre Ave,Middle Hill,2,43,M
+OFFENSE 2.0,16194703,3304,Criminal Mischief.,10/15/2016,01:35,900 block Penn Ave,Central Business District,2,,
+OFFENSE 2.0,16194703,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/15/2016,01:35,900 block Penn Ave,Central Business District,2,,
+OFFENSE 2.0,16194729,9090,Recovered Firearm,10/15/2016,02:18,2400 block Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16194729,607.03,Discharging Firearm or Airgun,10/15/2016,02:18,2400 block Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16194751,2701,Simple Assault.,10/15/2016,02:30,900 block Liberty Ave,Central Business District,2,,
+OFFENSE 2.0,16194830,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/15/2016,06:30,600 block Wandless St,Middle Hill,2,,
+OFFENSE 2.0,16194854,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/15/2016,08:20,2200 block Centre Ave,Middle Hill,2,,
+OFFENSE 2.0,16194889,9999,9999 - (Misc. Incident): ,10/15/2016,10:00,700 block Webster Ter,Middle Hill,2,,
+OFFENSE 2.0,16194880,3743,Accidents Involving Damage to Attended Veh. or Property,10/15/2016,10:00,Fort Pitt Brg Ramp,Central Business District,2,,
+ARREST,16194902,9501,Bench Warrant,10/15/2016,10:14,600 block Perry St,Central Lawrenceville,2,49,M
+OFFENSE 2.0,16194902,9501,Bench Warrant,10/15/2016,10:14,600 block Perry St,Central Lawrenceville,2,,
+OFFENSE 2.0,16194932,9489,Found Property,10/15/2016,11:15,Forbes Ave & Wood St,Central Business District,2,,
+OFFENSE 2.0,16194944,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/15/2016,12:00,3100 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16195043,907,Possessing Instruments of Crime.,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,,
+OFFENSE 2.0,16195043,903,Criminal Conspiracy.,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,,
+OFFENSE 2.0,16195043,5902(b)(6),Transporting for the purpose of engaging in prostitution,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,,
+OFFENSE 2.0,16195043,5902(a)(1),Prostitution ,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,,
+ARREST,16195043,907,Possessing Instruments of Crime.,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,33,F
+ARREST,16195043,5902(a)(1),Prostitution ,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,33,F
+ARREST,16195043,903,Criminal Conspiracy.,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,33,F
+ARREST,16195043,903,Criminal Conspiracy.,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,30,F
+ARREST,16195043,5902(b)(6),Transporting for the purpose of engaging in prostitution,10/15/2016,14:30,Liberty Ave & Commonwealth Pl,Central Business District,2,30,F
+OFFENSE 2.0,16195054,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,10/15/2016,15:00,5200 block Butler St,Upper Lawrenceville,2,,
+OFFENSE 2.0,16195088,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/15/2016,16:50,Rose St & Elmore St,Middle Hill,2,,
+OFFENSE 2.0,16195088,2701,Simple Assault.,10/15/2016,16:50,Rose St & Elmore St,Middle Hill,2,,
+OFFENSE 2.0,16195178,907,Possessing Instruments of Crime.,10/15/2016,18:50,600 block Commonwealth Pl,Central Business District,2,,
+OFFENSE 2.0,16195178,5902(a)(1),Prostitution ,10/15/2016,18:50,600 block Commonwealth Pl,Central Business District,2,,
+ARREST,16195178,907,Possessing Instruments of Crime.,10/15/2016,18:50,600 block Commonwealth Pl,Central Business District,2,24,M
+ARREST,16195178,5902(a)(1),Prostitution ,10/15/2016,18:50,600 block Commonwealth Pl,Central Business District,2,24,M
+OFFENSE 2.0,16195159,9489,Found Property,10/15/2016,19:00,1200 block Penn Ave,Strip District,2,,
+ARREST,16195183,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,19:04,600 block Commonwealth Pl,Central Business District,2,31,M
+OFFENSE 2.0,16195183,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,19:04,600 block Commonwealth Pl,Central Business District,2,,
+OFFENSE 2.0,16195224,5902(a)(1),Prostitution ,10/15/2016,19:44,600 block Commonwealth Pl,Central Business District,2,,
+OFFENSE 2.0,16195224,907,Possessing Instruments of Crime.,10/15/2016,19:44,600 block Commonwealth Pl,Central Business District,2,,
+ARREST,16195224,5902(a)(1),Prostitution ,10/15/2016,20:00,600 block Commonwealth Pl,Central Business District,2,48,F
+ARREST,16195224,907,Possessing Instruments of Crime.,10/15/2016,20:00,600 block Commonwealth Pl,Central Business District,2,48,F
+OFFENSE 2.0,16195255,3502,Burglary.,10/15/2016,21:30,4900 block Hatfield St,Central Lawrenceville,2,,
+OFFENSE 2.0,16195291,3921,Theft by Unlawful Taking or Disposition.,10/15/2016,22:50,Market St,Central Business District,2,,
+OFFENSE 2.0,16195311,9999,9999 - (Misc. Incident): ,10/15/2016,23:45,4400 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,16194668,5505,Public Drunkenness,10/15/2016,00:40,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16194697,5505,Public Drunkenness,10/15/2016,01:35,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16194734,3714,Careless Driving,10/15/2016,02:24,W Carson St & Station Square Dr W,South Shore,3,,
+OFFENSE 2.0,16194734,3802(a)(1),DUI - General Impairment,10/15/2016,02:24,W Carson St & Station Square Dr W,South Shore,3,,
+OFFENSE 2.0,16194740,9498,302 (Mental),10/15/2016,02:39,300 block Virginia Ave,Mount Washington,3,,
+ARREST,16194734,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,10/15/2016,02:40,W Carson St & Station Square Dr W,South Shore,3,22,M
+ARREST,16194734,3802(a)(1),DUI - General Impairment,10/15/2016,02:40,W Carson St & Station Square Dr W,South Shore,3,22,M
+ARREST,16194734,3714,Careless Driving,10/15/2016,02:40,W Carson St & Station Square Dr W,South Shore,3,22,M
+OFFENSE 2.0,16194754,9999,9999 - (Misc. Incident): ,10/15/2016,03:30,500 block Parallel Ave,Carrick,3,,
+OFFENSE 2.0,16194781,2701,Simple Assault.,10/15/2016,04:01,Lacona St,Carrick,3,,
+ARREST,16194781,2701,Simple Assault.,10/15/2016,04:30,Lacona St,Carrick,3,54,M
+OFFENSE 2.0,16194884,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/15/2016,09:50,200 block Augusta St,Duquesne Heights,3,,
+OFFENSE 2.0,16194868,2709,Harassment (Non-Specific),10/15/2016,10:57,Simms St,Mount Washington,3,,
+OFFENSE 2.0,16194948,3921,Theft by Unlawful Taking or Disposition.,10/15/2016,11:00,2100 block Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,16195067,2902,Unlawful Restraint.,10/15/2016,16:14,400 block Mc Manus St,Mount Oliver,3,,
+OFFENSE 2.0,16195067,2701,Simple Assault.,10/15/2016,16:14,400 block Mc Manus St,Mount Oliver,3,,
+OFFENSE 2.0,16195146,3304,Criminal Mischief.,10/15/2016,18:00,700 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16195146,3921,Theft by Unlawful Taking or Disposition.,10/15/2016,18:00,700 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,16195176,13(a)(31)*,Hashish - Possession Small Amount,10/15/2016,19:11,100 block Penn Ave,Outside City,3,,
+ARREST,16195176,1543,Driving While Operating Privilege is Suspended or Revoked.,10/15/2016,19:11,100 block Penn Ave,Outside City,3,25,M
+ARREST,16195176,13(a)(31)*,Hashish - Possession Small Amount,10/15/2016,19:11,100 block Penn Ave,Outside City,3,25,M
+OFFENSE 2.0,16195176,1543,Driving While Operating Privilege is Suspended or Revoked.,10/15/2016,19:11,100 block Penn Ave,Outside City,3,,
+OFFENSE 2.0,16195217,2702,Aggravated Assault.,10/15/2016,23:43,E Carson St & S 8th St,South Side Flats,3,,
+OFFENSE 2.0,16195217,5503,Disorderly Conduct.,10/15/2016,23:43,E Carson St & S 8th St,South Side Flats,3,,
+OFFENSE 2.0,16195217,5505,Public Drunkenness,10/15/2016,23:43,E Carson St & S 8th St,South Side Flats,3,,
+ARREST,16195217,2702,Aggravated Assault.,10/15/2016,23:43,E Carson St & S 8th St,South Side Flats,3,41,F
+ARREST,16195217,5503,Disorderly Conduct.,10/15/2016,23:43,E Carson St & S 8th St,South Side Flats,3,41,F
+ARREST,16195217,5505,Public Drunkenness,10/15/2016,23:43,E Carson St & S 8th St,South Side Flats,3,41,F
+OFFENSE 2.0,16194655,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/15/2016,00:16,Copeland St & Elmer St,Shadyside,4,,
+OFFENSE 2.0,16194715,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/15/2016,02:00,3600 block Bates St,Central Oakland,4,,
+OFFENSE 2.0,16194715,3502,Burglary.,10/15/2016,02:00,3600 block Bates St,Central Oakland,4,,
+OFFENSE 2.0,16194803,13(a)(32),Paraphernalia - Use or Possession,10/15/2016,06:10,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16194803,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,06:10,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16194803,4914,False Identification to Law Enforcement Authorities,10/15/2016,06:10,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16194803,1543,Driving While Operating Privilege is Suspended or Revoked.,10/15/2016,06:10,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,,
+ARREST,16194803,4914,False Identification to Law Enforcement Authorities,10/15/2016,06:20,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,49,M
+ARREST,16194803,1543,Driving While Operating Privilege is Suspended or Revoked.,10/15/2016,06:20,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,49,M
+ARREST,16194803,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,06:20,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,49,M
+ARREST,16194803,13(a)(32),Paraphernalia - Use or Possession,10/15/2016,06:20,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,49,M
+OFFENSE 2.0,16194919,4106,Access Device Fraud,10/15/2016,08:10,200 block N Craig St,North Oakland,4,,
+OFFENSE 2.0,16194914,9999,9999 - (Misc. Incident): Landlord/tenant issue,10/15/2016,09:20,200 block N Neville St Ext,North Oakland,4,,
+OFFENSE 2.0,16194913,029,Missing Juvenile,10/15/2016,10:54,2500 block Beechwood Blvd,Squirrel Hill South,4,,
+OFFENSE 2.0,16194950,3934,Theft from Vehicle,10/15/2016,11:45,6800 block Forward Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16194950,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,10/15/2016,11:45,6800 block Forward Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16195066,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,15:44,2000 block De Ruad St,West Oakland,4,,
+ARREST,16195066,907,Possessing Instruments of Crime.,10/15/2016,15:44,2000 block De Ruad St,West Oakland,4,52,M
+ARREST,16195066,2702,Aggravated Assault.,10/15/2016,15:44,2000 block De Ruad St,West Oakland,4,52,M
+OFFENSE 2.0,16195066,13(a)(16),Possession of Controlled Substance,10/15/2016,15:44,2000 block De Ruad St,West Oakland,4,,
+OFFENSE 2.0,16195066,2702,Aggravated Assault.,10/15/2016,15:44,2000 block De Ruad St,West Oakland,4,,
+OFFENSE 2.0,16195066,907,Possessing Instruments of Crime.,10/15/2016,15:44,2000 block De Ruad St,West Oakland,4,,
+ARREST,16195066,13(a)(16),Possession of Controlled Substance,10/15/2016,15:44,2000 block De Ruad St,West Oakland,4,52,M
+ARREST,16195066,13(a)(31),Marijuana: Possession Small Amount,10/15/2016,15:44,2000 block De Ruad St,West Oakland,4,52,M
+OFFENSE 2.0,16195059,3502,Burglary.,10/15/2016,15:59,5600 block Hempstead St,Squirrel Hill South,4,,
+OFFENSE 2.0,16195121,2709,Harassment (Non-Specific),10/15/2016,17:50,200 block Flowers Ave,Hazelwood,4,,
+OFFENSE 2.0,16195121,601.11(a),Littering and Dumping; Any waste  dangerous or detrimental substance upon public property,10/15/2016,17:50,200 block Flowers Ave,Hazelwood,4,,
+OFFENSE 2.0,16195256,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/15/2016,22:09,Murray Ave & Darlington Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16195256,5505,Public Drunkenness,10/15/2016,22:09,Murray Ave & Darlington Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,16194661,1786,Required Financial Responsibility.,10/15/2016,00:24,Centre Ave & Kirkwood St,East Liberty,5,,
+OFFENSE 2.0,16194661,3802(a)(1),DUI - General Impairment,10/15/2016,00:24,Centre Ave & Kirkwood St,East Liberty,5,,
+OFFENSE 2.0,16194661,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,10/15/2016,00:24,Centre Ave & Kirkwood St,East Liberty,5,,
+ARREST,16194661,1786,Required Financial Responsibility.,10/15/2016,00:40,Centre Ave & Kirkwood St,East Liberty,5,60,M
+ARREST,16194661,3802(a)(1),DUI - General Impairment,10/15/2016,00:40,Centre Ave & Kirkwood St,East Liberty,5,60,M
+ARREST,16194661,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,10/15/2016,00:40,Centre Ave & Kirkwood St,East Liberty,5,60,M
+OFFENSE 2.0,16194693,2702,Aggravated Assault.,10/15/2016,00:45,500 block Sickles St,East Hills,5,,
+OFFENSE 2.0,16194693,2705,Recklessly Endangering Another Person.,10/15/2016,00:45,500 block Sickles St,East Hills,5,,
+OFFENSE 2.0,16194693,4304(a)(1),Endangering Welfare of Children.,10/15/2016,00:45,500 block Sickles St,East Hills,5,,
+OFFENSE 2.0,16194738,9999,9999 - (Misc. Incident): ,10/15/2016,02:28,7100 block Fuchsia Way,Homewood North,5,,
+ARREST,16065361,2701,Simple Assault.,10/15/2016,11:35,East Liberty Blvd & Collins Ave,East Liberty,5,23,M
+ARREST,16065361,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,10/15/2016,11:35,East Liberty Blvd & Collins Ave,East Liberty,5,23,M
+OFFENSE 2.0,16195060,3921,Theft by Unlawful Taking or Disposition.,10/15/2016,13:00,200 block Fern St,Garfield,5,,
+OFFENSE 2.0,16195008,13(a)(32),Paraphernalia - Use or Possession,10/15/2016,13:40,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16195008,3929,Retail Theft.,10/15/2016,13:40,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,16195008,13(a)(16),Possession of Controlled Substance,10/15/2016,13:40,6200 block Penn Ave,East Liberty,5,,
+ARREST,16195008,3929,Retail Theft.,10/15/2016,14:03,6200 block Penn Ave,East Liberty,5,44,M
+ARREST,16195008,13(a)(16),Possession of Controlled Substance,10/15/2016,14:03,6200 block Penn Ave,East Liberty,5,44,M
+ARREST,16195008,13(a)(32),Paraphernalia - Use or Possession,10/15/2016,14:03,6200 block Penn Ave,East Liberty,5,44,M
+ARREST,16071883,3921,Theft by Unlawful Taking or Disposition.,10/15/2016,14:10,7400 block Monticello St,Homewood North,5,,M
+OFFENSE 2.0,16195166,3934,Theft from Vehicle,10/15/2016,18:50,6400 block Stanton Ave,Highland Park,5,,
+OFFENSE 2.0,16195177,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/15/2016,19:00,1700 block Trinity St,Stanton Heights,5,,
+OFFENSE 2.0,16194690,9999,9999 - (Misc. Incident): ,10/15/2016,01:05,Oakville Ct,Banksville,6,,
+OFFENSE 2.0,16195167,3502,Burglary.,10/15/2016,10:17,3100 block Landis St,Sheraden,6,,
+ARREST,16160464,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,10/15/2016,15:30,1400 block Brookline Blvd,Brookline,6,29,M
+ARREST,16160464,4106,Access Device Fraud,10/15/2016,15:30,1400 block Brookline Blvd,Brookline,6,29,M
+ARREST,16160464,4120,Identity Theft,10/15/2016,15:30,1400 block Brookline Blvd,Brookline,6,29,M
+ARREST,16195045,2701,Simple Assault.,10/15/2016,15:45,1300 block Colescott St,Westwood,6,54,M
+OFFENSE 2.0,16195089,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/15/2016,20:00,2600 block Washville St,Sheraden,6,,
+OFFENSE 2.0,16195089,3736,Reckless Driving,10/15/2016,20:00,2600 block Washville St,Sheraden,6,,
+OFFENSE 2.0,16195089,3733,Fleeing or Attempting to Elude Police Officer,10/15/2016,20:00,2600 block Washville St,Sheraden,6,,
+OFFENSE 2.0,16195089,3334,Turning Movements and Required Signals.,10/15/2016,20:00,2600 block Washville St,Sheraden,6,,
+OFFENSE 2.0,16195089,3925,Receiving Stolen Property.,10/15/2016,20:00,2600 block Washville St,Sheraden,6,,
+OFFENSE 2.0,16195089,3323,Stop Signs and Yield Signs.,10/15/2016,20:00,2600 block Washville St,Sheraden,6,,
