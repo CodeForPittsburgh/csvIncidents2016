@@ -1,0 +1,214 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,16203739,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,10/29/2016,01:27,Ridge Ave & Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,16203739,5507(a),Obstructing highway  railroad or public passage,10/29/2016,01:27,Ridge Ave & Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,16203739,3802(a)(1),DUI - General Impairment,10/29/2016,01:27,Ridge Ave & Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,16203739,3111,Obedience to Traffic-Control Devices.,10/29/2016,01:27,Ridge Ave & Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,16203744,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/29/2016,01:41,North Commons & N Federal St,Allegheny Center,1,,
+ARREST,16203739,5507(a),Obstructing highway  railroad or public passage,10/29/2016,01:44,Ridge Ave & Allegheny Ave,Chateau,1,23,M
+ARREST,16203739,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,10/29/2016,01:44,Ridge Ave & Allegheny Ave,Chateau,1,23,M
+ARREST,16203739,3111,Obedience to Traffic-Control Devices.,10/29/2016,01:44,Ridge Ave & Allegheny Ave,Chateau,1,23,M
+ARREST,16203739,3802(a)(1),DUI - General Impairment,10/29/2016,01:44,Ridge Ave & Allegheny Ave,Chateau,1,23,M
+OFFENSE 2.0,16203760,9999,9999 - (Misc. Incident): ,10/29/2016,02:05,1000 block Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,16203760,13(a)(32),Paraphernalia - Use or Possession,10/29/2016,02:05,1000 block Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,16203782,9497,Aided Case,10/29/2016,02:30,300 block Cedar Ave,Allegheny Center,1,,
+OFFENSE 2.0,16203749,425.26,Miscellaneous,10/29/2016,03:35,900 block Reiss St,Brighton Heights,1,,
+OFFENSE 2.0,16199814,2701,Simple Assault.,10/29/2016,03:47,1500 block Compromise St,Fineview,1,,
+ARREST,16199814,2701,Simple Assault.,10/29/2016,03:52,1500 block Compromise St,Fineview,1,24,F
+OFFENSE 2.0,16203830,3921,Theft by Unlawful Taking or Disposition.,10/29/2016,06:10,1000 block Western Ave,Chateau,1,,
+OFFENSE 2.0,16203855,9488,False  Burglar Alarm,10/29/2016,06:19,1600 block Lowrie St,Troy Hill,1,,
+OFFENSE 2.0,16203930,9093,Indirect Criminal Contempt,10/29/2016,09:13,3600 block Harbison Ave,Brighton Heights,1,,
+OFFENSE 2.0,16203912,2702,Aggravated Assault.,10/29/2016,09:36,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16203912,2702,Aggravated Assault.,10/29/2016,09:36,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16203912,2501,Criminal Homicide.,10/29/2016,09:36,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16203912,2501,Criminal Homicide.,10/29/2016,09:36,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16203912,901,Criminal Attempt,10/29/2016,09:36,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16203912,6106,Firearms not to be Carried without a License.,10/29/2016,09:36,1300 block Woodland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,16203912,3701,Robbery.,10/29/2016,09:36,1300 block Woodland Ave,Marshall-Shadeland,1,,
+ARREST,16203930,9093,Indirect Criminal Contempt,10/29/2016,09:39,3600 block Harbison Ave,Brighton Heights,1,36,M
+OFFENSE 2.0,16203964,9496,Dead on Arrival (DOA),10/29/2016,11:20,600 block Pressley St,East Allegheny,1,,
+ARREST,16200950,3921,Theft by Unlawful Taking or Disposition.,10/29/2016,11:40,500 block East Ohio St,East Allegheny,1,29,M
+OFFENSE 2.0,16203980,029,Missing Juvenile,10/29/2016,11:50,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,16204022,9999,9999 - (Misc. Incident): Lost Passport  green card & social security card,10/29/2016,12:00,1100 block Island Ave,California-Kirkbride,1,,
+OFFENSE 2.0,16204124,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/29/2016,14:25,2800 block Frederick St,Marshall-Shadeland,1,,
+OFFENSE 2.0,16204095,9489,Found Property,10/29/2016,15:05,900 block beech Ave,Allegheny West,1,,
+OFFENSE 2.0,16204106,13(a)(16),Possession of Controlled Substance,10/29/2016,15:30,Henderson St & Federal St N,Central North Side,1,,
+ARREST,16204106,13(a)(16),Possession of Controlled Substance,10/29/2016,15:35,Henderson St & Federal St N,Central North Side,1,60,M
+OFFENSE 2.0,16204148,9497,Aided Case,10/29/2016,16:50,1200 block Yetta Ave,Spring Hill-City View,1,,
+OFFENSE 2.0,16204175,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,10/29/2016,17:10,3700 block Atkins St,Brighton Heights,1,,
+ARREST,16203912,2501,Criminal Homicide.,10/29/2016,17:30,1300 block Woodland Ave,Marshall-Shadeland,1,34,M
+ARREST,16203912,2702,Aggravated Assault.,10/29/2016,17:30,1300 block Woodland Ave,Marshall-Shadeland,1,34,M
+ARREST,16203912,3701,Robbery.,10/29/2016,17:30,1300 block Woodland Ave,Marshall-Shadeland,1,34,M
+ARREST,16203912,6106,Firearms not to be Carried without a License.,10/29/2016,17:30,1300 block Woodland Ave,Marshall-Shadeland,1,34,M
+ARREST,16203912,901,Criminal Attempt,10/29/2016,17:30,1300 block Woodland Ave,Marshall-Shadeland,1,34,M
+OFFENSE 2.0,16204479,2702,Aggravated Assault.,10/29/2016,23:20,300 block E North Ave,Central North Side,1,,
+OFFENSE 2.0,16204479,5505,Public Drunkenness,10/29/2016,23:20,300 block E North Ave,Central North Side,1,,
+OFFENSE 2.0,16203732,9093,Indirect Criminal Contempt,10/29/2016,01:10,1200 block Smallman St,Strip District,2,,
+OFFENSE 2.0,16203761,5104,Resisting Arrest or Other Law Enforcement.,10/29/2016,02:04,900 block Liberty Ave,Central Business District,2,,
+OFFENSE 2.0,16203761,5502,Failure of Disorderly Persons to Disperse ,10/29/2016,02:04,900 block Liberty Ave,Central Business District,2,,
+OFFENSE 2.0,16203761,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/29/2016,02:04,900 block Liberty Ave,Central Business District,2,,
+ARREST,16203761,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/29/2016,02:23,900 block Liberty Ave,Central Business District,2,22,M
+ARREST,16203761,5502,Failure of Disorderly Persons to Disperse ,10/29/2016,02:23,900 block Liberty Ave,Central Business District,2,22,M
+ARREST,16203761,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/29/2016,02:23,900 block Liberty Ave,Central Business District,2,26,M
+ARREST,16203761,5502,Failure of Disorderly Persons to Disperse ,10/29/2016,02:23,900 block Liberty Ave,Central Business District,2,26,M
+ARREST,16203761,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/29/2016,02:23,900 block Liberty Ave,Central Business District,2,27,M
+ARREST,16203761,5502,Failure of Disorderly Persons to Disperse ,10/29/2016,02:23,900 block Liberty Ave,Central Business District,2,27,M
+ARREST,16203761,5104,Resisting Arrest or Other Law Enforcement.,10/29/2016,02:23,900 block Liberty Ave,Central Business District,2,27,M
+ARREST,16203732,9093,Indirect Criminal Contempt,10/29/2016,02:26,1200 block Smallman St,Strip District,2,35,M
+OFFENSE 2.0,16203795,3802(a)(1),DUI - General Impairment,10/29/2016,02:50,Penn Ave & 11th St,Central Business District,2,,
+OFFENSE 2.0,16203795,3743,Accidents Involving Damage to Attended Veh. or Property,10/29/2016,02:50,Penn Ave & 11th St,Central Business District,2,,
+OFFENSE 2.0,16203795,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/29/2016,02:50,Penn Ave & 11th St,Central Business District,2,,
+ARREST,16203795,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,10/29/2016,03:18,Penn Ave & 11th St,Central Business District,2,26,M
+ARREST,16203795,3802(a)(1),DUI - General Impairment,10/29/2016,03:18,Penn Ave & 11th St,Central Business District,2,26,M
+ARREST,16203795,3743,Accidents Involving Damage to Attended Veh. or Property,10/29/2016,03:18,Penn Ave & 11th St,Central Business District,2,26,M
+OFFENSE 2.0,16203826,9999,9999 - (Misc. Incident): ,10/29/2016,04:50,100 block 48th St,Central Lawrenceville,2,,
+OFFENSE 2.0,16203902,2709(a),Harassment.,10/29/2016,08:10,600 block First Ave,Central Business District,2,,
+OFFENSE 2.0,16203879,3742,Accidents Involving Death or Personal Injury,10/29/2016,08:26,Liberty Ave & Wood St,Central Business District,2,,
+OFFENSE 2.0,16204037,1333,Lost  Stolen  Damaged or Illegible Registration Plate.,10/29/2016,12:00,1700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,16203998,5126,Flight to Avoid Apprehension  Trial or Punishment.,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,4914(A),False Identification to Law Enforcement,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,4304(a)(1),Endangering Welfare of Children.,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,3925,Receiving Stolen Property.,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,3743,Accidents Involving Damage to Attended Veh. or Property,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,3736,Reckless Driving,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,3733,Fleeing or Attempting to Elude Police Officer,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,3323,Stop Signs and Yield Signs.,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,2901,Kidnapping.,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,2705,Recklessly Endangering Another Person.,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,16203998,3334,Turning Movements and Required Signals.,10/29/2016,12:24,Memory Ln & Bedford Ave,Bedford Dwellings,2,,
+ARREST,16203998,2901,Kidnapping.,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,2705,Recklessly Endangering Another Person.,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,3334,Turning Movements and Required Signals.,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,3733,Fleeing or Attempting to Elude Police Officer,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,3736,Reckless Driving,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,3743,Accidents Involving Damage to Attended Veh. or Property,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,3925,Receiving Stolen Property.,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,4304(a)(1),Endangering Welfare of Children.,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,4914(A),False Identification to Law Enforcement,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,5126,Flight to Avoid Apprehension  Trial or Punishment.,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+ARREST,16203998,3323,Stop Signs and Yield Signs.,10/29/2016,12:26,Memory Ln & Bedford Ave,Bedford Dwellings,2,17,M
+OFFENSE 2.0,16204166,9093,Indirect Criminal Contempt,10/29/2016,16:56,100 block Burrows St,Terrace Village,2,,
+ARREST,16204168,13(a)(32),Paraphernalia - Use or Possession,10/29/2016,17:15,2000 block Wyandotte St,Crawford-Roberts,2,28,M
+ARREST,16204168,9501,Bench Warrant,10/29/2016,17:15,2000 block Wyandotte St,Crawford-Roberts,2,28,M
+OFFENSE 2.0,16204168,13(a)(32),Paraphernalia - Use or Possession,10/29/2016,17:15,2000 block Wyandotte St,Crawford-Roberts,2,,
+OFFENSE 2.0,16204168,9501,Bench Warrant,10/29/2016,17:15,2000 block Wyandotte St,Crawford-Roberts,2,,
+OFFENSE 2.0,16204080,2701,Simple Assault.,10/29/2016,00:35,2000 block E Carson St,South Side Flats,3,,
+ARREST,16203806,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,10/29/2016,00:36,S 15th St & Sarah St,South Side Flats,3,19,M
+OFFENSE 2.0,16203806,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,10/29/2016,00:36,S 15th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16203806,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,10/29/2016,00:36,S 15th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16203806,5505,Public Drunkenness,10/29/2016,00:36,S 15th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,16203806,5121,Escape.,10/29/2016,00:36,S 15th St & Sarah St,South Side Flats,3,,
+ARREST,16203806,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,10/29/2016,00:36,S 15th St & Sarah St,South Side Flats,3,19,M
+ARREST,16203806,5505,Public Drunkenness,10/29/2016,00:36,S 15th St & Sarah St,South Side Flats,3,19,M
+ARREST,16203806,5121,Escape.,10/29/2016,00:36,S 15th St & Sarah St,South Side Flats,3,19,M
+ARREST,16203716,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/29/2016,01:10,1500 block E Carson St,South Side Flats,3,21,M
+ARREST,16203716,5505,Public Drunkenness,10/29/2016,01:10,1500 block E Carson St,South Side Flats,3,21,M
+ARREST,16203716,13(a)(31),Marijuana: Possession Small Amount,10/29/2016,01:10,1500 block E Carson St,South Side Flats,3,21,M
+OFFENSE 2.0,16203716,5505,Public Drunkenness,10/29/2016,01:20,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16203716,13(a)(31),Marijuana: Possession Small Amount,10/29/2016,01:20,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16203716,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/29/2016,01:20,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16203743,2702,Aggravated Assault.,10/29/2016,01:40,1300 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16203875,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/29/2016,02:20,100 block Handler St,South Side Slopes,3,,
+OFFENSE 2.0,16204262,9999,9999 - (Misc. Incident): ,10/29/2016,02:30,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,16203783,2701,Simple Assault.,10/29/2016,02:33,200 block Zara St,Knoxville,3,,
+ARREST,16203783,2701,Simple Assault.,10/29/2016,02:57,200 block Zara St,Knoxville,3,29,M
+OFFENSE 2.0,16203982,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/29/2016,11:30,400 block Natchez St,Mount Washington,3,,
+OFFENSE 2.0,16204256,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/29/2016,17:00,500 block S 27th St,South Side Flats,3,,
+ARREST,16202003,13(a)(31),Marijuana: Possession Small Amount,10/29/2016,18:26,100 block Shiloh St,Fineview,3,16,F
+ARREST,16202003,3928,Unauthorized Use of Automobile and Other Vehicles.,10/29/2016,18:26,100 block Shiloh St,Fineview,3,16,F
+ARREST,16202003,1543,Driving While Operating Privilege is Suspended or Revoked.,10/29/2016,18:26,100 block Shiloh St,Fineview,3,16,F
+ARREST,16202003,1301,Registration and Certificate of Title Required.,10/29/2016,18:26,100 block Shiloh St,Fineview,3,16,F
+ARREST,16202003,3925,Receiving Stolen Property.,10/29/2016,18:26,100 block Shiloh St,Fineview,3,16,F
+ARREST,16202003,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),10/29/2016,18:26,100 block Shiloh St,Fineview,3,16,F
+OFFENSE 2.0,16204347,5104,Resisting Arrest or Other Law Enforcement.,10/29/2016,21:22,Cedricton St,Carrick,3,,
+OFFENSE 2.0,16204347,2702,Aggravated Assault.,10/29/2016,21:22,Cedricton St,Carrick,3,,
+OFFENSE 2.0,16204421,5505,Public Drunkenness,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16204421,5503,Disorderly Conduct.,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16204421,5104,Resisting Arrest or Other Law Enforcement.,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,,
+OFFENSE 2.0,16204421,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,,
+ARREST,16204421,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,19,F
+ARREST,16204421,5505,Public Drunkenness,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,19,F
+ARREST,16204421,5503,Disorderly Conduct.,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,19,F
+ARREST,16204421,5104,Resisting Arrest or Other Law Enforcement.,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,19,F
+ARREST,16204421,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,19,F
+OFFENSE 2.0,16204421,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,,
+ARREST,16204421,5503,Disorderly Conduct.,10/29/2016,23:55,100 block S 18th St,South Side Flats,3,34,M
+OFFENSE 2.0,16203704,3926(a)(4),Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restaurants),10/29/2016,00:24,1800 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16203770,601.12,Interference with Official Duties,10/29/2016,02:15,Unger Ln,Squirrel Hill North,4,,
+OFFENSE 2.0,16203770,5505,Public Drunkenness,10/29/2016,02:15,Unger Ln,Squirrel Hill North,4,,
+OFFENSE 2.0,16203770,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,10/29/2016,02:15,Unger Ln,Squirrel Hill North,4,,
+OFFENSE 2.0,16203796,5505,Public Drunkenness,10/29/2016,03:05,Forbes Ave & Beeler St,Squirrel Hill North,4,,
+OFFENSE 2.0,16203796,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,10/29/2016,03:05,Forbes Ave & Beeler St,Squirrel Hill North,4,,
+OFFENSE 2.0,16203804,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,10/29/2016,03:18,Beeler St & Unger Ln,Squirrel Hill North,4,,
+OFFENSE 2.0,16203804,5505,Public Drunkenness,10/29/2016,03:18,Beeler St & Unger Ln,Squirrel Hill North,4,,
+OFFENSE 2.0,16203881,3934,Theft from Vehicle,10/29/2016,08:00,3400 block Parkview Ave,Central Oakland,4,,
+OFFENSE 2.0,16203952,3934,Theft from Vehicle,10/29/2016,11:00,2100 block Shady Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,16203960,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),10/29/2016,11:20,Craft Ave & Forbes Ave,South Oakland,4,,
+OFFENSE 2.0,16203960,2710,Ethnic Intimidation.,10/29/2016,11:20,Craft Ave & Forbes Ave,South Oakland,4,,
+OFFENSE 2.0,16204003,1543,Driving While Operating Privilege is Suspended or Revoked.,10/29/2016,12:35,700 block Hazelwood Ave,Greenfield,4,,
+OFFENSE 2.0,16204003,3742.1,Accident Involv. Death/Inj. While not Licensed,10/29/2016,12:35,700 block Hazelwood Ave,Greenfield,4,,
+ARREST,16204003,3742.1,Accident Involv. Death/Inj. While not Licensed,10/29/2016,12:36,700 block Hazelwood Ave,Greenfield,4,29,M
+ARREST,16204003,1543,Driving While Operating Privilege is Suspended or Revoked.,10/29/2016,12:36,700 block Hazelwood Ave,Greenfield,4,29,M
+OFFENSE 2.0,16204015,3502,Burglary.,10/29/2016,13:30,700 block Savannah St,Regent Square,4,,
+OFFENSE 2.0,16204115,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,10/29/2016,15:41,3700 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,16204130,9488,False  Burglar Alarm,10/29/2016,16:11,5800 block Forbes Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,16204134,2701(a)(3),Simple Assault - Attempts by Physical Menace ,10/29/2016,16:13,4900 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16204134,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,10/29/2016,16:13,4900 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16204134,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,10/29/2016,16:13,4900 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,16204276,9497,Aided Case,10/29/2016,19:30,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,16203815,9093,Indirect Criminal Contempt,10/29/2016,03:43,1200 block Mohler St,Homewood North,5,,
+ARREST,16203815,9093,Indirect Criminal Contempt,10/29/2016,04:41,1200 block Mohler St,Homewood North,5,44,M
+OFFENSE 2.0,16203869,9012,Non-Violent Domestic,10/29/2016,07:27,2300 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,16203911,9497,Aided Case,10/29/2016,09:35,5600 block Penn Ave,East Liberty,5,,
+ARREST,16173427,13(a)(32),Paraphernalia - Use or Possession,10/29/2016,09:35,Felicia Way & Neuman Way,Homewood North,5,39,F
+OFFENSE 2.0,16203951,3503,Criminal Trespass,10/29/2016,11:20,6100 block Stanton Ave,Highland Park,5,,
+OFFENSE 2.0,16203969,9999,9999 - (Misc. Incident): verbal argument ,10/29/2016,11:33,Bunkerhill St & N Euclid Ave,Highland Park,5,,
+ARREST,16204100,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,33,F
+ARREST,16204100,4910,Tampering with or Fabricating Physical Evidence.,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,50,F
+ARREST,16204100,13(a)(32),Paraphernalia - Use or Possession,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,50,F
+ARREST,16204100,9501,Bench Warrant,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,33,F
+ARREST,16204100,901,Criminal Attempt,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,33,F
+ARREST,16204100,5902(a)(1),Prostitution ,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,33,F
+ARREST,16204100,5505,Public Drunkenness,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,33,F
+ARREST,16204100,5121,Escape.,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,33,F
+ARREST,16204100,5104,Resisting Arrest or Other Law Enforcement.,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,33,F
+OFFENSE 2.0,16204100,9501,Bench Warrant,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204100,901,Criminal Attempt,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204100,5902(a)(1),Prostitution ,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204100,5505,Public Drunkenness,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204100,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204100,5121,Escape.,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204100,5104,Resisting Arrest or Other Law Enforcement.,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204100,4910,Tampering with or Fabricating Physical Evidence.,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204100,13(a)(32),Paraphernalia - Use or Possession,10/29/2016,16:04,7700 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,16204127,9501,Bench Warrant,10/29/2016,16:08,900 block Freeport Rd,East Hills,5,,
+ARREST,16204127,9501,Bench Warrant,10/29/2016,16:41,900 block Freeport Rd,East Hills,5,35,F
+OFFENSE 2.0,16204160,9122,Miscellaneous Fire Vehicle Investigation to Continue,10/29/2016,16:48,6500 block Deary St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,16204212,3304,Criminal Mischief.,10/29/2016,17:50,4700 block Baum Blvd,Bloomfield,5,,
+OFFENSE 2.0,16204212,901,Criminal Attempt,10/29/2016,17:50,4700 block Baum Blvd,Bloomfield,5,,
+OFFENSE 2.0,16204229,3929,Retail Theft.,10/29/2016,18:06,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+ARREST,16204229,3929,Retail Theft.,10/29/2016,18:07,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,41,F
+OFFENSE 2.0,16204183,3921,Theft by Unlawful Taking or Disposition.,10/29/2016,18:25,5300 block Penn Ave,Garfield,5,,
+OFFENSE 2.0,16204255,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/29/2016,18:55,100 block Auburn St,Larimer,5,,
+OFFENSE 2.0,16204255,3502,Burglary.,10/29/2016,18:55,100 block Auburn St,Larimer,5,,
+OFFENSE 2.0,16204269,1301,Registration and Certificate of Title Required.,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,,
+ARREST,16204269,2702,Aggravated Assault.,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,28,M
+OFFENSE 2.0,16204269,5101,Obstructing Admin. of Law ,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,,
+ARREST,16204269,4581,Restraint Systems.,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,28,M
+ARREST,16204269,1301,Registration and Certificate of Title Required.,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,28,M
+OFFENSE 2.0,16204269,2702,Aggravated Assault.,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,,
+ARREST,16204269,5101,Obstructing Admin. of Law ,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,28,M
+OFFENSE 2.0,16204269,1543,Driving While Operating Privilege is Suspended or Revoked.,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,,
+ARREST,16204269,1543,Driving While Operating Privilege is Suspended or Revoked.,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,28,M
+OFFENSE 2.0,16204269,4581,Restraint Systems.,10/29/2016,20:00,Washington Blvd & Highland Dr,Highland Park,5,,
+ARREST,16203623,3714,Careless Driving,10/29/2016,00:12,West Liberty Ave & Brookline Blvd,Brookline,6,30,M
+ARREST,16203623,3802(a)(1),DUI - General Impairment,10/29/2016,00:12,West Liberty Ave & Brookline Blvd,Brookline,6,30,M
+ARREST,16203623,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,10/29/2016,00:12,West Liberty Ave & Brookline Blvd,Brookline,6,30,M
+OFFENSE 2.0,16203986,3922,Theft by Deception.,10/29/2016,12:10,100 block Grasmere St,Oakwood,6,,
+OFFENSE 2.0,16203991,9488,False  Burglar Alarm,10/29/2016,12:52,1600 block Chelton Ave,Brookline,6,,
+OFFENSE 2.0,16204248,2706,Terroristic Threats.,10/29/2016,17:20,800 block Crucible St,Elliott,6,,
+OFFENSE 2.0,16204217,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,10/29/2016,18:10,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,16204298,2707,Propulsion of Missiles ,10/29/2016,19:15,700 block Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,16204298,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,10/29/2016,19:15,700 block Sherwood Ave,Sheraden,6,,
+ARREST,16204313,13(a)(16),Possession of Controlled Substance,10/29/2016,20:40,Woodlow St & Crucible St,Crafton Heights,6,22,M
+OFFENSE 2.0,16204313,13(a)(16),Possession of Controlled Substance,10/29/2016,20:40,Woodlow St & Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,16204361,607.03,Discharging Firearm or Airgun,10/29/2016,22:05,1800 block Tonopah Ave,Beechview,6,,
